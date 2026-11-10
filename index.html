@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>نُزُولُ القُرْآن — Nuzool-ul-Quran</title>
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Dual-loading: Bundled datasets (guarantees ZERO CORS error on file://) -->
+  <script src="data/surahs.js"></script>
+  <script src="data/wahi_episodes.js"></script>
+
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    .font-arabic { font-family: 'Amiri', serif; }
+    .font-urdu { font-family: 'Noto Nastaliq Urdu', serif; line-height: 2.2; }
+    /* Custom scrollbars */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb { background: #10b981; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: #059669; }
+  </style>
+</head>
+<body class="bg-stone-100 text-stone-800 antialiased min-h-screen flex flex-col">
+
+  <!-- Header, Reciter Selector & Search -->
+  <header class="bg-emerald-900 text-white shadow-md sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+      <div>
+        <div class="flex items-center gap-2">
+          <h1 class="text-xl font-bold tracking-tight">نُزُولُ القُرْآن — Nuzool-ul-Quran</h1>
+          <span id="data-count-badge" class="text-[11px] bg-emerald-800/90 text-emerald-200 border border-emerald-700 px-2 py-0.5 rounded-full font-semibold">
+            114 Surahs • 6,236 Verses
+          </span>
+        </div>
+        <p class="text-xs text-emerald-200">
+          The Chronological Revelation, Seerah Episodes & Tafseer Portal
+        </p>
+      </div>
+
+      <!-- Controls: Reciter Selector + Search -->
+      <div class="flex flex-col sm:flex-row items-center gap-2 w-full md:w-auto">
+        <!-- Reciter Switcher (Sheikh Hani Ar-Rifai Default) -->
+        <select 
+          id="reciter-select" 
+          onchange="changeReciter(this.value)" 
+          class="w-full sm:w-auto text-xs bg-emerald-800 text-emerald-100 border border-emerald-700 rounded-lg px-2.5 py-1.5 focus:outline-none focus:ring-2 focus:ring-emerald-400 font-medium"
+        >
+          <option value="Hani_Rifai_192kbps" selected>🎙️ Sheikh Hani Ar-Rifai (ہانی الرفاعی)</option>
+          <option value="Alafasy_128kbps">🎙️ Sheikh Mishary Alafasy (مشاري العفاسي)</option>
+        </select>
+
+        <!-- Search Input -->
+        <div class="w-full sm:w-64">
+          <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Search Surah, Aayat, Hadees, Wahi..." 
+            oninput="handleSearch(this.value)"
+            class="w-full px-3 py-1.5 rounded-lg text-xs bg-emerald-800/90 text-white placeholder-emerald-300 border border-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-400"
+          />
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="max-w-7xl mx-auto w-full px-4 py-6 grid grid-cols-1 lg:grid-cols-12 gap-6 flex-1">
+    
+    <!-- LEFT COLUMN: View Switcher + Timeline Navigation + Tareekhi Pas-manzar Box (4 Columns) -->
+    <aside class="lg:col-span-4 space-y-4">
+      
+      <!-- View Mode Switcher [Surah View] vs [Wahi Passage View] -->
+      <div class="bg-white p-2 rounded-xl shadow-sm border border-stone-200">
+        <div class="flex items-center bg-stone-100 p-1 rounded-lg gap-1">
+          <button 
+            id="btn-view-surah" 
+            onclick="switchViewMode('surah')"
+            class="flex-1 text-xs py-2 px-3 rounded-md font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-sm"
+          >
+            <span>📖</span>
+            <span>Surah View</span>
+          </button>
+          <button 
+            id="btn-view-wahi" 
+            onclick="switchViewMode('wahi')"
+            class="flex-1 text-xs py-2 px-3 rounded-md font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70"
+          >
+            <span>⚡</span>
+            <span>Wahi Passage View</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Timeline Box (Dynamically switches between Surahs & Wahi Episodes) -->
+      <div class="bg-white p-4 rounded-xl shadow-sm border border-stone-200 flex flex-col">
+        <div class="flex items-center justify-between mb-3">
+          <h2 id="timeline-box-title" class="text-xs font-bold text-stone-500 uppercase tracking-wider">
+            Nuzooli Timeline (ترتیبِ نزولی)
+          </h2>
+          <span id="timeline-box-badge" class="text-[11px] text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded font-semibold border border-emerald-200">
+            1 to 114
+          </span>
+        </div>
+        <div id="timeline-list" class="relative border-l-2 border-stone-200 ml-3 space-y-3.5 max-h-[48vh] overflow-y-auto pr-2">
+          <!-- Rendered by JS -->
+          <div class="p-4 text-center text-stone-400 text-xs">Loading timeline...</div>
+        </div>
+      </div>
+
+      <!-- Tareekhi Pas-manzar (Asbab an-Nuzul) Box -->
+      <div class="bg-amber-50/75 border border-amber-200/90 p-4 rounded-xl shadow-sm space-y-3">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2">
+            <span class="text-lg">📜</span>
+            <h3 class="text-sm font-bold text-amber-950">Tareekhi Pas-manzar (Asbab an-Nuzul)</h3>
+          </div>
+          <button 
+            onclick="playTextSpeech('context-roman', this)" 
+            class="text-[11px] bg-amber-200/80 hover:bg-amber-300 text-amber-950 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-amber-300"
+          >
+            🔊 Suniye
+          </button>
+        </div>
+        
+        <p id="context-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-amber-200/60 pb-2.5" dir="rtl"></p>
+        <p id="context-roman" class="text-xs text-stone-600 leading-relaxed text-left"></p>
+        
+        <div class="pt-2 border-t border-amber-200/70 text-[11px] text-amber-900 leading-normal">
+          <span class="font-bold">Hawala:</span>
+          <span id="context-ref" class="italic"></span>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- CENTER COLUMN: Reading Pane & Audio (4 Columns) -->
+    <section class="lg:col-span-4 bg-white p-5 rounded-xl shadow-sm border border-stone-200 flex flex-col">
+      <div class="border-b border-stone-100 pb-3 mb-4 flex justify-between items-center">
+        <div>
+          <h2 id="reading-pane-title" class="text-lg font-bold text-emerald-950">Surah Title</h2>
+          <p id="reading-pane-meta" class="text-[11px] text-stone-500 mt-0.5">Meta information</p>
+        </div>
+        <span id="period-badge" class="text-[11px] bg-emerald-100 text-emerald-800 px-2.5 py-1 rounded-full font-semibold border border-emerald-200">
+          Makki Daur
+        </span>
+      </div>
+
+      <div id="verses-container" class="space-y-5 flex-1 max-h-[75vh] overflow-y-auto pr-1">
+        <!-- Verses loaded via JS -->
+      </div>
+    </section>
+
+    <!-- RIGHT COLUMN: Tafseer o Sharah (UPAR) + Mutalliqah Hadees (NICHE) (4 Columns) -->
+    <aside class="lg:col-span-4 space-y-4">
+      
+      <!-- 1. Multi-Tafseer Card (Ab Upar Hai) -->
+      <div class="bg-white border border-stone-200 p-4 rounded-xl shadow-sm space-y-3">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2">
+            <span class="text-lg">📖</span>
+            <h3 class="text-sm font-bold text-stone-900">Tafseer o Sharah</h3>
+          </div>
+          <button 
+            onclick="playTextSpeech('tafseer-roman', this)" 
+            class="text-[11px] bg-stone-100 hover:bg-stone-200 text-stone-800 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-stone-300"
+          >
+            🔊 Suniye
+          </button>
+        </div>
+
+        <!-- Tafseer Selection Tabs -->
+        <div class="flex gap-1.5 border-b border-stone-200 pb-2">
+          <button 
+            id="tab-ibnkathir" 
+            onclick="switchTafseerTab('ibnKathir')" 
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white"
+          >
+            Ibn Kathir
+          </button>
+          <button 
+            id="tab-tabari" 
+            onclick="switchTafseerTab('tabari')" 
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200"
+          >
+            Al-Tabari
+          </button>
+          <button 
+            id="tab-maududi" 
+            onclick="switchTafseerTab('maududi')" 
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200"
+          >
+            Tafheem
+          </button>
+        </div>
+
+        <!-- Tafseer Content Area -->
+        <p id="tafseer-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-stone-100 pb-2.5" dir="rtl"></p>
+        <p id="tafseer-roman" class="text-xs text-stone-600 leading-relaxed text-left"></p>
+        
+        <!-- Tafseer Reference Footnote -->
+        <div class="pt-2 border-t border-stone-200 flex items-center justify-between text-[11px] text-stone-500">
+          <div><span class="font-bold text-stone-700">Mufassir:</span> <span id="tafseer-author"></span></div>
+          <div><span class="font-bold text-stone-700">Kitab:</span> <span id="tafseer-ref"></span></div>
+        </div>
+      </div>
+
+      <!-- 2. Mutalliqah Hadees Card (Ab Niche Hai) -->
+      <div class="bg-emerald-50/70 border border-emerald-200 p-4 rounded-xl shadow-sm space-y-3">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2">
+            <span class="text-lg">📚</span>
+            <h3 class="text-sm font-bold text-emerald-950">Mutalliqah Hadees</h3>
+          </div>
+          <div class="flex items-center gap-1.5">
+            <button 
+              onclick="playTextSpeech('hadith-roman', this)" 
+              class="text-[11px] bg-emerald-200 hover:bg-emerald-300 text-emerald-950 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-emerald-300"
+            >
+              🔊 Suniye
+            </button>
+            <span id="hadith-grade" class="text-[10px] bg-emerald-200/80 text-emerald-900 px-1.5 py-0.5 rounded font-bold">Sahih</span>
+          </div>
+        </div>
+
+        <p id="hadith-arabic" class="font-arabic text-base text-stone-900 text-right leading-loose border-b border-emerald-200/50 pb-2" dir="rtl"></p>
+        <p id="hadith-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-emerald-200/50 pb-2" dir="rtl"></p>
+        <p id="hadith-roman" class="text-xs text-stone-600 italic leading-relaxed text-left"></p>
+
+        <div class="pt-2 border-t border-emerald-200/60 space-y-1 text-xs text-emerald-900">
+          <div class="flex justify-between font-bold">
+            <span id="hadith-source"></span>
+            <span id="hadith-chapter"></span>
+          </div>
+          <div class="flex justify-between text-[11px] text-emerald-800">
+            <span id="hadith-narrator"></span>
+            <span id="hadith-grading-authority"></span>
+          </div>
+        </div>
+      </div>
+
+    </aside>
+
+  </main>
+
+  <!-- Classy Footer Credits -->
+  <footer class="bg-emerald-950 text-stone-300 border-t border-emerald-900 mt-auto py-6">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
+      <div>
+        <div class="flex items-center justify-center sm:justify-start gap-2">
+          <span class="font-bold text-white tracking-wide text-sm">نُزُولُ القُرْآن — Nuzool-ul-Quran</span>
+          <span class="text-[11px] bg-emerald-900 text-emerald-200 px-2 py-0.5 rounded border border-emerald-800">100% Quranic Chronology</span>
+        </div>
+        <p class="text-xs text-stone-400 mt-1">
+          Designed & Developed by <strong class="text-emerald-300 font-semibold">Dr. Mohammad Ashar</strong>
+        </p>
+      </div>
+
+      <div class="text-center sm:text-right">
+        <p class="font-urdu text-sm text-emerald-200" dir="rtl">
+          ڈاکٹر محمد اشعر کی کاوش
+        </p>
+        <p class="text-[11px] text-stone-400 mt-0.5 italic">
+          May Allah accept this humble effort • All Rights Reserved
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    let surahs = (window.SURAH_DATA && Array.isArray(window.SURAH_DATA)) ? window.SURAH_DATA : [];
+    let wahiEpisodes = (window.WAHI_EPISODES && Array.isArray(window.WAHI_EPISODES)) ? window.WAHI_EPISODES : [];
+    
+    let currentViewMode = "surah"; // "surah" | "wahi"
+    let currentReciterFolder = "Hani_Rifai_192kbps";
+    let activeTafseerSource = "ibnKathir";
+    
+    let currentSurahIndex = 0;
+    let currentEpisodeIndex = 0;
+    
+    let currentAudio = null;
+    let playingVerseBtn = null;
+    let currentSpeakingBtn = null;
+
+    // View Mode Switcher
+    function switchViewMode(mode) {
+      if (currentViewMode === mode) return;
+      currentViewMode = mode;
+      stopAllAudios();
+
+      const btnSurah = document.getElementById('btn-view-surah');
+      const btnWahi = document.getElementById('btn-view-wahi');
+      const boxTitle = document.getElementById('timeline-box-title');
+      const boxBadge = document.getElementById('timeline-box-badge');
+      const countBadge = document.getElementById('data-count-badge');
+      const searchInput = document.getElementById('search-input');
+      if (searchInput) searchInput.value = '';
+
+      if (mode === 'surah') {
+        btnSurah.className = "flex-1 text-xs py-2 px-3 rounded-md font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-sm";
+        btnWahi.className = "flex-1 text-xs py-2 px-3 rounded-md font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70";
+        boxTitle.innerText = "Nuzooli Timeline (ترتیبِ نزولی)";
+        boxBadge.innerText = "1 to 114";
+        if (countBadge) countBadge.innerText = `${surahs.length} Surahs • 6,236 Verses`;
+        renderTimeline(surahs);
+        loadSurah(currentSurahIndex);
+      } else {
+        btnWahi.className = "flex-1 text-xs py-2 px-3 rounded-md font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-sm";
+        btnSurah.className = "flex-1 text-xs py-2 px-3 rounded-md font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70";
+        boxTitle.innerText = "Wahi Episodes (ترتیبِ نزولِ آیات)";
+        boxBadge.innerText = `1 to ${wahiEpisodes.length}`;
+        if (countBadge) countBadge.innerText = `${wahiEpisodes.length} Units • 100% Quran (6,236 Verses)`;
+        renderWahiTimeline(wahiEpisodes);
+        loadEpisode(currentEpisodeIndex);
+      }
+    }
+
+    function changeReciter(folder) {
+      currentReciterFolder = folder;
+      stopAudio();
+      if (currentViewMode === 'surah') {
+        loadSurah(currentSurahIndex, false);
+      } else {
+        loadEpisode(currentEpisodeIndex, false);
+      }
+    }
+
+    function getAyahAudioUrl(surahNo, verseNo) {
+      const s = String(surahNo).padStart(3, '0');
+      const v = String(verseNo).padStart(3, '0');
+      return `https://everyayah.com/data/${currentReciterFolder}/${s}${v}.mp3`;
+    }
+
+    // Render Timeline for Surah View
+    function renderTimeline(list) {
+      const container = document.getElementById('timeline-list');
+      if (!list || list.length === 0) {
+        container.innerHTML = '<div class="p-3 text-center text-stone-400 text-xs">Koi Surah nahi mili.</div>';
+        return;
+      }
+
+      const activeOrder = (surahs[currentSurahIndex]) ? surahs[currentSurahIndex].revelationOrder : null;
+
+      container.innerHTML = list.map((item) => {
+        const isActive = item.revelationOrder === activeOrder;
+        const actualIndex = surahs.findIndex(s => s.revelationOrder === item.revelationOrder);
+        return `
+          <div id="timeline-item-surah-${item.revelationOrder}" class="relative pl-6 cursor-pointer group py-1 rounded-lg transition-colors ${isActive ? 'bg-emerald-50/80 -ml-1 pl-7' : 'hover:bg-stone-50'}" onclick="loadSurah(${actualIndex})">
+            <span class="absolute left-[-9px] top-2.5 w-4 h-4 rounded-full transition-all duration-200 ${
+              isActive 
+                ? 'bg-emerald-600 ring-4 ring-emerald-100 scale-110' 
+                : 'bg-stone-300 group-hover:bg-emerald-500'
+            }"></span>
+            <div class="flex items-center justify-between text-[11px] mb-0.5">
+              <span class="font-semibold ${isActive ? 'text-emerald-800' : 'text-stone-500'}">
+                ${item.year}
+              </span>
+              <span class="text-[10px] px-1.5 py-0.5 rounded font-medium ${isActive ? 'bg-emerald-200/90 text-emerald-950 font-bold' : 'bg-stone-100 text-stone-600'}">
+                ${item.period}
+              </span>
+            </div>
+            <h3 class="text-sm font-bold ${isActive ? 'text-emerald-900 font-extrabold' : 'text-stone-700'} group-hover:text-emerald-700">
+              #${item.revelationOrder} ${item.nameEn} (${item.nameAr})
+            </h3>
+            <p class="text-xs text-stone-500 line-clamp-1">${item.theme}</p>
+          </div>
+        `;
+      }).join('');
+
+      if (activeOrder) {
+        setTimeout(() => {
+          const el = document.getElementById(`timeline-item-surah-${activeOrder}`);
+          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }, 50);
+      }
+    }
+
+    // Render Timeline for Wahi Passage View
+    function renderWahiTimeline(list) {
+      const container = document.getElementById('timeline-list');
+      if (!list || list.length === 0) {
+        container.innerHTML = '<div class="p-3 text-center text-stone-400 text-xs">Koi Wahi Episode nahi mila.</div>';
+        return;
+      }
+
+      const activeEpId = (wahiEpisodes[currentEpisodeIndex]) ? wahiEpisodes[currentEpisodeIndex].id : null;
+
+      container.innerHTML = list.map((ep) => {
+        const isActive = ep.id === activeEpId;
+        const actualIndex = wahiEpisodes.findIndex(e => e.id === ep.id);
+        const ayahRangeText = ep.passages && ep.passages.length > 1
+          ? ep.passages.map(p => p.label).join(' • ')
+          : ((ep.fromAyah === ep.toAyah) ? `Aayat ${ep.fromAyah}` : `Aayat ${ep.fromAyah}–${ep.toAyah}`);
+
+        return `
+          <div id="timeline-item-wahi-${ep.id}" class="relative pl-6 cursor-pointer group py-2 rounded-lg transition-colors ${isActive ? 'bg-amber-50/90 -ml-1 pl-7 border-l-2 border-amber-600' : 'hover:bg-stone-50'}" onclick="loadEpisode(${actualIndex})">
+            <span class="absolute left-[-9px] top-3.5 w-4 h-4 rounded-full transition-all duration-200 ${
+              isActive 
+                ? 'bg-amber-600 ring-4 ring-amber-100 scale-110' 
+                : 'bg-stone-300 group-hover:bg-amber-500'
+            }"></span>
+            <div class="flex items-center justify-between text-[11px] mb-1">
+              <span class="font-bold text-amber-900 bg-amber-100/90 px-1.5 py-0.5 rounded border border-amber-200/60">
+                Ep #${ep.id} • ${ep.year.split('(')[0].trim()}
+              </span>
+              <span class="text-[10px] px-1.5 py-0.5 rounded font-semibold ${isActive ? 'bg-amber-200 text-amber-950' : 'bg-stone-100 text-stone-600'}">
+                ${ep.period}
+              </span>
+            </div>
+            <h3 class="text-sm font-bold leading-snug ${isActive ? 'text-stone-900 font-extrabold' : 'text-stone-800'} group-hover:text-amber-800">
+              ${ep.title}
+            </h3>
+            ${ep.titleUrdu ? `<p class="font-urdu text-xs text-stone-600 line-clamp-1 text-right mt-0.5" dir="rtl">${ep.titleUrdu}</p>` : ''}
+            <div class="flex items-center justify-between text-[11px] text-stone-500 mt-1">
+              <span class="font-semibold text-emerald-800 truncate max-w-[170px]">${ep.surahName} (${ayahRangeText})</span>
+              <span class="text-[10px] text-stone-400 shrink-0 font-medium">${ep.seerahStage || ''}</span>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      if (activeEpId) {
+        setTimeout(() => {
+          const el = document.getElementById(`timeline-item-wahi-${activeEpId}`);
+          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }, 50);
+      }
+    }
+
+    // Switch Multi-Tafseer Tab (Works seamlessly for both Surah and Wahi view)
+    function switchTafseerTab(tabKey) {
+      activeTafseerSource = tabKey;
+      
+      const tabs = {
+        ibnKathir: document.getElementById('tab-ibnkathir'),
+        tabari: document.getElementById('tab-tabari'),
+        maududi: document.getElementById('tab-maududi')
+      };
+
+      Object.keys(tabs).forEach(k => {
+        if (tabs[k]) {
+          if (k === tabKey) {
+            tabs[k].className = "text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white";
+          } else {
+            tabs[k].className = "text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200";
+          }
+        }
+      });
+
+      const activeItem = (currentViewMode === 'surah') 
+        ? surahs[currentSurahIndex] 
+        : wahiEpisodes[currentEpisodeIndex];
+
+      if (activeItem && activeItem.tafseers && activeItem.tafseers[tabKey]) {
+        const tf = activeItem.tafseers[tabKey];
+        document.getElementById('tafseer-urdu').innerText = tf.urdu || '';
+        document.getElementById('tafseer-roman').innerText = tf.roman || '';
+        document.getElementById('tafseer-author').innerText = tf.author || '';
+        document.getElementById('tafseer-ref').innerText = tf.reference || '';
+      } else if (activeItem && activeItem.tafseer) {
+        document.getElementById('tafseer-urdu').innerText = activeItem.tafseer;
+        document.getElementById('tafseer-roman').innerText = activeItem.tafseer;
+        document.getElementById('tafseer-author').innerText = 'Tafseer-ul-Quran';
+        document.getElementById('tafseer-ref').innerText = `Surah ${activeItem.nameEn || activeItem.surahName}`;
+      }
+    }
+
+    // Load Whole Surah (Surah View)
+    function loadSurah(index, scrollVerses = true) {
+      if (!surahs || surahs.length === 0 || index < 0 || index >= surahs.length) return;
+      currentSurahIndex = index;
+      stopAllAudios();
+
+      const s = surahs[index];
+      renderTimeline(surahs);
+
+      document.getElementById('reading-pane-title').innerText = `${s.nameEn} (${s.nameAr})`;
+      document.getElementById('reading-pane-meta').innerText = `Nuzooli Tartib: #${s.revelationOrder} • Mus-haf Number: ${s.surahNumber} • Total Verses: ${s.verses ? s.verses.length : 0} • Tarjuma: Fateh Muhammad Jalandhari (Nastaliq) & Tafheem-ul-Quran (Roman Urdu)`;
+      document.getElementById('period-badge').innerText = s.period;
+      
+      // Context Section
+      const ctxUrdu = (s.context && s.context.urdu) ? s.context.urdu : (typeof s.context === 'string' ? s.context : 'اس سورت کے تاریخی پس منظر کے تفصیلی کوائف۔');
+      const ctxRoman = (s.context && s.context.roman) ? s.context.roman : (typeof s.context === 'string' ? s.context : 'Is Surah ka tareekhi pas-manzar aur asbab-e-nuzool.');
+      const ctxRef = (s.context && s.context.reference) ? s.context.reference : `Asbab an-Nuzul (Surah ${s.nameEn})`;
+      
+      document.getElementById('context-urdu').innerText = ctxUrdu;
+      document.getElementById('context-roman').innerText = ctxRoman;
+      document.getElementById('context-ref').innerText = ctxRef;
+
+      // Tafseer Section
+      switchTafseerTab(activeTafseerSource);
+
+      // Hadith Section
+      renderHadithCard(s.hadith);
+
+      // Verses
+      renderVersesList(s.verses, s.surahNumber, s.surahNumber !== 9 && s.surahNumber !== 1, scrollVerses);
+    }
+
+    // Load Wahi Episode (Wahi Passage View)
+    function loadEpisode(index, scrollVerses = true) {
+      if (!wahiEpisodes || wahiEpisodes.length === 0 || index < 0 || index >= wahiEpisodes.length) return;
+      currentEpisodeIndex = index;
+      stopAllAudios();
+
+      const ep = wahiEpisodes[index];
+      renderWahiTimeline(wahiEpisodes);
+
+      let passageVerses = [];
+      if (ep.passages && ep.passages.length > 0) {
+        ep.passages.forEach((p) => {
+          const s = surahs.find(sur => sur.surahNumber === p.surahNumber);
+          if (s && s.verses) {
+            const matched = s.verses.filter(v => v.no >= p.fromAyah && v.no <= p.toAyah);
+            matched.forEach((v, vIdx) => {
+              passageVerses.push({
+                ...v,
+                surahNumber: p.surahNumber,
+                surahNameEn: s.nameEn,
+                surahNameAr: s.nameAr,
+                passageLabel: p.label,
+                isPassageHeader: vIdx === 0 && ep.passages.length > 1
+              });
+            });
+          }
+        });
+      } else {
+        const parentSurah = surahs.find(s => s.surahNumber === ep.surahNumber);
+        if (parentSurah && parentSurah.verses) {
+          passageVerses = parentSurah.verses.filter(v => v.no >= ep.fromAyah && v.no <= ep.toAyah);
+        }
+      }
+
+      const rangeLabel = ep.passages && ep.passages.length > 1
+        ? ep.passages.map(p => p.label).join(' • ')
+        : ((ep.fromAyah === ep.toAyah) ? `Aayat ${ep.fromAyah}` : `Aayat ${ep.fromAyah}–${ep.toAyah}`);
+
+      document.getElementById('reading-pane-title').innerText = ep.titleUrdu 
+        ? `${ep.titleUrdu} (${ep.surahName})`
+        : `Surah ${ep.surahName} (${ep.surahNameAr}) — ${rangeLabel}`;
+      document.getElementById('reading-pane-meta').innerText = `Episode #${ep.id} • ${ep.title} • ${ep.year} • ${rangeLabel} • Tarjuma: Fateh Muhammad Jalandhari (Nastaliq) & Tafheem-ul-Quran (Roman Urdu)`;
+      document.getElementById('period-badge').innerText = `${ep.period} • ${ep.seerahStage || 'Seerah Episode'}`;
+
+      // Context Section
+      document.getElementById('context-urdu').innerText = ep.context.urdu || '';
+      document.getElementById('context-roman').innerText = ep.context.roman || '';
+      document.getElementById('context-ref').innerText = ep.context.reference || `Asbab an-Nuzul (Episode #${ep.id})`;
+
+      // Tafseer Section
+      switchTafseerTab(activeTafseerSource);
+
+      // Hadith Section
+      renderHadithCard(ep.hadith);
+
+      // Verses (Only specific passage aayatein rendered!)
+      const showBismillah = (ep.fromAyah === 1 && ep.surahNumber !== 9 && ep.surahNumber !== 1);
+      renderVersesList(passageVerses, ep.surahNumber, showBismillah, scrollVerses);
+    }
+
+    // Helper: Render Hadith Card
+    function renderHadithCard(hadith) {
+      if (hadith) {
+        document.getElementById('hadith-arabic').innerText = hadith.arabic || '';
+        document.getElementById('hadith-urdu').innerText = hadith.urdu || '';
+        document.getElementById('hadith-roman').innerText = hadith.roman ? `"${hadith.roman}"` : '';
+        document.getElementById('hadith-source').innerText = hadith.source || '';
+        document.getElementById('hadith-chapter').innerText = hadith.chapter || '';
+        document.getElementById('hadith-narrator').innerText = hadith.narrator || '';
+        document.getElementById('hadith-grade').innerText = hadith.grade || 'Sahih';
+        document.getElementById('hadith-grading-authority').innerText = hadith.gradingAuthority || '';
+      } else {
+        document.getElementById('hadith-arabic').innerText = '';
+        document.getElementById('hadith-urdu').innerText = 'اس مقام کی متعلقہ احادیثِ مبارکہ پر تحقیق جاری ہے۔';
+        document.getElementById('hadith-roman').innerText = '';
+        document.getElementById('hadith-source').innerText = '';
+        document.getElementById('hadith-chapter').innerText = '';
+        document.getElementById('hadith-narrator').innerText = '';
+        document.getElementById('hadith-grade').innerText = 'Sahih';
+        document.getElementById('hadith-grading-authority').innerText = '';
+      }
+    }
+
+    // Helper: Render Verses List
+    function renderVersesList(verseList, surahNo, showBismillah, scrollVerses) {
+      const vContainer = document.getElementById('verses-container');
+      if (scrollVerses) vContainer.scrollTop = 0;
+
+      let html = '';
+
+      if (showBismillah) {
+        html += `
+          <div class="text-center py-2.5 mb-3 bg-stone-50/80 rounded-lg border border-stone-200/70">
+            <p class="font-arabic text-xl text-stone-800">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
+            <p class="text-[11px] text-stone-500 mt-0.5 italic">Bismillahir-Rahmanir-Raheem</p>
+          </div>
+        `;
+      }
+
+      if (verseList && verseList.length > 0) {
+        verseList.forEach((v) => {
+          const sNum = v.surahNumber || surahNo;
+          const audioUrl = getAyahAudioUrl(sNum, v.no);
+          const escapedRoman = (v.roman || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+          const btnLabel = (v.surahNumber && v.surahNumber !== surahNo) ? `▶ ${v.surahNameEn || sNum}:${v.no}` : `▶ ${v.no}`;
+
+          if (v.isPassageHeader) {
+            html += `
+              <div class="my-3 py-1.5 px-3 bg-amber-50/90 rounded-md border border-amber-200 text-xs font-bold text-amber-900 flex items-center justify-between shadow-xs">
+                <span>📖 ${v.passageLabel} (${v.surahNameAr || ''})</span>
+                <span class="text-[10px] bg-amber-200/80 text-amber-950 px-2 py-0.5 rounded font-semibold">Surah #${sNum}</span>
+              </div>
+            `;
+          }
+
+          html += `
+            <div class="border-b border-stone-100 pb-4 last:border-none space-y-2">
+              <!-- Arabic Row with Tilawat Button -->
+              <div class="flex justify-between items-start gap-3">
+                <button 
+                  onclick="playArabicAudio('${audioUrl}', this)" 
+                  data-label="${btnLabel}"
+                  class="text-xs bg-emerald-50 hover:bg-emerald-100 text-emerald-800 font-bold px-2.5 py-1 rounded border border-emerald-200 transition flex items-center gap-1 shrink-0"
+                >
+                  ${btnLabel}
+                </button>
+                <p class="font-arabic text-2xl text-stone-900 text-right leading-loose tracking-wide w-full" dir="rtl">
+                  ${v.ar}
+                </p>
+              </div>
+              
+              <!-- Urdu Nastaliq Row -->
+              <p class="font-urdu text-sm text-stone-800 text-right pr-2" dir="rtl">
+                ${v.ur}
+              </p>
+
+              <!-- Roman Urdu Tarjuma Row -->
+              <div class="flex items-start gap-2.5 pl-2 sm:pl-8 pt-1">
+                <button 
+                  onclick="speakText('${escapedRoman}', this)" 
+                  class="text-[11px] bg-emerald-50 hover:bg-emerald-100 text-emerald-800 px-2.5 py-0.5 rounded border border-emerald-200 font-semibold transition flex items-center gap-1 shrink-0 mt-0.5 shadow-xs"
+                  title="Roman Urdu Tarjuma Suniye"
+                >
+                  🔊 Tarjuma
+                </button>
+                <div class="flex flex-col sm:flex-row sm:items-baseline gap-1.5 flex-1">
+                  <span class="text-[10px] uppercase font-bold text-emerald-700 bg-emerald-50/80 px-1.5 py-0.5 rounded border border-emerald-200/50 shrink-0 w-fit">
+                    Roman Tarjuma
+                  </span>
+                  <p class="text-xs text-stone-700 text-left leading-relaxed font-medium">
+                    ${v.roman}
+                  </p>
+                </div>
+              </div>
+            </div>
+          `;
+        });
+      } else {
+        html = '<div class="p-4 text-center text-stone-400 text-xs">Aayaat load ho rahi hain...</div>';
+      }
+
+      vContainer.innerHTML = html;
+    }
+
+    // 1. Arabic Tilawat Player
+    function playArabicAudio(url, btn) {
+      window.speechSynthesis.cancel();
+      resetSpeechBtn();
+
+      if (currentAudio && !currentAudio.paused) {
+        stopAudio();
+        if (playingVerseBtn === btn) return;
+      }
+      currentAudio = new Audio(url);
+      playingVerseBtn = btn;
+      btn.innerText = '⏸ Tilawat';
+      btn.classList.add('bg-emerald-600', 'text-white');
+
+      currentAudio.play().catch(err => {
+        console.error("Audio stream error:", err);
+        btn.innerText = '❌ Error';
+      });
+      currentAudio.onended = () => stopAudio();
+    }
+
+    function stopAudio() {
+      if (currentAudio) {
+        currentAudio.pause();
+        currentAudio = null;
+      }
+      if (playingVerseBtn) {
+        const origLabel = playingVerseBtn.getAttribute('data-label');
+        if (origLabel) {
+          playingVerseBtn.innerText = origLabel;
+        } else {
+          const no = playingVerseBtn.getAttribute('onclick')?.match(/(\d+)\.mp3/)?.[1] || '';
+          const ayahNo = parseInt(no.slice(-3)) || '';
+          playingVerseBtn.innerText = `▶ ${ayahNo}`;
+        }
+        playingVerseBtn.classList.remove('bg-emerald-600', 'text-white');
+        playingVerseBtn = null;
+      }
+    }
+
+    // 2. Text-to-Speech Engine (Natural Roman Urdu Voice)
+    function playTextSpeech(elementId, btn) {
+      const text = document.getElementById(elementId).innerText;
+      speakText(text, btn);
+    }
+
+    function speakText(text, btn) {
+      stopAudio();
+
+      if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+        if (currentSpeakingBtn === btn) {
+          resetSpeechBtn();
+          return;
+        }
+      }
+
+      resetSpeechBtn();
+      currentSpeakingBtn = btn;
+      const originalText = btn.innerText;
+      btn.dataset.original = originalText;
+      btn.innerText = '⏸ Sun rahe hain';
+      btn.classList.add('ring-2', 'ring-emerald-500', 'font-bold');
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.rate = 0.92;
+      utterance.pitch = 1.0;
+
+      const voices = window.speechSynthesis.getVoices();
+      const preferredVoice = voices.find(v => v.lang.startsWith('ur') || v.lang.startsWith('hi')) 
+                          || voices.find(v => v.lang.includes('ur') || v.lang.includes('hi') || v.lang.includes('IN'));
+      if (preferredVoice) {
+        utterance.voice = preferredVoice;
+        utterance.lang = preferredVoice.lang;
+      } else {
+        utterance.lang = 'hi-IN';
+      }
+
+      utterance.onend = () => resetSpeechBtn();
+      utterance.onerror = () => resetSpeechBtn();
+
+      window.speechSynthesis.speak(utterance);
+    }
+
+    function resetSpeechBtn() {
+      if (currentSpeakingBtn) {
+        currentSpeakingBtn.innerText = currentSpeakingBtn.dataset.original || '🔊 Suniye';
+        currentSpeakingBtn.classList.remove('ring-2', 'ring-emerald-500', 'font-bold');
+        currentSpeakingBtn = null;
+      }
+    }
+
+    function stopAllAudios() {
+      stopAudio();
+      window.speechSynthesis.cancel();
+      resetSpeechBtn();
+    }
+
+    // Unified Search Filter
+    function handleSearch(query) {
+      const q = query.toLowerCase().trim();
+      const badge = document.getElementById('data-count-badge');
+
+      if (currentViewMode === 'surah') {
+        if (!q) {
+          renderTimeline(surahs);
+          if (badge) badge.innerText = `${surahs.length} Surahs`;
+          return;
+        }
+        const filtered = surahs.filter(s => 
+          s.nameEn.toLowerCase().includes(q) || 
+          s.nameAr.includes(q) || 
+          (s.theme && s.theme.toLowerCase().includes(q)) ||
+          (s.year && s.year.toLowerCase().includes(q)) ||
+          (s.period && s.period.toLowerCase().includes(q)) ||
+          (s.context && (typeof s.context === 'object' ? (s.context.roman?.toLowerCase().includes(q) || s.context.urdu?.includes(q)) : s.context.toLowerCase().includes(q))) ||
+          (s.hadith && (s.hadith.roman?.toLowerCase().includes(q) || s.hadith.urdu?.includes(q) || s.hadith.source?.toLowerCase().includes(q))) ||
+          (s.tafseers && Object.values(s.tafseers).some(t => (t.roman && t.roman.toLowerCase().includes(q)) || (t.urdu && t.urdu.includes(q)) || (t.author && t.author.toLowerCase().includes(q)))) ||
+          (s.verses && s.verses.some(v => (v.roman && v.roman.toLowerCase().includes(q)) || (v.ur && v.ur.includes(q)) || (v.ar && v.ar.includes(q))))
+        );
+        renderTimeline(filtered);
+        if (badge) badge.innerText = `${filtered.length} found`;
+      } else {
+        // Wahi Passage Search
+        if (!q) {
+          renderWahiTimeline(wahiEpisodes);
+          if (badge) badge.innerText = `${wahiEpisodes.length} Episodes`;
+          return;
+        }
+        const filtered = wahiEpisodes.filter(ep => 
+          ep.title.toLowerCase().includes(q) || 
+          ep.titleUrdu.includes(q) ||
+          ep.surahName.toLowerCase().includes(q) ||
+          ep.surahNameAr.includes(q) ||
+          ep.theme.toLowerCase().includes(q) ||
+          ep.year.toLowerCase().includes(q) ||
+          (ep.seerahStage && ep.seerahStage.toLowerCase().includes(q)) ||
+          (ep.context && (ep.context.roman?.toLowerCase().includes(q) || ep.context.urdu?.includes(q))) ||
+          (ep.hadith && (ep.hadith.roman?.toLowerCase().includes(q) || ep.hadith.urdu?.includes(q) || ep.hadith.source?.toLowerCase().includes(q))) ||
+          (ep.tafseers && Object.values(ep.tafseers).some(t => (t.roman && t.roman.toLowerCase().includes(q)) || (t.urdu && t.urdu.includes(q))))
+        );
+        renderWahiTimeline(filtered);
+        if (badge) badge.innerText = `${filtered.length} found`;
+      }
+    }
+
+    // App Initialization with graceful fallback (file:// and http:// support)
+    async function initApp() {
+      // 1. Surahs dataset check
+      if (!surahs || surahs.length === 0) {
+        try {
+          const resp = await fetch('data/surahs.json');
+          if (resp.ok) surahs = await resp.json();
+        } catch (e) {
+          console.warn("Direct fetch for surahs.json had CORS restriction, using bundled data.", e);
+        }
+      }
+
+      // 2. Wahi episodes dataset check
+      if (!wahiEpisodes || wahiEpisodes.length === 0) {
+        try {
+          const respW = await fetch('data/wahi_episodes.json');
+          if (respW.ok) wahiEpisodes = await respW.json();
+        } catch (e) {
+          console.warn("Direct fetch for wahi_episodes.json had CORS restriction, using bundled data.", e);
+        }
+      }
+
+      if (surahs && surahs.length > 0) {
+        surahs.sort((a, b) => a.revelationOrder - b.revelationOrder);
+        const countBadge = document.getElementById('data-count-badge');
+        if (countBadge) countBadge.innerText = `${surahs.length} Surahs • 6,236 Verses`;
+        renderTimeline(surahs);
+        loadSurah(0);
+      } else {
+        document.getElementById('reading-pane-title').innerText = "Data Loading Error";
+        document.getElementById('verses-container').innerHTML = `
+          <div class="p-4 text-center text-red-600 bg-red-50 rounded-lg">
+            Surahs data load nahi ho saka. Barah-e-karam HTTP server par open karein ya data/surahs.json check karein.
+          </div>
+        `;
+      }
+    }
+
+    // Start App
+    initApp();
+  </script>
+
+</body>
+</html>
