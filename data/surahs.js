@@ -1,4 +1,4 @@
-// Complete 114 Surahs Dataset with Enriched Live Hyperlinks
+// Complete 114 Surahs Dataset with Urdu Target Live Hyperlinks
 window.SURAH_DATA = [
   {
     "revelationOrder": 1,
@@ -13,7 +13,7 @@ window.SURAH_DATA = [
       "urdu": "یہ وحی غار حرا میں نازل ہوئی جب رسول اللہ ﷺ پر پہلی بار حضرت جبرائیل علیہ السلام تشریف لائے اور فرمایا 'اقْرَأْ' (پڑھیے)۔",
       "roman": "Yeh Wahi Ghar-e-Hira mein nazil hui jab Rasoolullah sallallahu alaihi wasallam par pehli baar Hazrat Jibreel alaihissalam tashreef laye aur 'Iqra' farmaya.",
       "reference": "Imam Wahidi: Kitab Asbab an-Nuzul (Hadith #1 / Surah Al-Alaq), Al-Seerah an-Nabawiyyah by Ibn Hisham Vol 1.",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=96&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/96:1?translations=158"
     },
     "hadith": {
       "arabic": "فَأَخَذَنِي فَغَطَّنِي حَتَّى بَلَغَ مِنِّي الْجَهْدَ ثُمَّ أَرْسَلَنِي فَقَالَ: اقْرَأْ...",
@@ -26,7 +26,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Muttafaq Alaih (Bukhari & Muslim)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "3",
-      "ref_url": "https://sunnah.com/bukhari:3"
+      "ref_url": "https://sunnah.com/bukhari:3?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34,7 +34,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir) Vol 8, Surah Al-Alaq",
         "urdu": "یہ قرآن کی سب سے پہلی آیات ہیں جو بندوں پر اللہ تعالیٰ کی پہلی رحمت اور پہلا انعام ہیں۔ اس میں انسان کی تخلیق کے ادنیٰ درجے (علق) اور قلم کے ذریعے علم عطا کرنے کے اعلیٰ درجے کا تذکرہ ہے۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki yeh Quran ki awwaleen aayatein hain jo Allah ki taraf se bando par pehli rehmat hain. Isme bataya gaya ki Allah ne insaan ko ek be-haqeeqat cheez se paida karke ilm aur qalam ke zariye izzat bakhshi.",
-        "ref_url": "https://quran.com/96:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/96:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -48,7 +48,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Alaq Dibacha",
         "urdu": "تفہیم القرآن کے مطابق غار حرا کی یہ وادی حق و باطل کے درمیان عظیم انقلاب کا نقطہ آغاز تھی۔ انسان کو یہ احساس دلایا گیا کہ وہ خود مختار نہیں بلکہ اپنے خالق کا محتاج ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq yeh wahi dunya ke andar fasaad ko mita kar hidayat lane ka aaghaz thi. Yahan bataya gaya ki ilm hi insaan ko haywanat se aala banata hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/96.1"
+        "ref_url": "https://quran.com/ur/96:1?translations=97"
       }
     },
     "verses": [
@@ -201,7 +201,7 @@ window.SURAH_DATA = [
       "urdu": "قریش کی جانب سے رسول اللہ ﷺ پر لگائے گئے جھوٹے الزامات کی تردید اور نبی ﷺ کی تسلی کے لیے یہ سورت نازل ہوئی۔",
       "roman": "Pehli wahi ke baad jab kuffar ne tohmat lagayi, tab Allah ne qalam ki qasam kha kar Nabi kareem ke aala kirdar ki tasalli farmayi.",
       "reference": "Lubab an-Nuqul fi Asbab an-Nuzul by Imam Suyuti, Surah Al-Qalam.",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=68&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/68:1?translations=158"
     },
     "hadith": {
       "arabic": "كَانَ خُلُقُهُ الْقُرْآنَ",
@@ -214,7 +214,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://sunnah.com/muslim:746"
+      "ref_url": "https://sunnah.com/muslim:746?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -222,7 +222,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Qalam",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے قلم کی عظمت کی قسم کھائی ہے۔ قلم سے مراد وہ لوح و محفوظ کا قلم بھی ہے جس سے تقدیر لکھی گئی اور عام قلم بھی۔ اور آپ ﷺ پر جنون کا الزام باطل ثابت کیا گیا۔",
         "roman": "Ibn Kathir ke mutabiq Allah ne qalam ki qasam kha kar Nabi ﷺ ke aala ikhlaq ka zikr kiya aur dushmano ke majnoon hone ke bohtan ko jhoota qaraar diya.",
-        "ref_url": "https://quran.com/68:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/68:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -236,7 +236,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Nun wal-Qalam",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت ان معاندین کو للکارتی ہے جو نبوت کے ابتدائی دور میں رسول اللہ ﷺ کے خلاف منفی پروپیگنڈا چلا رہے تھے۔ ان کے اوچھے ہتھکنڈوں کے مقابلے میں اخلاق کی برتری دکھائی گئی۔",
         "roman": "Maududi saheb likhte hain ki is surah mein kuffar ke jhoote ilzamat ka muqabla daleel aur shandar kirdar se kiya gaya hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/68.1"
+        "ref_url": "https://quran.com/ur/68:1?translations=97"
       }
     },
     "verses": [
@@ -620,7 +620,7 @@ window.SURAH_DATA = [
       "urdu": "دعوت حق کا بھاری بوجھ اٹھانے کے لیے رات کے وقت قیام اور تلاوت قرآن کے ذریعے روحانی تیاری کا حکم دیا گیا۔",
       "roman": "Dawat-e-Islam ke azeem bojh ke liye Roohani quwwat darkaar thi, isliye raat me Tahajjud ki pabandi ka hukum hua.",
       "reference": "Al-Durr al-Manthur by Imam Jalaluddin al-Suyuti, Surah Al-Muzzammil.",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=73&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/73:1?translations=158"
     },
     "hadith": {
       "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
@@ -633,7 +633,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "1342",
-      "ref_url": "https://sunnah.com/abudawud:1342"
+      "ref_url": "https://sunnah.com/abudawud:1342?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -641,7 +641,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Muzzammil",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے اپنے نبی ﷺ کو رات کے وقت تنہائی میں عبادت کرنے کا حکم دیا تاکہ دن کے وقت تبلیغ رسالت کی جو مشکلات ہیں ان کو برداشت کرنے کا حوصلہ مل سکے۔ ترتیل سے مراد ٹھہر ٹھہر کر اور تدبر کے ساتھ پڑھنا ہے۔",
         "roman": "Ibn Kathir ke mutabiq Qiyam-ul-Layl roohani quwwat ka zariya banaya gaya tha taaki 'Qawlan Saqeela' (bhari hukum) ko uthane ki salahiyat paida ho sake.",
-        "ref_url": "https://quran.com/73:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/73:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -655,7 +655,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Muzzammil",
         "urdu": "تفہیم القرآن کے مطابق یہ ایک مومن کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا تاکہ تحریک اسلامی کے علمبردار ہر قسم کی مخالفتوں کا خندہ پیشانی سے سامنا کر سکیں۔",
         "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/73.1"
+        "ref_url": "https://quran.com/ur/73:1?translations=97"
       }
     },
     "verses": [
@@ -815,7 +815,7 @@ window.SURAH_DATA = [
       "urdu": "وحی کے وقفے (فترة الوحی) کے بعد جب رسول اللہ ﷺ نے جبرائیل علیہ السلام کو افق پر دیکھا تو گھر آ کر فرمایا 'زملونی زملونی'۔ اس پر یہ سورت نازل ہوئی کہ اب اٹھ کر خبردار کرنے کا وقت آ گیا ہے۔",
       "roman": "Wahi ke waqfe (Fatrah al-Wahi) ke baad Jibreel A.S. ko aasmaan o zameen ke darmiyan dekh kar Nabi ﷺ ghar laute, tab uth kar khabardar karne ka hukum aaya.",
       "reference": "Sahih Bukhari: Kitab Bad' al-Wahi & Tafsir Surah Al-Muddaththir.",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=74&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/74:1?translations=158"
     },
     "hadith": {
       "arabic": "جَاوَرْتُ بِحِرَاءٍ، فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَنُودِيتُ...",
@@ -828,7 +828,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "4922",
-      "ref_url": "https://sunnah.com/bukhari:4922"
+      "ref_url": "https://sunnah.com/bukhari:4922?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -836,7 +836,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Muddaththir",
         "urdu": "ابن کثیر فرماتے ہیں کہ اس سورت سے رسول اللہ ﷺ کو باقاعدہ 'نذیر' (خوشخبری اور تنبیہ سنانے والا رسول) بنا کر خلق خدا کی طرف مبعوث فرمایا گیا۔ 'قم فانذر' دعوت کا باضابطہ آغاز تھا۔",
         "roman": "Ibn Kathir farmate hain ki Surah Al-Alaq se Nabi ﷺ ko Nabuwwat mili aur Surah Al-Muddaththir se Risalat aur dawat ka fariza sonpa gaya.",
-        "ref_url": "https://quran.com/74:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/74:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -850,7 +850,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Muddaththir",
         "urdu": "تفہیم القرآن کے مطابق یہ آرام و سکون کی زندگی سے نکل کر جہدِ مسلسل اور تحریکِ اسلامی کے میدانِ عمل میں کود پڑنے کا الٰہی فرمان تھا۔",
         "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/74.1"
+        "ref_url": "https://quran.com/ur/74:1?translations=97"
       }
     },
     "verses": [
@@ -1262,7 +1262,7 @@ window.SURAH_DATA = [
       "urdu": "نماز کی باقاعدہ فرضیت کے آغاز میں پوری سورت ایک ساتھ نازل ہوئی تاکہ ہر نماز کی ہر رکعت میں بندہ اپنے رب سے سیدھے راستے کی ہدایت مانگ سکے۔",
       "roman": "Namaz farz hone ke aaghaz me poori Surah ek sath nazil hui taaki banda Rab se seedhe raste ki hidayat maang sake.",
       "reference": "Tafsir Ibn Kathir, Dibacha Surah Al-Fatihah.",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=1&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/1:1?translations=158"
     },
     "hadith": {
       "arabic": "قَالَ اللَّهُ تَعَالَى: قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ...",
@@ -1275,7 +1275,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "395",
-      "ref_url": "https://sunnah.com/muslim:395"
+      "ref_url": "https://sunnah.com/muslim:395?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1283,7 +1283,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir Ibn Kathir Vol 1",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورہ فاتحہ کو ام الکتاب، سبع مثانی اور شفاء کہا گیا ہے۔ اس میں تمام اسلامی عقائد (توحید، رسالت، معاد) اور عبودیت کا خلاصہ موجود ہے۔",
         "roman": "Ibn Kathir farmate hain ki yeh Surah Quran ka khulasa hai jo bandey aur uske Rab ke darmiyan ahd aur shukr guzari ka rasta sikhata hai.",
-        "ref_url": "https://quran.com/1:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/1:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -1297,7 +1297,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ دراصل ایک دعا ہے جو اللہ نے اپنے بندے کو سکھائی، اور باقی پورا قرآن اس دعا کا جواب ہے۔",
         "roman": "Maududi farmate hain ki Surah Fatihah bandey ki taraf se dua hai aur poora Quran-e-Pak us dua ka ilahi jawab hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/1.1"
+        "ref_url": "https://quran.com/ur/1:1?translations=97"
       }
     },
     "verses": [
@@ -1366,7 +1366,7 @@ window.SURAH_DATA = [
       "urdu": "جب رسول اللہ ﷺ نے کوہِ صفا پر کھڑے ہو کر تمام قبائل کو پکارا اور دعوت دی، تو ابو لہب نے بدزبانی کرتے ہوئے کہا 'تباً لک' (تیرے لیے ہلاکت ہو)، اس پر یہ سورت نازل ہوئی۔",
       "roman": "Jab Rasoolullah ﷺ ne Kohan-e-Safa par khade hokar dawat di, toh Abu Lahab ne kaha 'Tabbat laka'. Is par yeh surah nazil hui.",
       "reference": "Sahih Bukhari: Kitab at-Tafseer (Surah Tabbat Yada Abi Lahab).",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=111&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/111:1?translations=158"
     },
     "hadith": {
       "arabic": "صَعِدَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الصَّفَا فَقَالَ: يَا صَبَاحَاهْ...",
@@ -1379,7 +1379,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "4770",
-      "ref_url": "https://sunnah.com/bukhari:4770"
+      "ref_url": "https://sunnah.com/bukhari:4770?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1387,7 +1387,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر لکھتے ہیں کہ یہ قرآن کے زندہ معجزات میں سے ہے کہ ابو لہب اور اس کی بیوی ام جمیل کے بارے میں پیش گوئی کی گئی کہ وہ کفر پر ہی مریں گے اور حقیقت میں انہوں نے کبھی اسلام قبول نہ کیا۔",
         "roman": "Ibn Kathir ke mutabiq yeh Quran ka azeem tareekhi moajaza tha ki Abu Lahab ko azaab ki khabar uski maut se barson pehle di gayi.",
-        "ref_url": "https://quran.com/111:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/111:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -1401,7 +1401,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ ان دشمنانِ حق کے انجام کا ایک نمونہ تھا جو رشتہ داری اور سرداری کے گھمنڈ میں اللہ کے سچے دین کی مخالفت کرتے تھے۔",
         "roman": "Maududi saheb farmate hain ki jo bhi deen-e-haqq ke samne rukawat banega uska anjaam Abu Lahab jaisa hoga.",
-        "ref_url": "https://quranx.com/tafsir/maududi/111.1"
+        "ref_url": "https://quran.com/ur/111:1?translations=97"
       }
     },
     "verses": [
@@ -1456,7 +1456,7 @@ window.SURAH_DATA = [
       "urdu": "سورت التكوير (At-Takwir) نزولی ترتیب کے لحاظ سے #7 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Takwir (التكوير) Nuzooli tartib ke mutabiq #7 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Takwir)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=81&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/81:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1469,7 +1469,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1477,7 +1477,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Takwir",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التكوير کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Takwir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/81:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/81:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -1491,7 +1491,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah At-Takwir",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takwir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/81.1"
+        "ref_url": "https://quran.com/ur/81:1?translations=97"
       }
     },
     "verses": [
@@ -1714,7 +1714,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأعلى (Al-A'la) نزولی ترتیب کے لحاظ سے #8 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-A'la (الأعلى) Nuzooli tartib ke mutabiq #8 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'la)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=87&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/87:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1727,7 +1727,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1735,7 +1735,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-A'la",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأعلى کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'la ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/87:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/87:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -1749,7 +1749,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-A'la",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'la deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/87.1"
+        "ref_url": "https://quran.com/ur/87:1?translations=97"
       }
     },
     "verses": [
@@ -1902,7 +1902,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الليل (Al-Layl) نزولی ترتیب کے لحاظ سے #9 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Layl (الليل) Nuzooli tartib ke mutabiq #9 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Layl)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=92&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/92:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1915,7 +1915,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1923,7 +1923,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Layl",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الليل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Layl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/92:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/92:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -1937,7 +1937,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Layl",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Layl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/92.1"
+        "ref_url": "https://quran.com/ur/92:1?translations=97"
       }
     },
     "verses": [
@@ -2104,7 +2104,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الفجر (Al-Fajr) نزولی ترتیب کے لحاظ سے #10 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fajr (الفجر) Nuzooli tartib ke mutabiq #10 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fajr)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=89&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/89:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2117,7 +2117,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2125,7 +2125,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fajr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفجر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fajr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/89:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/89:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2139,7 +2139,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Fajr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fajr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/89.1"
+        "ref_url": "https://quran.com/ur/89:1?translations=97"
       }
     },
     "verses": [
@@ -2369,7 +2369,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الضحى (Ad-Duhaa) نزولی ترتیب کے لحاظ سے #11 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ad-Duhaa (الضحى) Nuzooli tartib ke mutabiq #11 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ad-Duhaa)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=93&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/93:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2382,7 +2382,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2390,7 +2390,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ad-Duhaa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الضحى کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ad-Duhaa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/93:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/93:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2404,7 +2404,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Ad-Duhaa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Duhaa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/93.1"
+        "ref_url": "https://quran.com/ur/93:1?translations=97"
       }
     },
     "verses": [
@@ -2501,7 +2501,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الشرح (Ash-Sharh) نزولی ترتیب کے لحاظ سے #12 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Sharh (الشرح) Nuzooli tartib ke mutabiq #12 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Sharh)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=94&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/94:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2514,7 +2514,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2522,7 +2522,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Sharh",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشرح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Sharh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/94:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/94:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2536,7 +2536,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Ash-Sharh",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Sharh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/94.1"
+        "ref_url": "https://quran.com/ur/94:1?translations=97"
       }
     },
     "verses": [
@@ -2612,7 +2612,7 @@ window.SURAH_DATA = [
       "urdu": "سورت العصر (Al-'Asr) نزولی ترتیب کے لحاظ سے #13 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-'Asr (العصر) Nuzooli tartib ke mutabiq #13 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Asr)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=103&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/103:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2625,7 +2625,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2633,7 +2633,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-'Asr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت العصر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Asr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/103:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/103:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2647,7 +2647,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-'Asr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Asr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/103.1"
+        "ref_url": "https://quran.com/ur/103:1?translations=97"
       }
     },
     "verses": [
@@ -2688,7 +2688,7 @@ window.SURAH_DATA = [
       "urdu": "سورت العاديات (Al-'Adiyat) نزولی ترتیب کے لحاظ سے #14 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-'Adiyat (العاديات) Nuzooli tartib ke mutabiq #14 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Adiyat)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=100&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/100:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2701,7 +2701,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2709,7 +2709,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-'Adiyat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت العاديات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Adiyat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/100:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/100:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2723,7 +2723,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-'Adiyat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Adiyat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/100.1"
+        "ref_url": "https://quran.com/ur/100:1?translations=97"
       }
     },
     "verses": [
@@ -2820,7 +2820,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الكوثر (Al-Kawthar) نزولی ترتیب کے لحاظ سے #15 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kawthar (الكوثر) Nuzooli tartib ke mutabiq #15 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kawthar)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=108&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/108:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2833,7 +2833,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2841,7 +2841,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kawthar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكوثر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kawthar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/108:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/108:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2855,7 +2855,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Kawthar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kawthar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/108.1"
+        "ref_url": "https://quran.com/ur/108:1?translations=97"
       }
     },
     "verses": [
@@ -2896,7 +2896,7 @@ window.SURAH_DATA = [
       "urdu": "سورت التكاثر (At-Takathur) نزولی ترتیب کے لحاظ سے #16 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Takathur (التكاثر) Nuzooli tartib ke mutabiq #16 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Takathur)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=102&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/102:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2909,7 +2909,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2917,7 +2917,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Takathur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التكاثر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Takathur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/102:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/102:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -2931,7 +2931,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah At-Takathur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takathur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/102.1"
+        "ref_url": "https://quran.com/ur/102:1?translations=97"
       }
     },
     "verses": [
@@ -3007,7 +3007,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الماعون (Al-Ma'un) نزولی ترتیب کے لحاظ سے #17 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'un (الماعون) Nuzooli tartib ke mutabiq #17 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'un)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=107&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/107:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3020,7 +3020,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3028,7 +3028,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'un",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الماعون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'un ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/107:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/107:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3042,7 +3042,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Ma'un",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'un deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/107.1"
+        "ref_url": "https://quran.com/ur/107:1?translations=97"
       }
     },
     "verses": [
@@ -3111,7 +3111,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الكافرون (Al-Kafirun) نزولی ترتیب کے لحاظ سے #18 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kafirun (الكافرون) Nuzooli tartib ke mutabiq #18 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kafirun)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=109&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/109:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3124,7 +3124,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3132,7 +3132,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kafirun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكافرون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kafirun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/109:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/109:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3146,7 +3146,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Kafirun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kafirun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/109.1"
+        "ref_url": "https://quran.com/ur/109:1?translations=97"
       }
     },
     "verses": [
@@ -3208,7 +3208,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الفيل (Al-Fil) نزولی ترتیب کے لحاظ سے #19 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fil (الفيل) Nuzooli tartib ke mutabiq #19 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fil)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=105&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/105:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3221,7 +3221,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3229,7 +3229,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fil",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفيل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fil ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/105:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/105:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3243,7 +3243,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Fil",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fil deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/105.1"
+        "ref_url": "https://quran.com/ur/105:1?translations=97"
       }
     },
     "verses": [
@@ -3298,7 +3298,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الفلق (Al-Falaq) نزولی ترتیب کے لحاظ سے #20 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Falaq (الفلق) Nuzooli tartib ke mutabiq #20 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Falaq)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=113&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/113:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3311,7 +3311,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3319,7 +3319,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Falaq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفلق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Falaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/113:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/113:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3333,7 +3333,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Falaq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Falaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/113.1"
+        "ref_url": "https://quran.com/ur/113:1?translations=97"
       }
     },
     "verses": [
@@ -3388,7 +3388,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الناس (An-Nas) نزولی ترتیب کے لحاظ سے #21 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nas (الناس) Nuzooli tartib ke mutabiq #21 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nas)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=114&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/114:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3401,7 +3401,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3409,7 +3409,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nas",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الناس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/114:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/114:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3423,7 +3423,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah An-Nas",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/114.1"
+        "ref_url": "https://quran.com/ur/114:1?translations=97"
       }
     },
     "verses": [
@@ -3485,7 +3485,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الإخلاص (Al-Ikhlas) نزولی ترتیب کے لحاظ سے #22 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ikhlas (الإخلاص) Nuzooli tartib ke mutabiq #22 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ikhlas)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=112&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/112:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3498,7 +3498,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3506,7 +3506,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ikhlas",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإخلاص کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ikhlas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/112:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/112:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3520,7 +3520,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Ikhlas",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ikhlas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/112.1"
+        "ref_url": "https://quran.com/ur/112:1?translations=97"
       }
     },
     "verses": [
@@ -3568,7 +3568,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النجم (An-Najm) نزولی ترتیب کے لحاظ سے #23 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Najm (النجم) Nuzooli tartib ke mutabiq #23 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Najm)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=53&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/53:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3581,7 +3581,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3589,7 +3589,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Najm",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النجم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Najm ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/53:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/53:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -3603,7 +3603,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah An-Najm",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Najm deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/53.1"
+        "ref_url": "https://quran.com/ur/53:1?translations=97"
       }
     },
     "verses": [
@@ -4057,7 +4057,7 @@ window.SURAH_DATA = [
       "urdu": "سورت عبس ('Abasa) نزولی ترتیب کے لحاظ سے #24 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah 'Abasa (عبس) Nuzooli tartib ke mutabiq #24 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah 'Abasa)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=80&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/80:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4070,7 +4070,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4078,7 +4078,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah 'Abasa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت عبس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah 'Abasa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/80:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/80:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -4092,7 +4092,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah 'Abasa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah 'Abasa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/80.1"
+        "ref_url": "https://quran.com/ur/80:1?translations=97"
       }
     },
     "verses": [
@@ -4406,7 +4406,7 @@ window.SURAH_DATA = [
       "urdu": "سورت القدر (Al-Qadr) نزولی ترتیب کے لحاظ سے #25 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qadr (القدر) Nuzooli tartib ke mutabiq #25 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qadr)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=97&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/97:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4419,7 +4419,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4427,7 +4427,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qadr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القدر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qadr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/97:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/97:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -4441,7 +4441,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Qadr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qadr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/97.1"
+        "ref_url": "https://quran.com/ur/97:1?translations=97"
       }
     },
     "verses": [
@@ -4496,7 +4496,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الشمس (Ash-Shams) نزولی ترتیب کے لحاظ سے #26 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shams (الشمس) Nuzooli tartib ke mutabiq #26 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shams)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=91&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/91:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4509,7 +4509,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4517,7 +4517,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shams",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشمس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shams ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/91:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/91:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -4531,7 +4531,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Ash-Shams",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shams deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/91.1"
+        "ref_url": "https://quran.com/ur/91:1?translations=97"
       }
     },
     "verses": [
@@ -4656,7 +4656,7 @@ window.SURAH_DATA = [
       "urdu": "سورت البروج (Al-Buruj) نزولی ترتیب کے لحاظ سے #27 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Buruj (البروج) Nuzooli tartib ke mutabiq #27 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Buruj)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=85&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/85:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4669,7 +4669,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4677,7 +4677,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Buruj",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البروج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Buruj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/85:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/85:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -4691,7 +4691,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Buruj",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Buruj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/85.1"
+        "ref_url": "https://quran.com/ur/85:1?translations=97"
       }
     },
     "verses": [
@@ -4865,7 +4865,7 @@ window.SURAH_DATA = [
       "urdu": "سورت التين (At-Tin) نزولی ترتیب کے لحاظ سے #28 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tin (التين) Nuzooli tartib ke mutabiq #28 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tin)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=95&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/95:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4878,7 +4878,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4886,7 +4886,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التين کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/95:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/95:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -4900,7 +4900,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah At-Tin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/95.1"
+        "ref_url": "https://quran.com/ur/95:1?translations=97"
       }
     },
     "verses": [
@@ -4976,7 +4976,7 @@ window.SURAH_DATA = [
       "urdu": "سورت قريش (Quraysh) نزولی ترتیب کے لحاظ سے #29 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Quraysh (قريش) Nuzooli tartib ke mutabiq #29 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Quraysh)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=106&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/106:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4989,7 +4989,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4997,7 +4997,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Quraysh",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت قريش کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Quraysh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/106:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/106:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -5011,7 +5011,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Quraysh",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Quraysh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/106.1"
+        "ref_url": "https://quran.com/ur/106:1?translations=97"
       }
     },
     "verses": [
@@ -5059,7 +5059,7 @@ window.SURAH_DATA = [
       "urdu": "سورت القارعة (Al-Qari'ah) نزولی ترتیب کے لحاظ سے #30 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qari'ah (القارعة) Nuzooli tartib ke mutabiq #30 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qari'ah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=101&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/101:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5072,7 +5072,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5080,7 +5080,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qari'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القارعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qari'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/101:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/101:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -5094,7 +5094,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Qari'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qari'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/101.1"
+        "ref_url": "https://quran.com/ur/101:1?translations=97"
       }
     },
     "verses": [
@@ -5191,7 +5191,7 @@ window.SURAH_DATA = [
       "urdu": "سورت القيامة (Al-Qiyamah) نزولی ترتیب کے لحاظ سے #31 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qiyamah (القيامة) Nuzooli tartib ke mutabiq #31 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qiyamah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=75&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/75:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5204,7 +5204,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5212,7 +5212,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qiyamah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القيامة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qiyamah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/75:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/75:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -5226,7 +5226,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Qiyamah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qiyamah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/75.1"
+        "ref_url": "https://quran.com/ur/75:1?translations=97"
       }
     },
     "verses": [
@@ -5526,7 +5526,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الهمزة (Al-Humazah) نزولی ترتیب کے لحاظ سے #32 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Humazah (الهمزة) Nuzooli tartib ke mutabiq #32 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Humazah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=104&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/104:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5539,7 +5539,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5547,7 +5547,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Humazah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الهمزة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Humazah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/104:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/104:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -5561,7 +5561,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Humazah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Humazah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/104.1"
+        "ref_url": "https://quran.com/ur/104:1?translations=97"
       }
     },
     "verses": [
@@ -5644,7 +5644,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المرسلات (Al-Mursalat) نزولی ترتیب کے لحاظ سے #33 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mursalat (المرسلات) Nuzooli tartib ke mutabiq #33 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mursalat)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=77&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/77:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5657,7 +5657,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5665,7 +5665,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mursalat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المرسلات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mursalat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/77:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/77:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -5679,7 +5679,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mursalat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mursalat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/77.1"
+        "ref_url": "https://quran.com/ur/77:1?translations=97"
       }
     },
     "verses": [
@@ -6049,7 +6049,7 @@ window.SURAH_DATA = [
       "urdu": "سورت ق (Qaf) نزولی ترتیب کے لحاظ سے #34 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Qaf (ق) Nuzooli tartib ke mutabiq #34 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Qaf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=50&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/50:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6062,7 +6062,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6070,7 +6070,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Qaf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت ق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Qaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/50:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/50:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -6084,7 +6084,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Qaf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Qaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/50.1"
+        "ref_url": "https://quran.com/ur/50:1?translations=97"
       }
     },
     "verses": [
@@ -6419,7 +6419,7 @@ window.SURAH_DATA = [
       "urdu": "سورت البلد (Al-Balad) نزولی ترتیب کے لحاظ سے #35 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Balad (البلد) Nuzooli tartib ke mutabiq #35 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Balad)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=90&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/90:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6432,7 +6432,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6440,7 +6440,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Balad",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البلد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Balad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/90:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/90:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -6454,7 +6454,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Balad",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Balad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/90.1"
+        "ref_url": "https://quran.com/ur/90:1?translations=97"
       }
     },
     "verses": [
@@ -6614,7 +6614,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الطارق (At-Tariq) نزولی ترتیب کے لحاظ سے #36 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tariq (الطارق) Nuzooli tartib ke mutabiq #36 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tariq)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=86&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/86:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6627,7 +6627,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6635,7 +6635,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tariq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الطارق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tariq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/86:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/86:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -6649,7 +6649,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah At-Tariq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tariq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/86.1"
+        "ref_url": "https://quran.com/ur/86:1?translations=97"
       }
     },
     "verses": [
@@ -6788,7 +6788,7 @@ window.SURAH_DATA = [
       "urdu": "سورت القمر (Al-Qamar) نزولی ترتیب کے لحاظ سے #37 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qamar (القمر) Nuzooli tartib ke mutabiq #37 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qamar)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=54&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/54:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6801,7 +6801,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6809,7 +6809,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qamar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القمر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qamar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/54:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/54:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -6823,7 +6823,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Qamar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qamar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/54.1"
+        "ref_url": "https://quran.com/ur/54:1?translations=97"
       }
     },
     "verses": [
@@ -7228,7 +7228,7 @@ window.SURAH_DATA = [
       "urdu": "سورت ص (Sad) نزولی ترتیب کے لحاظ سے #38 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Sad (ص) Nuzooli tartib ke mutabiq #38 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Sad)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=38&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/38:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7241,7 +7241,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -7249,7 +7249,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Sad",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت ص کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Sad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/38:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/38:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -7263,7 +7263,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Sad",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Sad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/38.1"
+        "ref_url": "https://quran.com/ur/38:1?translations=97"
       }
     },
     "verses": [
@@ -7899,7 +7899,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأعراف (Al-A'raf) نزولی ترتیب کے لحاظ سے #39 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-A'raf (الأعراف) Nuzooli tartib ke mutabiq #39 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=7&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/7:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7912,7 +7912,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -7920,7 +7920,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-A'raf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأعراف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/7:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/7:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -7934,7 +7934,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-A'raf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/7.1"
+        "ref_url": "https://quran.com/ur/7:1?translations=97"
       }
     },
     "verses": [
@@ -9396,7 +9396,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الجن (Al-Jinn) نزولی ترتیب کے لحاظ سے #40 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jinn (الجن) Nuzooli tartib ke mutabiq #40 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jinn)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=72&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/72:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9409,7 +9409,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9417,7 +9417,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jinn",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجن کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jinn ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/72:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/72:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -9431,7 +9431,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Jinn",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jinn deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/72.1"
+        "ref_url": "https://quran.com/ur/72:1?translations=97"
       }
     },
     "verses": [
@@ -9647,7 +9647,7 @@ window.SURAH_DATA = [
       "urdu": "سورت يس (Ya-Sin) نزولی ترتیب کے لحاظ سے #41 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ya-Sin (يس) Nuzooli tartib ke mutabiq #41 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ya-Sin)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=36&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/36:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9660,7 +9660,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9668,7 +9668,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ya-Sin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ya-Sin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/36:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/36:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -9682,7 +9682,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ya-Sin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/36.1"
+        "ref_url": "https://quran.com/ur/36:1?translations=97"
       }
     },
     "verses": [
@@ -10283,7 +10283,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الفرقان (Al-Furqan) نزولی ترتیب کے لحاظ سے #42 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Furqan (الفرقان) Nuzooli tartib ke mutabiq #42 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Furqan)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=25&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/25:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10296,7 +10296,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -10304,7 +10304,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Furqan",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفرقان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Furqan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/25:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/25:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -10318,7 +10318,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Furqan",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Furqan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/25.1"
+        "ref_url": "https://quran.com/ur/25:1?translations=97"
       }
     },
     "verses": [
@@ -10877,7 +10877,7 @@ window.SURAH_DATA = [
       "urdu": "سورت فاطر (Fatir) نزولی ترتیب کے لحاظ سے #43 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Fatir (فاطر) Nuzooli tartib ke mutabiq #43 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Fatir)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=35&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/35:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10890,7 +10890,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -10898,7 +10898,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Fatir",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت فاطر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Fatir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/35:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/35:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -10912,7 +10912,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Fatir",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Fatir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/35.1"
+        "ref_url": "https://quran.com/ur/35:1?translations=97"
       }
     },
     "verses": [
@@ -11247,7 +11247,7 @@ window.SURAH_DATA = [
       "urdu": "سورت مريم (Maryam) نزولی ترتیب کے لحاظ سے #44 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Maryam (مريم) Nuzooli tartib ke mutabiq #44 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Maryam)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=19&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/19:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11260,7 +11260,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -11268,7 +11268,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Maryam",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت مريم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Maryam ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/19:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/19:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -11282,7 +11282,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Maryam",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/19.1"
+        "ref_url": "https://quran.com/ur/19:1?translations=97"
       }
     },
     "verses": [
@@ -11988,7 +11988,7 @@ window.SURAH_DATA = [
       "urdu": "سورت طه (Taha) نزولی ترتیب کے لحاظ سے #45 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Taha (طه) Nuzooli tartib ke mutabiq #45 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Taha)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=20&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/20:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12001,7 +12001,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -12009,7 +12009,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Taha",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت طه کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Taha ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/20:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/20:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -12023,7 +12023,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Taha",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/20.1"
+        "ref_url": "https://quran.com/ur/20:1?translations=97"
       }
     },
     "verses": [
@@ -12988,7 +12988,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الواقعة (Al-Waqi'ah) نزولی ترتیب کے لحاظ سے #46 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Waqi'ah (الواقعة) Nuzooli tartib ke mutabiq #46 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Waqi'ah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=56&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/56:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -13001,7 +13001,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -13009,7 +13009,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Waqi'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الواقعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Waqi'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/56:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/56:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -13023,7 +13023,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Waqi'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Waqi'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/56.1"
+        "ref_url": "https://quran.com/ur/56:1?translations=97"
       }
     },
     "verses": [
@@ -13715,7 +13715,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الشعراء (Ash-Shu'ara) نزولی ترتیب کے لحاظ سے #47 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shu'ara (الشعراء) Nuzooli tartib ke mutabiq #47 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=26&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/26:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -13728,7 +13728,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -13736,7 +13736,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shu'ara",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشعراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/26:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/26:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -13750,7 +13750,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ash-Shu'ara",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/26.1"
+        "ref_url": "https://quran.com/ur/26:1?translations=97"
       }
     },
     "verses": [
@@ -15359,7 +15359,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النمل (An-Naml) نزولی ترتیب کے لحاظ سے #48 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Naml (النمل) Nuzooli tartib ke mutabiq #48 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Naml)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=27&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/27:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -15372,7 +15372,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -15380,7 +15380,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Naml",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النمل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Naml ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/27:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/27:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -15394,7 +15394,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah An-Naml",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naml deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/27.1"
+        "ref_url": "https://quran.com/ur/27:1?translations=97"
       }
     },
     "verses": [
@@ -16065,7 +16065,7 @@ window.SURAH_DATA = [
       "urdu": "سورت القصص (Al-Qasas) نزولی ترتیب کے لحاظ سے #49 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qasas (القصص) Nuzooli tartib ke mutabiq #49 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qasas)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=28&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/28:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -16078,7 +16078,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -16086,7 +16086,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qasas",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القصص کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qasas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/28:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/28:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -16100,7 +16100,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Qasas",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qasas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/28.1"
+        "ref_url": "https://quran.com/ur/28:1?translations=97"
       }
     },
     "verses": [
@@ -16736,7 +16736,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الإسراء (Al-Isra) نزولی ترتیب کے لحاظ سے #50 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Isra (الإسراء) Nuzooli tartib ke mutabiq #50 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/17:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -16749,7 +16749,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -16757,7 +16757,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Isra",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإسراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/17:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/17:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -16771,7 +16771,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Isra",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/17.1"
+        "ref_url": "https://quran.com/ur/17:1?translations=97"
       }
     },
     "verses": [
@@ -17568,7 +17568,7 @@ window.SURAH_DATA = [
       "urdu": "سورت يونس (Yunus) نزولی ترتیب کے لحاظ سے #51 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Yunus (يونس) Nuzooli tartib ke mutabiq #51 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Yunus)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=10&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/10:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -17581,7 +17581,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -17589,7 +17589,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Yunus",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يونس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Yunus ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/10:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/10:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -17603,7 +17603,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Yunus",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Yunus deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/10.1"
+        "ref_url": "https://quran.com/ur/10:1?translations=97"
       }
     },
     "verses": [
@@ -18386,7 +18386,7 @@ window.SURAH_DATA = [
       "urdu": "سورت هود (Hud) نزولی ترتیب کے لحاظ سے #52 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Hud (هود) Nuzooli tartib ke mutabiq #52 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Hud)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=11&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/11:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -18399,7 +18399,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -18407,7 +18407,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Hud",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت هود کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Hud ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/11:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/11:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -18421,7 +18421,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Hud",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Hud deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/11.1"
+        "ref_url": "https://quran.com/ur/11:1?translations=97"
       }
     },
     "verses": [
@@ -19302,7 +19302,7 @@ window.SURAH_DATA = [
       "urdu": "سورت يوسف (Yusuf) نزولی ترتیب کے لحاظ سے #53 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Yusuf (يوسف) Nuzooli tartib ke mutabiq #53 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Yusuf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=12&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/12:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -19315,7 +19315,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -19323,7 +19323,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Yusuf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يوسف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Yusuf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/12:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/12:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -19337,7 +19337,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Yusuf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Yusuf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/12.1"
+        "ref_url": "https://quran.com/ur/12:1?translations=97"
       }
     },
     "verses": [
@@ -20134,7 +20134,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الحجر (Al-Hijr) نزولی ترتیب کے لحاظ سے #54 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hijr (الحجر) Nuzooli tartib ke mutabiq #54 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hijr)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=15&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/15:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -20147,7 +20147,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -20155,7 +20155,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hijr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحجر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hijr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/15:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/15:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -20169,7 +20169,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Hijr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hijr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/15.1"
+        "ref_url": "https://quran.com/ur/15:1?translations=97"
       }
     },
     "verses": [
@@ -20882,7 +20882,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأنعام (Al-An'am) نزولی ترتیب کے لحاظ سے #55 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-An'am (الأنعام) Nuzooli tartib ke mutabiq #55 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-An'am)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=6&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/6:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -20895,7 +20895,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -20903,7 +20903,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-An'am",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنعام کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-An'am ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/6:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/6:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -20917,7 +20917,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-An'am",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/6.1"
+        "ref_url": "https://quran.com/ur/6:1?translations=97"
       }
     },
     "verses": [
@@ -22092,7 +22092,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الصافات (As-Saffat) نزولی ترتیب کے لحاظ سے #56 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah As-Saffat (الصافات) Nuzooli tartib ke mutabiq #56 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Saffat)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=37&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/37:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -22105,7 +22105,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -22113,7 +22113,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah As-Saffat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الصافات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Saffat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/37:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/37:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -22127,7 +22127,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah As-Saffat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saffat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/37.1"
+        "ref_url": "https://quran.com/ur/37:1?translations=97"
       }
     },
     "verses": [
@@ -23421,7 +23421,7 @@ window.SURAH_DATA = [
       "urdu": "سورت لقمان (Luqman) نزولی ترتیب کے لحاظ سے #57 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Luqman (لقمان) Nuzooli tartib ke mutabiq #57 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Luqman)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=31&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/31:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -23434,7 +23434,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -23442,7 +23442,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Luqman",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت لقمان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Luqman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/31:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/31:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -23456,7 +23456,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Luqman",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/31.1"
+        "ref_url": "https://quran.com/ur/31:1?translations=97"
       }
     },
     "verses": [
@@ -23714,7 +23714,7 @@ window.SURAH_DATA = [
       "urdu": "سورت سبإ (Saba) نزولی ترتیب کے لحاظ سے #58 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Saba (سبإ) Nuzooli tartib ke mutabiq #58 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Saba)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=34&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/34:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -23727,7 +23727,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -23735,7 +23735,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Saba",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت سبإ کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Saba ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/34:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/34:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -23749,7 +23749,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Saba",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Saba deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/34.1"
+        "ref_url": "https://quran.com/ur/34:1?translations=97"
       }
     },
     "verses": [
@@ -24147,7 +24147,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الزمر (Az-Zumar) نزولی ترتیب کے لحاظ سے #59 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Az-Zumar (الزمر) Nuzooli tartib ke mutabiq #59 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zumar)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=39&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/39:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -24160,7 +24160,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -24168,7 +24168,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Az-Zumar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الزمر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zumar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/39:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/39:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -24182,7 +24182,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Az-Zumar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zumar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/39.1"
+        "ref_url": "https://quran.com/ur/39:1?translations=97"
       }
     },
     "verses": [
@@ -24727,7 +24727,7 @@ window.SURAH_DATA = [
       "urdu": "سورت غافر (Ghafir) نزولی ترتیب کے لحاظ سے #60 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ghafir (غافر) Nuzooli tartib ke mutabiq #60 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ghafir)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=40&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/40:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -24740,7 +24740,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -24748,7 +24748,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ghafir",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت غافر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ghafir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/40:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/40:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -24762,7 +24762,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ghafir",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ghafir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/40.1"
+        "ref_url": "https://quran.com/ur/40:1?translations=97"
       }
     },
     "verses": [
@@ -25377,7 +25377,7 @@ window.SURAH_DATA = [
       "urdu": "سورت فصلت (Fussilat) نزولی ترتیب کے لحاظ سے #61 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Fussilat (فصلت) Nuzooli tartib ke mutabiq #61 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Fussilat)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=41&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/41:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -25390,7 +25390,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -25398,7 +25398,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Fussilat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت فصلت کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Fussilat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/41:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/41:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -25412,7 +25412,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Fussilat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Fussilat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/41.1"
+        "ref_url": "https://quran.com/ur/41:1?translations=97"
       }
     },
     "verses": [
@@ -25810,7 +25810,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الشورى (Ash-Shuraa) نزولی ترتیب کے لحاظ سے #62 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shuraa (الشورى) Nuzooli tartib ke mutabiq #62 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shuraa)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=42&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/42:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -25823,7 +25823,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -25831,7 +25831,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shuraa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشورى کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shuraa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/42:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/42:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -25845,7 +25845,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ash-Shuraa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shuraa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/42.1"
+        "ref_url": "https://quran.com/ur/42:1?translations=97"
       }
     },
     "verses": [
@@ -26236,7 +26236,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الزخرف (Az-Zukhruf) نزولی ترتیب کے لحاظ سے #63 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Az-Zukhruf (الزخرف) Nuzooli tartib ke mutabiq #63 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zukhruf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=43&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/43:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -26249,7 +26249,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -26257,7 +26257,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Az-Zukhruf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الزخرف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zukhruf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/43:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/43:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -26271,7 +26271,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Az-Zukhruf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zukhruf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/43.1"
+        "ref_url": "https://quran.com/ur/43:1?translations=97"
       }
     },
     "verses": [
@@ -26914,7 +26914,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الدخان (Ad-Dukhan) نزولی ترتیب کے لحاظ سے #64 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ad-Dukhan (الدخان) Nuzooli tartib ke mutabiq #64 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ad-Dukhan)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=44&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/44:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -26927,7 +26927,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -26935,7 +26935,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ad-Dukhan",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الدخان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ad-Dukhan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/44:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/44:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -26949,7 +26949,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ad-Dukhan",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Dukhan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/44.1"
+        "ref_url": "https://quran.com/ur/44:1?translations=97"
       }
     },
     "verses": [
@@ -27382,7 +27382,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الجاثية (Al-Jathiyah) نزولی ترتیب کے لحاظ سے #65 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jathiyah (الجاثية) Nuzooli tartib ke mutabiq #65 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jathiyah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=45&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/45:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -27395,7 +27395,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -27403,7 +27403,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jathiyah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجاثية کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jathiyah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/45:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/45:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -27417,7 +27417,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Jathiyah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jathiyah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/45.1"
+        "ref_url": "https://quran.com/ur/45:1?translations=97"
       }
     },
     "verses": [
@@ -27696,7 +27696,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأحقاف (Al-Ahqaf) نزولی ترتیب کے لحاظ سے #66 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahqaf (الأحقاف) Nuzooli tartib ke mutabiq #66 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahqaf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=46&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/46:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -27709,7 +27709,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -27717,7 +27717,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahqaf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحقاف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahqaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/46:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/46:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -27731,7 +27731,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Ahqaf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/46.1"
+        "ref_url": "https://quran.com/ur/46:1?translations=97"
       }
     },
     "verses": [
@@ -27996,7 +27996,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الذاريات (Adh-Dhariyat) نزولی ترتیب کے لحاظ سے #67 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Adh-Dhariyat (الذاريات) Nuzooli tartib ke mutabiq #67 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Adh-Dhariyat)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=51&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/51:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -28009,7 +28009,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -28017,7 +28017,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Adh-Dhariyat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الذاريات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Adh-Dhariyat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/51:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/51:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -28031,7 +28031,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Adh-Dhariyat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Adh-Dhariyat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/51.1"
+        "ref_url": "https://quran.com/ur/51:1?translations=97"
       }
     },
     "verses": [
@@ -28471,7 +28471,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الغاشية (Al-Ghashiyah) نزولی ترتیب کے لحاظ سے #68 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ghashiyah (الغاشية) Nuzooli tartib ke mutabiq #68 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ghashiyah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=88&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/88:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -28484,7 +28484,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -28492,7 +28492,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ghashiyah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الغاشية کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ghashiyah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/88:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/88:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -28506,7 +28506,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Ghashiyah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ghashiyah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/88.1"
+        "ref_url": "https://quran.com/ur/88:1?translations=97"
       }
     },
     "verses": [
@@ -28708,7 +28708,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الكهف (Al-Kahf) نزولی ترتیب کے لحاظ سے #69 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kahf (الكهف) Nuzooli tartib ke mutabiq #69 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/18:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -28721,7 +28721,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -28729,7 +28729,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kahf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكهف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/18:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/18:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -28743,7 +28743,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Kahf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/18.1"
+        "ref_url": "https://quran.com/ur/18:1?translations=97"
       }
     },
     "verses": [
@@ -29533,7 +29533,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النحل (An-Nahl) نزولی ترتیب کے لحاظ سے #70 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nahl (النحل) Nuzooli tartib ke mutabiq #70 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nahl)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=16&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/16:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -29546,7 +29546,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -29554,7 +29554,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nahl",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النحل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nahl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/16:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/16:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -29568,7 +29568,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nahl",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/16.1"
+        "ref_url": "https://quran.com/ur/16:1?translations=97"
       }
     },
     "verses": [
@@ -30484,7 +30484,7 @@ window.SURAH_DATA = [
       "urdu": "سورت نوح (Nuh) نزولی ترتیب کے لحاظ سے #71 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Nuh (نوح) Nuzooli tartib ke mutabiq #71 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Nuh)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=71&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/71:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -30497,7 +30497,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -30505,7 +30505,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Nuh",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت نوح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Nuh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/71:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/71:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -30519,7 +30519,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Nuh",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Nuh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/71.1"
+        "ref_url": "https://quran.com/ur/71:1?translations=97"
       }
     },
     "verses": [
@@ -30735,7 +30735,7 @@ window.SURAH_DATA = [
       "urdu": "سورت ابراهيم (Ibrahim) نزولی ترتیب کے لحاظ سے #72 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ibrahim (ابراهيم) Nuzooli tartib ke mutabiq #72 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ibrahim)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=14&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/14:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -30748,7 +30748,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -30756,7 +30756,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ibrahim",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت ابراهيم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ibrahim ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/14:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/14:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -30770,7 +30770,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ibrahim",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ibrahim deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/14.1"
+        "ref_url": "https://quran.com/ur/14:1?translations=97"
       }
     },
     "verses": [
@@ -31154,7 +31154,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأنبياء (Al-Anbya) نزولی ترتیب کے لحاظ سے #73 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anbya (الأنبياء) Nuzooli tartib ke mutabiq #73 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anbya)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=21&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/21:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -31167,7 +31167,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -31175,7 +31175,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anbya",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنبياء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anbya ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/21:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/21:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -31189,7 +31189,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Anbya",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/21.1"
+        "ref_url": "https://quran.com/ur/21:1?translations=97"
       }
     },
     "verses": [
@@ -31993,7 +31993,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المؤمنون (Al-Mu'minun) نزولی ترتیب کے لحاظ سے #74 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mu'minun (المؤمنون) Nuzooli tartib ke mutabiq #74 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mu'minun)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=23&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/23:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -32006,7 +32006,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -32014,7 +32014,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mu'minun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المؤمنون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mu'minun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/23:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/23:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -32028,7 +32028,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Mu'minun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mu'minun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/23.1"
+        "ref_url": "https://quran.com/ur/23:1?translations=97"
       }
     },
     "verses": [
@@ -32874,7 +32874,7 @@ window.SURAH_DATA = [
       "urdu": "سورت السجدة (As-Sajdah) نزولی ترتیب کے لحاظ سے #75 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah As-Sajdah (السجدة) Nuzooli tartib ke mutabiq #75 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Sajdah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=32&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/32:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -32887,7 +32887,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -32895,7 +32895,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah As-Sajdah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت السجدة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Sajdah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/32:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/32:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -32909,7 +32909,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah As-Sajdah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Sajdah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/32.1"
+        "ref_url": "https://quran.com/ur/32:1?translations=97"
       }
     },
     "verses": [
@@ -33139,7 +33139,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الطور (At-Tur) نزولی ترتیب کے لحاظ سے #76 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tur (الطور) Nuzooli tartib ke mutabiq #76 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tur)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=52&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/52:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -33152,7 +33152,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -33160,7 +33160,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الطور کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/52:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/52:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -33174,7 +33174,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah At-Tur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/52.1"
+        "ref_url": "https://quran.com/ur/52:1?translations=97"
       }
     },
     "verses": [
@@ -33537,7 +33537,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الملك (Al-Mulk) نزولی ترتیب کے لحاظ سے #77 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mulk (الملك) Nuzooli tartib ke mutabiq #77 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mulk)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=67&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/67:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -33550,7 +33550,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -33558,7 +33558,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mulk",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الملك کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mulk ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/67:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/67:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -33572,7 +33572,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mulk",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mulk deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/67.1"
+        "ref_url": "https://quran.com/ur/67:1?translations=97"
       }
     },
     "verses": [
@@ -33802,7 +33802,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الحاقة (Al-Haqqah) نزولی ترتیب کے لحاظ سے #78 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Haqqah (الحاقة) Nuzooli tartib ke mutabiq #78 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Haqqah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=69&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/69:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -33815,7 +33815,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -33823,7 +33823,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Haqqah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحاقة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Haqqah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/69:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/69:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -33837,7 +33837,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Haqqah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Haqqah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/69.1"
+        "ref_url": "https://quran.com/ur/69:1?translations=97"
       }
     },
     "verses": [
@@ -34221,7 +34221,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المعارج (Al-Ma'arij) نزولی ترتیب کے لحاظ سے #79 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'arij (المعارج) Nuzooli tartib ke mutabiq #79 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'arij)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=70&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/70:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -34234,7 +34234,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34242,7 +34242,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'arij",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المعارج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'arij ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/70:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/70:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -34256,7 +34256,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Ma'arij",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'arij deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/70.1"
+        "ref_url": "https://quran.com/ur/70:1?translations=97"
       }
     },
     "verses": [
@@ -34584,7 +34584,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النبإ (An-Naba) نزولی ترتیب کے لحاظ سے #80 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Naba (النبإ) Nuzooli tartib ke mutabiq #80 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Naba)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=78&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/78:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -34597,7 +34597,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34605,7 +34605,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Naba",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النبإ کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Naba ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/78:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/78:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -34619,7 +34619,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah An-Naba",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naba deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/78.1"
+        "ref_url": "https://quran.com/ur/78:1?translations=97"
       }
     },
     "verses": [
@@ -34919,7 +34919,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النازعات (An-Nazi'at) نزولی ترتیب کے لحاظ سے #81 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nazi'at (النازعات) Nuzooli tartib ke mutabiq #81 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nazi'at)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=79&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/79:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -34932,7 +34932,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34940,7 +34940,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nazi'at",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النازعات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nazi'at ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/79:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/79:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -34954,7 +34954,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah An-Nazi'at",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nazi'at deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/79.1"
+        "ref_url": "https://quran.com/ur/79:1?translations=97"
       }
     },
     "verses": [
@@ -35296,7 +35296,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الإنفطار (Al-Infitar) نزولی ترتیب کے لحاظ سے #82 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Infitar (الإنفطار) Nuzooli tartib ke mutabiq #82 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Infitar)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=82&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/82:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -35309,7 +35309,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -35317,7 +35317,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Infitar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإنفطار کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Infitar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/82:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/82:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -35331,7 +35331,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Infitar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Infitar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/82.1"
+        "ref_url": "https://quran.com/ur/82:1?translations=97"
       }
     },
     "verses": [
@@ -35484,7 +35484,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الإنشقاق (Al-Inshiqaq) نزولی ترتیب کے لحاظ سے #83 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Inshiqaq (الإنشقاق) Nuzooli tartib ke mutabiq #83 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Inshiqaq)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=84&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/84:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -35497,7 +35497,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -35505,7 +35505,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Inshiqaq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإنشقاق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Inshiqaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/84:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/84:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -35519,7 +35519,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Inshiqaq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Inshiqaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/84.1"
+        "ref_url": "https://quran.com/ur/84:1?translations=97"
       }
     },
     "verses": [
@@ -35714,7 +35714,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الروم (Ar-Rum) نزولی ترتیب کے لحاظ سے #84 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ar-Rum (الروم) Nuzooli tartib ke mutabiq #84 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Rum)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=30&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/30:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -35727,7 +35727,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -35735,7 +35735,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ar-Rum",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الروم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Rum ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/30:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/30:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -35749,7 +35749,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ar-Rum",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rum deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/30.1"
+        "ref_url": "https://quran.com/ur/30:1?translations=97"
       }
     },
     "verses": [
@@ -36189,7 +36189,7 @@ window.SURAH_DATA = [
       "urdu": "سورت العنكبوت (Al-'Ankabut) نزولی ترتیب کے لحاظ سے #85 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-'Ankabut (العنكبوت) Nuzooli tartib ke mutabiq #85 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Ankabut)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=29&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/29:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -36202,7 +36202,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -36210,7 +36210,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-'Ankabut",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت العنكبوت کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Ankabut ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/29:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/29:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -36224,7 +36224,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-'Ankabut",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Ankabut deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/29.1"
+        "ref_url": "https://quran.com/ur/29:1?translations=97"
       }
     },
     "verses": [
@@ -36727,7 +36727,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المطففين (Al-Mutaffifin) نزولی ترتیب کے لحاظ سے #86 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mutaffifin (المطففين) Nuzooli tartib ke mutabiq #86 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mutaffifin)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=83&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/83:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -36740,7 +36740,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -36748,7 +36748,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mutaffifin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المطففين کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mutaffifin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/83:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/83:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -36762,7 +36762,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Mutaffifin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mutaffifin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/83.1"
+        "ref_url": "https://quran.com/ur/83:1?translations=97"
       }
     },
     "verses": [
@@ -37034,7 +37034,7 @@ window.SURAH_DATA = [
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/2:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -37047,7 +37047,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -37055,7 +37055,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/2:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/2:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -37069,7 +37069,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/2.1"
+        "ref_url": "https://quran.com/ur/2:1?translations=97"
       }
     },
     "verses": [
@@ -39091,7 +39091,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأنفال (Al-Anfal) نزولی ترتیب کے لحاظ سے #88 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anfal (الأنفال) Nuzooli tartib ke mutabiq #88 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/8:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -39104,7 +39104,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -39112,7 +39112,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anfal",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنفال کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/8:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/8:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -39126,7 +39126,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Anfal",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/8.1"
+        "ref_url": "https://quran.com/ur/8:1?translations=97"
       }
     },
     "verses": [
@@ -39671,7 +39671,7 @@ window.SURAH_DATA = [
       "urdu": "سورت آل عمران (Ali 'Imran) نزولی ترتیب کے لحاظ سے #89 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ali 'Imran (آل عمران) Nuzooli tartib ke mutabiq #89 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/3:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -39684,7 +39684,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -39692,7 +39692,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ali 'Imran",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت آل عمران کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/3:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/3:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -39706,7 +39706,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ali 'Imran",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/3.1"
+        "ref_url": "https://quran.com/ur/3:1?translations=97"
       }
     },
     "verses": [
@@ -41126,7 +41126,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الأحزاب (Al-Ahzab) نزولی ترتیب کے لحاظ سے #90 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahzab (الأحزاب) Nuzooli tartib ke mutabiq #90 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/33:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -41139,7 +41139,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -41147,7 +41147,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحزاب کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/33:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/33:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -41161,7 +41161,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Ahzab",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/33.1"
+        "ref_url": "https://quran.com/ur/33:1?translations=97"
       }
     },
     "verses": [
@@ -41692,7 +41692,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الممتحنة (Al-Mumtahanah) نزولی ترتیب کے لحاظ سے #91 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mumtahanah (الممتحنة) Nuzooli tartib ke mutabiq #91 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mumtahanah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=60&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/60:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -41705,7 +41705,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -41713,7 +41713,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mumtahanah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الممتحنة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mumtahanah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/60:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/60:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -41727,7 +41727,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mumtahanah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/60.1"
+        "ref_url": "https://quran.com/ur/60:1?translations=97"
       }
     },
     "verses": [
@@ -41838,7 +41838,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النساء (An-Nisa) نزولی ترتیب کے لحاظ سے #92 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nisa (النساء) Nuzooli tartib ke mutabiq #92 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=4&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/4:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -41851,7 +41851,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -41859,7 +41859,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nisa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النساء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/4:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/4:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -41873,7 +41873,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nisa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/4.1"
+        "ref_url": "https://quran.com/ur/4:1?translations=97"
       }
     },
     "verses": [
@@ -43125,7 +43125,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الزلزلة (Az-Zalzalah) نزولی ترتیب کے لحاظ سے #93 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Az-Zalzalah (الزلزلة) Nuzooli tartib ke mutabiq #93 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zalzalah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=99&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/99:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -43138,7 +43138,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43146,7 +43146,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Az-Zalzalah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الزلزلة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zalzalah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/99:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/99:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -43160,7 +43160,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Az-Zalzalah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zalzalah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/99.1"
+        "ref_url": "https://quran.com/ur/99:1?translations=97"
       }
     },
     "verses": [
@@ -43236,7 +43236,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الحديد (Al-Hadid) نزولی ترتیب کے لحاظ سے #94 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hadid (الحديد) Nuzooli tartib ke mutabiq #94 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hadid)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=57&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/57:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -43249,7 +43249,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43257,7 +43257,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hadid",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحديد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hadid ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/57:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/57:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -43271,7 +43271,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hadid",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hadid deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/57.1"
+        "ref_url": "https://quran.com/ur/57:1?translations=97"
       }
     },
     "verses": [
@@ -43494,7 +43494,7 @@ window.SURAH_DATA = [
       "urdu": "سورت محمد (Muhammad) نزولی ترتیب کے لحاظ سے #95 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Muhammad (محمد) Nuzooli tartib ke mutabiq #95 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Muhammad)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=47&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/47:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -43507,7 +43507,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43515,7 +43515,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Muhammad",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت محمد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Muhammad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/47:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/47:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -43529,7 +43529,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Muhammad",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Muhammad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/47.1"
+        "ref_url": "https://quran.com/ur/47:1?translations=97"
       }
     },
     "verses": [
@@ -43815,7 +43815,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الرعد (Ar-Ra'd) نزولی ترتیب کے لحاظ سے #96 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ar-Ra'd (الرعد) Nuzooli tartib ke mutabiq #96 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Ra'd)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=13&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/13:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -43828,7 +43828,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43836,7 +43836,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ar-Ra'd",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الرعد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Ra'd ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/13:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/13:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -43850,7 +43850,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ar-Ra'd",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Ra'd deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/13.1"
+        "ref_url": "https://quran.com/ur/13:1?translations=97"
       }
     },
     "verses": [
@@ -44171,7 +44171,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الرحمن (Ar-Rahman) نزولی ترتیب کے لحاظ سے #97 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ar-Rahman (الرحمن) Nuzooli tartib ke mutabiq #97 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Rahman)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=55&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/55:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -44184,7 +44184,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -44192,7 +44192,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ar-Rahman",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الرحمن کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Rahman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/55:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/55:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -44206,7 +44206,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ar-Rahman",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rahman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/55.1"
+        "ref_url": "https://quran.com/ur/55:1?translations=97"
       }
     },
     "verses": [
@@ -44772,7 +44772,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الانسان (Al-Insan) نزولی ترتیب کے لحاظ سے #98 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Insan (الانسان) Nuzooli tartib ke mutabiq #98 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Insan)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=76&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/76:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -44785,7 +44785,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -44793,7 +44793,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Insan",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الانسان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Insan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/76:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/76:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -44807,7 +44807,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Insan",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Insan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/76.1"
+        "ref_url": "https://quran.com/ur/76:1?translations=97"
       }
     },
     "verses": [
@@ -45044,7 +45044,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الطلاق (At-Talaq) نزولی ترتیب کے لحاظ سے #99 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Talaq (الطلاق) Nuzooli tartib ke mutabiq #99 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Talaq)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=65&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/65:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -45057,7 +45057,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45065,7 +45065,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Talaq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الطلاق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Talaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/65:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/65:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -45079,7 +45079,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah At-Talaq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Talaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/65.1"
+        "ref_url": "https://quran.com/ur/65:1?translations=97"
       }
     },
     "verses": [
@@ -45183,7 +45183,7 @@ window.SURAH_DATA = [
       "urdu": "سورت البينة (Al-Bayyinah) نزولی ترتیب کے لحاظ سے #100 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Bayyinah (البينة) Nuzooli tartib ke mutabiq #100 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Bayyinah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=98&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/98:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -45196,7 +45196,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45204,7 +45204,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Bayyinah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البينة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Bayyinah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/98:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/98:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -45218,7 +45218,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Bayyinah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Bayyinah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/98.1"
+        "ref_url": "https://quran.com/ur/98:1?translations=97"
       }
     },
     "verses": [
@@ -45294,7 +45294,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الحشر (Al-Hashr) نزولی ترتیب کے لحاظ سے #101 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hashr (الحشر) Nuzooli tartib ke mutabiq #101 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hashr)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=59&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/59:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -45307,7 +45307,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45315,7 +45315,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hashr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحشر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hashr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/59:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/59:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -45329,7 +45329,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hashr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/59.1"
+        "ref_url": "https://quran.com/ur/59:1?translations=97"
       }
     },
     "verses": [
@@ -45517,7 +45517,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النور (An-Nur) نزولی ترتیب کے لحاظ سے #102 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nur (النور) Nuzooli tartib ke mutabiq #102 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=24&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/24:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -45530,7 +45530,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45538,7 +45538,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النور کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/24:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/24:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -45552,7 +45552,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah An-Nur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/24.1"
+        "ref_url": "https://quran.com/ur/24:1?translations=97"
       }
     },
     "verses": [
@@ -46020,7 +46020,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الحج (Al-Hajj) نزولی ترتیب کے لحاظ سے #103 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hajj (الحج) Nuzooli tartib ke mutabiq #103 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hajj)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=22&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/22:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -46033,7 +46033,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46041,7 +46041,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hajj",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hajj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/22:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/22:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -46055,7 +46055,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Hajj",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/22.1"
+        "ref_url": "https://quran.com/ur/22:1?translations=97"
       }
     },
     "verses": [
@@ -46621,7 +46621,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المنافقون (Al-Munafiqun) نزولی ترتیب کے لحاظ سے #104 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Munafiqun (المنافقون) Nuzooli tartib ke mutabiq #104 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Munafiqun)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=63&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/63:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -46634,7 +46634,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46642,7 +46642,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Munafiqun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المنافقون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Munafiqun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/63:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/63:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -46656,7 +46656,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Munafiqun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Munafiqun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/63.1"
+        "ref_url": "https://quran.com/ur/63:1?translations=97"
       }
     },
     "verses": [
@@ -46753,7 +46753,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المجادلة (Al-Mujadila) نزولی ترتیب کے لحاظ سے #105 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mujadila (المجادلة) Nuzooli tartib ke mutabiq #105 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mujadila)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=58&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/58:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -46766,7 +46766,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46774,7 +46774,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mujadila",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المجادلة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mujadila ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/58:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/58:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -46788,7 +46788,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Mujadila",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mujadila deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/58.1"
+        "ref_url": "https://quran.com/ur/58:1?translations=97"
       }
     },
     "verses": [
@@ -46962,7 +46962,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الحجرات (Al-Hujurat) نزولی ترتیب کے لحاظ سے #106 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hujurat (الحجرات) Nuzooli tartib ke mutabiq #106 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hujurat)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=49&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/49:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -46975,7 +46975,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46983,7 +46983,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hujurat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحجرات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hujurat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/49:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/49:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -46997,7 +46997,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hujurat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/49.1"
+        "ref_url": "https://quran.com/ur/49:1?translations=97"
       }
     },
     "verses": [
@@ -47143,7 +47143,7 @@ window.SURAH_DATA = [
       "urdu": "سورت التحريم (At-Tahrim) نزولی ترتیب کے لحاظ سے #107 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tahrim (التحريم) Nuzooli tartib ke mutabiq #107 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tahrim)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=66&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/66:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -47156,7 +47156,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47164,7 +47164,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tahrim",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التحريم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tahrim ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/66:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/66:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -47178,7 +47178,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah At-Tahrim",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tahrim deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/66.1"
+        "ref_url": "https://quran.com/ur/66:1?translations=97"
       }
     },
     "verses": [
@@ -47282,7 +47282,7 @@ window.SURAH_DATA = [
       "urdu": "سورت التغابن (At-Taghabun) نزولی ترتیب کے لحاظ سے #108 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Taghabun (التغابن) Nuzooli tartib ke mutabiq #108 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Taghabun)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=64&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/64:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -47295,7 +47295,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47303,7 +47303,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Taghabun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التغابن کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Taghabun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/64:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/64:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -47317,7 +47317,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah At-Taghabun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Taghabun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/64.1"
+        "ref_url": "https://quran.com/ur/64:1?translations=97"
       }
     },
     "verses": [
@@ -47463,7 +47463,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الصف (As-Saf) نزولی ترتیب کے لحاظ سے #109 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah As-Saf (الصف) Nuzooli tartib ke mutabiq #109 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Saf)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=61&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/61:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -47476,7 +47476,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47484,7 +47484,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah As-Saf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الصف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Saf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/61:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/61:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -47498,7 +47498,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah As-Saf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/61.1"
+        "ref_url": "https://quran.com/ur/61:1?translations=97"
       }
     },
     "verses": [
@@ -47616,7 +47616,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الجمعة (Al-Jumu'ah) نزولی ترتیب کے لحاظ سے #110 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jumu'ah (الجمعة) Nuzooli tartib ke mutabiq #110 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jumu'ah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=62&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/62:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -47629,7 +47629,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47637,7 +47637,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jumu'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجمعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jumu'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/62:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/62:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -47651,7 +47651,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Jumu'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/62.1"
+        "ref_url": "https://quran.com/ur/62:1?translations=97"
       }
     },
     "verses": [
@@ -47748,7 +47748,7 @@ window.SURAH_DATA = [
       "urdu": "سورت الفتح (Al-Fath) نزولی ترتیب کے لحاظ سے #111 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fath (الفتح) Nuzooli tartib ke mutabiq #111 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/48:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -47761,7 +47761,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47769,7 +47769,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fath",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفتح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/48:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/48:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -47783,7 +47783,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Fath",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/48.1"
+        "ref_url": "https://quran.com/ur/48:1?translations=97"
       }
     },
     "verses": [
@@ -48006,7 +48006,7 @@ window.SURAH_DATA = [
       "urdu": "سورت المائدة (Al-Ma'idah) نزولی ترتیب کے لحاظ سے #112 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'idah (المائدة) Nuzooli tartib ke mutabiq #112 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=5&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/5:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -48019,7 +48019,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -48027,7 +48027,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'idah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المائدة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/5:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/5:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -48041,7 +48041,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Ma'idah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/5.1"
+        "ref_url": "https://quran.com/ur/5:1?translations=97"
       }
     },
     "verses": [
@@ -48901,7 +48901,7 @@ window.SURAH_DATA = [
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/9:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -48914,7 +48914,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -48922,7 +48922,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/9:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/9:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -48936,7 +48936,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/9.1"
+        "ref_url": "https://quran.com/ur/9:1?translations=97"
       }
     },
     "verses": [
@@ -49859,7 +49859,7 @@ window.SURAH_DATA = [
       "urdu": "سورت النصر (An-Nasr) نزولی ترتیب کے لحاظ سے #114 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nasr (النصر) Nuzooli tartib ke mutabiq #114 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
       "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nasr)",
-      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=110&tAyahNo=1&tDisplay=yes&LanguageId=2"
+      "ref_url": "https://quran.com/ur/110:1?translations=158"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -49872,7 +49872,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
     },
     "tafseers": {
       "ibnKathir": {
@@ -49880,7 +49880,7 @@ window.SURAH_DATA = [
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nasr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النصر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
         "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nasr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
-        "ref_url": "https://quran.com/110:1/tafsirs/en-tafisr-ibn-kathir"
+        "ref_url": "https://quran.com/ur/110:1/tafsirs/tafseer-ibn-e-kaseer-urdu"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
@@ -49894,7 +49894,7 @@ window.SURAH_DATA = [
         "reference": "Tafheem-ul-Quran Vol 6, Surah An-Nasr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nasr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
-        "ref_url": "https://quranx.com/tafsir/maududi/110.1"
+        "ref_url": "https://quran.com/ur/110:1?translations=97"
       }
     },
     "verses": [

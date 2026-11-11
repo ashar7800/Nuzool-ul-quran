@@ -139,7 +139,7 @@
             target="_blank" 
             rel="noopener noreferrer" 
             class="inline-flex items-center gap-1.5 text-emerald-800 hover:text-emerald-950 hover:underline font-semibold bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded transition group shadow-2xs truncate"
-            title="Altafsir par Asal Asbab an-Nuzul (Al-Wahidi) dekhiye"
+            title="Asal Urdu Tarjuma o Pas-manzar dekhiye"
           >
             <span id="context-ref" class="italic truncate"></span>
             <span class="text-[11px] font-bold text-emerald-600 group-hover:text-emerald-900 group-hover:translate-x-0.5 transition-transform shrink-0">↗</span>
@@ -224,10 +224,10 @@
               target="_blank" 
               rel="noopener noreferrer" 
               class="inline-flex items-center gap-1 text-emerald-800 hover:text-emerald-950 hover:underline font-semibold bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded transition group shadow-2xs"
-              title="Asal Tafseer Source naye tab me dekhiye"
+              title="Asal Urdu Tafseer naye tab me dekhiye"
             >
               <span id="tafseer-ref"></span>
-              <span class="text-[10px] text-emerald-600 group-hover:text-emerald-900 group-hover:translate-x-0.5 transition-transform">↗</span>
+              <span class="text-[10px] text-emerald-600 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform">↗</span>
             </a>
           </div>
         </div>
@@ -263,7 +263,7 @@
               target="_blank" 
               rel="noopener noreferrer" 
               class="inline-flex items-center gap-1.5 font-bold text-emerald-950 bg-emerald-200/70 hover:bg-emerald-300 border border-emerald-300 px-2.5 py-1 rounded shadow-2xs transition group cursor-pointer"
-              title="Sunnah.com / Shamela par Asal Hadees Kholiye"
+              title="Sunnah.com par Urdu Tarjuma ke sath Asal Hadees Kholiye"
             >
               <span id="hadith-source"></span>
               <span class="text-[11px] font-bold text-emerald-800 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform">↗</span>
@@ -531,7 +531,7 @@
       const ctxUrdu = (s.context && s.context.urdu) ? s.context.urdu : (typeof s.context === 'string' ? s.context : 'اس سورت کے تاریخی پس منظر کے تفصیلی کوائف۔');
       const ctxRoman = (s.context && s.context.roman) ? s.context.roman : (typeof s.context === 'string' ? s.context : 'Is Surah ka tareekhi pas-manzar aur asbab-e-nuzool.');
       const ctxRef = (s.context && s.context.reference) ? s.context.reference : `Asbab an-Nuzul (Surah ${s.nameEn})`;
-      const ctxUrl = (s.context && s.context.ref_url) ? s.context.ref_url : `https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=${s.surahNumber}&tAyahNo=1&tDisplay=yes&LanguageId=2`;
+      const ctxUrl = (s.context && s.context.ref_url) ? s.context.ref_url : `https://quran.com/ur/${s.surahNumber}:1?translations=158`;
       
       document.getElementById('context-urdu').innerText = ctxUrdu;
       document.getElementById('context-roman').innerText = ctxRoman;
@@ -597,7 +597,7 @@
       document.getElementById('context-urdu').innerText = ep.context.urdu || '';
       document.getElementById('context-roman').innerText = ep.context.roman || '';
       document.getElementById('context-ref').innerText = ep.context.reference || `Asbab an-Nuzul (Episode #${ep.id})`;
-      const epCtxUrl = (ep.context && ep.context.ref_url) ? ep.context.ref_url : `https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=${ep.surahNumber}&tAyahNo=${ep.fromAyah}&tDisplay=yes&LanguageId=2`;
+      const epCtxUrl = (ep.context && ep.context.ref_url) ? ep.context.ref_url : `https://quran.com/ur/${ep.surahNumber}:${ep.fromAyah}?translations=158`;
       const epCtxLink = document.getElementById('context-ref-link');
       if (epCtxLink) epCtxLink.href = epCtxUrl;
 
