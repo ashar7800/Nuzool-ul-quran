@@ -1,4 +1,4 @@
-// Complete 114 Surahs Dataset with Urdu Target Live Hyperlinks
+// Complete 114 Surahs Dataset with Hybrid Urdu Hadith Routing
 window.SURAH_DATA = [
   {
     "revelationOrder": 1,
@@ -26,7 +26,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Muttafaq Alaih (Bukhari & Muslim)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "3",
-      "ref_url": "https://sunnah.com/bukhari:3?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:3"
     },
     "tafseers": {
       "ibnKathir": {
@@ -214,7 +214,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://sunnah.com/muslim:746?lang=ur"
+      "ref_url": "https://mohaddis.com/View/Muslim/T2/746"
     },
     "tafseers": {
       "ibnKathir": {
@@ -633,7 +633,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "1342",
-      "ref_url": "https://sunnah.com/abudawud:1342?lang=ur"
+      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/1342"
     },
     "tafseers": {
       "ibnKathir": {
@@ -828,7 +828,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "4922",
-      "ref_url": "https://sunnah.com/bukhari:4922?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:4922"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1275,7 +1275,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "395",
-      "ref_url": "https://sunnah.com/muslim:395?lang=ur"
+      "ref_url": "https://mohaddis.com/View/Muslim/T2/395"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1379,7 +1379,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "4770",
-      "ref_url": "https://sunnah.com/bukhari:4770?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:4770"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1469,7 +1469,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1727,7 +1727,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1915,7 +1915,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2117,7 +2117,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2382,7 +2382,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2514,7 +2514,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2625,7 +2625,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2701,7 +2701,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2833,7 +2833,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2909,7 +2909,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3020,7 +3020,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3124,7 +3124,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3221,7 +3221,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3311,7 +3311,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3401,7 +3401,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3498,7 +3498,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3581,7 +3581,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4070,7 +4070,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4419,7 +4419,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4509,7 +4509,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4669,7 +4669,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4878,7 +4878,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4989,7 +4989,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5072,7 +5072,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5204,7 +5204,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5539,7 +5539,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -5657,7 +5657,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6062,7 +6062,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6432,7 +6432,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6627,7 +6627,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -6801,7 +6801,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -7241,7 +7241,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -7912,7 +7912,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9409,7 +9409,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9660,7 +9660,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -10296,7 +10296,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -10890,7 +10890,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -11260,7 +11260,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -12001,7 +12001,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -13001,7 +13001,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -13728,7 +13728,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -15372,7 +15372,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -16078,7 +16078,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -16749,7 +16749,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -17581,7 +17581,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -18399,7 +18399,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -19315,7 +19315,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -20147,7 +20147,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -20895,7 +20895,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -22105,7 +22105,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -23434,7 +23434,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -23727,7 +23727,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -24160,7 +24160,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -24740,7 +24740,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -25390,7 +25390,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -25823,7 +25823,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -26249,7 +26249,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -26927,7 +26927,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -27395,7 +27395,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -27709,7 +27709,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -28009,7 +28009,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -28484,7 +28484,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -28721,7 +28721,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -29546,7 +29546,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -30497,7 +30497,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -30748,7 +30748,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -31167,7 +31167,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -32006,7 +32006,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -32887,7 +32887,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -33152,7 +33152,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -33550,7 +33550,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -33815,7 +33815,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34234,7 +34234,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34597,7 +34597,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -34932,7 +34932,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -35309,7 +35309,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -35497,7 +35497,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -35727,7 +35727,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -36202,7 +36202,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -36740,7 +36740,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -37047,7 +37047,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -39104,7 +39104,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -39684,7 +39684,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -41139,7 +41139,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -41705,7 +41705,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -41851,7 +41851,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43138,7 +43138,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43249,7 +43249,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43507,7 +43507,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -43828,7 +43828,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -44184,7 +44184,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -44785,7 +44785,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45057,7 +45057,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45196,7 +45196,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45307,7 +45307,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -45530,7 +45530,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46033,7 +46033,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46634,7 +46634,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46766,7 +46766,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -46975,7 +46975,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47156,7 +47156,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47295,7 +47295,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47476,7 +47476,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47629,7 +47629,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -47761,7 +47761,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -48019,7 +48019,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -48914,7 +48914,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
@@ -49872,7 +49872,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih al-Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027?lang=ur"
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
