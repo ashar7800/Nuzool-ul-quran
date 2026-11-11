@@ -50,10 +50,38 @@ function formatAcademicCitation(hadith) {
 }
 
 /**
+ * Toggles the Primary Evidence Container between Tafseer o Sharah and Mutalliqah Hadees.
+ * @param {'tafseer' | 'hadith'} tab
+ */
+function switchEvidenceTab(tab) {
+  if (typeof stopAudio === 'function') stopAudio();
+  if (window.speechSynthesis) window.speechSynthesis.cancel();
+  if (typeof resetSpeechBtn === 'function') resetSpeechBtn();
+
+  const btnTafseer = document.getElementById('btn-evidence-tafseer');
+  const btnHadith = document.getElementById('btn-evidence-hadith');
+  const containerTafseer = document.getElementById('container-tafseer-content');
+  const containerHadith = document.getElementById('container-hadith-content');
+
+  if (tab === 'tafseer') {
+    if (btnTafseer) btnTafseer.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-xs";
+    if (btnHadith) btnHadith.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70";
+    if (containerTafseer) containerTafseer.style.display = 'block';
+    if (containerHadith) containerHadith.style.display = 'none';
+  } else {
+    if (btnHadith) btnHadith.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-xs";
+    if (btnTafseer) btnTafseer.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70";
+    if (containerTafseer) containerTafseer.style.display = 'none';
+    if (containerHadith) containerHadith.style.display = 'block';
+  }
+}
+
+/**
  * Renders the Themes & Actionable Lessons card.
  * Maintains clean dual-direction layout:
  * - English/Roman Topic on Left (LTR) vs Urdu Topic on Right (RTL)
  * - Number badges (1, 2, 3) on Left, Urdu text RTL on Right, Roman text LTR below
+ * - Compact, crisp spacing
  *
  * @param {Object} item - Surah or Episode object
  */
@@ -73,20 +101,20 @@ function renderLessonsCard(item) {
     const lessons = item.lessons || [];
     if (lessons.length > 0) {
       lessonsContainer.innerHTML = lessons.map((l, idx) => `
-        <div class="bg-white/95 p-2.5 sm:p-3 rounded-lg border border-stone-200/80 shadow-2xs space-y-1.5">
+        <div class="bg-white/95 px-2.5 py-1.5 rounded-lg border border-stone-200/70 shadow-2xs space-y-1">
           <!-- Top Row: Number Badge (Left) and Urdu Nastaliq Text (Right, RTL) -->
-          <div class="flex items-start justify-between gap-2.5">
-            <span class="w-5 h-5 rounded-full bg-emerald-100 text-emerald-800 text-[11px] font-bold flex items-center justify-center shrink-0 mt-0.5 shadow-2xs" dir="ltr">
+          <div class="flex items-start justify-between gap-2">
+            <span class="w-4.5 h-4.5 rounded-full bg-emerald-100 text-emerald-800 text-[10px] font-bold flex items-center justify-center shrink-0 mt-0.5 shadow-2xs" dir="ltr">
               ${idx + 1}
             </span>
-            <p class="font-urdu text-xs text-stone-800 leading-relaxed text-right flex-1" dir="rtl">
+            <p class="font-urdu text-xs text-stone-800 leading-normal text-right flex-1" dir="rtl">
               ${l.urdu}
             </p>
           </div>
 
           <!-- Bottom Row: Roman Urdu / English Explanation (Always Left-aligned) -->
-          <div class="pl-7 text-left" dir="ltr">
-            <p class="text-[11px] text-stone-600 leading-normal italic text-left" dir="ltr">
+          <div class="pl-6 text-left" dir="ltr">
+            <p class="text-[10.5px] text-stone-600 leading-snug italic text-left" dir="ltr">
               ${l.roman}
             </p>
           </div>
@@ -100,8 +128,9 @@ function renderLessonsCard(item) {
 
 if (typeof window !== 'undefined') {
   window.formatAcademicCitation = formatAcademicCitation;
+  window.switchEvidenceTab = switchEvidenceTab;
   window.renderLessonsCard = renderLessonsCard;
 }
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { formatAcademicCitation, renderLessonsCard };
+  module.exports = { formatAcademicCitation, switchEvidenceTab, renderLessonsCard };
 }

@@ -170,82 +170,150 @@
       </div>
     </section>
 
-    <!-- RIGHT COLUMN: Tafseer o Sharah + Khulasa & Lessons + Mutalliqah Hadees (~29%) -->
-    <aside class="w-full lg:w-[29%] shrink-0 space-y-4">
+    <!-- RIGHT COLUMN: Dual-Engine Evidence Card (Tafseer o Sharah ↔ Mutalliqah Hadees) + Themes & Lessons (~29%) -->
+    <aside class="w-full lg:w-[29%] shrink-0 space-y-3.5">
       
-      <!-- 1. Multi-Tafseer Card (Ab Upar Hai) -->
-      <div class="bg-white border border-stone-200 p-4 rounded-xl shadow-sm space-y-3">
-        <div class="flex items-center justify-between">
-          <div class="flex items-center gap-2">
-            <span class="text-lg">📖</span>
-            <h3 class="text-sm font-bold text-stone-900">Tafseer o Sharah</h3>
-          </div>
-          <button 
-            onclick="playTextSpeech('tafseer-roman', this)" 
-            class="text-[11px] bg-stone-100 hover:bg-stone-200 text-stone-800 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-stone-300"
-          >
-            🔊 Suniye
-          </button>
-        </div>
-
-        <!-- Tafseer Selection Tabs: [ Ibn Kathir ] [ Ahsan-ul-Bayan ] [ Al-Tabari ] [ Tafheem ] -->
-        <div class="grid grid-cols-2 sm:flex sm:flex-wrap gap-1.5 border-b border-stone-200 pb-2">
-          <button 
-            id="tab-ibnkathir" 
-            onclick="switchTafseerTab('ibnKathir')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white text-center"
-          >
-            Ibn Kathir
-          </button>
-          <button 
-            id="tab-ahsanbayan" 
-            onclick="switchTafseerTab('ahsanBayan')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
-          >
-            Ahsan-ul-Bayan
-          </button>
-          <button 
-            id="tab-tabari" 
-            onclick="switchTafseerTab('tabari')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
-          >
-            Al-Tabari
-          </button>
-          <button 
-            id="tab-maududi" 
-            onclick="switchTafseerTab('maududi')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
-          >
-            Tafheem
-          </button>
-        </div>
-
-        <!-- Tafseer Content Area -->
-        <p id="tafseer-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-stone-100 pb-2.5" dir="rtl"></p>
-        <p id="tafseer-roman" class="text-xs text-stone-600 leading-relaxed text-left"></p>
+      <!-- 1. Primary Dual-Engine Evidence Card (Tafseer o Sharah ↔ Mutalliqah Hadees) -->
+      <div class="bg-white border border-stone-200 p-3.5 sm:p-4 rounded-xl shadow-sm space-y-3">
         
-        <!-- Tafseer Reference Footnote -->
-        <div class="pt-2 border-t border-stone-200 flex items-center justify-between text-[11px] text-stone-600 gap-2">
-          <div class="truncate"><span class="font-bold text-stone-700">Mufassir:</span> <span id="tafseer-author"></span></div>
-          <div class="shrink-0 flex items-center gap-1">
-            <span class="font-bold text-stone-700">Kitab:</span> 
-            <a 
-              id="tafseer-ref-link" 
-              href="#" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              class="inline-flex items-center gap-1 text-emerald-800 hover:text-emerald-950 hover:underline font-semibold bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded transition group shadow-2xs"
-              title="Asal Urdu Tafseer naye tab me dekhiye"
+        <!-- Primary View Toggle Header: [ 📖 Tafseer o Sharah ]  [ 📜 Mutalliqah Hadees ] -->
+        <div class="bg-stone-100 p-1 rounded-lg flex items-center gap-1 border border-stone-200 shadow-2xs">
+          <button 
+            id="btn-evidence-tafseer" 
+            onclick="switchEvidenceTab('tafseer')"
+            class="flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-xs"
+          >
+            <span>📖</span>
+            <span>Tafseer o Sharah</span>
+          </button>
+          <button 
+            id="btn-evidence-hadith" 
+            onclick="switchEvidenceTab('hadith')"
+            class="flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70"
+          >
+            <span>📜</span>
+            <span>Mutalliqah Hadees</span>
+          </button>
+        </div>
+
+        <!-- ENGINE A: Tafseer o Sharah Container (Default Active) -->
+        <div id="container-tafseer-content" class="space-y-2.5">
+          <!-- Tafseer Selection Tabs: [ Ibn Kathir ] [ Ahsan-ul-Bayan ] [ Al-Tabari ] [ Tafheem ] + Audio Button -->
+          <div class="flex items-center justify-between gap-1 border-b border-stone-100 pb-2 flex-wrap">
+            <div class="grid grid-cols-2 sm:flex sm:flex-wrap gap-1">
+              <button 
+                id="tab-ibnkathir" 
+                onclick="switchTafseerTab('ibnKathir')" 
+                class="text-[11px] px-2 py-0.5 rounded font-semibold transition bg-emerald-800 text-white text-center"
+              >
+                Ibn Kathir
+              </button>
+              <button 
+                id="tab-ahsanbayan" 
+                onclick="switchTafseerTab('ahsanBayan')" 
+                class="text-[11px] px-2 py-0.5 rounded font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
+              >
+                Ahsan-ul-Bayan
+              </button>
+              <button 
+                id="tab-tabari" 
+                onclick="switchTafseerTab('tabari')" 
+                class="text-[11px] px-2 py-0.5 rounded font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
+              >
+                Al-Tabari
+              </button>
+              <button 
+                id="tab-maududi" 
+                onclick="switchTafseerTab('maududi')" 
+                class="text-[11px] px-2 py-0.5 rounded font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
+              >
+                Tafheem
+              </button>
+            </div>
+            <button 
+              onclick="playTextSpeech('tafseer-roman', this)" 
+              class="text-[11px] bg-stone-100 hover:bg-stone-200 text-stone-800 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-stone-300 shadow-2xs shrink-0"
             >
-              <span id="tafseer-ref"></span>
-              <span class="text-[10px] text-emerald-600 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform">↗</span>
-            </a>
+              🔊 Suniye
+            </button>
+          </div>
+
+          <!-- Tafseer Content Area (Scrollable without stretching viewport) -->
+          <div class="max-h-[220px] overflow-y-auto space-y-2 pr-1">
+            <p id="tafseer-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-stone-100 pb-2" dir="rtl"></p>
+            <p id="tafseer-roman" class="text-xs text-stone-600 leading-relaxed text-left"></p>
+          </div>
+          
+          <!-- Tafseer Reference Footnote -->
+          <div class="pt-2 border-t border-stone-200 flex items-center justify-between text-[11px] text-stone-600 gap-2">
+            <div class="truncate"><span class="font-bold text-stone-700">Mufassir:</span> <span id="tafseer-author"></span></div>
+            <div class="shrink-0 flex items-center gap-1">
+              <span class="font-bold text-stone-700">Kitab:</span> 
+              <a 
+                id="tafseer-ref-link" 
+                href="#" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="inline-flex items-center gap-1 text-emerald-800 hover:text-emerald-950 hover:underline font-semibold bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded transition group shadow-2xs"
+                title="Asal Urdu Tafseer naye tab me dekhiye"
+              >
+                <span id="tafseer-ref"></span>
+                <span class="text-[10px] text-emerald-600 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform">↗</span>
+              </a>
+            </div>
           </div>
         </div>
+
+        <!-- ENGINE B: Mutalliqah Hadees Container (Toggled via Top Button) -->
+        <div id="container-hadith-content" class="space-y-2.5" style="display: none;">
+          <!-- Hadith Header: Title / Grade Badge + Audio Button -->
+          <div class="flex items-center justify-between border-b border-stone-100 pb-2">
+            <div class="flex items-center gap-2">
+              <span class="text-xs font-bold text-emerald-950 uppercase tracking-wide">Hadith Reference</span>
+              <span id="hadith-grade" class="text-[10px] bg-emerald-100 text-emerald-900 px-1.5 py-0.5 rounded font-bold border border-emerald-200">Sahih</span>
+            </div>
+            <button 
+              onclick="playTextSpeech('hadith-roman', this)" 
+              class="text-[11px] bg-emerald-100 hover:bg-emerald-200 text-emerald-900 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-emerald-300 shadow-2xs shrink-0"
+            >
+              🔊 Suniye
+            </button>
+          </div>
+
+          <!-- Hadith Text Scroll Container -->
+          <div class="max-h-[220px] overflow-y-auto space-y-2 pr-1">
+            <p id="hadith-arabic" class="font-arabic text-base text-stone-900 text-right leading-loose border-b border-emerald-100 pb-1.5" dir="rtl"></p>
+            <p id="hadith-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-emerald-100 pb-1.5" dir="rtl"></p>
+            <p id="hadith-roman" class="text-xs text-stone-600 italic leading-relaxed text-left"></p>
+          </div>
+
+          <!-- Hadith Academic Footnote -->
+          <div class="pt-2 border-t border-emerald-200/60 space-y-1.5 text-xs text-emerald-900">
+            <div class="flex items-center justify-between gap-2 flex-wrap">
+              <a 
+                id="hadith-source-link" 
+                href="#" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="inline-flex items-center gap-1.5 font-semibold text-emerald-900 hover:text-emerald-950 hover:underline bg-emerald-100/80 hover:bg-emerald-200/90 border border-emerald-300/80 px-2.5 py-1 rounded-md shadow-2xs transition group cursor-pointer text-xs"
+                title="Asal Hadees o Urdu Tarjuma naye tab mein dekhiye"
+              >
+                <span id="hadith-source"></span>
+                <span class="text-[11px] font-bold text-emerald-700 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform shrink-0">↗</span>
+              </a>
+              <span id="hadith-chapter" class="font-medium text-emerald-800 text-[11px] bg-emerald-100/70 px-2 py-0.5 rounded border border-emerald-200/60 truncate max-w-[200px]" title=""></span>
+            </div>
+            <div class="flex items-center justify-between text-[11px] text-emerald-800">
+              <span id="hadith-narrator" class="italic"></span>
+              <span id="hadith-grading-authority" class="font-semibold text-emerald-900 bg-emerald-100/60 px-1.5 py-0.5 rounded"></span>
+            </div>
+          </div>
+        </div>
+
       </div>
 
-      <!-- 2. Khulasa-e-Kalam & Actionable Lessons Card -->
-      <div class="bg-gradient-to-br from-white to-emerald-50/40 border border-emerald-200/80 p-4 rounded-xl shadow-sm space-y-3">
+      <!-- 2. Khulasa-e-Kalam & Actionable Lessons Card (Compact & Crisp) -->
+      <div class="bg-gradient-to-br from-white to-emerald-50/40 border border-emerald-200/80 p-3 sm:p-3.5 rounded-xl shadow-sm space-y-2.5">
         <!-- 1. Card Header: English Title (Left) vs Nastaliq Urdu Title + Lightbulb Icon (Right) -->
         <div class="flex items-center justify-between">
           <!-- Left side: English Title / Badge -->
@@ -254,86 +322,42 @@
           </span>
 
           <!-- Right side: Nastaliq Urdu Title + Lightbulb Icon -->
-          <div class="flex items-center gap-2" dir="rtl">
-            <span class="text-lg">💡</span>
-            <h3 class="font-urdu text-sm font-bold text-emerald-950">خلاصۂ کلام و عملی اسباق</h3>
+          <div class="flex items-center gap-1.5" dir="rtl">
+            <span class="text-base">💡</span>
+            <h3 class="font-urdu text-xs sm:text-sm font-bold text-emerald-950">خلاصۂ کلام و عملی اسباق</h3>
           </div>
         </div>
 
         <!-- 2. Topic / Mauzoo Section: English/Roman Topic (Left) vs موضوع: Urdu Topic (Right) -->
-        <div class="bg-emerald-50/90 border border-emerald-200/70 rounded-lg p-2.5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
+        <div class="bg-emerald-50/90 border border-emerald-200/70 rounded-lg px-2.5 py-1.5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-1.5 text-xs">
           <!-- Left side: English/Roman topic text (text-left / LTR) -->
           <div class="text-left flex items-center gap-1.5 min-w-0" dir="ltr">
-            <span class="text-[10px] font-bold text-emerald-800 bg-emerald-100/90 border border-emerald-200/80 px-1.5 py-0.5 rounded uppercase tracking-wide shrink-0">
+            <span class="text-[9px] font-bold text-emerald-800 bg-emerald-100/90 border border-emerald-200/80 px-1.5 py-0.5 rounded uppercase tracking-wide shrink-0">
               Topic
             </span>
-            <span id="theme-roman" class="text-xs text-emerald-950 font-semibold leading-relaxed"></span>
+            <span id="theme-roman" class="text-[11px] text-emerald-950 font-semibold leading-snug"></span>
           </div>
 
           <!-- Right side: "موضوع:" label aur Urdu text (text-right / RTL) -->
-          <div class="flex items-center gap-1.5 text-right w-full sm:w-auto justify-end shrink-0" dir="rtl">
-            <span class="font-urdu text-xs font-bold text-emerald-800 shrink-0">موضوع:</span>
-            <span id="theme-urdu" class="font-urdu text-xs text-emerald-950 font-semibold leading-relaxed"></span>
+          <div class="flex items-center gap-1 text-right w-full sm:w-auto justify-end shrink-0" dir="rtl">
+            <span class="font-urdu text-[11px] font-bold text-emerald-800 shrink-0">موضوع:</span>
+            <span id="theme-urdu" class="font-urdu text-[11px] text-emerald-950 font-semibold leading-snug"></span>
           </div>
         </div>
 
         <!-- 3. Sub-heading: Actionable Takeaways (Left) vs اہم عملی ہدایات (Right) -->
-        <div class="space-y-2 pt-0.5">
-          <div class="flex justify-between items-center border-b border-emerald-100/80 pb-1.5">
+        <div class="space-y-1.5 pt-0.5">
+          <div class="flex justify-between items-center border-b border-emerald-100/80 pb-1">
             <span class="text-[10px] font-bold text-stone-500 uppercase tracking-wider flex items-center gap-1" dir="ltr">
               <span>✨</span>
               <span>Actionable Takeaways</span>
             </span>
-            <span class="font-urdu text-xs font-bold text-emerald-900" dir="rtl">
+            <span class="font-urdu text-[11px] font-bold text-emerald-900" dir="rtl">
               اہم عملی ہدایات
             </span>
           </div>
-          <div id="lessons-container" class="space-y-2">
+          <div id="lessons-container" class="space-y-1.5 max-h-[220px] overflow-y-auto pr-1">
             <!-- Populated dynamically by renderLessonsCard() -->
-          </div>
-        </div>
-      </div>
-
-      <!-- 3. Mutalliqah Hadees Card -->
-      <div class="bg-emerald-50/70 border border-emerald-200 p-4 rounded-xl shadow-sm space-y-3">
-        <div class="flex items-center justify-between">
-          <div class="flex items-center gap-2">
-            <span class="text-lg">📚</span>
-            <h3 class="text-sm font-bold text-emerald-950">Mutalliqah Hadees</h3>
-          </div>
-          <div class="flex items-center gap-1.5">
-            <button 
-              onclick="playTextSpeech('hadith-roman', this)" 
-              class="text-[11px] bg-emerald-200 hover:bg-emerald-300 text-emerald-950 px-2 py-0.5 rounded font-semibold transition flex items-center gap-1 border border-emerald-300"
-            >
-              🔊 Suniye
-            </button>
-            <span id="hadith-grade" class="text-[10px] bg-emerald-200/80 text-emerald-900 px-1.5 py-0.5 rounded font-bold">Sahih</span>
-          </div>
-        </div>
-
-        <p id="hadith-arabic" class="font-arabic text-base text-stone-900 text-right leading-loose border-b border-emerald-200/50 pb-2" dir="rtl"></p>
-        <p id="hadith-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-emerald-200/50 pb-2" dir="rtl"></p>
-        <p id="hadith-roman" class="text-xs text-stone-600 italic leading-relaxed text-left"></p>
-
-        <div class="pt-2 border-t border-emerald-200/60 space-y-2 text-xs text-emerald-900">
-          <div class="flex items-center justify-between gap-2 flex-wrap">
-            <a 
-              id="hadith-source-link" 
-              href="#" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              class="inline-flex items-center gap-1.5 font-semibold text-emerald-900 hover:text-emerald-950 hover:underline bg-emerald-100/80 hover:bg-emerald-200/90 border border-emerald-300/80 px-2.5 py-1 rounded-md shadow-2xs transition group cursor-pointer text-xs"
-              title="Asal Hadees o Urdu Tarjuma naye tab mein dekhiye"
-            >
-              <span id="hadith-source"></span>
-              <span class="text-[11px] font-bold text-emerald-700 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform shrink-0">↗</span>
-            </a>
-            <span id="hadith-chapter" class="font-medium text-emerald-800 text-[11px] bg-emerald-100/70 px-2 py-0.5 rounded border border-emerald-200/60 truncate max-w-[200px]" title=""></span>
-          </div>
-          <div class="flex items-center justify-between text-[11px] text-emerald-800">
-            <span id="hadith-narrator" class="italic"></span>
-            <span id="hadith-grading-authority" class="font-semibold text-emerald-900 bg-emerald-100/60 px-1.5 py-0.5 rounded"></span>
           </div>
         </div>
       </div>
@@ -373,6 +397,7 @@
     let currentViewMode = "surah"; // "surah" | "wahi"
     let currentReciterFolder = "Hani_Rifai_192kbps";
     let activeTafseerSource = "ibnKathir";
+    let activeEvidenceTab = "tafseer"; // "tafseer" | "hadith"
     
     let currentSurahIndex = 0;
     let currentEpisodeIndex = 0;
@@ -380,6 +405,31 @@
     let currentAudio = null;
     let playingVerseBtn = null;
     let currentSpeakingBtn = null;
+
+    // Dual-Engine Evidence Switcher (Tafseer o Sharah ↔ Mutalliqah Hadees)
+    function switchEvidenceTab(tab) {
+      activeEvidenceTab = tab;
+      stopAudio();
+      window.speechSynthesis.cancel();
+      resetSpeechBtn();
+
+      const btnTafseer = document.getElementById('btn-evidence-tafseer');
+      const btnHadith = document.getElementById('btn-evidence-hadith');
+      const containerTafseer = document.getElementById('container-tafseer-content');
+      const containerHadith = document.getElementById('container-hadith-content');
+
+      if (tab === 'tafseer') {
+        if (btnTafseer) btnTafseer.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-xs";
+        if (btnHadith) btnHadith.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70";
+        if (containerTafseer) containerTafseer.style.display = 'block';
+        if (containerHadith) containerHadith.style.display = 'none';
+      } else {
+        if (btnHadith) btnHadith.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 bg-emerald-800 text-white shadow-xs";
+        if (btnTafseer) btnTafseer.className = "flex-1 py-1.5 px-2 rounded-md text-xs font-bold transition flex items-center justify-center gap-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-200/70";
+        if (containerTafseer) containerTafseer.style.display = 'none';
+        if (containerHadith) containerHadith.style.display = 'block';
+      }
+    }
 
     // View Mode Switcher
     function switchViewMode(mode) {
@@ -595,20 +645,20 @@
         const lessons = item.lessons || [];
         if (lessons.length > 0) {
           lessonsContainer.innerHTML = lessons.map((l, idx) => `
-            <div class="bg-white/95 p-2.5 sm:p-3 rounded-lg border border-stone-200/80 shadow-2xs space-y-1.5">
+            <div class="bg-white/95 px-2.5 py-1.5 rounded-lg border border-stone-200/70 shadow-2xs space-y-1">
               <!-- Top Row: Number Badge (Left) and Urdu Nastaliq Text (Right, RTL) -->
-              <div class="flex items-start justify-between gap-2.5">
-                <span class="w-5 h-5 rounded-full bg-emerald-100 text-emerald-800 text-[11px] font-bold flex items-center justify-center shrink-0 mt-0.5 shadow-2xs" dir="ltr">
+              <div class="flex items-start justify-between gap-2">
+                <span class="w-4.5 h-4.5 rounded-full bg-emerald-100 text-emerald-800 text-[10px] font-bold flex items-center justify-center shrink-0 mt-0.5 shadow-2xs" dir="ltr">
                   ${idx + 1}
                 </span>
-                <p class="font-urdu text-xs text-stone-800 leading-relaxed text-right flex-1" dir="rtl">
+                <p class="font-urdu text-xs text-stone-800 leading-normal text-right flex-1" dir="rtl">
                   ${l.urdu}
                 </p>
               </div>
 
               <!-- Bottom Row: Roman Urdu / English Explanation (Always Left-aligned) -->
-              <div class="pl-7 text-left" dir="ltr">
-                <p class="text-[11px] text-stone-600 leading-normal italic text-left" dir="ltr">
+              <div class="pl-6 text-left" dir="ltr">
+                <p class="text-[10.5px] text-stone-600 leading-snug italic text-left" dir="ltr">
                   ${l.roman}
                 </p>
               </div>
