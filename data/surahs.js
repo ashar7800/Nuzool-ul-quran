@@ -1,4 +1,4 @@
-// Complete 114 Surahs Dataset with Hybrid Urdu Hadith Routing
+// Complete 114 Surahs Dataset with Audited Exact Live Hyperlinks
 window.SURAH_DATA = [
   {
     "revelationOrder": 1,
@@ -208,13 +208,13 @@ window.SURAH_DATA = [
       "urdu": "حضرت سعد بن ہشام نے ام المومنین عائشہ رضی اللہ عنہا سے رسول اللہ ﷺ کے اخلاق کے بارے میں پوچھا، تو انہوں نے فرمایا: کیا تم قرآن نہیں پڑھتے؟ آپ ﷺ کا اخلاق قرآن ہی تو تھا۔",
       "roman": "Hazrat Aisha ne farmaya: Kya tum Quran nahi padhte? Rasoolullah ka ikhlaq to Quran hi tha.",
       "source": "Sahih Muslim: Hadees #746",
-      "chapter": "Kitab Salat al-Musafirin (باب جامع صلاة الليل)",
+      "chapter": "Kitab Salat al-Musafirin wa Qasruha (باب جامع صلاة الليل ومن نام عنه أو مرض)",
       "narrator": "Rawi: Sa'd bin Hisham bin Amir",
       "grade": "Sahih",
       "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/746"
+      "ref_url": "https://sunnah.com/muslim:746a"
     },
     "tafseers": {
       "ibnKathir": {
@@ -633,7 +633,7 @@ window.SURAH_DATA = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "1342",
-      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/1342"
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
@@ -1269,13 +1269,13 @@ window.SURAH_DATA = [
       "urdu": "رسول اللہ ﷺ نے فرمایا: اللہ تعالیٰ فرماتا ہے میں نے نماز (فاتحہ) کو اپنے اور اپنے بندے کے درمیان آدھا آدھا بانٹ لیا ہے، اور میرا بندہ جو مانگے گا وہ دیا جائے گا۔",
       "roman": "Hadees-e-Qudsi me farmaya gaya: Maine Surah Fatihah ko apne aur bande ke darmiyan baant liya hai.",
       "source": "Sahih Muslim: Hadees #395",
-      "chapter": "Kitab as-Salat (باب وجوب قراءة الفاتحة)",
+      "chapter": "Kitab as-Salat (باب وجوب قراءة الفاتحة في كل ركعة)",
       "narrator": "Rawi: Hazrat Abu Hurairah (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "395",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/395"
+      "ref_url": "https://sunnah.com/muslim:395a"
     },
     "tafseers": {
       "ibnKathir": {

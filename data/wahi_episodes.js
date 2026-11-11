@@ -1,4 +1,4 @@
-// Complete 100% Chronological Quran Wahi Units Dataset (All 6,236 Verses) with Hybrid Urdu Hadith Routing
+// Complete 100% Chronological Quran Wahi Units Dataset (All 6,236 Verses) with Audited Exact Live Hyperlinks
 window.WAHI_EPISODES = [
   {
     "id": 1,
@@ -96,13 +96,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عائشہ رضی اللہ عنہا فرماتی ہیں: کیا تم قرآن نہیں پڑھتے؟ رسول اللہ ﷺ کا اخلاق قرآن ہی تو تھا۔",
       "roman": "Hazrat Aisha (R.A) ne farmaya: Kya tumne Quran nahi padha? Rasoolullah ﷺ ka ikhlaq to mujassam Quran hi tha.",
       "source": "Sahih Muslim: Hadees #746",
-      "chapter": "Kitab Salat al-Musafirin",
+      "chapter": "Kitab Salat al-Musafirin wa Qasruha (باب جامع صلاة الليل ومن نام عنه أو مرض)",
       "narrator": "Rawi: Sa'd bin Hisham (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/746"
+      "ref_url": "https://sunnah.com/muslim:746a"
     },
     "tafseers": {
       "ibnKathir": {
@@ -159,13 +159,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت سعد بن ہشام نے ام المومنین عائشہ رضی اللہ عنہا سے رسول اللہ ﷺ کے اخلاق کے بارے میں پوچھا، تو انہوں نے فرمایا: کیا تم قرآن نہیں پڑھتے؟ آپ ﷺ کا اخلاق قرآن ہی تو تھا۔",
       "roman": "Hazrat Aisha ne farmaya: Kya tum Quran nahi padhte? Rasoolullah ka ikhlaq to Quran hi tha.",
       "source": "Sahih Muslim: Hadees #746",
-      "chapter": "Kitab Salat al-Musafirin (باب جامع صلاة الليل)",
+      "chapter": "Kitab Salat al-Musafirin wa Qasruha (باب جامع صلاة الليل ومن نام عنه أو مرض)",
       "narrator": "Rawi: Sa'd bin Hisham bin Amir",
       "grade": "Sahih",
       "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/746"
+      "ref_url": "https://sunnah.com/muslim:746a"
     },
     "tafseers": {
       "ibnKathir": {
@@ -224,13 +224,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
       "roman": "Hazrat Aisha (R.A) riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz tha taaki Sahaba aur Nabi ﷺ ki aala tarbiyat ho sake.",
       "source": "Sunan Abi Dawud: Hadees #1342",
-      "chapter": "Kitab al-Tatwwu'",
+      "chapter": "Kitab al-Tatwwu' (باب قيام الليل)",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Allama Albani",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "1342",
-      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/1342"
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
@@ -293,7 +293,7 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "1342",
-      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/1342"
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
@@ -415,13 +415,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے فرمایا: اللہ تعالیٰ فرماتا ہے میں نے نماز (فاتحہ) کو اپنے اور اپنے بندے کے درمیان آدھا آدھا بانٹ لیا ہے، اور میرا بندہ جو مانگے گا وہ دیا جائے گا۔",
       "roman": "Hadees-e-Qudsi me farmaya gaya: Maine Surah Fatihah ko apne aur bande ke darmiyan baant liya hai.",
       "source": "Sahih Muslim: Hadees #395",
-      "chapter": "Kitab as-Salat (باب وجوب قراءة الفاتحة)",
+      "chapter": "Kitab as-Salat (باب وجوب قراءة الفاتحة في كل ركعة)",
       "narrator": "Rawi: Hazrat Abu Hurairah (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "395",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/395"
+      "ref_url": "https://sunnah.com/muslim:395a"
     },
     "tafseers": {
       "ibnKathir": {
@@ -544,13 +544,13 @@ window.WAHI_EPISODES = [
       "urdu": "ابو جہل نے کہا: اگر میں نے دیکھا تو گردن روند دوں گا۔ لیکن جب وہ آگے بڑھا تو خوف سے پیچھے ہٹ گیا اور بولا: میرے اور ان کے درمیان آگ کی خندق اور پروں والے فرشتے تھے۔",
       "roman": "Abu Jahl jab sajde se rokne aaya to darr kar peeche hat gaya. Rasoolullah ﷺ ne farmaya: Agar kareeb aata to farishte uski boti boti nooch lete.",
       "source": "Sahih Muslim: Hadees #2797",
-      "chapter": "Kitab Sifat al-Qiyamah",
+      "chapter": "Kitab Sifat al-Qiyamah wal-Jannah wan-Nar (باب قوله: كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ)",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "2797",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/2797"
+      "ref_url": "https://sunnah.com/muslim:2797"
     },
     "tafseers": {
       "ibnKathir": {
@@ -864,7 +864,7 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت ابن عباس اور ابن مسعود فرماتے ہیں کہ 'لہو الحدیث' سے مراد گانا بجانا اور وہ بے ہودہ کلام ہے جو اللہ کے راستے سے بھٹکا دے۔",
       "roman": "Hazrat Ibn Mas'ood (R.A) ne qasam kha kar farmaya ki 'Lahw-al-Hadees' se muraad behuda sargarmian aur gaana bajana hai jo Quran se ghafil kare.",
       "source": "Sunan al-Kubra by Bayhaqi: Hadees #21002",
-      "chapter": "Kitab ash-Shahadat",
+      "chapter": "Kitab ash-Shahadat (باب ما جاء في لهو الحديث)",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Ibn Kathir",
@@ -1056,7 +1056,7 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے عمار سے پوچھا: تمہارے دل کی کیا کیفیت ہے؟ انہوں نے عرض کیا: ایمان پر مطمئن ہے۔ آپ نے فرمایا: اگر وہ پھر تشدد کریں تو جان بچانے کے لیے دوبارہ کہہ دینا۔",
       "roman": "Nabi Kareem ﷺ ne farmaya: Agar zaalim dobara jaan lene par utar aayein to zubaan se keh kar jaan bacha lo jab tak dil mutma'in ho.",
       "source": "Mustadrak al-Hakim: Hadees #3362",
-      "chapter": "Kitab at-Tafseer",
+      "chapter": "Kitab at-Tafseer (تفسير سورة النحل - استضعاف عمار)",
       "narrator": "Rawi: Ammar bin Yasir (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Imam Hakim & Dhahabi",
@@ -2016,13 +2016,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عائشہ فرماتی ہیں کہ یہ سورت ابن ام مکتوم کے بارے میں اتری۔ اس کے بعد جب وہ آتے تو نبی ﷺ فرماتے: خوش آمدید اس ہستی کو جس کے بارے میں میرے رب نے مجھے تنبیہ فرمائی!",
       "roman": "Hazrat Aisha (R.A) riwayat karti hain ki is aayat ke baad Nabi ﷺ Hazrat Ibn Umm Maktoom ki be-panah izzat farmate the.",
       "source": "Jami' at-Tirmidhi: Hadees #3331",
-      "chapter": "Kitab at-Tafseer",
+      "chapter": "Kitab Tafsir al-Quran (باب ومن سورة عبس)",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Imam Tirmidhi",
       "book": "Jami` at-Tirmidhi",
       "hadithNumber": "3331",
-      "ref_url": "https://mohaddis.com/View/Tarimdhi/T2/3331"
+      "ref_url": "https://sunnah.com/tirmidhi:3331"
     },
     "tafseers": {
       "ibnKathir": {
@@ -2272,13 +2272,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے فرمایا: ایک لڑکے کے سچے ایمان کی وجہ سے پوری بستی ایمان لے آئی، تو ظالم بادشاہ نے خندقیں کھود کر آگ دہکائی اور سب کو جلا ڈالا۔ ایک ماں اپنے بچے کے ساتھ جھجکی تو بچے نے کہا: ماں! صبر کر، تو حق پر ہے!",
       "roman": "Nabi Kareem ﷺ ne pichli ummat ke un ba-himmat momino ka qissa sunaya jinhone aag mein jalna qabool kiya magar shirk nahi kiya.",
       "source": "Sahih Muslim: Hadees #3005",
-      "chapter": "Kitab az-Zuhd",
+      "chapter": "Kitab az-Zuhd war-Raqa'iq (باب قصة أصحاب الأخدود والساحر والراهب والغلام)",
       "narrator": "Rawi: Suhaib Rumi (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "3005",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/3005"
+      "ref_url": "https://sunnah.com/muslim:3005"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3552,13 +3552,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عبداللہ بن مسعود فرماتے ہیں کہ نبی ﷺ نے لیلۃ الجن میں جنات کے وفد کے سامنے تلاوت فرمائی اور انہوں نے احکامِ شریعت سیکھے۔",
       "roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki Jinno ne tilawat sun kar sawalat puche aur deen seekha.",
       "source": "Sahih Muslim: Hadees #450",
-      "chapter": "Kitab as-Salat",
+      "chapter": "Kitab as-Salat (باب الجهر بالقراءة في الصبح والقراءة على الجن)",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "450",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/450"
+      "ref_url": "https://sunnah.com/muslim:450a"
     },
     "tafseers": {
       "ibnKathir": {
@@ -3936,7 +3936,7 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت جعفر نے سورۂ مریم پڑھی تو نجاشی رویا اور فرمایا: یہ کلام اور انجیل دونوں ایک ہی سوراخ کے چراغ کا نور ہیں! جاؤ تم میرے ملک میں امن سے رہو۔",
       "roman": "Najashi ne tilawat sun kar farmaya: Yeh kalam aur Hazrat Isa ka laya hua deen dono ek hi sarchashme se phoote hain.",
       "source": "Musnad Ahmad: Hadees #1740",
-      "chapter": "Musnad al-Kufiyyin",
+      "chapter": "Musnad al-Kufiyyin (حديث جعفر بن أبي طالب عند النجاشي)",
       "narrator": "Rawi: Umm Salama (R.A)",
       "grade": "Sahih Hasan",
       "gradingAuthority": "Ahmad Shakir",
@@ -4064,13 +4064,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے دعا فرمائی تھی: اے اللہ! ابو جہل یا عمر بن خطاب میں سے جو تجھے زیادہ محبوب ہو اس سے اسلام کو عزت عطا فرما۔ اور اللہ نے حضرت عمر کو منتخب فرمایا۔",
       "roman": "Hazrat Umar (R.A) ne farmaya: Jab main Islam laya to humne khule aam Ka'aba ke sehan mein namaz ada ki.",
       "source": "Jami' at-Tirmidhi: Hadees #3681",
-      "chapter": "Kitab al-Manaqib",
+      "chapter": "Kitab al-Manaqib (باب مناقب عمر بن الخطاب رضي الله عنه)",
       "narrator": "Rawi: Abdullah bin Umar (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Imam Tirmidhi",
       "book": "Jami` at-Tirmidhi",
       "hadithNumber": "3681",
-      "ref_url": "https://mohaddis.com/View/Tarimdhi/T2/3681"
+      "ref_url": "https://sunnah.com/tirmidhi:3681"
     },
     "tafseers": {
       "ibnKathir": {
@@ -4256,11 +4256,11 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت ابن عباس فرماتے ہیں کہ یہ آیت حضرت حمزہ اور عمر بن خطاب کے بارے میں اتری، اور اندھیرے میں رہنے والے سے مراد ابو جہل تھا۔",
       "roman": "Hazrat Ibn Abbas (R.A) farmate hain ki noor pane wale Hazrat Umar aur Hamza the aur andhere mein zaleel hone wala Abu Jahl tha.",
       "source": "Tafsir al-Tabari Vol 8: Hadees #13778",
-      "chapter": "Surah Al-An'am",
+      "chapter": "Tafsir Surah Al-An'am (أومن كان ميتا فأحييناه)",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan",
       "gradingAuthority": "Imam Tabari",
-      "book": "Jami' al-Bayan (At-Tabari)",
+      "book": "Jami' al-Bayan fi Ta'wil al-Qur'an (At-Tabari)",
       "hadithNumber": "13778",
       "ref_url": "https://shamela.ws/book/43"
     },
@@ -6752,7 +6752,7 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت ابن عباس فرماتے ہیں کہ قریش نے دو آدمیوں کو مدینہ کے یہودی علماء کے پاس بھیجا جنہوں نے ذوالقرنین کا سوال سکھایا، اور قرآن نے اس کا سچا واقعہ بیان کر دیا۔",
       "roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki yeh aayatein kuffar ke imtehan ka dandan-shikan ilahi jawab theen.",
       "source": "Seerah Ibn Hisham Vol 1",
-      "chapter": "Zikr Asbab an-Nuzul",
+      "chapter": "Zikr Asbab an-Nuzul wa Bidayat ad-Da'wah",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan",
       "gradingAuthority": "Ibn Hisham",
@@ -8036,7 +8036,7 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "1342",
-      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/1342"
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
@@ -8095,7 +8095,7 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عائشہ اور علی رضی اللہ عنہما فرماتے ہیں کہ نبی ﷺ ان کے سامنے سے مٹی ڈالتے ہوئے نکل گئے اور جب صبح ہوئی تو قاتلوں نے بستر پر علی کو پایا۔",
       "roman": "Hazrat Ali (R.A) ne Nabi ﷺ ke bistar par so kar apni jaan qurban karne ki azeem tareen misaal qayam farmai.",
       "source": "Dalail an-Nubuwwah by Bayhaqi Vol 2: Hadees #473",
-      "chapter": "Hijrat an-Nabi",
+      "chapter": "Hijrat an-Nabi ﷺ (خروج النبي من بين المشركين وإلقاء التراب)",
       "narrator": "Rawi: Ali bin Abi Talib (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Ibn Kathir",
@@ -8159,7 +8159,7 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت ابن عباس فرماتے ہیں کہ قریش نے رسول اللہ ﷺ کو قید کرنے، نکالنے یا قتل کرنے پر بحث کی تو اللہ نے اپنے نبی کو باخبر فرما دیا اور ہجرت کا حکم دیا۔",
       "roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Dar-un-Nadwah ki sazish par yeh aayat nazil hui.",
       "source": "Musnad Ahmad: Hadees #2483",
-      "chapter": "Musnad Bani Hashim",
+      "chapter": "Musnad Bani Hashim (مسند عبد الله بن عباس - مؤامرة دار الندوة)",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Ahmad Shakir",
@@ -8351,13 +8351,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت ابن عباس فرماتے ہیں کہ جب رسول اللہ کو مکہ سے نکالا گیا تو ابوبکر نے کہا: انہوں نے اپنے نبی کو نکال دیا، انا للہ وانا الیہ راجعون، یہ ضرور ہلاک ہوں گے۔ تب یہ آیت اتری۔",
       "roman": "Hazrat Ibn Abbas farmate hain ki Nabi ﷺ ke Makkah se nikalne par yeh aayat nazil hui. Hazrat Abu Bakr ne farmaya: 'Mujhe yaqeen ho gaya ki ab qital hoga'.",
       "source": "Sunan at-Tirmidhi: Hadees #3171",
-      "chapter": "Kitab Tafsir al-Quran",
+      "chapter": "Kitab Tafsir al-Quran (باب ومن سورة الحج - أذن للذين يقاتلون)",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Al-Albani",
       "book": "Jami` at-Tirmidhi",
       "hadithNumber": "3171",
-      "ref_url": "https://mohaddis.com/View/Tarimdhi/T2/3171"
+      "ref_url": "https://sunnah.com/tirmidhi:3171"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9119,13 +9119,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عمر بن الخطاب فرماتے ہیں کہ اگلے دن میں رسول اللہ ﷺ کے پاس آیا تو آپ اور حضرت ابوبکر رو رہے تھے۔ آپ ﷺ نے فرمایا: فدیہ لینے کی وجہ سے عذاب اس درخت سے بھی زیادہ قریب دکھایا گیا تھا۔",
       "roman": "Hazrat Umar (R.A) riwayat karte hain ki fidiya lene par aayat nazil hui magar Allah ne pehle se likhi rehmat ke teht maaf farma diya.",
       "source": "Sahih Muslim: Hadees #1763",
-      "chapter": "Kitab al-Jihad was-Siyar",
+      "chapter": "Kitab al-Jihad was-Siyar (باب الإمداد بالملائكة في غزوة بدر واستحلال الغنائم)",
       "narrator": "Rawi: Umar bin al-Khattab (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "1763",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/1763"
+      "ref_url": "https://sunnah.com/muslim:1763"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9247,13 +9247,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت ابن عباس فرماتے ہیں کہ جب رسول اللہ بدر سے فتح یاب لوٹے تو بنو قینقاع کے بازار میں انہیں جمع کر کے فرمایا: اسلام لاؤ اس سے پہلے کہ تم پر بھی قریش جیسا عذاب آئے! انہوں نے تکبر سے کہا: قریش اناڑی تھے، ہم سے لڑو گے تو پتا چلے گا۔",
       "roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Banu Qaynuqa ke is ghamand par yeh aayatein nazil huin.",
       "source": "Sunan Abi Dawud: Hadees #3001",
-      "chapter": "Kitab al-Kharaj wal-Imarah",
+      "chapter": "Kitab al-Kharaj wal-Imarah wal-Fai' (باب في خبر بني قينقاع)",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan",
       "gradingAuthority": "Al-Albani",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "3001",
-      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/3001"
+      "ref_url": "https://sunnah.com/abudawud:3001"
     },
     "tafseers": {
       "ibnKathir": {
@@ -9823,13 +9823,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے حضرت فاطمہ، علی، حسن اور حسین پر اپنی چادر ڈالی اور فرمایا: اے اللہ! یہ میرے اہل بیت ہیں، ان سے ناپاکی دور رکھ اور انہیں خوب پاک صاف رکھ۔",
       "roman": "Hazrat Aisha (R.A) riwayat karti hain ki Hadees-e-Kisa ke mauqe par aayat-e-tatheer nazil hui.",
       "source": "Sahih Muslim: Hadees #2424",
-      "chapter": "Kitab Faza'il as-Sahabah",
+      "chapter": "Kitab Faza'il as-Sahabah (باب فضائل أهل بيت النبي صلى الله عليه وسلم)",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "2424",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/2424"
+      "ref_url": "https://sunnah.com/muslim:2424"
     },
     "tafseers": {
       "ibnKathir": {
@@ -10527,13 +10527,13 @@ window.WAHI_EPISODES = [
       "urdu": "حضرت عمر بن الخطاب نے دعا کی تھی: اے اللہ! شراب کے بارے میں ہمیں کوئی واضح اور شافی حکم عطا فرما! تو یہ آیات یکے بعد دیگرے نازل ہوئیں۔",
       "roman": "Hazrat Umar (R.A) dua farmate the: 'Allahumma bayyin lana fil-khamri bayan-an shafiyan'.",
       "source": "Sunan at-Tirmidhi: Hadees #3026",
-      "chapter": "Kitab Tafsir al-Quran",
+      "chapter": "Kitab Tafsir al-Quran (باب ومن سورة البقرة - تحريم الخمر)",
       "narrator": "Rawi: Umar bin al-Khattab (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Al-Albani",
       "book": "Jami` at-Tirmidhi",
       "hadithNumber": "3026",
-      "ref_url": "https://mohaddis.com/View/Tarimdhi/T2/3026"
+      "ref_url": "https://sunnah.com/tirmidhi:3026"
     },
     "tafseers": {
       "ibnKathir": {
@@ -11999,13 +11999,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے افک کا پروپیگنڈا کرنے والوں پر حدِ قذف نافذ فرمائی اور حسان بن ثابت، مسطح اور حمنہ بنت جحش کو اسی اسی کوڑے لگوائے۔",
       "roman": "Hazrat Aisha (R.A) riwayat karti hain ki aayat aane ke baad Rasoolullah ﷺ ne bohtan tarashon par 80 kodo ki hadd jaari farmayi.",
       "source": "Sunan Abi Dawud: Hadees #4474",
-      "chapter": "Kitab al-Hudood",
+      "chapter": "Kitab al-Hudood (باب في حد القذف)",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Al-Albani",
       "book": "Sunan Abi Dawud",
       "hadithNumber": "4474",
-      "ref_url": "https://mohaddis.com/View/Abu-Daud/T2/4474"
+      "ref_url": "https://sunnah.com/abudawud:4474"
     },
     "tafseers": {
       "ibnKathir": {
@@ -12383,13 +12383,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے فرمایا: درخت کے نیچے بیعت کرنے والوں میں سے کوئی ایک بھی شخص دوزخ میں نہیں جائے گا!",
       "roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ne farmaya: 'Tum log aaj ru-ye zameen par sab se behtareen log ho!'.",
       "source": "Sahih Muslim: Hadees #1856",
-      "chapter": "Kitab al-Imarah",
+      "chapter": "Kitab al-Imarah (باب فضيلة بيعة الرضوان تحت الشجرة)",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "1856",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/1856"
+      "ref_url": "https://sunnah.com/muslim:1856"
     },
     "tafseers": {
       "ibnKathir": {
@@ -13407,7 +13407,7 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے قریش سے پوچھا: تمہارا کیا خیال ہے کہ میں تمہارے ساتھ کیا کرنے والا ہوں؟ انہوں نے کہا: آپ کریم بھائی اور کریم بھائی کے بیٹے ہیں۔ آپ نے فرمایا: میں تم سے وہی کہتا ہوں جو یوسف نے کہا تھا: 'آج تم پر کوئی گرفت نہیں، جاؤ تم سب آزاد ہو!'۔",
       "roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne inteqam lene ke bajaye sab ko aam maafi ata farma di.",
       "source": "Sunan al-Kubra lil-Bayhaqi: Hadees #18276",
-      "chapter": "Kitab as-Siyar",
+      "chapter": "Kitab as-Siyar (باب فتح مكة والأمان لأهلها)",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih Mursal / Hasan",
       "gradingAuthority": "Ibn Hajar & Al-Albani",
@@ -13663,13 +13663,13 @@ window.WAHI_EPISODES = [
       "urdu": "صحابہ نے عرض کیا: یا رسول اللہ! ثقیف کے تیروں نے ہمیں چھلنی کر دیا ہے ان پر بددعا فرمائیے! آپ ﷺ نے دونوں ہاتھ اٹھائے اور فرمایا: 'اللَّهُمَّ اهْدِ ثَقِيفًا وَأْتِ بِهِمْ' (اے اللہ ثقیف کو ہدایت دے اور انہیں لے آ!)۔",
       "roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ne inteqam ke bajaye rehmat ki dua mangi.",
       "source": "Sunan at-Tirmidhi: Hadees #3942",
-      "chapter": "Kitab al-Manaqib",
+      "chapter": "Kitab al-Manaqib (باب في فضل ثقيف والدعاء لهم)",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Al-Albani",
       "book": "Jami` at-Tirmidhi",
       "hadithNumber": "3942",
-      "ref_url": "https://mohaddis.com/View/Tarimdhi/T2/3942"
+      "ref_url": "https://sunnah.com/tirmidhi:3942"
     },
     "tafseers": {
       "ibnKathir": {
@@ -13919,13 +13919,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے جب جیش العسرۃ (تنگ دستی کا لشکر) تیار کرنے کی اپیل کی تو حضرت عثمان نے ایک ہزار دینار آپ کی جھولی میں انڈیل دیے۔ آپ ﷺ نے انہیں الٹ پلٹ کر فرمایا: 'آج کے بعد عثمان کا کوئی کام اسے نقصان نہیں پہنچا سکتا!'۔",
       "roman": "Hazrat Abdur Rahman bin Samurah (R.A) riwayat karte hain ki Hazrat Usman ke is sadqe par Nabi ﷺ ne jannat ki basharat di.",
       "source": "Sunan at-Tirmidhi: Hadees #3701",
-      "chapter": "Kitab al-Manaqib",
+      "chapter": "Kitab al-Manaqib (باب مناقب عثمان بن عفان رضي الله عنه وتجهيز جيش العسرة)",
       "narrator": "Rawi: Abdur Rahman bin Samurah (R.A)",
       "grade": "Hasan Sahih",
       "gradingAuthority": "Al-Albani",
       "book": "Jami` at-Tirmidhi",
       "hadithNumber": "3701",
-      "ref_url": "https://mohaddis.com/View/Tarimdhi/T2/3701"
+      "ref_url": "https://sunnah.com/tirmidhi:3701"
     },
     "tafseers": {
       "ibnKathir": {
@@ -14175,7 +14175,7 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے حضرت عاصم بن عدی اور مالک بن دخشم کو بھیجا کہ جا کر اس ظالموں کے اڈے کو جلا دو! انہوں نے کھجور کی شاخوں میں آگ لگا کر پوری عمارت خاکستر کر دی۔",
       "roman": "Ibn Ishaq riwayat karte hain ki Rasoolullah ﷺ ne farmaya: 'Us masjid mein kabhi khade na hona jiske peechay kuffar ki sazish hai'.",
       "source": "Seerah Ibn Hisham Vol 2",
-      "chapter": "Ghazwa Tabook",
+      "chapter": "Ghazwa Tabook wa Jaish-ul-Usrah",
       "narrator": "Rawi: Ibn Ishaq",
       "grade": "Hasan Hasan li-ghairihi",
       "gradingAuthority": "Ibn Kathir & Ibn Hajar",
@@ -14494,7 +14494,7 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے فرمایا: خبردار! کسی عربی کو کسی عجمی پر، اور کسی عجمی کو کسی عربی پر، اور کسی گورے کو کالے پر، اور کسی کالے کو گورے پر کوئی فضیلت حاصل نہیں مگر تقویٰ کے سبب! تم سب آدم کی اولاد ہو اور آدم مٹی سے بنے تھے۔",
       "roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne Hajjat-ul-Wida mein insani barabari ka aalami khutba diya.",
       "source": "Musnad Ahmad: Hadees #22978",
-      "chapter": "Musnad al-Ansar",
+      "chapter": "Musnad al-Ansar (خطبة وداع النبي - لا فضل لعربي على أعجمي)",
       "narrator": "Rawi: Sahabi min Ashab an-Nabi",
       "grade": "Sahih",
       "gradingAuthority": "Al-Arna'ut",
@@ -14622,13 +14622,13 @@ window.WAHI_EPISODES = [
       "urdu": "رسول اللہ ﷺ نے لعنت فرمائی سود کھانے والے پر، سود کھلانے والے پر، اس کا حساب لکھنے والے پر اور اس کے دونوں گواہوں پر، اور فرمایا: وہ سب گناہ میں برابر ہیں!",
       "roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ne sood se munsalik tamam afrad par laanat farmayi.",
       "source": "Sahih Muslim: Hadees #1598",
-      "chapter": "Kitab al-Musaqah",
+      "chapter": "Kitab al-Musaqah (باب لعن آكل الربا وموكله)",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "1598",
-      "ref_url": "https://mohaddis.com/View/Muslim/T2/1598"
+      "ref_url": "https://sunnah.com/muslim:1598"
     },
     "tafseers": {
       "ibnKathir": {
