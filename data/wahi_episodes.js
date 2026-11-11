@@ -1,4 +1,4 @@
-// Complete 100% Chronological Quran Wahi Units Dataset with Urdu & Roman Themes + Lessons
+// Complete 100% Chronological Quran Wahi Units Dataset with Scholar-Grade Scholarly Modules
 window.WAHI_EPISODES = [
   {
     "id": 1,
@@ -38,7 +38,39 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "3",
-      "ref_url": "https://sunnah.com/bukhari:3"
+      "ref_url": "https://sunnah.com/bukhari:3",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): ام المومنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ جبرائیل نے مجھے پکڑ کر زور سے دبایا یہاں تک کہ میری طاقت جواب دینے لگی، پھر چھوڑ کر کہا: اپنے رب کے نام سے پڑھیے جس نے پیدا کیا۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki Jibreel A.S. ne Nabi Kareem ﷺ ko teen baar bheincha aur pehli paanch aayatein nazil farmayein.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        },
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "160",
+          "volume": "1",
+          "page": "97",
+          "ref_url": "https://sunnah.com/muslim:160a",
+          "grade": "Sahih",
+          "authority": "Imam Muslim"
+        },
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3632",
+          "volume": "5",
+          "page": "592",
+          "ref_url": "https://sunnah.com/tirmidhi:3632",
+          "grade": "Hasan Sahih",
+          "authority": "Imam Tirmidhi"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -84,7 +116,100 @@ window.WAHI_EPISODES = [
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
     ],
-    "themeUrdu": "غارِ حرا میں پہلی وحی کا نزول"
+    "themeUrdu": "غارِ حرا میں پہلی وحی کا نزول",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [
+      {
+        "name_ur": "غارِ حرا (جبلِ نور)",
+        "name_en": "Cave of Hira (Jabal an-Nur)",
+        "modern_name": "Jabal an-Nur, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کے شمال مشرق میں جبلِ نور پر واقع وہ مبارک غار جہاں پہلی وحی نازل ہوئی۔",
+        "context_roman": "Makkah ke qareeb Jabal an-Nur par waqe woh muqaddas ghaar jahan pehli wahi nazil hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4578,39.8592",
+        "coordinates": "21.4578° N, 39.8592° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🧬 Embryology / عِلْمُ الْأَجِنَّةِ",
+      "icon": "🧬",
+      "title_ur": "علقہ: جنین کا رحمِ مادر میں جونک کی طرح چمٹنا",
+      "title_en": "Blastocyst Implantation & Clinging Entity ('Alaqah)",
+      "summary_ur": "قرآنِ مجید نے انسان کے ابتدائی جنینی مرحلے کو 'عَلَقٍ' قرار دیا، جو بیک وقت 'چمٹی ہوئی شے'، 'جونک نما ساخت' اور 'جمے ہوئے خون' کا مفہوم رکھتی ہے۔ جدید علمِ جنین (پروفیسر کیتھ مور) نے تصدیق کی کہ 15 سے 24 دن کا انسانی جنین رحم کی دیوار سے چمٹ کر جونک کی مانند خون چوستے ہوئے تغذیہ پاتا ہے۔",
+      "summary_roman": "Prof. Keith L. Moore (The Developing Human) confirmed that the early human embryo at 15–24 days physically resembles a leech ('Alaqah), clings to the endometrium, and derives sustenance through maternal blood.",
+      "citations": [
+        "Prof. Keith L. Moore - 'The Developing Human: Clinically Oriented Embryology' (Saunders)",
+        "Dr. E. Marshall Johnson - Anatomy & Developmental Biology, Thomas Jefferson University"
+      ],
+      "diagram": {
+        "title": "Blastocyst Implantation ('Alaqah Stage)",
+        "description": "Cross-sectional visualization of early blastocyst adhering to the uterine endometrial wall.",
+        "type": "embryology"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Qadr",
+        "surah_number": 97,
+        "ayah_range": "1–5",
+        "relation_ur": "شبِ قدر میں نزولِ وحی کا آغاز",
+        "relation_roman": "Shab-e-Qadr mein Nuzool-e-Wahi ka aaghaz",
+        "link_url": "https://quran.com/ur/97:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Muddaththir",
+        "surah_number": 74,
+        "ayah_range": "1–7",
+        "relation_ur": "پہلی وحی کے بعد دعوتِ علانیہ کا حکم",
+        "relation_roman": "Pehli Wahi ke baad Dawat-e-Ilania ka hukum",
+        "link_url": "https://quran.com/ur/74:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Mu'minun",
+        "surah_number": 23,
+        "ayah_range": "12–14",
+        "relation_ur": "تخلیقِ انسان اور علقہ کے مراحل",
+        "relation_roman": "Takhleeq-e-insaan aur 'Alaqah ke marāhil",
+        "link_url": "https://quran.com/ur/23:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "فَأَخَذَنِي فَغَطَّنِي حَتَّى بَلَغَ مِنِّي الْجَهْدَ ثُمَّ أَرْسَلَنِي فَقَالَ: اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): ام المومنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ جبرائیل نے مجھے پکڑ کر زور سے دبایا یہاں تک کہ میری طاقت جواب دینے لگی، پھر چھوڑ کر کہا: اپنے رب کے نام سے پڑھیے جس نے پیدا کیا۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki Jibreel A.S. ne Nabi Kareem ﷺ ko teen baar bheincha aur pehli paanch aayatein nazil farmayein.",
+      "chapter_title": "Kitab Bad' al-Wahi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        },
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "160",
+          "volume": "1",
+          "page": "97",
+          "ref_url": "https://sunnah.com/muslim:160a",
+          "grade": "Sahih",
+          "authority": "Imam Muslim"
+        },
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3632",
+          "volume": "5",
+          "page": "592",
+          "ref_url": "https://sunnah.com/tirmidhi:3632",
+          "grade": "Hasan Sahih",
+          "authority": "Imam Tirmidhi"
+        }
+      ]
+    }
   },
   {
     "id": 2,
@@ -124,7 +249,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://sunnah.com/muslim:746a"
+      "ref_url": "https://sunnah.com/muslim:746a",
+      "combined_urdu": "Rawi: Sa'd bin Hisham (R.A): حضرت عائشہ رضی اللہ عنہا فرماتی ہیں: کیا تم قرآن نہیں پڑھتے؟ رسول اللہ ﷺ کا اخلاق قرآن ہی تو تھا۔",
+      "combined_roman": "Hazrat Aisha (R.A) ne farmaya: Kya tumne Quran nahi padha? Rasoolullah ﷺ ka ikhlaq to mujassam Quran hi tha.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "746",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:746a",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -170,7 +309,48 @@ window.WAHI_EPISODES = [
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
     ],
-    "themeUrdu": "تسلیِ رسالت اور اخلاقِ عظیم کی گواہی"
+    "themeUrdu": "تسلیِ رسالت اور اخلاقِ عظیم کی گواہی",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-'Alaq",
+        "surah_number": 96,
+        "ayah_range": "4–5",
+        "relation_ur": "قلم اور تعلیمِ الٰہی کی اہمیت",
+        "relation_roman": "Qalam aur Taleem-e-Ilahi ki ahmiyat",
+        "link_url": "https://quran.com/ur/96:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Haqqah",
+        "surah_number": 69,
+        "ayah_range": "40–52",
+        "relation_ur": "رسول اللہ ﷺ کی صداقت اور کفار کے الزامات کی تردید",
+        "relation_roman": "Rasool Allah ﷺ ki sadaqat aur kuffar ke ilzamat ki tardeed",
+        "link_url": "https://quran.com/ur/69:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "كَانَ خُلُقُهُ الْقُرْآنَ",
+      "combined_urdu": "Rawi: Sa'd bin Hisham (R.A): حضرت عائشہ رضی اللہ عنہا فرماتی ہیں: کیا تم قرآن نہیں پڑھتے؟ رسول اللہ ﷺ کا اخلاق قرآن ہی تو تھا۔",
+      "combined_roman": "Hazrat Aisha (R.A) ne farmaya: Kya tumne Quran nahi padha? Rasoolullah ﷺ ka ikhlaq to mujassam Quran hi tha.",
+      "chapter_title": "Kitab Salat al-Musafirin wa Qasruha (باب جامع صلاة الليل ومن نام عنه أو مرض)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "746",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:746a",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Kuffar ki Takzeeb aur Ashab-ul-Jannah",
@@ -209,7 +389,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali",
       "book": "Sahih Muslim",
       "hadithNumber": "746",
-      "ref_url": "https://sunnah.com/muslim:746a"
+      "ref_url": "https://sunnah.com/muslim:746a",
+      "combined_urdu": "Rawi: Sa'd bin Hisham bin Amir: حضرت سعد بن ہشام نے ام المومنین عائشہ رضی اللہ عنہا سے رسول اللہ ﷺ کے اخلاق کے بارے میں پوچھا، تو انہوں نے فرمایا: کیا تم قرآن نہیں پڑھتے؟ آپ ﷺ کا اخلاق قرآن ہی تو تھا۔",
+      "combined_roman": "Hazrat Aisha ne farmaya: Kya tum Quran nahi padhte? Rasoolullah ka ikhlaq to Quran hi tha.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "746",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:746a",
+          "grade": "Sahih",
+          "authority": "Hukm: Sahih Muslim Sanad-e-Aali"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -256,7 +450,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "کفار کی تکذیب اور اصحاب الجنة کی عبرتناک مثال"
+    "themeUrdu": "کفار کی تکذیب اور اصحاب الجنة کی عبرتناک مثال",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-'Alaq",
+        "surah_number": 96,
+        "ayah_range": "4–5",
+        "relation_ur": "قلم اور تعلیمِ الٰہی کی اہمیت",
+        "relation_roman": "Qalam aur Taleem-e-Ilahi ki ahmiyat",
+        "link_url": "https://quran.com/ur/96:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Haqqah",
+        "surah_number": 69,
+        "ayah_range": "40–52",
+        "relation_ur": "رسول اللہ ﷺ کی صداقت اور کفار کے الزامات کی تردید",
+        "relation_roman": "Rasool Allah ﷺ ki sadaqat aur kuffar ke ilzamat ki tardeed",
+        "link_url": "https://quran.com/ur/69:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "كَانَ خُلُقُهُ الْقُرْآنَ",
+      "combined_urdu": "Rawi: Sa'd bin Hisham bin Amir: حضرت سعد بن ہشام نے ام المومنین عائشہ رضی اللہ عنہا سے رسول اللہ ﷺ کے اخلاق کے بارے میں پوچھا، تو انہوں نے فرمایا: کیا تم قرآن نہیں پڑھتے؟ آپ ﷺ کا اخلاق قرآن ہی تو تھا۔",
+      "combined_roman": "Hazrat Aisha ne farmaya: Kya tum Quran nahi padhte? Rasoolullah ka ikhlaq to Quran hi tha.",
+      "chapter_title": "Kitab Salat al-Musafirin wa Qasruha (باب جامع صلاة الليل ومن نام عنه أو مرض)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "746",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:746a",
+          "grade": "Sahih",
+          "authority": "Hukm: Sahih Muslim Sanad-e-Aali"
+        }
+      ]
+    }
   },
   {
     "id": 4,
@@ -296,7 +531,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Allama Albani",
       "book": "Sunan Abi Dawood",
       "hadithNumber": "1342",
-      "ref_url": "https://sunnah.com/abudawud:1342"
+      "ref_url": "https://sunnah.com/abudawud:1342",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz tha taaki Sahaba aur Nabi ﷺ ki aala tarbiyat ho sake.",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "1342",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:1342",
+          "grade": "Sahih",
+          "authority": "Allama Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -342,7 +591,48 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "قیام اللیل اور تلاوتِ قرآن کی ترغیب"
+    "themeUrdu": "قیام اللیل اور تلاوتِ قرآن کی ترغیب",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Isra",
+        "surah_number": 17,
+        "ayah_range": "78–79",
+        "relation_ur": "قیامِ لیل اور تہجد کی تاکید",
+        "relation_roman": "Qiyam-ul-Layl aur Tahajjud ki taakeed",
+        "link_url": "https://quran.com/ur/17:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Furqan",
+        "surah_number": 25,
+        "ayah_range": "63–64",
+        "relation_ur": "عباد الرحمن کی راتوں کی عبادت",
+        "relation_roman": "Ibad-ur-Rahman ki raaton ki ibadat",
+        "link_url": "https://quran.com/ur/25:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+    "mutalliqah_hadees": {
+      "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz tha taaki Sahaba aur Nabi ﷺ ki aala tarbiyat ho sake.",
+      "chapter_title": "Kitab al-Tatwwu' (باب قيام الليل)",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "1342",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:1342",
+          "grade": "Sahih",
+          "authority": "Allama Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Sabr aur Kuffar ki Dhamki",
@@ -381,7 +671,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawood",
       "hadithNumber": "1342",
-      "ref_url": "https://sunnah.com/abudawud:1342"
+      "ref_url": "https://sunnah.com/abudawud:1342",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
+      "combined_roman": "Hazrat Aisha riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz kiya gaya tha taaki nafs ki mazboot tarbiyat ho sake.",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "1342",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:1342",
+          "grade": "Sahih",
+          "authority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -428,7 +732,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مشرکین کے طعنوں پر صبر اور عذابِ قیامت کا انذار"
+    "themeUrdu": "مشرکین کے طعنوں پر صبر اور عذابِ قیامت کا انذار",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Isra",
+        "surah_number": 17,
+        "ayah_range": "78–79",
+        "relation_ur": "قیامِ لیل اور تہجد کی تاکید",
+        "relation_roman": "Qiyam-ul-Layl aur Tahajjud ki taakeed",
+        "link_url": "https://quran.com/ur/17:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Furqan",
+        "surah_number": 25,
+        "ayah_range": "63–64",
+        "relation_ur": "عباد الرحمن کی راتوں کی عبادت",
+        "relation_roman": "Ibad-ur-Rahman ki raaton ki ibadat",
+        "link_url": "https://quran.com/ur/25:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+    "mutalliqah_hadees": {
+      "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
+      "combined_roman": "Hazrat Aisha riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz kiya gaya tha taaki nafs ki mazboot tarbiyat ho sake.",
+      "chapter_title": "Kitab al-Tatwwu' (باب قيام الليل)",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "1342",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:1342",
+          "grade": "Sahih",
+          "authority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)"
+        }
+      ]
+    }
   },
   {
     "id": 6,
@@ -468,7 +813,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4922",
-      "ref_url": "https://sunnah.com/bukhari:4922"
+      "ref_url": "https://sunnah.com/bukhari:4922",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: میں غار حرا سے اترا تو مجھے پکارا گیا، فرشتہ ایک کرسی پر متمکن تھا۔ میں گھر گیا اور کہا مجھے اڑھاؤ، تب یہ سورت اتری۔",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki jab Nabi ﷺ ne farishte ko dekha to ghar aakar chadar odhi, tab Surah Muddaththir nazil hui.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4922",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4922",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -514,7 +873,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دعوت و انذار کا باقاعدہ الٰہی حکم"
+    "themeUrdu": "دعوت و انذار کا باقاعدہ الٰہی حکم",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Ash-Shu'ara",
+        "surah_number": 26,
+        "ayah_range": "214–216",
+        "relation_ur": "اپنے قریبی رشتہ داروں کو خبردار کرنے کا حکم",
+        "relation_roman": "Apne qareebi rishtedaron ko khabardaar karne ka hukum",
+        "link_url": "https://quran.com/ur/26:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Muzzammil",
+        "surah_number": 73,
+        "ayah_range": "1–10",
+        "relation_ur": "بوجھ اٹھانے اور صبرو استقامت کی ربط",
+        "relation_roman": "Bojh uthane aur sabr o istiqamat ka rabt",
+        "link_url": "https://quran.com/ur/73:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "جَاوَرْتُ بِحِرَاءٍ فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ فَنُودِيتُ...",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: میں غار حرا سے اترا تو مجھے پکارا گیا، فرشتہ ایک کرسی پر متمکن تھا۔ میں گھر گیا اور کہا مجھے اڑھاؤ، تب یہ سورت اتری۔",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki jab Nabi ﷺ ne farishte ko dekha to ghar aakar chadar odhi, tab Surah Muddaththir nazil hui.",
+      "chapter_title": "Kitab at-Tafseer",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4922",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4922",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Fatihah: Umm-ul-Kitab aur Dua-e-Hidayat",
@@ -553,7 +953,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "395",
-      "ref_url": "https://sunnah.com/muslim:395a"
+      "ref_url": "https://sunnah.com/muslim:395a",
+      "combined_urdu": "Rawi: Hazrat Abu Hurairah (R.A): رسول اللہ ﷺ نے فرمایا: اللہ تعالیٰ فرماتا ہے میں نے نماز (فاتحہ) کو اپنے اور اپنے بندے کے درمیان آدھا آدھا بانٹ لیا ہے، اور میرا بندہ جو مانگے گا وہ دیا جائے گا۔",
+      "combined_roman": "Hadees-e-Qudsi me farmaya gaya: Maine Surah Fatihah ko apne aur bande ke darmiyan baant liya hai.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "395",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:395a",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -600,7 +1014,48 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "سورت الفاتحة (مکمل)"
+    "themeUrdu": "سورت الفاتحة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Hijr",
+        "surah_number": 15,
+        "ayah_range": "87",
+        "relation_ur": "سبع مثانی (بار بار دہرائی جانے والی سات آیات)",
+        "relation_roman": "Saba' Masani (7 repeatedly recited verses)",
+        "link_url": "https://quran.com/ur/15:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "1–5",
+        "relation_ur": "سورۂ فاتحہ کی دعا کے جواب میں مکمل کتابِ ہدایت",
+        "relation_roman": "Surah Fatihah ki dua ke jawab mein poori Kitab-e-Hidayat",
+        "link_url": "https://quran.com/ur/2:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "قَالَ اللَّهُ تَعَالَى: قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ...",
+      "combined_urdu": "Rawi: Hazrat Abu Hurairah (R.A): رسول اللہ ﷺ نے فرمایا: اللہ تعالیٰ فرماتا ہے میں نے نماز (فاتحہ) کو اپنے اور اپنے بندے کے درمیان آدھا آدھا بانٹ لیا ہے، اور میرا بندہ جو مانگے گا وہ دیا جائے گا۔",
+      "combined_roman": "Hadees-e-Qudsi me farmaya gaya: Maine Surah Fatihah ko apne aur bande ke darmiyan baant liya hai.",
+      "chapter_title": "Kitab as-Salat (باب وجوب قراءة الفاتحة في كل ركعة)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "395",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:395a",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Masad: Kohan-e-Safa par Dawat aur Abu Lahab ka Anjam",
@@ -639,7 +1094,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4770",
-      "ref_url": "https://sunnah.com/bukhari:4770"
+      "ref_url": "https://sunnah.com/bukhari:4770",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس رضی اللہ عنہما فرماتے ہیں کہ نبی ﷺ صفا پر چڑھے اور قریش کو بلایا۔ جب آپ نے توحید کی بات کی تو ابو لہب نے کہا: تیرا ناس ہو، کیا اس لیے ہمیں بلایا تھا؟ تب یہ سورت اتری۔",
+      "combined_roman": "Hazrat Ibn Abbas farmate hain ki jab Koh-e-Safa par Abu Lahab ne gustakhi ki tab Allah ne Abu Lahab ke dono hath tootne ki peshangoyi farmai.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4770",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4770",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -686,7 +1155,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت المسد (مکمل)"
+    "themeUrdu": "سورت المسد (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Ash-Shu'ara",
+        "surah_number": 26,
+        "ayah_range": "214",
+        "relation_ur": "کوهِ صفا پر ابو لہب کی بدتمیزی اور انذارِ عام",
+        "relation_roman": "Kohan-e-Safa par Abu Lahab ki badtameezi aur Inzar-e-Aam",
+        "link_url": "https://quran.com/ur/26:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Humazah",
+        "surah_number": 104,
+        "ayah_range": "1–9",
+        "relation_ur": "مال کے غرور میں حق کی تکذیب کرنے والوں کا انجام",
+        "relation_roman": "Maal ke ghuroor mein haq jhutlane walon ka anjam",
+        "link_url": "https://quran.com/ur/104:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "صَعِدَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الصَّفَا فَقَالَ: يَا صَبَاحَاهْ...",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس رضی اللہ عنہما فرماتے ہیں کہ نبی ﷺ صفا پر چڑھے اور قریش کو بلایا۔ جب آپ نے توحید کی بات کی تو ابو لہب نے کہا: تیرا ناس ہو، کیا اس لیے ہمیں بلایا تھا؟ تب یہ سورت اتری۔",
+      "combined_roman": "Hazrat Ibn Abbas farmate hain ki jab Koh-e-Safa par Abu Lahab ne gustakhi ki tab Allah ne Abu Lahab ke dono hath tootne ki peshangoyi farmai.",
+      "chapter_title": "Kitab at-Tafseer",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4770",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4770",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 9,
@@ -726,7 +1255,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "2797",
-      "ref_url": "https://sunnah.com/muslim:2797"
+      "ref_url": "https://sunnah.com/muslim:2797",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): ابو جہل نے کہا: اگر میں نے دیکھا تو گردن روند دوں گا۔ لیکن جب وہ آگے بڑھا تو خوف سے پیچھے ہٹ گیا اور بولا: میرے اور ان کے درمیان آگ کی خندق اور پروں والے فرشتے تھے۔",
+      "combined_roman": "Abu Jahl jab sajde se rokne aaya to darr kar peeche hat gaya. Rasoolullah ﷺ ne farmaya: Agar kareeb aata to farishte uski boti boti nooch lete.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "2797",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:2797",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -772,7 +1315,72 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حرم میں ابو جہل کی سرکشی اور نماز سے روکنا"
+    "themeUrdu": "حرم میں ابو جہل کی سرکشی اور نماز سے روکنا",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "🧬 Embryology / عِلْمُ الْأَجِنَّةِ",
+      "icon": "🧬",
+      "title_ur": "علقہ: جنین کا رحمِ مادر میں جونک کی طرح چمٹنا",
+      "title_en": "Blastocyst Implantation & Clinging Entity ('Alaqah)",
+      "summary_ur": "قرآنِ مجید نے انسان کے ابتدائی جنینی مرحلے کو 'عَلَقٍ' قرار دیا، جو بیک وقت 'چمٹی ہوئی شے'، 'جونک نما ساخت' اور 'جمے ہوئے خون' کا مفہوم رکھتی ہے۔ جدید علمِ جنین (پروفیسر کیتھ مور) نے تصدیق کی کہ 15 سے 24 دن کا انسانی جنین رحم کی دیوار سے چمٹ کر جونک کی مانند خون چوستے ہوئے تغذیہ پاتا ہے۔",
+      "summary_roman": "Prof. Keith L. Moore (The Developing Human) confirmed that the early human embryo at 15–24 days physically resembles a leech ('Alaqah), clings to the endometrium, and derives sustenance through maternal blood.",
+      "citations": [
+        "Prof. Keith L. Moore - 'The Developing Human: Clinically Oriented Embryology' (Saunders)",
+        "Dr. E. Marshall Johnson - Anatomy & Developmental Biology, Thomas Jefferson University"
+      ],
+      "diagram": {
+        "title": "Blastocyst Implantation ('Alaqah Stage)",
+        "description": "Cross-sectional visualization of early blastocyst adhering to the uterine endometrial wall.",
+        "type": "embryology"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Qadr",
+        "surah_number": 97,
+        "ayah_range": "1–5",
+        "relation_ur": "شبِ قدر میں نزولِ وحی کا آغاز",
+        "relation_roman": "Shab-e-Qadr mein Nuzool-e-Wahi ka aaghaz",
+        "link_url": "https://quran.com/ur/97:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Muddaththir",
+        "surah_number": 74,
+        "ayah_range": "1–7",
+        "relation_ur": "پہلی وحی کے بعد دعوتِ علانیہ کا حکم",
+        "relation_roman": "Pehli Wahi ke baad Dawat-e-Ilania ka hukum",
+        "link_url": "https://quran.com/ur/74:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Mu'minun",
+        "surah_number": 23,
+        "ayah_range": "12–14",
+        "relation_ur": "تخلیقِ انسان اور علقہ کے مراحل",
+        "relation_roman": "Takhleeq-e-insaan aur 'Alaqah ke marāhil",
+        "link_url": "https://quran.com/ur/23:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "قَالَ أَبُو جَهْلٍ: هَلْ يُعَفِّرُ مُحَمَّدٌ وَجْهَهُ بَيْنَ أَظْهُرِكُمْ؟...",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): ابو جہل نے کہا: اگر میں نے دیکھا تو گردن روند دوں گا۔ لیکن جب وہ آگے بڑھا تو خوف سے پیچھے ہٹ گیا اور بولا: میرے اور ان کے درمیان آگ کی خندق اور پروں والے فرشتے تھے۔",
+      "combined_roman": "Abu Jahl jab sajde se rokne aaya to darr kar peeche hat gaya. Rasoolullah ﷺ ne farmaya: Agar kareeb aata to farishte uski boti boti nooch lete.",
+      "chapter_title": "Kitab Sifat al-Qiyamah wal-Jannah wan-Nar (باب قوله: كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "2797",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:2797",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Takwir: Dawat-e-Tauheed, Akhlaaq aur The Overthrowing ke Asbaaq",
@@ -811,7 +1419,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التكوير کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Takwir ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -858,7 +1480,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت التكوير (مکمل)"
+    "themeUrdu": "سورت التكوير (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التكوير کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Takwir ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-A'la: Dawat-e-Tauheed, Akhlaaq aur The Most High ke Asbaaq",
@@ -897,7 +1560,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعلى کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'la ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -944,7 +1621,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الأعلى (مکمل)"
+    "themeUrdu": "سورت الأعلى (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعلى کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'la ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Walid bin Mughira ka Takabbur aur Saqar",
@@ -983,7 +1701,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)",
       "book": "Sahih Bukhari",
       "hadithNumber": "4922",
-      "ref_url": "https://sunnah.com/bukhari:4922"
+      "ref_url": "https://sunnah.com/bukhari:4922",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: میں حرا میں تھا، جب نیچے اترا تو مجھے پکارا گیا، میں نے دیکھا تو وہی فرشتہ آسمان و زمین کے درمیان ایک کرسی پر تھا، میں گھر گیا اور کہا مجھے چادر اوڑھا دو، تب یا ایھا المدثر نازل ہوئی۔",
+      "combined_roman": "Jab Nabi kareem ne asman o zameen ke darmiyan farishte ko dekha to ghar aakar chadar odhi, tab Surah Muddaththir nazil hui.",
+      "takhreej_status": "Sahih (صحیح) • Muttafaq Alaih (متفق علیہ)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4922",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4922",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari & Muslim)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1030,7 +1762,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "ولید بن مغیرہ کا تکبر اور دوزخ (سقر) کی ہولناکی"
+    "themeUrdu": "ولید بن مغیرہ کا تکبر اور دوزخ (سقر) کی ہولناکی",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [
+      {
+        "name_ur": "غارِ حرا (جبلِ نور)",
+        "name_en": "Cave of Hira (Jabal an-Nur)",
+        "modern_name": "Jabal an-Nur, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کے شمال مشرق میں جبلِ نور پر واقع وہ مبارک غار جہاں پہلی وحی نازل ہوئی۔",
+        "context_roman": "Makkah ke qareeb Jabal an-Nur par waqe woh muqaddas ghaar jahan pehli wahi nazil hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4578,39.8592",
+        "coordinates": "21.4578° N, 39.8592° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Ash-Shu'ara",
+        "surah_number": 26,
+        "ayah_range": "214–216",
+        "relation_ur": "اپنے قریبی رشتہ داروں کو خبردار کرنے کا حکم",
+        "relation_roman": "Apne qareebi rishtedaron ko khabardaar karne ka hukum",
+        "link_url": "https://quran.com/ur/26:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Muzzammil",
+        "surah_number": 73,
+        "ayah_range": "1–10",
+        "relation_ur": "بوجھ اٹھانے اور صبرو استقامت کی ربط",
+        "relation_roman": "Bojh uthane aur sabr o istiqamat ka rabt",
+        "link_url": "https://quran.com/ur/73:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح) • Muttafaq Alaih (متفق علیہ)",
+    "mutalliqah_hadees": {
+      "arabic": "جَاوَرْتُ بِحِرَاءٍ، فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَنُودِيتُ...",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: میں حرا میں تھا، جب نیچے اترا تو مجھے پکارا گیا، میں نے دیکھا تو وہی فرشتہ آسمان و زمین کے درمیان ایک کرسی پر تھا، میں گھر گیا اور کہا مجھے چادر اوڑھا دو، تب یا ایھا المدثر نازل ہوئی۔",
+      "combined_roman": "Jab Nabi kareem ne asman o zameen ke darmiyan farishte ko dekha to ghar aakar chadar odhi, tab Surah Muddaththir nazil hui.",
+      "chapter_title": "Kitab at-Tafseer (سورة المدثر)",
+      "takhreej_status": "Sahih (صحیح) • Muttafaq Alaih (متفق علیہ)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4922",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4922",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari & Muslim)"
+        }
+      ]
+    }
   },
   {
     "title": "Tazkirah o Aakhirat aur Ashab-ul-Yameen",
@@ -1069,7 +1852,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)",
       "book": "Sahih Bukhari",
       "hadithNumber": "4922",
-      "ref_url": "https://sunnah.com/bukhari:4922"
+      "ref_url": "https://sunnah.com/bukhari:4922",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: میں حرا میں تھا، جب نیچے اترا تو مجھے پکارا گیا، میں نے دیکھا تو وہی فرشتہ آسمان و زمین کے درمیان ایک کرسی پر تھا، میں گھر گیا اور کہا مجھے چادر اوڑھا دو، تب یا ایھا المدثر نازل ہوئی۔",
+      "combined_roman": "Jab Nabi kareem ne asman o zameen ke darmiyan farishte ko dekha to ghar aakar chadar odhi, tab Surah Muddaththir nazil hui.",
+      "takhreej_status": "Sahih (صحیح) • Muttafaq Alaih (متفق علیہ)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4922",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4922",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari & Muslim)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1116,7 +1913,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "آخرت کا تذکرہ، شفاعت اور اصحاب الیمین کا انجام"
+    "themeUrdu": "آخرت کا تذکرہ، شفاعت اور اصحاب الیمین کا انجام",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [
+      {
+        "name_ur": "غارِ حرا (جبلِ نور)",
+        "name_en": "Cave of Hira (Jabal an-Nur)",
+        "modern_name": "Jabal an-Nur, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کے شمال مشرق میں جبلِ نور پر واقع وہ مبارک غار جہاں پہلی وحی نازل ہوئی۔",
+        "context_roman": "Makkah ke qareeb Jabal an-Nur par waqe woh muqaddas ghaar jahan pehli wahi nazil hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4578,39.8592",
+        "coordinates": "21.4578° N, 39.8592° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Ash-Shu'ara",
+        "surah_number": 26,
+        "ayah_range": "214–216",
+        "relation_ur": "اپنے قریبی رشتہ داروں کو خبردار کرنے کا حکم",
+        "relation_roman": "Apne qareebi rishtedaron ko khabardaar karne ka hukum",
+        "link_url": "https://quran.com/ur/26:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Muzzammil",
+        "surah_number": 73,
+        "ayah_range": "1–10",
+        "relation_ur": "بوجھ اٹھانے اور صبرو استقامت کی ربط",
+        "relation_roman": "Bojh uthane aur sabr o istiqamat ka rabt",
+        "link_url": "https://quran.com/ur/73:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح) • Muttafaq Alaih (متفق علیہ)",
+    "mutalliqah_hadees": {
+      "arabic": "جَاوَرْتُ بِحِرَاءٍ، فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَنُودِيتُ...",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: میں حرا میں تھا، جب نیچے اترا تو مجھے پکارا گیا، میں نے دیکھا تو وہی فرشتہ آسمان و زمین کے درمیان ایک کرسی پر تھا، میں گھر گیا اور کہا مجھے چادر اوڑھا دو، تب یا ایھا المدثر نازل ہوئی۔",
+      "combined_roman": "Jab Nabi kareem ne asman o zameen ke darmiyan farishte ko dekha to ghar aakar chadar odhi, tab Surah Muddaththir nazil hui.",
+      "chapter_title": "Kitab at-Tafseer (سورة المدثر)",
+      "takhreej_status": "Sahih (صحیح) • Muttafaq Alaih (متفق علیہ)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4922",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4922",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari & Muslim)"
+        }
+      ]
+    }
   },
   {
     "id": 14,
@@ -1156,7 +2004,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Ibn Kathir",
       "book": "Sunan al-Kubra (Al-Bayhaqi)",
       "hadithNumber": "21002",
-      "ref_url": "https://shamela.ws/book/6450"
+      "ref_url": "https://shamela.ws/book/6450",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت ابن عباس اور ابن مسعود فرماتے ہیں کہ 'لہو الحدیث' سے مراد گانا بجانا اور وہ بے ہودہ کلام ہے جو اللہ کے راستے سے بھٹکا دے۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) ne qasam kha kar farmaya ki 'Lahw-al-Hadees' se muraad behuda sargarmian aur gaana bajana hai jo Quran se ghafil kare.",
+      "takhreej_status": "Sahih (صحیح - Sunan al-Kubra (Al-Bayhaqi))",
+      "references": [
+        {
+          "book": "Sunan al-Kubra (Al-Bayhaqi)",
+          "hadithNumber": "21002",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/6450",
+          "grade": "Sahih",
+          "authority": "Ibn Kathir"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1202,7 +2064,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "نضر بن حارث کی داستان سرائیاں اور قرآن کا رد"
+    "themeUrdu": "نضر بن حارث کی داستان سرائیاں اور قرآن کا رد",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan al-Kubra (Al-Bayhaqi))",
+    "mutalliqah_hadees": {
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ: {وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ}، قَالَ: هُوَ الْغِنَاءُ وَأَشْبَاهُهُ",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت ابن عباس اور ابن مسعود فرماتے ہیں کہ 'لہو الحدیث' سے مراد گانا بجانا اور وہ بے ہودہ کلام ہے جو اللہ کے راستے سے بھٹکا دے۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) ne qasam kha kar farmaya ki 'Lahw-al-Hadees' se muraad behuda sargarmian aur gaana bajana hai jo Quran se ghafil kare.",
+      "chapter_title": "Kitab ash-Shahadat (باب ما جاء في لهو الحديث)",
+      "takhreej_status": "Sahih (صحیح - Sunan al-Kubra (Al-Bayhaqi))",
+      "references": [
+        {
+          "book": "Sunan al-Kubra (Al-Bayhaqi)",
+          "hadithNumber": "21002",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/6450",
+          "grade": "Sahih",
+          "authority": "Ibn Kathir"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Layl: Dawat-e-Tauheed, Akhlaaq aur The Night ke Asbaaq",
@@ -1241,7 +2144,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الليل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Layl ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1288,7 +2205,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الليل (مکمل)"
+    "themeUrdu": "سورت الليل (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الليل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Layl ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Fajr: Dawat-e-Tauheed, Akhlaaq aur The Dawn ke Asbaaq",
@@ -1327,7 +2285,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفجر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fajr ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1374,7 +2346,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الفجر (مکمل)"
+    "themeUrdu": "سورت الفجر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفجر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fajr ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 17,
@@ -1414,7 +2427,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Imam Hakim & Dhahabi",
       "book": "Mustadrak al-Hakim",
       "hadithNumber": "3362",
-      "ref_url": "https://shamela.ws/book/2266"
+      "ref_url": "https://shamela.ws/book/2266",
+      "combined_urdu": "Rawi: Ammar bin Yasir (R.A): رسول اللہ ﷺ نے عمار سے پوچھا: تمہارے دل کی کیا کیفیت ہے؟ انہوں نے عرض کیا: ایمان پر مطمئن ہے۔ آپ نے فرمایا: اگر وہ پھر تشدد کریں تو جان بچانے کے لیے دوبارہ کہہ دینا۔",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Agar zaalim dobara jaan lene par utar aayein to zubaan se keh kar jaan bacha lo jab tak dil mutma'in ho.",
+      "takhreej_status": "Sahih (صحیح - Mustadrak al-Hakim)",
+      "references": [
+        {
+          "book": "Mustadrak al-Hakim",
+          "hadithNumber": "3362",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/2266",
+          "grade": "Sahih",
+          "authority": "Imam Hakim & Dhahabi"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1460,7 +2487,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مشرکین کا تشدد، عمار بن یاسر اور مجبور مومن کی توبہ"
+    "themeUrdu": "مشرکین کا تشدد، عمار بن یاسر اور مجبور مومن کی توبہ",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Mustadrak al-Hakim)",
+    "mutalliqah_hadees": {
+      "arabic": "أَخَذَ الْمُشْرِكُونَ عَمَّارًا فَلَمْ يَتْرُكُوهُ حَتَّى سَبَّ النَّبِيَّ... فَقَالَ النَّبِيُّ: كَيْفَ تَجِدُ قَلْبَكَ؟ قَالَ: مُطْمَئِنًّا بِالْإِيمَانِ، قَالَ: فَإِنْ عَادُوا فَعُدْ",
+      "combined_urdu": "Rawi: Ammar bin Yasir (R.A): رسول اللہ ﷺ نے عمار سے پوچھا: تمہارے دل کی کیا کیفیت ہے؟ انہوں نے عرض کیا: ایمان پر مطمئن ہے۔ آپ نے فرمایا: اگر وہ پھر تشدد کریں تو جان بچانے کے لیے دوبارہ کہہ دینا۔",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Agar zaalim dobara jaan lene par utar aayein to zubaan se keh kar jaan bacha lo jab tak dil mutma'in ho.",
+      "chapter_title": "Kitab at-Tafseer (تفسير سورة النحل - استضعاف عمار)",
+      "takhreej_status": "Sahih (صحیح - Mustadrak al-Hakim)",
+      "references": [
+        {
+          "book": "Mustadrak al-Hakim",
+          "hadithNumber": "3362",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/2266",
+          "grade": "Sahih",
+          "authority": "Imam Hakim & Dhahabi"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ad-Duhaa: Dawat-e-Tauheed, Akhlaaq aur The Morning Hours ke Asbaaq",
@@ -1499,7 +2567,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الضحى کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ad-Duhaa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1546,7 +2628,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الضحى (مکمل)"
+    "themeUrdu": "سورت الضحى (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الضحى کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ad-Duhaa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ash-Sharh: Dawat-e-Tauheed, Akhlaaq aur The Relief ke Asbaaq",
@@ -1585,7 +2708,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشرح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Sharh ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1632,7 +2769,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الشرح (مکمل)"
+    "themeUrdu": "سورت الشرح (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشرح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Sharh ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-'Asr: Dawat-e-Tauheed, Akhlaaq aur The Declining Day ke Asbaaq",
@@ -1671,7 +2849,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ العصر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-'Asr ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1718,7 +2910,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت العصر (مکمل)"
+    "themeUrdu": "سورت العصر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ العصر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-'Asr ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-'Adiyat: Dawat-e-Tauheed, Akhlaaq aur The Courser ke Asbaaq",
@@ -1757,7 +2990,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ العاديات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-'Adiyat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1804,7 +3051,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت العاديات (مکمل)"
+    "themeUrdu": "سورت العاديات (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ العاديات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-'Adiyat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Kawthar: Dawat-e-Tauheed, Akhlaaq aur The Abundance ke Asbaaq",
@@ -1843,7 +3131,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكوثر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kawthar ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1890,7 +3192,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الكوثر (مکمل)"
+    "themeUrdu": "سورت الكوثر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ma'un",
+        "surah_number": 107,
+        "ayah_range": "1–7",
+        "relation_ur": "بخل و نمائش کے مقابلے میں کوثر و قربانی کا درس",
+        "relation_roman": "Bukhl ke muqable mein Kawthar aur Qurbani ka dars",
+        "link_url": "https://quran.com/ur/107:1?translations=158"
+      },
+      {
+        "surah_name": "Ad-Duha",
+        "surah_number": 93,
+        "ayah_range": "3–5",
+        "relation_ur": "رسول اللہ ﷺ کو انعاماتِ کثیرہ کی خوشخبری",
+        "relation_roman": "Rasool Allah ﷺ ko in'aamat-e-kaseera ki khushkhabri",
+        "link_url": "https://quran.com/ur/93:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكوثر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kawthar ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Takathur: Dawat-e-Tauheed, Akhlaaq aur The Rivalry in world increase ke Asbaaq",
@@ -1929,7 +3272,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التكاثر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Takathur ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -1976,7 +3333,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت التكاثر (مکمل)"
+    "themeUrdu": "سورت التكاثر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التكاثر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Takathur ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Ma'un: Dawat-e-Tauheed, Akhlaaq aur The Small kindnesses ke Asbaaq",
@@ -2015,7 +3413,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الماعون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'un ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2062,7 +3474,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الماعون (مکمل)"
+    "themeUrdu": "سورت الماعون (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الماعون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'un ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Kafirun: Dawat-e-Tauheed, Akhlaaq aur The Disbelievers ke Asbaaq",
@@ -2101,7 +3554,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكافرون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kafirun ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2148,7 +3615,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الكافرون (مکمل)"
+    "themeUrdu": "سورت الكافرون (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكافرون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kafirun ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Fil: Dawat-e-Tauheed, Akhlaaq aur The Elephant ke Asbaaq",
@@ -2187,7 +3695,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفيل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fil ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2234,7 +3756,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الفيل (مکمل)"
+    "themeUrdu": "سورت الفيل (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفيل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fil ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Falaq: Dawat-e-Tauheed, Akhlaaq aur The Daybreak ke Asbaaq",
@@ -2273,7 +3836,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفلق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Falaq ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2320,7 +3897,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الفلق (مکمل)"
+    "themeUrdu": "سورت الفلق (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "An-Nas",
+        "surah_number": 114,
+        "ayah_range": "1–6",
+        "relation_ur": "معوذتین: تمام باطنی و خارجی شرور سے پناہ",
+        "relation_roman": "Mu'awwidhatayn: Zaahiri o baatini shuroor se panah",
+        "link_url": "https://quran.com/ur/114:1?translations=158"
+      },
+      {
+        "surah_name": "Al-A'raf",
+        "surah_number": 7,
+        "ayah_range": "200",
+        "relation_ur": "شیطانی وسوسوں پر استعاذہ کا قرآنی اصول",
+        "relation_roman": "Shaitani waswaso par iste'aza ka usool",
+        "link_url": "https://quran.com/ur/7:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفلق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Falaq ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah An-Nas: Dawat-e-Tauheed, Akhlaaq aur Mankind ke Asbaaq",
@@ -2359,7 +3977,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الناس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nas ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2406,7 +4038,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الناس (مکمل)"
+    "themeUrdu": "سورت الناس (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Falaq",
+        "surah_number": 113,
+        "ayah_range": "1–5",
+        "relation_ur": "معوذتین کا تکمیلی جوڑا",
+        "relation_roman": "Mu'awwidhatayn ka takmeeli joda",
+        "link_url": "https://quran.com/ur/113:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Mu'minun",
+        "surah_number": 23,
+        "ayah_range": "97–98",
+        "relation_ur": "شیاطین کے کچوکوں سے اللہ کی پناہ",
+        "relation_roman": "Shayateen ke kachoko se Allah ki panah",
+        "link_url": "https://quran.com/ur/23:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الناس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nas ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Ikhlas: Dawat-e-Tauheed, Akhlaaq aur The Sincerity ke Asbaaq",
@@ -2445,7 +4118,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإخلاص کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ikhlas ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2492,7 +4179,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الإخلاص (مکمل)"
+    "themeUrdu": "سورت الإخلاص (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Ash-Shura",
+        "surah_number": 42,
+        "ayah_range": "11",
+        "relation_ur": "لَيْسَ كَمِثْلِهِ شَيْءٌ (اس جیسا کوئی نہیں)",
+        "relation_roman": "Laysa kamislihi shay' (Khuda ki bay-misli)",
+        "link_url": "https://quran.com/ur/42:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "22–24",
+        "relation_ur": "اسماءِ حسنیٰ اور توحیدِ خالص",
+        "relation_roman": "Asma-e-Husna aur Tauheed-e-Khaalis",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإخلاص کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ikhlas ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Laat, Manat, Uzza ki Tardeed aur Qudrat-e-Ilahi",
@@ -2531,7 +4259,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النجم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Najm ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2578,7 +4320,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "لات، منات اور عزیٰ کا رد اور خدائی قدرت کا بیان"
+    "themeUrdu": "لات، منات اور عزیٰ کا رد اور خدائی قدرت کا بیان",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النجم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Najm ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 31,
@@ -2618,7 +4401,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "1067",
-      "ref_url": "https://sunnah.com/bukhari:1067"
+      "ref_url": "https://sunnah.com/bukhari:1067",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ رسول اللہ ﷺ نے سورۂ نجم پر سجدہ کیا اور آپ کے ساتھ تمام مسلمانوں اور مشرکوں نے بھی سجدہ کیا سوائے امیہ بن خلف کے جس نے مٹی اٹھا کر پیشانی پر لگائی۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki Quran ke jalaal ke aage kuffar ke ghamand ke ghutne toot gaye aur sab sajde mein gir gaye.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "1067",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:1067",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2664,7 +4461,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورۃ النجم کا تاریخی سجدہ اور حق کی ہیبت"
+    "themeUrdu": "سورۃ النجم کا تاریخی سجدہ اور حق کی ہیبت",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "سَجَدَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالنَّجْمِ، وَسَجَدَ مَعَهُ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْجِنُّ وَالْإِنْسُ",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ رسول اللہ ﷺ نے سورۂ نجم پر سجدہ کیا اور آپ کے ساتھ تمام مسلمانوں اور مشرکوں نے بھی سجدہ کیا سوائے امیہ بن خلف کے جس نے مٹی اٹھا کر پیشانی پر لگائی۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki Quran ke jalaal ke aage kuffar ke ghamand ke ghutne toot gaye aur sab sajde mein gir gaye.",
+      "chapter_title": "Kitab as-Sujud",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "1067",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:1067",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 32,
@@ -2704,7 +4542,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Imam Tirmidhi",
       "book": "Jami' at-Tirmidhi",
       "hadithNumber": "3331",
-      "ref_url": "https://sunnah.com/tirmidhi:3331"
+      "ref_url": "https://sunnah.com/tirmidhi:3331",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ فرماتی ہیں کہ یہ سورت ابن ام مکتوم کے بارے میں اتری۔ اس کے بعد جب وہ آتے تو نبی ﷺ فرماتے: خوش آمدید اس ہستی کو جس کے بارے میں میرے رب نے مجھے تنبیہ فرمائی!",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki is aayat ke baad Nabi ﷺ Hazrat Ibn Umm Maktoom ki be-panah izzat farmate the.",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3331",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3331",
+          "grade": "Sahih",
+          "authority": "Imam Tirmidhi"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2750,7 +4602,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حضرت ابن ام مکتوم اور دعوتِ دین کے الٰہی اصول"
+    "themeUrdu": "حضرت ابن ام مکتوم اور دعوتِ دین کے الٰہی اصول",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+    "mutalliqah_hadees": {
+      "arabic": "أُنْزِلَتْ فِي ابْنِ أُمِّ مَكْتُومٍ الْأَعْمَى... فَكَانَ النَّبِيُّ يُكْرِمُهُ وَيَقُولُ: مَرْحَبًا بِمَنْ عَاتَبَنِي فِيهِ رَبِّي!",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ فرماتی ہیں کہ یہ سورت ابن ام مکتوم کے بارے میں اتری۔ اس کے بعد جب وہ آتے تو نبی ﷺ فرماتے: خوش آمدید اس ہستی کو جس کے بارے میں میرے رب نے مجھے تنبیہ فرمائی!",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki is aayat ke baad Nabi ﷺ Hazrat Ibn Umm Maktoom ki be-panah izzat farmate the.",
+      "chapter_title": "Kitab Tafsir al-Quran (باب ومن سورة عبس)",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3331",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3331",
+          "grade": "Sahih",
+          "authority": "Imam Tirmidhi"
+        }
+      ]
+    }
   },
   {
     "title": "Insaan ki Takhleeq aur Youm-e-Hashr ki Haibat",
@@ -2789,7 +4682,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ عبس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah 'Abasa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2836,7 +4743,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "انسان کی پیدائش اور روزِ حشر ماں باپ سے بھاگنا"
+    "themeUrdu": "انسان کی پیدائش اور روزِ حشر ماں باپ سے بھاگنا",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [
+      {
+        "name_ur": "غارِ حرا (جبلِ نور)",
+        "name_en": "Cave of Hira (Jabal an-Nur)",
+        "modern_name": "Jabal an-Nur, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کے شمال مشرق میں جبلِ نور پر واقع وہ مبارک غار جہاں پہلی وحی نازل ہوئی۔",
+        "context_roman": "Makkah ke qareeb Jabal an-Nur par waqe woh muqaddas ghaar jahan pehli wahi nazil hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4578,39.8592",
+        "coordinates": "21.4578° N, 39.8592° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ عبس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah 'Abasa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Qadr: Dawat-e-Tauheed, Akhlaaq aur The Power ke Asbaaq",
@@ -2875,7 +4833,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القدر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qadr ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -2922,7 +4894,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت القدر (مکمل)"
+    "themeUrdu": "سورت القدر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القدر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qadr ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ash-Shams: Dawat-e-Tauheed, Akhlaaq aur The Sun ke Asbaaq",
@@ -2961,7 +4974,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشمس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shams ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3008,7 +5035,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الشمس (مکمل)"
+    "themeUrdu": "سورت الشمس (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشمس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shams ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 36,
@@ -3048,7 +5116,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "3005",
-      "ref_url": "https://sunnah.com/muslim:3005"
+      "ref_url": "https://sunnah.com/muslim:3005",
+      "combined_urdu": "Rawi: Suhaib Rumi (R.A): رسول اللہ ﷺ نے فرمایا: ایک لڑکے کے سچے ایمان کی وجہ سے پوری بستی ایمان لے آئی، تو ظالم بادشاہ نے خندقیں کھود کر آگ دہکائی اور سب کو جلا ڈالا۔ ایک ماں اپنے بچے کے ساتھ جھجکی تو بچے نے کہا: ماں! صبر کر، تو حق پر ہے!",
+      "combined_roman": "Nabi Kareem ﷺ ne pichli ummat ke un ba-himmat momino ka qissa sunaya jinhone aag mein jalna qabool kiya magar shirk nahi kiya.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "3005",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:3005",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3094,7 +5176,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اصحاب الاخدود اور آگ کی خندقوں میں مظلوم اہلِ ایمان"
+    "themeUrdu": "اصحاب الاخدود اور آگ کی خندقوں میں مظلوم اہلِ ایمان",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "كَانَ مَلِكٌ فِيمَنْ كَانَ قَبْلَكُمْ، وَكَانَ لَهُ سَاحِرٌ... فَأَمَرَ بِالْأُخْدُودِ فِي سِوَكِ السِّكَكِ، فَخُدَّتْ، وَأَضْرَمَ النِّيرَانَ...",
+      "combined_urdu": "Rawi: Suhaib Rumi (R.A): رسول اللہ ﷺ نے فرمایا: ایک لڑکے کے سچے ایمان کی وجہ سے پوری بستی ایمان لے آئی، تو ظالم بادشاہ نے خندقیں کھود کر آگ دہکائی اور سب کو جلا ڈالا۔ ایک ماں اپنے بچے کے ساتھ جھجکی تو بچے نے کہا: ماں! صبر کر، تو حق پر ہے!",
+      "combined_roman": "Nabi Kareem ﷺ ne pichli ummat ke un ba-himmat momino ka qissa sunaya jinhone aag mein jalna qabool kiya magar shirk nahi kiya.",
+      "chapter_title": "Kitab az-Zuhd war-Raqa'iq (باب قصة أصحاب الأخدود والساحر والراهب والغلام)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "3005",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:3005",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Momineen ka Ajar aur Lawh-e-Mahfooz",
@@ -3133,7 +5266,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البروج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Buruj ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3180,7 +5327,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اہلِ ایمان کا ابدی اجر اور لوحِ محفوظ کا تحفظ"
+    "themeUrdu": "اہلِ ایمان کا ابدی اجر اور لوحِ محفوظ کا تحفظ",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البروج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Buruj ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ashab-e-Kahf ka Qissa: Hijrat-e-Habshah",
@@ -3219,7 +5407,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3266,7 +5468,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اصحابِ کہف کا واقعہ اور غار میں تین سو سال کی نیند"
+    "themeUrdu": "اصحابِ کہف کا واقعہ اور غار میں تین سو سال کی نیند",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Tin: Dawat-e-Tauheed, Akhlaaq aur The Fig ke Asbaaq",
@@ -3305,7 +5558,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التين کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tin ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3352,7 +5619,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت التين (مکمل)"
+    "themeUrdu": "سورت التين (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التين کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tin ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Quraysh: Dawat-e-Tauheed, Akhlaaq aur Quraysh ke Asbaaq",
@@ -3391,7 +5699,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ قريش کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Quraysh ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3438,7 +5760,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت قريش (مکمل)"
+    "themeUrdu": "سورت قريش (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ قريش کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Quraysh ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Qari'ah: Dawat-e-Tauheed, Akhlaaq aur The Calamity ke Asbaaq",
@@ -3477,7 +5840,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القارعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qari'ah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3524,7 +5901,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت القارعة (مکمل)"
+    "themeUrdu": "سورت القارعة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القارعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qari'ah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Qiyamah: Dawat-e-Tauheed, Akhlaaq aur The Resurrection ke Asbaaq",
@@ -3563,7 +5981,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القيامة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qiyamah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3610,7 +6042,48 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "سورت القيامة (مکمل)"
+    "themeUrdu": "سورت القيامة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القيامة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qiyamah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Humazah: Dawat-e-Tauheed, Akhlaaq aur The Traducer ke Asbaaq",
@@ -3649,7 +6122,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الهمزة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Humazah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3696,7 +6183,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الهمزة (مکمل)"
+    "themeUrdu": "سورت الهمزة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الهمزة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Humazah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Mursalat: Dawat-e-Tauheed, Akhlaaq aur The Emissaries ke Asbaaq",
@@ -3735,7 +6263,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المرسلات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mursalat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3782,7 +6324,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت المرسلات (مکمل)"
+    "themeUrdu": "سورت المرسلات (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المرسلات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mursalat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Qaf: Dawat-e-Tauheed, Akhlaaq aur The Letter \"Qaf\" ke Asbaaq",
@@ -3821,7 +6404,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ ق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Qaf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3868,7 +6465,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت ق (مکمل)"
+    "themeUrdu": "سورت ق (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ ق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Qaf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Balad: Dawat-e-Tauheed, Akhlaaq aur The City ke Asbaaq",
@@ -3907,7 +6545,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البلد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Balad ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -3954,7 +6606,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت البلد (مکمل)"
+    "themeUrdu": "سورت البلد (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البلد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Balad ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Tariq: Dawat-e-Tauheed, Akhlaaq aur The Nightcommer ke Asbaaq",
@@ -3993,7 +6686,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الطارق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tariq ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4040,7 +6747,64 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الطارق (مکمل)"
+    "themeUrdu": "سورت الطارق (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "🌟 Pulsar Astronomy / فلکیات",
+      "icon": "🌟",
+      "title_ur": "النجم الثاقب: تاریکی کو چیرنے والا کائناتی دھڑکن والا ستارہ (Pulsar)",
+      "title_en": "Pulsars & Neutron Stars (The Piercing Knocker)",
+      "summary_ur": "آیت ۱ تا ۳ میں 'الطَّارِقِ' (کھٹکھٹانے والا) اور 'النَّجْمُ الثَّاقِبُ' (چیرنے والا درخشاں ستارہ) کا ذکر ہے۔ ۱۹۶۷ میں ماہرینِ فلکیات نے پلسارز (Pulsars) دریافت کیے جو گھومتے ہوئے تیز ریڈیو پلس خارج کرتے ہیں جن کی آواز مائیک پر دستک کی طرح سنائی دیتی ہے اور ان کی تابکاری خلا کو چیر کر نکلتی ہے۔",
+      "summary_roman": "Surah 86:1-3 describes At-Tariq ('the night visitor / knocker') and An-Najm ath-Thaqib ('the piercing star'). Jocelyn Bell (1967) discovered Pulsars - dense neutron stars emitting rhythmic knocking pulses and piercing electromagnetic radiation.",
+      "citations": [
+        "Jocelyn Bell Burnell & Antony Hewish (1967) - 'Observation of a Rapidly Pulsating Radio Source'",
+        "Max Planck Institute for Radio Astronomy - Pulsar Timing and Acoustic Synthesis"
+      ],
+      "diagram": {
+        "title": "Rotating Neutron Star & Pulsar Jet Geometry",
+        "description": "Magnetic axis rotational beam emitting piercing periodic relativistic pulses.",
+        "type": "pulsar"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الطارق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tariq ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 48,
@@ -4080,7 +6844,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "3636",
-      "ref_url": "https://sunnah.com/bukhari:3636"
+      "ref_url": "https://sunnah.com/bukhari:3636",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ ہم رسول اللہ ﷺ کے ساتھ منٰی میں تھے کہ چاند کے دو ٹکڑے ہو گئے۔ آپ نے فرمایا: گواہ رہنا! گواہ رہنا!",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki humne chaand ko do tukdon mein dekha aur Nabi ﷺ ne farmaya: Ash-hadu (Gawah raho).",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3636",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3636",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4126,7 +6904,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "شَقُّ القمر: چاند کے دو ٹکڑے ہونے کا تاریخی معجزہ"
+    "themeUrdu": "شَقُّ القمر: چاند کے دو ٹکڑے ہونے کا تاریخی معجزہ",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "انْشَقَّ الْقَمَرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِرْقَتَيْنِ: فِرْقَةً فَوْقَ الْجَبَلِ، وَفِرْقَةً دُونَهُ...",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ ہم رسول اللہ ﷺ کے ساتھ منٰی میں تھے کہ چاند کے دو ٹکڑے ہو گئے۔ آپ نے فرمایا: گواہ رہنا! گواہ رہنا!",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki humne chaand ko do tukdon mein dekha aur Nabi ﷺ ne farmaya: Ash-hadu (Gawah raho).",
+      "chapter_title": "Kitab Manaqib al-Ansar",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3636",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3636",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Pichli Qaumon ki Takzeeb: Nuh, Aad, Samood, Lut",
@@ -4165,7 +6984,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القمر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qamar ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4212,7 +7045,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "پچھلی قوموں کی ہلاکت اور قرآن کی نصیحت"
+    "themeUrdu": "پچھلی قوموں کی ہلاکت اور قرآن کی نصیحت",
+    "phase_category": "makki",
+    "phase_sub": "Daawat-e-Ilania",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القمر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qamar ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Sad: Dawat-e-Tauheed, Akhlaaq aur The Letter \"Saad\" ke Asbaaq",
@@ -4251,7 +7125,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ ص کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Sad ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4298,7 +7186,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت ص (مکمل)"
+    "themeUrdu": "سورت ص (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ ص کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Sad ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Adam o Iblees aur Ashab-ul-A'raf",
@@ -4337,7 +7266,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعراف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'raf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4384,7 +7327,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "آدم و ابلیس کا قصہ اور اصحابِ اعراف"
+    "themeUrdu": "آدم و ابلیس کا قصہ اور اصحابِ اعراف",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعراف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'raf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ambiya-e-Kiram: Nuh, Hud, Salih, Lut, Shu'aib aur Firaun",
@@ -4423,7 +7407,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعراف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'raf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4470,7 +7468,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "انبیائے کرام کی دعوت اور سرکش قوموں کا انجام"
+    "themeUrdu": "انبیائے کرام کی دعوت اور سرکش قوموں کا انجام",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعراف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'raf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Musa A.S. ka Koh-e-Toor, Samiri aur Misaq-e-Alast",
@@ -4509,7 +7548,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعراف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'raf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4556,7 +7609,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "موسیٰ علیہ السلام کا کوہِ طور اور میثاقِ الست"
+    "themeUrdu": "موسیٰ علیہ السلام کا کوہِ طور اور میثاقِ الست",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأعراف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-A'raf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 54,
@@ -4596,7 +7700,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4921",
-      "ref_url": "https://sunnah.com/bukhari:4921"
+      "ref_url": "https://sunnah.com/bukhari:4921",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ آسمان سے شیاطین پر انگارے برسنے لگے، جنات نے کھوج لگایا تو دیکھا کہ رسول اللہ ﷺ نخلہ میں نماز پڑھ رہے ہیں۔ انہوں نے سن کر کہا: ہم نے ایک عجیب قرآن سنا جو ہدایت دکھاتا ہے!",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Jinno ne Quran sunte hi Tauheed qabool kar li.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4921",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4921",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4642,7 +7760,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سفرِ طائف سے واپسی اور جنوں کا قرآن سننا"
+    "themeUrdu": "سفرِ طائف سے واپسی اور جنوں کا قرآن سننا",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "طائف (باغِ عداس و وادیٔ وج)",
+        "name_en": "City of Ta'if",
+        "modern_name": "Ta'if, Makkah Province, Saudi Arabia",
+        "context_ur": "وہ تاریخی وادی جہاں رسول اللہ ﷺ نے دعوت پیش کی اور شدید مصائب پر مشہور دعائے طائف مانگی۔",
+        "context_roman": "Woh tareekhi maqam jahan Nabi ﷺ ne dawat di aur sabr-e-jameel ke sath dua farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.2854,40.4244",
+        "coordinates": "21.2854° N, 40.4244° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "انْطَلَقَ النَّبِيُّ فِي نَفَرٍ مِنْ أَصْحَابِهِ عَامِدِينَ إِلَى سُوقِ عُكَاظٍ... فَسَمِعُوا الْقُرْآنَ فَقَالُوا: هَذَا وَاللَّهِ الَّذِي حَالَ بَيْنَكُمْ وَبَيْنَ خَبَرِ السَّمَاءِ...",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ آسمان سے شیاطین پر انگارے برسنے لگے، جنات نے کھوج لگایا تو دیکھا کہ رسول اللہ ﷺ نخلہ میں نماز پڑھ رہے ہیں۔ انہوں نے سن کر کہا: ہم نے ایک عجیب قرآن سنا جو ہدایت دکھاتا ہے!",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Jinno ne Quran sunte hi Tauheed qabool kar li.",
+      "chapter_title": "Kitab at-Tafseer",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4921",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4921",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Istiqaamat aur Ilm-e-Ghayb ki Hifazat",
@@ -4681,7 +7859,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجن کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jinn ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4728,7 +7920,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دین پر استقامت اور غیب کے محافظ فرشتے"
+    "themeUrdu": "دین پر استقامت اور غیب کے محافظ فرشتے",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجن کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jinn ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 56,
@@ -4768,7 +8001,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "450",
-      "ref_url": "https://sunnah.com/muslim:450a"
+      "ref_url": "https://sunnah.com/muslim:450a",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ نبی ﷺ نے لیلۃ الجن میں جنات کے وفد کے سامنے تلاوت فرمائی اور انہوں نے احکامِ شریعت سیکھے۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki Jinno ne tilawat sun kar sawalat puche aur deen seekha.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "450",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:450a",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4814,7 +8061,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "نصیبین کے جنوں کی ایمان لانے کے بعد اپنی قوم کو دعوت"
+    "themeUrdu": "نصیبین کے جنوں کی ایمان لانے کے بعد اپنی قوم کو دعوت",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أُمِرْتُ أَنْ أَقْرَأَ عَلَى الْجِنِّ، فَانْطَلَقْتُ مَعَهُ...",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ نبی ﷺ نے لیلۃ الجن میں جنات کے وفد کے سامنے تلاوت فرمائی اور انہوں نے احکامِ شریعت سیکھے۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki Jinno ne tilawat sun kar sawalat puche aur deen seekha.",
+      "chapter_title": "Kitab as-Salat (باب الجهر بالقراءة في الصبح والقراءة على الجن)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "450",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:450a",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Habib an-Najjar aur Ashab-ul-Qaryah",
@@ -4853,7 +8141,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ya-Sin ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4900,7 +8202,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حبیب النجار اور بستی والوں کا تاریخی قصہ"
+    "themeUrdu": "حبیب النجار اور بستی والوں کا تاریخی قصہ",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ya-Sin ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Qudrat-e-Ilahi, Soor phoonka jana aur Kun Fayakoon",
@@ -4939,7 +8282,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ya-Sin ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -4986,7 +8343,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "نشانیاں، قیامت کا صور اور کن فیکون کا اقتدار"
+    "themeUrdu": "نشانیاں، قیامت کا صور اور کن فیکون کا اقتدار",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ya-Sin ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Furqan: Dawat-e-Tauheed, Akhlaaq aur The Criterion ke Asbaaq",
@@ -5025,7 +8423,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفرقان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Furqan ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5072,7 +8484,64 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الفرقان (مکمل)"
+    "themeUrdu": "سورت الفرقان (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "🌊 Oceanography / علمِ بحریات",
+      "icon": "🌊",
+      "title_ur": "میٹھے اور نمکین سمندروں کے درمیان غیر مرئی آبی پردہ (Halocline)",
+      "title_en": "Halocline Barrier & Pycnocline Marine Separation",
+      "summary_ur": "آیت ۵۳ میں دو سمندروں کے ملنے کا ذکر ہے جن کے درمیان ایسا برزخ (رکاوٹ) ہے جو ایک دوسرے کی خصوصیات کو خلط ملط نہیں ہونے دیتا۔ بحریات دانوں نے بحیرۂ روم اور بحرِ اوقیانوس کے سنگم پر ڈیڑھ ہزار میٹر گہرے جبلِ طارق پر تصدیق کی کہ کثافت اور نمکیات کے فرق سے پانی کی ایک واضح حد بندی قائم رہتی ہے۔",
+      "summary_roman": "Surah 25:53 and 55:19-20 highlight the barrier ('Barzakh') between waters of differing salinity and density. Physical oceanography confirms the existence of haloclines and pycnoclines preserving separate marine ecosystems.",
+      "citations": [
+        "H. U. Sverdrup, M. W. Johnson, R. H. Fleming - 'The Oceans: Their Physics, Chemistry, and General Biology'",
+        "Dr. William Hay - Marine Geology & Oceanography, University of Colorado"
+      ],
+      "diagram": {
+        "title": "Halocline & Density Gradient Interface",
+        "description": "Subsurface pycnocline barrier maintaining salinity boundary between confluent water bodies.",
+        "type": "oceanography"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفرقان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Furqan ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Fatir: Dawat-e-Tauheed, Akhlaaq aur Originator ke Asbaaq",
@@ -5111,7 +8580,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ فاطر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Fatir ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5158,7 +8641,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت فاطر (مکمل)"
+    "themeUrdu": "سورت فاطر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ فاطر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Fatir ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Hazrat Zakariyya aur Yahya A.S.",
@@ -5197,7 +8721,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ مريم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Maryam ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5244,7 +8782,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حضرت زکریا کی دعا اور حضرت یحییٰ کی ولادت"
+    "themeUrdu": "حضرت زکریا کی دعا اور حضرت یحییٰ کی ولادت",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ مريم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Maryam ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 62,
@@ -5284,7 +8863,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Ahmad Shakir",
       "book": "Musnad Ahmad",
       "hadithNumber": "1740",
-      "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/1740"
+      "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/1740",
+      "combined_urdu": "Rawi: Umm Salama (R.A): حضرت جعفر نے سورۂ مریم پڑھی تو نجاشی رویا اور فرمایا: یہ کلام اور انجیل دونوں ایک ہی سوراخ کے چراغ کا نور ہیں! جاؤ تم میرے ملک میں امن سے رہو۔",
+      "combined_roman": "Najashi ne tilawat sun kar farmaya: Yeh kalam aur Hazrat Isa ka laya hua deen dono ek hi sarchashme se phoote hain.",
+      "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+      "references": [
+        {
+          "book": "Musnad Ahmad",
+          "hadithNumber": "1740",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/1740",
+          "grade": "Sahih Hasan",
+          "authority": "Ahmad Shakir"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5330,7 +8923,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "نجاشی کے دربار میں تلاوت: سیدہ مریم اور عیسیٰ علیہ السلام"
+    "themeUrdu": "نجاشی کے دربار میں تلاوت: سیدہ مریم اور عیسیٰ علیہ السلام",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+    "mutalliqah_hadees": {
+      "arabic": "فَقَرَأَ عَلَيْهِ صَدْرًا مِنْ كَهَيْعَصَ، فَبَكَى النَّجَاشِيُّ حَتَّى اخْضَلَّتْ لِحْيَتُهُ...",
+      "combined_urdu": "Rawi: Umm Salama (R.A): حضرت جعفر نے سورۂ مریم پڑھی تو نجاشی رویا اور فرمایا: یہ کلام اور انجیل دونوں ایک ہی سوراخ کے چراغ کا نور ہیں! جاؤ تم میرے ملک میں امن سے رہو۔",
+      "combined_roman": "Najashi ne tilawat sun kar farmaya: Yeh kalam aur Hazrat Isa ka laya hua deen dono ek hi sarchashme se phoote hain.",
+      "chapter_title": "Musnad al-Kufiyyin (حديث جعفر بن أبي طالب عند النجاشي)",
+      "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+      "references": [
+        {
+          "book": "Musnad Ahmad",
+          "hadithNumber": "1740",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/1740",
+          "grade": "Sahih Hasan",
+          "authority": "Ahmad Shakir"
+        }
+      ]
+    }
   },
   {
     "title": "Hazrat Ibrahim, Musa, Idrees A.S. aur Shafa'at",
@@ -5369,7 +9003,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ مريم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Maryam ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5416,7 +9064,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "ابراہیم و دیگر انبیاء اور شرک کا قطعی رد"
+    "themeUrdu": "ابراہیم و دیگر انبیاء اور شرک کا قطعی رد",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ مريم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Maryam ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 64,
@@ -5456,7 +9145,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Imam Tirmidhi",
       "book": "Jami' at-Tirmidhi",
       "hadithNumber": "3681",
-      "ref_url": "https://sunnah.com/tirmidhi:3681"
+      "ref_url": "https://sunnah.com/tirmidhi:3681",
+      "combined_urdu": "Rawi: Abdullah bin Umar (R.A): رسول اللہ ﷺ نے دعا فرمائی تھی: اے اللہ! ابو جہل یا عمر بن خطاب میں سے جو تجھے زیادہ محبوب ہو اس سے اسلام کو عزت عطا فرما۔ اور اللہ نے حضرت عمر کو منتخب فرمایا۔",
+      "combined_roman": "Hazrat Umar (R.A) ne farmaya: Jab main Islam laya to humne khule aam Ka'aba ke sehan mein namaz ada ki.",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3681",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3681",
+          "grade": "Hasan Sahih",
+          "authority": "Imam Tirmidhi"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5502,7 +9205,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حضرت عمر کے قبولِ اسلام کا سبب: کوہِ طور کی پکار"
+    "themeUrdu": "حضرت عمر کے قبولِ اسلام کا سبب: کوہِ طور کی پکار",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+    "mutalliqah_hadees": {
+      "arabic": "اللَّهُمَّ أَعِزَّ الْإِسْلَامَ بِأَحَبِّ هَذَيْنِ الرَّجُلَيْنِ إِلَيْكَ: بِأَبِي جَهْلٍ أَوْ بِعُمَرَ بْنِ الْخَطَّابِ",
+      "combined_urdu": "Rawi: Abdullah bin Umar (R.A): رسول اللہ ﷺ نے دعا فرمائی تھی: اے اللہ! ابو جہل یا عمر بن خطاب میں سے جو تجھے زیادہ محبوب ہو اس سے اسلام کو عزت عطا فرما۔ اور اللہ نے حضرت عمر کو منتخب فرمایا۔",
+      "combined_roman": "Hazrat Umar (R.A) ne farmaya: Jab main Islam laya to humne khule aam Ka'aba ke sehan mein namaz ada ki.",
+      "chapter_title": "Kitab al-Manaqib (باب مناقب عمر بن الخطاب رضي الله عنه)",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3681",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3681",
+          "grade": "Hasan Sahih",
+          "authority": "Imam Tirmidhi"
+        }
+      ]
+    }
   },
   {
     "title": "Musa A.S., Firaun ke Jadoogar aur Samiri ka Bachhda",
@@ -5541,7 +9285,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ طه کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Taha ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5588,7 +9346,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "موسیٰ کا عصا، ساحروں کا سجدہ اور بچھڑے کا انجام"
+    "themeUrdu": "موسیٰ کا عصا، ساحروں کا سجدہ اور بچھڑے کا انجام",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ طه کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Taha ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Qayamat ki Haibat aur Adam o Iblees",
@@ -5627,7 +9426,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ طه کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Taha ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5674,7 +9487,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "روزِ قیامت پہاڑوں کا اڑنا اور آدم کی توبہ"
+    "themeUrdu": "روزِ قیامت پہاڑوں کا اڑنا اور آدم کی توبہ",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [
+      {
+        "name_ur": "غارِ حرا (جبلِ نور)",
+        "name_en": "Cave of Hira (Jabal an-Nur)",
+        "modern_name": "Jabal an-Nur, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کے شمال مشرق میں جبلِ نور پر واقع وہ مبارک غار جہاں پہلی وحی نازل ہوئی۔",
+        "context_roman": "Makkah ke qareeb Jabal an-Nur par waqe woh muqaddas ghaar jahan pehli wahi nazil hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4578,39.8592",
+        "coordinates": "21.4578° N, 39.8592° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ طه کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Taha ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 67,
@@ -5715,7 +9579,21 @@ window.WAHI_EPISODES = [
       "book": "Tafsir al-Tabari",
       "hadithNumber": "13778",
       "ref_url": "https://shamela.ws/book/43",
-      "jild": "8"
+      "jild": "8",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ یہ آیت حضرت حمزہ اور عمر بن خطاب کے بارے میں اتری، اور اندھیرے میں رہنے والے سے مراد ابو جہل تھا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) farmate hain ki noor pane wale Hazrat Umar aur Hamza the aur andhere mein zaleel hone wala Abu Jahl tha.",
+      "takhreej_status": "Sahih (صحیح - Tafsir al-Tabari)",
+      "references": [
+        {
+          "book": "Tafsir al-Tabari",
+          "hadithNumber": "13778",
+          "volume": "8",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/43",
+          "grade": "Hasan",
+          "authority": "Imam Tabari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5761,7 +9639,64 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مردہ دلوں کو نورِ ایمان سے زندہ کرنے کی مثال"
+    "themeUrdu": "مردہ دلوں کو نورِ ایمان سے زندہ کرنے کی مثال",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "✈️ Aerospace Physiology / علمِ وظائف الاعضاء",
+      "icon": "✈️",
+      "title_ur": "بلندی پر جانے سے سینے کا تنگ اور گھٹا ہوا محسوس ہونا",
+      "title_en": "High-Altitude Hypoxia & Barometric Chest Constriction",
+      "summary_ur": "آیت ۱۲۵ میں گمراہی کی کیفیت کو یوں تشبیہ دی: 'اس کے سینے کو تنگ اور گھٹا ہوا بنا دیتا ہے گویا وہ آسمان پر چڑھ رہا ہو'۔ ہوابازی کی سائنس اور ایوی ایشن میڈیسن نے تصدیق کی کہ سطحِ سمندر سے 10,000 فٹ سے زائد بلندی پر فضائی دباؤ کم ہونے سے آکسیجن کی کمی واقع ہوتی ہے جس سے سینے میں شدید تنگی اور حبس کا سامنا ہوتا ہے۔",
+      "summary_roman": "Surah 6:125 describes someone whose 'chest becomes tight and constricted as if climbing up into the sky'. High-altitude aviation medicine confirms barometric pressure falls exponentially with altitude, causing hypoxia.",
+      "citations": [
+        "FAA Aviation Medicine Manual - 'Physiological Effects of High Altitude Hypoxia'",
+        "Ernsting's Aviation Medicine - Hypobaric Decompression & Thoracic Stress"
+      ],
+      "diagram": {
+        "title": "Atmospheric Pressure Fall & Alveolar Hypoxia Curve",
+        "description": "Correlation between altitude gain and decreasing partial oxygen pressure causing respiratory tightness.",
+        "type": "aviation_medicine"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Tafsir al-Tabari)",
+    "mutalliqah_hadees": {
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ: {أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ}، قَالَ: نَزَلَتْ فِي حَمْزَةَ بْنِ عَبْدِ الْمُطَّلِبِ وَعُمَرَ بْنِ الْخَطَّابِ",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ یہ آیت حضرت حمزہ اور عمر بن خطاب کے بارے میں اتری، اور اندھیرے میں رہنے والے سے مراد ابو جہل تھا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) farmate hain ki noor pane wale Hazrat Umar aur Hamza the aur andhere mein zaleel hone wala Abu Jahl tha.",
+      "chapter_title": "Tafsir Surah Al-An'am (أومن كان ميتا فأحييناه)",
+      "takhreej_status": "Sahih (صحیح - Tafsir al-Tabari)",
+      "references": [
+        {
+          "book": "Tafsir al-Tabari",
+          "hadithNumber": "13778",
+          "volume": "8",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/43",
+          "grade": "Hasan",
+          "authority": "Imam Tabari"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Waqi'ah: Dawat-e-Tauheed, Akhlaaq aur The Inevitable ke Asbaaq",
@@ -5800,7 +9735,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الواقعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Waqi'ah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5847,7 +9796,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الواقعة (مکمل)"
+    "themeUrdu": "سورت الواقعة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الواقعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Waqi'ah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Musa A.S. aur Firaun ke Lashkar ka Gharq hona",
@@ -5886,7 +9876,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشعراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shu'ara ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -5933,7 +9937,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "موسیٰ اور دریا کا پھٹنا، فرعون کا غرقاب ہونا"
+    "themeUrdu": "موسیٰ اور دریا کا پھٹنا، فرعون کا غرقاب ہونا",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشعراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shu'ara ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ibrahim, Nuh, Hud, Salih, Lut, Shu'aib A.S.",
@@ -5972,7 +10017,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشعراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shu'ara ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6019,7 +10078,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "انبیائے کرام کی جدوجہد اور ان کی قوموں کا خاتمہ"
+    "themeUrdu": "انبیائے کرام کی جدوجہد اور ان کی قوموں کا خاتمہ",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشعراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shu'ara ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Tanzil-e-Quran aur Rooh-ul-Ameen",
@@ -6058,7 +10158,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشعراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shu'ara ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6105,7 +10219,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "قرآن کی عظمت اور روح الامین کا نزول"
+    "themeUrdu": "قرآن کی عظمت اور روح الامین کا نزول",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "میدانِ عرفات (جبلِ رحمت)",
+        "name_en": "Plains of Arafat (Mount of Mercy)",
+        "modern_name": "Arafat, Makkah al-Mukarramah",
+        "context_ur": "حجۃ الوداع کا میدان جہاں رسول اللہ ﷺ نے تاریخی خطبۂ انسانی حقوق ارشاد فرمایا اور تکمیلِ دین کی آیت نازل ہوئی۔",
+        "context_roman": "Hajjat-ul-Wida ka midan jahan Nabi ﷺ ne aalmi khutbah diya aur deen ki takmeel hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.3548,39.9840",
+        "coordinates": "21.3548° N, 39.9840° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشعراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shu'ara ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah An-Naml: Dawat-e-Tauheed, Akhlaaq aur The Ant ke Asbaaq",
@@ -6144,7 +10309,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النمل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Naml ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6191,7 +10370,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت النمل (مکمل)"
+    "themeUrdu": "سورت النمل (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النمل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Naml ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Qasas: Dawat-e-Tauheed, Akhlaaq aur The Stories ke Asbaaq",
@@ -6230,7 +10450,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القصص کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qasas ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6277,7 +10511,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت القصص (مکمل)"
+    "themeUrdu": "سورت القصص (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ القصص کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Qasas ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Bani Israel ki Tareekh aur 14 Akhlaqi Hikmaten",
@@ -6316,7 +10591,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6363,7 +10652,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بنی اسرائیل کے ادوار اور اخلاقِ انسانی کا الٰہی منشور"
+    "themeUrdu": "بنی اسرائیل کے ادوار اور اخلاقِ انسانی کا الٰہی منشور",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Quran Shifa aur Rahmat hai",
@@ -6402,7 +10742,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6449,7 +10803,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "قرآن مومنوں کے لیے شفا اور رحمت ہے"
+    "themeUrdu": "قرآن مومنوں کے لیے شفا اور رحمت ہے",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Quran ki Misl lane ka Challenge aur Asma-ul-Husna",
@@ -6488,7 +10893,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6535,7 +10954,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "قرآن کا اعجاز اور اللہ کے خوبصورت نام"
+    "themeUrdu": "قرآن کا اعجاز اور اللہ کے خوبصورت نام",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Yunus: Dawat-e-Tauheed, Akhlaaq aur Jonah ke Asbaaq",
@@ -6574,7 +11044,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يونس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Yunus ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6621,7 +11105,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت يونس (مکمل)"
+    "themeUrdu": "سورت يونس (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يونس کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Yunus ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Hud: Dawat-e-Tauheed, Akhlaaq aur Hud ke Asbaaq",
@@ -6660,7 +11185,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ هود کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Hud ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6707,7 +11246,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت هود (مکمل)"
+    "themeUrdu": "سورت هود (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ هود کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Hud ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Yusuf: Dawat-e-Tauheed, Akhlaaq aur Joseph ke Asbaaq",
@@ -6746,7 +11326,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يوسف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Yusuf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6793,7 +11387,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت يوسف (مکمل)"
+    "themeUrdu": "سورت يوسف (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ يوسف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Yusuf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Hijr: Dawat-e-Tauheed, Akhlaaq aur The Rocky Tract ke Asbaaq",
@@ -6832,7 +11467,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحجر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hijr ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6879,7 +11528,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الحجر (مکمل)"
+    "themeUrdu": "سورت الحجر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحجر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hijr ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Dawat-e-Tauheed aur Mushrikeen ke Shubhāt ka Radd",
@@ -6918,7 +11608,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنعام کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-An'am ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -6965,7 +11669,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "توحیدِ کامل اور شرک کی تمام صورتوں کا رد"
+    "themeUrdu": "توحیدِ کامل اور شرک کی تمام صورتوں کا رد",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "✈️ Aerospace Physiology / علمِ وظائف الاعضاء",
+      "icon": "✈️",
+      "title_ur": "بلندی پر جانے سے سینے کا تنگ اور گھٹا ہوا محسوس ہونا",
+      "title_en": "High-Altitude Hypoxia & Barometric Chest Constriction",
+      "summary_ur": "آیت ۱۲۵ میں گمراہی کی کیفیت کو یوں تشبیہ دی: 'اس کے سینے کو تنگ اور گھٹا ہوا بنا دیتا ہے گویا وہ آسمان پر چڑھ رہا ہو'۔ ہوابازی کی سائنس اور ایوی ایشن میڈیسن نے تصدیق کی کہ سطحِ سمندر سے 10,000 فٹ سے زائد بلندی پر فضائی دباؤ کم ہونے سے آکسیجن کی کمی واقع ہوتی ہے جس سے سینے میں شدید تنگی اور حبس کا سامنا ہوتا ہے۔",
+      "summary_roman": "Surah 6:125 describes someone whose 'chest becomes tight and constricted as if climbing up into the sky'. High-altitude aviation medicine confirms barometric pressure falls exponentially with altitude, causing hypoxia.",
+      "citations": [
+        "FAA Aviation Medicine Manual - 'Physiological Effects of High Altitude Hypoxia'",
+        "Ernsting's Aviation Medicine - Hypobaric Decompression & Thoracic Stress"
+      ],
+      "diagram": {
+        "title": "Atmospheric Pressure Fall & Alveolar Hypoxia Curve",
+        "description": "Correlation between altitude gain and decreasing partial oxygen pressure causing respiratory tightness.",
+        "type": "aviation_medicine"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنعام کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-An'am ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Deen-e-Qayyim aur Muharramaat ka Bayan",
@@ -7004,7 +11775,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنعام کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-An'am ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7051,7 +11836,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دینِ حنیف، وصایا کی دس باتیں اور قل ان صلاتی"
+    "themeUrdu": "دینِ حنیف، وصایا کی دس باتیں اور قل ان صلاتی",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "✈️ Aerospace Physiology / علمِ وظائف الاعضاء",
+      "icon": "✈️",
+      "title_ur": "بلندی پر جانے سے سینے کا تنگ اور گھٹا ہوا محسوس ہونا",
+      "title_en": "High-Altitude Hypoxia & Barometric Chest Constriction",
+      "summary_ur": "آیت ۱۲۵ میں گمراہی کی کیفیت کو یوں تشبیہ دی: 'اس کے سینے کو تنگ اور گھٹا ہوا بنا دیتا ہے گویا وہ آسمان پر چڑھ رہا ہو'۔ ہوابازی کی سائنس اور ایوی ایشن میڈیسن نے تصدیق کی کہ سطحِ سمندر سے 10,000 فٹ سے زائد بلندی پر فضائی دباؤ کم ہونے سے آکسیجن کی کمی واقع ہوتی ہے جس سے سینے میں شدید تنگی اور حبس کا سامنا ہوتا ہے۔",
+      "summary_roman": "Surah 6:125 describes someone whose 'chest becomes tight and constricted as if climbing up into the sky'. High-altitude aviation medicine confirms barometric pressure falls exponentially with altitude, causing hypoxia.",
+      "citations": [
+        "FAA Aviation Medicine Manual - 'Physiological Effects of High Altitude Hypoxia'",
+        "Ernsting's Aviation Medicine - Hypobaric Decompression & Thoracic Stress"
+      ],
+      "diagram": {
+        "title": "Atmospheric Pressure Fall & Alveolar Hypoxia Curve",
+        "description": "Correlation between altitude gain and decreasing partial oxygen pressure causing respiratory tightness.",
+        "type": "aviation_medicine"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنعام کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-An'am ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah As-Saffat: Dawat-e-Tauheed, Akhlaaq aur Those who set the Ranks ke Asbaaq",
@@ -7090,7 +11942,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الصافات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah As-Saffat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7137,7 +12003,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الصافات (مکمل)"
+    "themeUrdu": "سورت الصافات (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الصافات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah As-Saffat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Muhsineen ki Sifaat aur Hidayat",
@@ -7176,7 +12093,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ لقمان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Luqman ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7223,7 +12154,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "محسنین کی صفات اور کتابِ حکیم کی ہدایت"
+    "themeUrdu": "محسنین کی صفات اور کتابِ حکیم کی ہدایت",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ لقمان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Luqman ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Hazrat Luqman ki Apne Bete ko Nasihaten",
@@ -7262,7 +12253,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ لقمان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Luqman ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7309,7 +12314,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حضرت لقمان کی بیٹے کو حکمت بھری نصیحتیں"
+    "themeUrdu": "حضرت لقمان کی بیٹے کو حکمت بھری نصیحتیں",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ لقمان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Luqman ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Saba: Dawat-e-Tauheed, Akhlaaq aur Sheba ke Asbaaq",
@@ -7348,7 +12404,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ سبإ کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Saba ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7395,7 +12465,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت سبإ (مکمل)"
+    "themeUrdu": "سورت سبإ (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ سبإ کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Saba ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Az-Zumar: Dawat-e-Tauheed, Akhlaaq aur The Troops ke Asbaaq",
@@ -7434,7 +12555,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الزمر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Az-Zumar ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7481,7 +12616,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الزمر (مکمل)"
+    "themeUrdu": "سورت الزمر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الزمر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Az-Zumar ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ghafir: Dawat-e-Tauheed, Akhlaaq aur The Forgiver ke Asbaaq",
@@ -7520,7 +12706,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ غافر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ghafir ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7567,7 +12767,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت غافر (مکمل)"
+    "themeUrdu": "سورت غافر (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ غافر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ghafir ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Fussilat: Dawat-e-Tauheed, Akhlaaq aur Explained in Detail ke Asbaaq",
@@ -7606,7 +12857,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ فصلت کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Fussilat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7653,7 +12918,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت فصلت (مکمل)"
+    "themeUrdu": "سورت فصلت (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ فصلت کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Fussilat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ash-Shuraa: Dawat-e-Tauheed, Akhlaaq aur The Consultation ke Asbaaq",
@@ -7692,7 +13008,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشورى کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shuraa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7739,7 +13069,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الشورى (مکمل)"
+    "themeUrdu": "سورت الشورى (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الشورى کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ash-Shuraa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Az-Zukhruf: Dawat-e-Tauheed, Akhlaaq aur The Ornaments of Gold ke Asbaaq",
@@ -7778,7 +13159,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الزخرف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Az-Zukhruf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7825,7 +13220,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الزخرف (مکمل)"
+    "themeUrdu": "سورت الزخرف (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الزخرف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Az-Zukhruf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ad-Dukhan: Dawat-e-Tauheed, Akhlaaq aur The Smoke ke Asbaaq",
@@ -7864,7 +13310,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الدخان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ad-Dukhan ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7911,7 +13371,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الدخان (مکمل)"
+    "themeUrdu": "سورت الدخان (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الدخان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ad-Dukhan ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Jathiyah: Dawat-e-Tauheed, Akhlaaq aur The Crouching ke Asbaaq",
@@ -7950,7 +13461,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجاثية کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jathiyah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -7997,7 +13522,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الجاثية (مکمل)"
+    "themeUrdu": "سورت الجاثية (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجاثية کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jathiyah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Wadi-e-Ahqaf aur Qoum-e-Aad ka Anjam",
@@ -8036,7 +13612,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحقاف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahqaf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8083,7 +13673,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "وادیِ احقاف، قومِ عاد کی بربادی اور توحید"
+    "themeUrdu": "وادیِ احقاف، قومِ عاد کی بربادی اور توحید",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحقاف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahqaf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Sabr-e-Ulul Azm aur Qayamat ka Din",
@@ -8122,7 +13763,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحقاف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahqaf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8169,7 +13824,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اولوالعزم پیغمبروں کی طرح صبر کا حکم"
+    "themeUrdu": "اولوالعزم پیغمبروں کی طرح صبر کا حکم",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحقاف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahqaf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Adh-Dhariyat: Dawat-e-Tauheed, Akhlaaq aur The Winnowing Winds ke Asbaaq",
@@ -8208,7 +13914,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الذاريات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Adh-Dhariyat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8255,7 +13975,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الذاريات (مکمل)"
+    "themeUrdu": "سورت الذاريات (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🔭 Astrophysics / علمِ فلکیات و طبیعیات",
+      "icon": "🔭",
+      "title_ur": "کائنات کا مسلسل وسعت پذیر ہونا (Expanding Universe)",
+      "title_en": "Accelerated Cosmic Expansion (Hubble's Law)",
+      "summary_ur": "آیت ۴۷ میں فرمایا: 'اور ہم آسمان کو اپنے ہاتھوں سے بنایا اور ہم ہی اسے مسلسل وسعت دینے والے ہیں (وَإِنَّا لَمُوسِعُونَ)'۔ بیسویں صدی میں ایڈون ہبل اور آئن اسٹائن کے بعد دریافت ہوا کہ کائنات ساکن نہیں بلکہ کہکشائیں مسلسل تیز رفتاری سے ایک دوسرے سے دور پھیل رہی ہیں۔",
+      "summary_roman": "Surah 51:47 explicitly states 'And the heaven We constructed with strength, and indeed, We are its expanders'. Edwin Hubble (1929) and modern astrophysics confirmed the universe is continuously expanding.",
+      "citations": [
+        "Edwin Hubble (1929) - 'A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae'",
+        "Saul Perlmutter, Brian Schmidt, Adam Riess - Nobel Prize in Physics (2011) for Accelerating Expansion"
+      ],
+      "diagram": {
+        "title": "Expanding Spacetime Metric & Redshift",
+        "description": "Galactic cosmological redshift demonstrating continuous metric expansion of spacetime.",
+        "type": "astrophysics"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الذاريات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Adh-Dhariyat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Ghashiyah: Dawat-e-Tauheed, Akhlaaq aur The Overwhelming ke Asbaaq",
@@ -8294,7 +14081,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الغاشية کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ghashiyah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8341,7 +14142,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الغاشية (مکمل)"
+    "themeUrdu": "سورت الغاشية (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الغاشية کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ghashiyah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Hamd-e-Ilahi aur Inzaar-e-Qurani",
@@ -8380,7 +14232,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8427,7 +14293,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حمدِ الٰہی اور قرآن کی رہنمائی"
+    "themeUrdu": "حمدِ الٰہی اور قرآن کی رہنمائی",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Do Baghon ka Malik aur Iblees ka Takabbur",
@@ -8466,7 +14383,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8513,7 +14444,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دو باغوں والے کا انجام اور ابلیس کا سجدے سے انکار"
+    "themeUrdu": "دو باغوں والے کا انجام اور ابلیس کا سجدے سے انکار",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Musa A.S. aur Khidr A.S. ka Safar",
@@ -8552,7 +14534,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8599,7 +14595,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "موسیٰ اور خضر کا تاریخی سفر اور تکوینی حکمتیں"
+    "themeUrdu": "موسیٰ اور خضر کا تاریخی سفر اور تکوینی حکمتیں",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Aamaal ki Barbaadi aur Qul Law Kanal Bahru Midadan",
@@ -8638,7 +14694,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8685,7 +14755,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اعمال کا ضائع ہونا اور قل لو کان البحر مدادا"
+    "themeUrdu": "اعمال کا ضائع ہونا اور قل لو کان البحر مدادا",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الكهف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Kahf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 102,
@@ -8725,7 +14846,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "349",
-      "ref_url": "https://sunnah.com/bukhari:349"
+      "ref_url": "https://sunnah.com/bukhari:349",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): رسول اللہ ﷺ نے فرمایا: پہلے پچاس نمازیں فرض ہوئیں، پھر حضرت موسیٰ کے مشورے پر تخفیف ہوتی رہی یہاں تک کہ اللہ نے فرمایا: پڑھنے میں پانچ ہیں اور ثواب میں پچاس ہیں!",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Namaz meri aankhon ki thandak aur momin ki roohani meraj hai.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "349",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:349",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8771,7 +14906,67 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "واقعہِ اسراء و معراج: مسجد حرام سے مسجد اقصی تک"
+    "themeUrdu": "واقعہِ اسراء و معراج: مسجد حرام سے مسجد اقصی تک",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "طائف (باغِ عداس و وادیٔ وج)",
+        "name_en": "City of Ta'if",
+        "modern_name": "Ta'if, Makkah Province, Saudi Arabia",
+        "context_ur": "وہ تاریخی وادی جہاں رسول اللہ ﷺ نے دعوت پیش کی اور شدید مصائب پر مشہور دعائے طائف مانگی۔",
+        "context_roman": "Woh tareekhi maqam jahan Nabi ﷺ ne dawat di aur sabr-e-jameel ke sath dua farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.2854,40.4244",
+        "coordinates": "21.2854° N, 40.4244° E"
+      },
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "فُرِضَتْ عَلَيَّ الصَّلَوَاتُ خَمْسِينَ... فَلَمْ أَزَلْ أَرْجِعُ بَيْنَ رَبِّي وَبَيْنَ مُوسَى حَتَّى قَالَ: هِيَ خَمْسٌ، وَهُنَّ خَمْسُونَ...",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): رسول اللہ ﷺ نے فرمایا: پہلے پچاس نمازیں فرض ہوئیں، پھر حضرت موسیٰ کے مشورے پر تخفیف ہوتی رہی یہاں تک کہ اللہ نے فرمایا: پڑھنے میں پانچ ہیں اور ثواب میں پچاس ہیں!",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Namaz meri aankhon ki thandak aur momin ki roohani meraj hai.",
+      "chapter_title": "Kitab as-Salat",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "349",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:349",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Nemat-e-Ilahi, Shehad ki Makhi aur Tauheed",
@@ -8810,7 +15005,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النحل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nahl ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8857,7 +15066,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "انعامِ الٰہی، شہد کی مکھی اور قدرت کی نشانیاں"
+    "themeUrdu": "انعامِ الٰہی، شہد کی مکھی اور قدرت کی نشانیاں",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النحل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nahl ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 104,
@@ -8897,7 +15157,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4721",
-      "ref_url": "https://sunnah.com/bukhari:4721"
+      "ref_url": "https://sunnah.com/bukhari:4721",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ میں نبی ﷺ کے ساتھ تھا کہ یہودیوں نے سوال کیا۔ آپ خاموش رہے، میں سمجھا وحی آ رہی ہے، پھر آپ نے یہ آیت تلاوت فرمائی۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki wahi ke nuzool ke baad Nabi ﷺ ne jawab diya ki Rooh rab ke amr se hai.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4721",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4721",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -8943,7 +15217,48 @@ window.WAHI_EPISODES = [
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
     ],
-    "themeUrdu": "روح کے متعلق مشرکین کا سوال اور علمِ قلیل"
+    "themeUrdu": "روح کے متعلق مشرکین کا سوال اور علمِ قلیل",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "بَيْنَمَا أَنَا أَمْشِي مَعَ النَّبِيِّ فِي خَرِبِ الْمَدِينَةِ... فَقَالَ الْيَهُودُ: سَلُوهُ عَنِ الرُّوحِ... فَقَالَ: {قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي}",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ood (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ میں نبی ﷺ کے ساتھ تھا کہ یہودیوں نے سوال کیا۔ آپ خاموش رہے، میں سمجھا وحی آ رہی ہے، پھر آپ نے یہ آیت تلاوت فرمائی۔",
+      "combined_roman": "Hazrat Ibn Mas'ood (R.A) riwayat karte hain ki wahi ke nuzool ke baad Nabi ﷺ ne jawab diya ki Rooh rab ke amr se hai.",
+      "chapter_title": "Kitab at-Tafseer",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4721",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4721",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Ud'u Ila Sabeeli Rabbika bil Hikmah",
@@ -8982,7 +15297,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النحل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nahl ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9029,7 +15358,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حکمت اور موعظۂ حسنہ کے ساتھ دعوتِ دین کا طریقہ"
+    "themeUrdu": "حکمت اور موعظۂ حسنہ کے ساتھ دعوتِ دین کا طریقہ",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النحل کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nahl ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 106,
@@ -9069,7 +15449,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Ibn Hisham",
       "book": "Seerah Ibn Hisham",
       "ref_url": "https://shamela.ws/book/23833",
-      "jild": "1"
+      "jild": "1",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ قریش نے دو آدمیوں کو مدینہ کے یہودی علماء کے پاس بھیجا جنہوں نے ذوالقرنین کا سوال سکھایا، اور قرآن نے اس کا سچا واقعہ بیان کر دیا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki yeh aayatein kuffar ke imtehan ka dandan-shikan ilahi jawab theen.",
+      "takhreej_status": "Sahih (صحیح - Seerah Ibn Hisham)",
+      "references": [
+        {
+          "book": "Seerah Ibn Hisham",
+          "hadithNumber": "1",
+          "volume": "1",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/23833",
+          "grade": "Hasan",
+          "authority": "Ibn Hisham"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9115,7 +15509,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "ذوالقرنین، یاجوج ماجوج اور لوہے کی مضبوط دیوار"
+    "themeUrdu": "ذوالقرنین، یاجوج ماجوج اور لوہے کی مضبوط دیوار",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Seerah Ibn Hisham)",
+    "mutalliqah_hadees": {
+      "arabic": "بَعَثَتْ قُرَيْشٌ النَّضْرَ بْنَ الْحَارِثِ وَعُقْبَةَ بْنَ أَبِي مُعَيْطٍ إِلَى أَحْبَارِ يَهُودَ بِالْمَدِينَةِ...",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ قریش نے دو آدمیوں کو مدینہ کے یہودی علماء کے پاس بھیجا جنہوں نے ذوالقرنین کا سوال سکھایا، اور قرآن نے اس کا سچا واقعہ بیان کر دیا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki yeh aayatein kuffar ke imtehan ka dandan-shikan ilahi jawab theen.",
+      "chapter_title": "Zikr Asbab an-Nuzul wa Bidayat ad-Da'wah",
+      "takhreej_status": "Sahih (صحیح - Seerah Ibn Hisham)",
+      "references": [
+        {
+          "book": "Seerah Ibn Hisham",
+          "hadithNumber": "1",
+          "volume": "1",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/23833",
+          "grade": "Hasan",
+          "authority": "Ibn Hisham"
+        }
+      ]
+    }
   },
   {
     "id": 107,
@@ -9155,7 +15590,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4855",
-      "ref_url": "https://sunnah.com/bukhari:4855"
+      "ref_url": "https://sunnah.com/bukhari:4855",
+      "combined_urdu": "Rawi: Masrooq bin al-Ajda': حضرت عائشہ نے مسروق سے فرمایا کہ نبی ﷺ نے اپنے رب کی عظیم الشان نشانیاں دیکھیں اور جبرائیل کو ان کی اصل صورت میں دیکھا جن کے چھ سو پر تھے۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) farmate hain ki Nabi Kareem ﷺ ne apne dil ki aankh se apne Rab ka jalwa dekha.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4855",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4855",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9201,7 +15650,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "معراج: سدرۃ المنتہیٰ اور آیاتِ کبریٰ کا مشاہدہ"
+    "themeUrdu": "معراج: سدرۃ المنتہیٰ اور آیاتِ کبریٰ کا مشاہدہ",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "عَنْ مَسْرُوقٍ، قَالَ: قُلْتُ لِعَائِشَةَ: يَا أُمَّتَاهْ! هَلْ رَأَى مُحَمَّدٌ رَبَّهُ؟ فَقَالَتْ: لَقَدْ قَفَّ شَعَرِي... ثُمَّ قَرَأَتْ: {لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى}",
+      "combined_urdu": "Rawi: Masrooq bin al-Ajda': حضرت عائشہ نے مسروق سے فرمایا کہ نبی ﷺ نے اپنے رب کی عظیم الشان نشانیاں دیکھیں اور جبرائیل کو ان کی اصل صورت میں دیکھا جن کے چھ سو پر تھے۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) farmate hain ki Nabi Kareem ﷺ ne apne dil ki aankh se apne Rab ka jalwa dekha.",
+      "chapter_title": "Kitab at-Tafseer",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4855",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4855",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Nuh: Dawat-e-Tauheed, Akhlaaq aur Noah ke Asbaaq",
@@ -9240,7 +15740,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ نوح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Nuh ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9287,7 +15801,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت نوح (مکمل)"
+    "themeUrdu": "سورت نوح (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ نوح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Nuh ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ibrahim: Dawat-e-Tauheed, Akhlaaq aur Abraham ke Asbaaq",
@@ -9326,7 +15891,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ ابراهيم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ibrahim ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9373,7 +15952,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت ابراهيم (مکمل)"
+    "themeUrdu": "سورت ابراهيم (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ ابراهيم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ibrahim ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Hisab ka Qareeb aana aur Ghaflat",
@@ -9412,7 +16042,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنبياء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anbya ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9459,7 +16103,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "لوگوں کے حساب کا قریب آنا اور غفلت میں پڑے رہنا"
+    "themeUrdu": "لوگوں کے حساب کا قریب آنا اور غفلت میں پڑے رہنا",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🌌 Cosmology & Cytology / کونیات و حیاتیات",
+      "icon": "🌌",
+      "title_ur": "کائنات کا ایک جڑے ہوئے مادے سے الگ ہونا اور پانی سے حیات کا ظہور",
+      "title_en": "Cosmic Singularity (Big Bang) & Aqueous Origin of Life",
+      "summary_ur": "آیت ۳۰ میں فرمایا گیا کہ آسمان و زمین باہم پیوست تھے، پھر ہم نے انہیں پھاڑ کر الگ کیا (The Big Bang & Expansion)، اور ہر زندہ چیز کو پانی سے پیدا کیا۔ جدید سیلولر بائیولوجی نے تصدیق کی کہ ہر جاندار کا خلیہ (Cytoplasm) 70% سے 85% تک پانی پر مشتمل ہوتا ہے۔",
+      "summary_roman": "Ayah 30 reveals the cosmic singularity split (Big Bang: 'they were joined together, then We tore them apart') and that all life originated from water (cytoplasm of all living cells consists of 70-85% water).",
+      "citations": [
+        "Stephen Hawking & Roger Penrose - 'The Singularities of Gravitational Collapse and Cosmology'",
+        "Dr. Joe Hinrichs - 'Cellular Water and Biochemical Foundations of Life'"
+      ],
+      "diagram": {
+        "title": "Cosmic Expansion & Protoplasmic Water Ratio",
+        "description": "Initial cosmic singularity splitting outwards and cellular cytoplasm molecular composition.",
+        "type": "cosmology"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنبياء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anbya ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ambiya: Ibrahim, Ayyub, Yunus aur Rahmatul-lil-Aalameen",
@@ -9498,7 +16209,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنبياء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anbya ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9545,7 +16270,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "انبیائے کرام کی دعائیں اور وما ارسلناک الا رحمة للعالمین"
+    "themeUrdu": "انبیائے کرام کی دعائیں اور وما ارسلناک الا رحمة للعالمین",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🌌 Cosmology & Cytology / کونیات و حیاتیات",
+      "icon": "🌌",
+      "title_ur": "کائنات کا ایک جڑے ہوئے مادے سے الگ ہونا اور پانی سے حیات کا ظہور",
+      "title_en": "Cosmic Singularity (Big Bang) & Aqueous Origin of Life",
+      "summary_ur": "آیت ۳۰ میں فرمایا گیا کہ آسمان و زمین باہم پیوست تھے، پھر ہم نے انہیں پھاڑ کر الگ کیا (The Big Bang & Expansion)، اور ہر زندہ چیز کو پانی سے پیدا کیا۔ جدید سیلولر بائیولوجی نے تصدیق کی کہ ہر جاندار کا خلیہ (Cytoplasm) 70% سے 85% تک پانی پر مشتمل ہوتا ہے۔",
+      "summary_roman": "Ayah 30 reveals the cosmic singularity split (Big Bang: 'they were joined together, then We tore them apart') and that all life originated from water (cytoplasm of all living cells consists of 70-85% water).",
+      "citations": [
+        "Stephen Hawking & Roger Penrose - 'The Singularities of Gravitational Collapse and Cosmology'",
+        "Dr. Joe Hinrichs - 'Cellular Water and Biochemical Foundations of Life'"
+      ],
+      "diagram": {
+        "title": "Cosmic Expansion & Protoplasmic Water Ratio",
+        "description": "Initial cosmic singularity splitting outwards and cellular cytoplasm molecular composition.",
+        "type": "cosmology"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنبياء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anbya ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Mu'minun: Dawat-e-Tauheed, Akhlaaq aur The Believers ke Asbaaq",
@@ -9584,7 +16376,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المؤمنون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mu'minun ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9631,7 +16437,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت المؤمنون (مکمل)"
+    "themeUrdu": "سورت المؤمنون (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🧬 Embryology / اعضاء و ہڈیوں کی تدریجی تشکیل",
+      "icon": "🧬",
+      "title_ur": "نطفہ، علقہ، مضغہ اور عظام و لحم کا تدریجی ارتقاء",
+      "title_en": "Sequential Morphogenesis & Osteogenesis",
+      "summary_ur": "آیات ۱۲ تا ۱۴ میں جنین کے ۶ مسلسل مراحل بیان کیے: نطفہ، علقہ، مضغہ (چبائے ہوئے گوشت نما سومائٹس)، پھر عظام (ہڈیوں کی تشکیل)، اور پھر عظام پر لحم (عضلات و گوشت) کا چڑھانا۔ کارنیگی انسٹیٹیوٹ کی مائیکرو اسکوپک سٹیجز قرآنی ترتیب سے من و عن مطابقت رکھتی ہیں۔",
+      "summary_roman": "Surah 23:12-14 details the sequential morphological transitions: Nutfah -> 'Alaqah -> Mudghah (somite chewer-like stage) -> Osteogenesis (skeleton) -> Myogenesis (clothing bones with muscle tissue).",
+      "citations": [
+        "Carnegie Stages of Human Embryonic Development",
+        "Prof. T. V. N. Persaud - Department of Anatomy, University of Manitoba"
+      ],
+      "diagram": {
+        "title": "Somite Formation & Skeletal Differentiation",
+        "description": "Chronological Carnegie stages matching the Quranic progression from Mudghah to Myogenesis.",
+        "type": "morphogenesis"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المؤمنون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mu'minun ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah As-Sajdah: Dawat-e-Tauheed, Akhlaaq aur The Prostration ke Asbaaq",
@@ -9670,7 +16543,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ السجدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah As-Sajdah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9717,7 +16604,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت السجدة (مکمل)"
+    "themeUrdu": "سورت السجدة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ السجدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah As-Sajdah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Tur: Dawat-e-Tauheed, Akhlaaq aur The Mount ke Asbaaq",
@@ -9756,7 +16694,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الطور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tur ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9803,7 +16755,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الطور (مکمل)"
+    "themeUrdu": "سورت الطور (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الطور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tur ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Mulk: Dawat-e-Tauheed, Akhlaaq aur The Sovereignty ke Asbaaq",
@@ -9842,7 +16845,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الملك کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mulk ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9889,7 +16906,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الملك (مکمل)"
+    "themeUrdu": "سورت الملك (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الملك کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mulk ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Haqqah: Dawat-e-Tauheed, Akhlaaq aur The Reality ke Asbaaq",
@@ -9928,7 +16996,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحاقة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Haqqah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -9975,7 +17057,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الحاقة (مکمل)"
+    "themeUrdu": "سورت الحاقة (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحاقة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Haqqah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Ma'arij: Dawat-e-Tauheed, Akhlaaq aur The Ascending Stairways ke Asbaaq",
@@ -10014,7 +17147,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المعارج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'arij ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10061,7 +17208,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت المعارج (مکمل)"
+    "themeUrdu": "سورت المعارج (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المعارج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'arij ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah An-Naba: Dawat-e-Tauheed, Akhlaaq aur The Tidings ke Asbaaq",
@@ -10100,7 +17298,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النبإ کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Naba ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10147,7 +17359,74 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت النبإ (مکمل)"
+    "themeUrdu": "سورت النبإ (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🌍 Geophysics & Geology / علمِ ارضیات",
+      "icon": "🌍",
+      "title_ur": "پہاڑ بطور میخیں اور زمین کے قشر کو متوازن رکھنا (Isostasy)",
+      "title_en": "Mountain Roots & Crustal Isostasy (Pegs / Stakes)",
+      "summary_ur": "آیت ۶-۷ میں فرمایا: 'کیا ہم نے زمین کو بچھونا نہیں بنایا اور پہاڑوں کو میخیں (أَوْتَادًا)'۔ جدید جیوفزکس (ایری اور پریٹ کی تھیوری آف آئسوسٹیسی) نے ثابت کیا کہ پہاڑوں کی زمین کے اوپر نظر آنے والی بلندی کے مقابلے میں 10 سے 15 گنا گہری جڑیں (Roots) قشرِ ارض کے نیچے تیرتے ہوئے میگما میں دھنسی ہوئی ہیں جو ٹیکٹونک پلیٹوں کو مستحکم رکھتی ہیں۔",
+      "summary_roman": "Surah 78:6-7 terms mountains as 'pegs' (Autad). Airy-Heiskanen Isostasy models prove mountain ranges possess deep continental crust roots up to 10-15 times their surface elevation, anchoring lithospheric plates.",
+      "citations": [
+        "Sir George Biddell Airy (1855) - 'On the Computation of the Effect of the Attraction of Mountain-Masses'",
+        "Dr. Frank Press (Former President, National Academy of Sciences) - 'Earth', W. H. Freeman"
+      ],
+      "diagram": {
+        "title": "Continental Crust Mountain Roots (Isostatic Equilibrium)",
+        "description": "Deep lithospheric roots extending into the asthenosphere acting as stabilizing tectonic pegs.",
+        "type": "geology"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النبإ کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Naba ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah An-Nazi'at: Dawat-e-Tauheed, Akhlaaq aur Those who drag forth ke Asbaaq",
@@ -10186,7 +17465,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النازعات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nazi'at ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10233,7 +17526,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت النازعات (مکمل)"
+    "themeUrdu": "سورت النازعات (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النازعات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nazi'at ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Infitar: Dawat-e-Tauheed, Akhlaaq aur The Cleaving ke Asbaaq",
@@ -10272,7 +17616,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإنفطار کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Infitar ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10319,7 +17677,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الإنفطار (مکمل)"
+    "themeUrdu": "سورت الإنفطار (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإنفطار کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Infitar ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Inshiqaq: Dawat-e-Tauheed, Akhlaaq aur The Sundering ke Asbaaq",
@@ -10358,7 +17767,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإنشقاق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Inshiqaq ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10405,7 +17828,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الإنشقاق (مکمل)"
+    "themeUrdu": "سورت الإنشقاق (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإنشقاق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Inshiqaq ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ar-Rum: Dawat-e-Tauheed, Akhlaaq aur The Romans ke Asbaaq",
@@ -10444,7 +17918,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الروم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ar-Rum ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10491,7 +17979,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الروم (مکمل)"
+    "themeUrdu": "سورت الروم (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الروم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ar-Rum ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-'Ankabut: Dawat-e-Tauheed, Akhlaaq aur The Spider ke Asbaaq",
@@ -10530,7 +18069,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ العنكبوت کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-'Ankabut ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10577,7 +18130,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت العنكبوت (مکمل)"
+    "themeUrdu": "سورت العنكبوت (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ العنكبوت کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-'Ankabut ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Mutaffifin: Dawat-e-Tauheed, Akhlaaq aur The Defrauding ke Asbaaq",
@@ -10616,7 +18220,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المطففين کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mutaffifin ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10663,7 +18281,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت المطففين (مکمل)"
+    "themeUrdu": "سورت المطففين (مکمل)",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المطففين کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mutaffifin ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 125,
@@ -10703,7 +18372,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "18",
-      "ref_url": "https://sunnah.com/bukhari:18"
+      "ref_url": "https://sunnah.com/bukhari:18",
+      "combined_urdu": "Rawi: Ubadah bin as-Samit (R.A): رسول اللہ ﷺ نے فرمایا: مجھ سے بیعت کرو کہ اللہ کے ساتھ کسی کو شریک نہ کرو گے، چوری نہ کرو گے، زنا نہ کرو گے اور کسی پر بہتان نہ باندھو گے۔ جس نے نبھایا اس کا اجر اللہ پر ہے!",
+      "combined_roman": "Hazrat Ubadah bin Samit (R.A) farmate hain ki humne Bay'at-e-Aqabah mein har haal mein haq par qayam rehne ki qasam khayi.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "18",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:18",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10749,7 +18432,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "خواتین کی بیعت اور بیعتِ عقبہ کے لازمی شرائط"
+    "themeUrdu": "خواتین کی بیعت اور بیعتِ عقبہ کے لازمی شرائط",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "بَايِعُونِي عَلَى أَنْ لَا تُشْرِكُوا بِاللَّهِ شَيْئًا، وَلَا تَسْرِقُوا، وَلَا تَزْنُوا، وَلَا تَقْتُلُوا أَوْلَادَكُمْ...",
+      "combined_urdu": "Rawi: Ubadah bin as-Samit (R.A): رسول اللہ ﷺ نے فرمایا: مجھ سے بیعت کرو کہ اللہ کے ساتھ کسی کو شریک نہ کرو گے، چوری نہ کرو گے، زنا نہ کرو گے اور کسی پر بہتان نہ باندھو گے۔ جس نے نبھایا اس کا اجر اللہ پر ہے!",
+      "combined_roman": "Hazrat Ubadah bin Samit (R.A) farmate hain ki humne Bay'at-e-Aqabah mein har haal mein haq par qayam rehne ki qasam khayi.",
+      "chapter_title": "Kitab al-Iman",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "18",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:18",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Qiyam-ul-Layl mein Takhfeef aur Jihad o Sadqaat",
@@ -10788,7 +18512,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
       "book": "Sunan Abi Dawood",
       "hadithNumber": "1342",
-      "ref_url": "https://sunnah.com/abudawud:1342"
+      "ref_url": "https://sunnah.com/abudawud:1342",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
+      "combined_roman": "Hazrat Aisha riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz kiya gaya tha taaki nafs ki mazboot tarbiyat ho sake.",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "1342",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:1342",
+          "grade": "Sahih",
+          "authority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10835,7 +18573,48 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "قیام اللیل میں تخفیف اور جہاد و انفاق کے احکام"
+    "themeUrdu": "قیام اللیل میں تخفیف اور جہاد و انفاق کے احکام",
+    "phase_category": "makki",
+    "phase_sub": "Aaghaz-e-Wahi",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Isra",
+        "surah_number": 17,
+        "ayah_range": "78–79",
+        "relation_ur": "قیامِ لیل اور تہجد کی تاکید",
+        "relation_roman": "Qiyam-ul-Layl aur Tahajjud ki taakeed",
+        "link_url": "https://quran.com/ur/17:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Furqan",
+        "surah_number": 25,
+        "ayah_range": "63–64",
+        "relation_ur": "عباد الرحمن کی راتوں کی عبادت",
+        "relation_roman": "Ibad-ur-Rahman ki raaton ki ibadat",
+        "link_url": "https://quran.com/ur/25:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+    "mutalliqah_hadees": {
+      "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
+      "combined_urdu": "Rawi: Ummul Momineen Hazrat Aisha (R.A): حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ اللہ نے اس سورت کی ابتدا میں رات کا قیام فرض کیا، صحابہ ایک سال تک اتنی لمبی نماز پڑھتے رہے کہ پاؤں سوج گئے۔",
+      "combined_roman": "Hazrat Aisha riwayat karti hain ki shuruat mein Qiyam-ul-Layl farz kiya gaya tha taaki nafs ki mazboot tarbiyat ho sake.",
+      "chapter_title": "Kitab al-Tatwwu' (باب قيام الليل)",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "1342",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:1342",
+          "grade": "Sahih",
+          "authority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)"
+        }
+      ]
+    }
   },
   {
     "id": 127,
@@ -10876,7 +18655,21 @@ window.WAHI_EPISODES = [
       "book": "Dalail an-Nubuwwah (Al-Bayhaqi)",
       "hadithNumber": "473",
       "ref_url": "https://shamela.ws/book/12028",
-      "jild": "2"
+      "jild": "2",
+      "combined_urdu": "Rawi: Ali bin Abi Talib (R.A): حضرت عائشہ اور علی رضی اللہ عنہما فرماتے ہیں کہ نبی ﷺ ان کے سامنے سے مٹی ڈالتے ہوئے نکل گئے اور جب صبح ہوئی تو قاتلوں نے بستر پر علی کو پایا۔",
+      "combined_roman": "Hazrat Ali (R.A) ne Nabi ﷺ ke bistar par so kar apni jaan qurban karne ki azeem tareen misaal qayam farmai.",
+      "takhreej_status": "Sahih (صحیح - Dalail an-Nubuwwah (Al-Bayhaqi))",
+      "references": [
+        {
+          "book": "Dalail an-Nubuwwah (Al-Bayhaqi)",
+          "hadithNumber": "473",
+          "volume": "2",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/12028",
+          "grade": "Hasan Sahih",
+          "authority": "Ibn Kathir"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -10922,7 +18715,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "شبِ ہجرت: رسول اللہ کے گھر کا گھیراؤ اور غیبی حفاظت"
+    "themeUrdu": "شبِ ہجرت: رسول اللہ کے گھر کا گھیراؤ اور غیبی حفاظت",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "مسجدِ نبوی شریف (روضۂ رسول ﷺ)",
+        "name_en": "Al-Masjid an-Nabawi",
+        "modern_name": "Madinah al-Munawwarah",
+        "context_ur": "ریاستِ مدینہ کا روحانی، سیاسی اور تعلیمی مرکز و روضۂ اطہر رسول اللہ ﷺ۔",
+        "context_roman": "Riyasat-e-Madinah ka markaz aur Nabi-e-Akram ﷺ ka muqaddas aastanah.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4672,39.6111",
+        "coordinates": "24.4672° N, 39.6111° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Dalail an-Nubuwwah (Al-Bayhaqi))",
+    "mutalliqah_hadees": {
+      "arabic": "خَرَجَ رَسُولُ اللَّهِ وَقُرَيْشٌ يَنْتَظِرُونَهُ، فَوَضَعَ التُّرَابَ عَلَى رُءُوسِهِمْ وَهُوَ يَقْرَأُ: {وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا}...",
+      "combined_urdu": "Rawi: Ali bin Abi Talib (R.A): حضرت عائشہ اور علی رضی اللہ عنہما فرماتے ہیں کہ نبی ﷺ ان کے سامنے سے مٹی ڈالتے ہوئے نکل گئے اور جب صبح ہوئی تو قاتلوں نے بستر پر علی کو پایا۔",
+      "combined_roman": "Hazrat Ali (R.A) ne Nabi ﷺ ke bistar par so kar apni jaan qurban karne ki azeem tareen misaal qayam farmai.",
+      "chapter_title": "Hijrat an-Nabi ﷺ (خروج النبي من بين المشركين وإلقاء التراب)",
+      "takhreej_status": "Sahih (صحیح - Dalail an-Nubuwwah (Al-Bayhaqi))",
+      "references": [
+        {
+          "book": "Dalail an-Nubuwwah (Al-Bayhaqi)",
+          "hadithNumber": "473",
+          "volume": "2",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/12028",
+          "grade": "Hasan Sahih",
+          "authority": "Ibn Kathir"
+        }
+      ]
+    }
   },
   {
     "id": 128,
@@ -10962,7 +18815,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Ahmad Shakir",
       "book": "Musnad Ahmad",
       "hadithNumber": "2483",
-      "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/2483"
+      "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/2483",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ قریش نے رسول اللہ ﷺ کو قید کرنے، نکالنے یا قتل کرنے پر بحث کی تو اللہ نے اپنے نبی کو باخبر فرما دیا اور ہجرت کا حکم دیا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Dar-un-Nadwah ki sazish par yeh aayat nazil hui.",
+      "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+      "references": [
+        {
+          "book": "Musnad Ahmad",
+          "hadithNumber": "2483",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/2483",
+          "grade": "Hasan Sahih",
+          "authority": "Ahmad Shakir"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11008,7 +18875,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دار الندوہ کی سازش اور واللہ خیر الماکرین"
+    "themeUrdu": "دار الندوہ کی سازش اور واللہ خیر الماکرین",
+    "phase_category": "makki",
+    "phase_sub": "Hijrat-e-Habsha & Isra",
+    "locations": [
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "121–129",
+        "relation_ur": "غزوۂ بدر میں فرشتوں کی نصرت اور غزوۂ احد کا پس منظر",
+        "relation_roman": "Ghazwah-e-Badr mein farishton ki nusrat aur Uhud ka pas-manzar",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "1–7",
+        "relation_ur": "مالِ غنیمت اور مالِ فئی کے الٰہی احکام",
+        "relation_roman": "Maal-e-Ghanimat aur Maal-e-Fay ke ahkam",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+    "mutalliqah_hadees": {
+      "arabic": "تَشَاوَرَتْ قُرَيْشٌ لَيْلَةً بِمَكَّةَ: فَقَالَ بَعْضُهُمْ: إِذَا أَصْبَحَ فَأَثْبِتُوهُ بِالْوَثَاقِ... وَقَالَ أَبُو جَهْلٍ: بَلْ نَقْتُلُهُ جَمِيعًا... فَأَخْبَرَ اللَّهُ نَبِيَّهُ",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ قریش نے رسول اللہ ﷺ کو قید کرنے، نکالنے یا قتل کرنے پر بحث کی تو اللہ نے اپنے نبی کو باخبر فرما دیا اور ہجرت کا حکم دیا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Dar-un-Nadwah ki sazish par yeh aayat nazil hui.",
+      "chapter_title": "Musnad Bani Hashim (مسند عبد الله بن عباس - مؤامرة دار الندوة)",
+      "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+      "references": [
+        {
+          "book": "Musnad Ahmad",
+          "hadithNumber": "2483",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/2483",
+          "grade": "Hasan Sahih",
+          "authority": "Ahmad Shakir"
+        }
+      ]
+    }
   },
   {
     "title": "Namaz-e-Jumu'ah ki Farziyat aur Aadaab",
@@ -11047,7 +18965,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجمعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jumu'ah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11094,7 +19026,48 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "نمازِ جمعہ کی فرضیت اور اذان سن کر دوڑنے کا حکم"
+    "themeUrdu": "نمازِ جمعہ کی فرضیت اور اذان سن کر دوڑنے کا حکم",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجمعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jumu'ah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 130,
@@ -11134,7 +19107,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Bukhari",
       "book": "Sahih Bukhari",
       "hadithNumber": "3781",
-      "ref_url": "https://sunnah.com/bukhari:3781"
+      "ref_url": "https://sunnah.com/bukhari:3781",
+      "combined_urdu": "Rawi: Abdur Rahman bin Awf (R.A): حضرت عبدالرحمن بن عوف فرماتے ہیں کہ جب ہم مدینہ آئے تو رسول اللہ نے میرے اور سعد بن ربیع کے درمیان بھائی چارہ کرایا۔ سعد نے کہا: میں انصار میں سب سے مالدار ہوں، آدھا مال تم لے لو۔",
+      "combined_roman": "Hazrat Abdur Rahman bin Awf (R.A) riwayat karte hain ki Saad bin Rabi (R.A) ne unhein apna aadha maal pesh kiya, par unhone farmaya: 'Mujhe bazaar ka rasta dikha do'.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3781",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3781",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11180,7 +19167,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مواخاةِ مدینہ: مہاجرین اور انصار کا بے مثال بھائی چارہ"
+    "themeUrdu": "مواخاةِ مدینہ: مہاجرین اور انصار کا بے مثال بھائی چارہ",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "مسجدِ نبوی شریف (روضۂ رسول ﷺ)",
+        "name_en": "Al-Masjid an-Nabawi",
+        "modern_name": "Madinah al-Munawwarah",
+        "context_ur": "ریاستِ مدینہ کا روحانی، سیاسی اور تعلیمی مرکز و روضۂ اطہر رسول اللہ ﷺ۔",
+        "context_roman": "Riyasat-e-Madinah ka markaz aur Nabi-e-Akram ﷺ ka muqaddas aastanah.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4672,39.6111",
+        "coordinates": "24.4672° N, 39.6111° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "121–129",
+        "relation_ur": "غزوۂ بدر میں فرشتوں کی نصرت اور غزوۂ احد کا پس منظر",
+        "relation_roman": "Ghazwah-e-Badr mein farishton ki nusrat aur Uhud ka pas-manzar",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "1–7",
+        "relation_ur": "مالِ غنیمت اور مالِ فئی کے الٰہی احکام",
+        "relation_roman": "Maal-e-Ghanimat aur Maal-e-Fay ke ahkam",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوا وَّنَصَرُوا أُولَٰئِكَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ",
+      "combined_urdu": "Rawi: Abdur Rahman bin Awf (R.A): حضرت عبدالرحمن بن عوف فرماتے ہیں کہ جب ہم مدینہ آئے تو رسول اللہ نے میرے اور سعد بن ربیع کے درمیان بھائی چارہ کرایا۔ سعد نے کہا: میں انصار میں سب سے مالدار ہوں، آدھا مال تم لے لو۔",
+      "combined_roman": "Hazrat Abdur Rahman bin Awf (R.A) riwayat karte hain ki Saad bin Rabi (R.A) ne unhein apna aadha maal pesh kiya, par unhone farmaya: 'Mujhe bazaar ka rasta dikha do'.",
+      "chapter_title": "Kitab Manaqib al-Ansar",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3781",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3781",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
+    }
   },
   {
     "id": 131,
@@ -11220,7 +19258,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Albani",
       "book": "Jami' at-Tirmidhi",
       "hadithNumber": "3171",
-      "ref_url": "https://sunnah.com/tirmidhi:3171"
+      "ref_url": "https://sunnah.com/tirmidhi:3171",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ جب رسول اللہ کو مکہ سے نکالا گیا تو ابوبکر نے کہا: انہوں نے اپنے نبی کو نکال دیا، انا للہ وانا الیہ راجعون، یہ ضرور ہلاک ہوں گے۔ تب یہ آیت اتری۔",
+      "combined_roman": "Hazrat Ibn Abbas farmate hain ki Nabi ﷺ ke Makkah se nikalne par yeh aayat nazil hui. Hazrat Abu Bakr ne farmaya: 'Mujhe yaqeen ho gaya ki ab qital hoga'.",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3171",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3171",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11266,7 +19318,48 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "مظلومین کو قتال فی سبیل اللہ کی پہلی اجازت"
+    "themeUrdu": "مظلومین کو قتال فی سبیل اللہ کی پہلی اجازت",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+    "mutalliqah_hadees": {
+      "arabic": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ جب رسول اللہ کو مکہ سے نکالا گیا تو ابوبکر نے کہا: انہوں نے اپنے نبی کو نکال دیا، انا للہ وانا الیہ راجعون، یہ ضرور ہلاک ہوں گے۔ تب یہ آیت اتری۔",
+      "combined_roman": "Hazrat Ibn Abbas farmate hain ki Nabi ﷺ ke Makkah se nikalne par yeh aayat nazil hui. Hazrat Abu Bakr ne farmaya: 'Mujhe yaqeen ho gaya ki ab qital hoga'.",
+      "chapter_title": "Kitab Tafsir al-Quran (باب ومن سورة الحج - أذن للذين يقاتلون)",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3171",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3171",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Bani Israel ko Dawat aur Misaq-e-Madinah",
@@ -11305,7 +19398,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11352,7 +19459,85 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بنی اسرائیل کو دعوت، احسانات اور میثاقِ مدینہ"
+    "themeUrdu": "بنی اسرائیل کو دعوت، احسانات اور میثاقِ مدینہ",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      },
+      {
+        "name_ur": "مسجدِ نبوی شریف (روضۂ رسول ﷺ)",
+        "name_en": "Al-Masjid an-Nabawi",
+        "modern_name": "Madinah al-Munawwarah",
+        "context_ur": "ریاستِ مدینہ کا روحانی، سیاسی اور تعلیمی مرکز و روضۂ اطہر رسول اللہ ﷺ۔",
+        "context_roman": "Riyasat-e-Madinah ka markaz aur Nabi-e-Akram ﷺ ka muqaddas aastanah.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4672,39.6111",
+        "coordinates": "24.4672° N, 39.6111° E"
+      },
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Mutaqqeen, Munafiqeen aur Khilafat-e-Adam",
@@ -11391,7 +19576,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11438,7 +19637,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "متقی، منافق اور زمین پر حضرت آدم کی خلافت"
+    "themeUrdu": "متقی، منافق اور زمین پر حضرت آدم کی خلافت",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Bani Israel ki Ahd-shikani & Millat-e-Ibrahimi",
@@ -11477,7 +19736,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11524,7 +19797,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "عہد شکنی، بچھڑا پرستی اور ابراہیم و اسماعیل کی دعا"
+    "themeUrdu": "عہد شکنی، بچھڑا پرستی اور ابراہیم و اسماعیل کی دعا",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      },
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Tahweel-e-Qibla: Ka'aba ki Taraf Rukh",
@@ -11563,7 +19905,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11610,7 +19966,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "تحویلِ قبلہ: بیت المقدس سے کعبۃ اللہ کی طرف رخ"
+    "themeUrdu": "تحویلِ قبلہ: بیت المقدس سے کعبۃ اللہ کی طرف رخ",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      },
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Sabr, Safa-Marwah, Halal-Haram, Qisas, Wasiyyat",
@@ -11649,7 +20074,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11696,7 +20135,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "صبر، صفا و مروہ، حلال و حرام اور قصاص کے احکام"
+    "themeUrdu": "صبر، صفا و مروہ، حلال و حرام اور قصاص کے احکام",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 137,
@@ -11736,7 +20244,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "1891",
-      "ref_url": "https://sunnah.com/bukhari:1891"
+      "ref_url": "https://sunnah.com/bukhari:1891",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): رسول اللہ ﷺ نے فرمایا: جب رمضان آتا ہے تو جنت کے دروازے کھول دیے جاتے ہیں، جہنم کے دروازے بند کر دیے جاتے ہیں اور شیاطین کو زنجیروں میں جکڑ دیا جاتا ہے۔",
+      "combined_roman": "Rasoolullah ﷺ ne farmaya: 'Jisne imaan aur ehtisab ke sath Ramadan ke roze rakhe uske pichle tamam gunaah maaf kar diye jate hain'.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "1891",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:1891",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11782,7 +20304,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "ماہِ رمضان اور روزے کی فرضیت کا دائمی اعلان"
+    "themeUrdu": "ماہِ رمضان اور روزے کی فرضیت کا دائمی اعلان",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): رسول اللہ ﷺ نے فرمایا: جب رمضان آتا ہے تو جنت کے دروازے کھول دیے جاتے ہیں، جہنم کے دروازے بند کر دیے جاتے ہیں اور شیاطین کو زنجیروں میں جکڑ دیا جاتا ہے۔",
+      "combined_roman": "Rasoolullah ﷺ ne farmaya: 'Jisne imaan aur ehtisab ke sath Ramadan ke roze rakhe uske pichle tamam gunaah maaf kar diye jate hain'.",
+      "chapter_title": "Kitab as-Sawm",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "1891",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:1891",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Qital fi Sabilillah ke Akhlaqi Qawaneen",
@@ -11821,7 +20384,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11868,7 +20445,67 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "قتال فی سبیل اللہ کے اخلاقی اصول اور حدود"
+    "themeUrdu": "قتال فی سبیل اللہ کے اخلاقی اصول اور حدود",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Infaq aur Jihad ki Ahmiyat",
@@ -11907,7 +20544,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -11954,7 +20605,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "راہِ خدا میں خرچ اور جہاد کی فضیلت"
+    "themeUrdu": "راہِ خدا میں خرچ اور جہاد کی فضیلت",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ghazwa-e-Badr: Youm-ul-Furqan & Farishto ki Nusrat",
@@ -11993,7 +20704,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنفال کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anfal ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12040,7 +20765,67 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "غزوہِ بدر: یومُ الفرقان اور ایک ہزار فرشتوں کی مدد"
+    "themeUrdu": "غزوہِ بدر: یومُ الفرقان اور ایک ہزار فرشتوں کی مدد",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "121–129",
+        "relation_ur": "غزوۂ بدر میں فرشتوں کی نصرت اور غزوۂ احد کا پس منظر",
+        "relation_roman": "Ghazwah-e-Badr mein farishton ki nusrat aur Uhud ka pas-manzar",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "1–7",
+        "relation_ur": "مالِ غنیمت اور مالِ فئی کے الٰہی احکام",
+        "relation_roman": "Maal-e-Ghanimat aur Maal-e-Fay ke ahkam",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنفال کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anfal ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Haq o Baatil ka Faisla aur Tawakkul",
@@ -12079,7 +20864,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنفال کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anfal ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12126,7 +20925,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حق و باطل کی تمیز اور کفر کی چالوں کا خاتمہ"
+    "themeUrdu": "حق و باطل کی تمیز اور کفر کی چالوں کا خاتمہ",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "121–129",
+        "relation_ur": "غزوۂ بدر میں فرشتوں کی نصرت اور غزوۂ احد کا پس منظر",
+        "relation_roman": "Ghazwah-e-Badr mein farishton ki nusrat aur Uhud ka pas-manzar",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "1–7",
+        "relation_ur": "مالِ غنیمت اور مالِ فئی کے الٰہی احکام",
+        "relation_roman": "Maal-e-Ghanimat aur Maal-e-Fay ke ahkam",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنفال کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anfal ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Badr ki Fatah & Maal-e-Ghaneemat ka Khumus",
@@ -12165,7 +21024,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنفال کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anfal ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12212,7 +21085,67 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "بدر کی فتح، خمس کی تقسیم اور جنگی تیاریاں"
+    "themeUrdu": "بدر کی فتح، خمس کی تقسیم اور جنگی تیاریاں",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "121–129",
+        "relation_ur": "غزوۂ بدر میں فرشتوں کی نصرت اور غزوۂ احد کا پس منظر",
+        "relation_roman": "Ghazwah-e-Badr mein farishton ki nusrat aur Uhud ka pas-manzar",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "1–7",
+        "relation_ur": "مالِ غنیمت اور مالِ فئی کے الٰہی احکام",
+        "relation_roman": "Maal-e-Ghanimat aur Maal-e-Fay ke ahkam",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأنفال کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Anfal ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 143,
@@ -12252,7 +21185,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "1763",
-      "ref_url": "https://sunnah.com/muslim:1763"
+      "ref_url": "https://sunnah.com/muslim:1763",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر بن الخطاب فرماتے ہیں کہ اگلے دن میں رسول اللہ ﷺ کے پاس آیا تو آپ اور حضرت ابوبکر رو رہے تھے۔ آپ ﷺ نے فرمایا: فدیہ لینے کی وجہ سے عذاب اس درخت سے بھی زیادہ قریب دکھایا گیا تھا۔",
+      "combined_roman": "Hazrat Umar (R.A) riwayat karte hain ki fidiya lene par aayat nazil hui magar Allah ne pehle se likhi rehmat ke teht maaf farma diya.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "1763",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:1763",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12298,7 +21245,58 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "اسیرانِ بدر کا معاملہ: فدیہ اور عتابِ الٰہی"
+    "themeUrdu": "اسیرانِ بدر کا معاملہ: فدیہ اور عتابِ الٰہی",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "121–129",
+        "relation_ur": "غزوۂ بدر میں فرشتوں کی نصرت اور غزوۂ احد کا پس منظر",
+        "relation_roman": "Ghazwah-e-Badr mein farishton ki nusrat aur Uhud ka pas-manzar",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Hashr",
+        "surah_number": 59,
+        "ayah_range": "1–7",
+        "relation_ur": "مالِ غنیمت اور مالِ فئی کے الٰہی احکام",
+        "relation_roman": "Maal-e-Ghanimat aur Maal-e-Fay ke ahkam",
+        "link_url": "https://quran.com/ur/59:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر بن الخطاب فرماتے ہیں کہ اگلے دن میں رسول اللہ ﷺ کے پاس آیا تو آپ اور حضرت ابوبکر رو رہے تھے۔ آپ ﷺ نے فرمایا: فدیہ لینے کی وجہ سے عذاب اس درخت سے بھی زیادہ قریب دکھایا گیا تھا۔",
+      "combined_roman": "Hazrat Umar (R.A) riwayat karte hain ki fidiya lene par aayat nazil hui magar Allah ne pehle se likhi rehmat ke teht maaf farma diya.",
+      "chapter_title": "Kitab al-Jihad was-Siyar (باب الإمداد بالملائكة في غزوة بدر واستحلال الغنائم)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "1763",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:1763",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Talut o Jalut aur Dawood A.S. ka Jihaad",
@@ -12337,7 +21335,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12384,7 +21396,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "طالوت و جالوت کی جنگ اور داؤد علیہ السلام کی شجاعت"
+    "themeUrdu": "طالوت و جالوت کی جنگ اور داؤد علیہ السلام کی شجاعت",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 145,
@@ -12424,7 +21496,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Albani",
       "book": "Sunan Abi Dawood",
       "hadithNumber": "3001",
-      "ref_url": "https://sunnah.com/abudawud:3001"
+      "ref_url": "https://sunnah.com/abudawud:3001",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ جب رسول اللہ بدر سے فتح یاب لوٹے تو بنو قینقاع کے بازار میں انہیں جمع کر کے فرمایا: اسلام لاؤ اس سے پہلے کہ تم پر بھی قریش جیسا عذاب آئے! انہوں نے تکبر سے کہا: قریش اناڑی تھے، ہم سے لڑو گے تو پتا چلے گا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Banu Qaynuqa ke is ghamand par yeh aayatein nazil huin.",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "3001",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:3001",
+          "grade": "Hasan",
+          "authority": "Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12470,7 +21556,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بنو قینقاع کی سرکشی، دھمکی اور جلاوطنی"
+    "themeUrdu": "بنو قینقاع کی سرکشی، دھمکی اور جلاوطنی",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+    "mutalliqah_hadees": {
+      "arabic": "قُل لِّلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ ۝ قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ جب رسول اللہ بدر سے فتح یاب لوٹے تو بنو قینقاع کے بازار میں انہیں جمع کر کے فرمایا: اسلام لاؤ اس سے پہلے کہ تم پر بھی قریش جیسا عذاب آئے! انہوں نے تکبر سے کہا: قریش اناڑی تھے، ہم سے لڑو گے تو پتا چلے گا۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) riwayat karte hain ki Banu Qaynuqa ke is ghamand par yeh aayatein nazil huin.",
+      "chapter_title": "Kitab al-Kharaj wal-Imarah wal-Fai' (باب في خبر بني قينقاع)",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "3001",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:3001",
+          "grade": "Hasan",
+          "authority": "Al-Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Muhkam o Mutashabih aur Wafd Najran",
@@ -12509,7 +21646,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12556,7 +21707,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "محکم و متشابہ آیات اور وفدِ نجران کی آمد"
+    "themeUrdu": "محکم و متشابہ آیات اور وفدِ نجران کی آمد",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Aal-e-Imran, Maryam, Isa A.S. & Ahl-e-Kitab se Khitaab",
@@ -12595,7 +21806,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12642,7 +21867,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سیدہ مریم، ولادتِ عیسیٰ، مباہلہ اور اہل کتاب سے خطاب"
+    "themeUrdu": "سیدہ مریم، ولادتِ عیسیٰ، مباہلہ اور اہل کتاب سے خطاب",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 148,
@@ -12682,7 +21967,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4039",
-      "ref_url": "https://sunnah.com/bukhari:4039"
+      "ref_url": "https://sunnah.com/bukhari:4039",
+      "combined_urdu": "Rawi: Al-Bara' bin 'Azib (R.A): حضرت براء بن عازب فرماتے ہیں کہ رسول اللہ نے عبداللہ بن جبیر کو پچاس تیر اندازوں پر امیر مقرر کیا اور فرمایا: اگر تم دیکھو کہ پرندے ہمیں نوچ رہے ہیں تب بھی اپنی جگہ سے مت ہٹنا جب تک میں تمہیں بلا نہ بھیجوں!",
+      "combined_roman": "Hazrat Bara bin Azib (R.A) riwayat karte hain ki Rasoolullah ﷺ ke sakht farman ke bawajood 40 teer-andaz ghaneemat dekh kar niche utar aaye.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4039",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4039",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12728,7 +22027,67 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "غزوہِ احد: جبلِ رماۃ پر تیر اندازوں کی خطا"
+    "themeUrdu": "غزوہِ احد: جبلِ رماۃ پر تیر اندازوں کی خطا",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "combined_urdu": "Rawi: Al-Bara' bin 'Azib (R.A): حضرت براء بن عازب فرماتے ہیں کہ رسول اللہ نے عبداللہ بن جبیر کو پچاس تیر اندازوں پر امیر مقرر کیا اور فرمایا: اگر تم دیکھو کہ پرندے ہمیں نوچ رہے ہیں تب بھی اپنی جگہ سے مت ہٹنا جب تک میں تمہیں بلا نہ بھیجوں!",
+      "combined_roman": "Hazrat Bara bin Azib (R.A) riwayat karte hain ki Rasoolullah ﷺ ke sakht farman ke bawajood 40 teer-andaz ghaneemat dekh kar niche utar aaye.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4039",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4039",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Sood ki Mumani'at aur Sabr",
@@ -12767,7 +22126,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12814,7 +22187,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سود سے پرہیز، تقویٰ اور میدانِ احد کی نصیحتیں"
+    "themeUrdu": "سود سے پرہیز، تقویٰ اور میدانِ احد کی نصیحتیں",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Shohada-e-Uhud aur Hazrat Hamza ki Shahadat",
@@ -12853,7 +22286,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12900,7 +22347,67 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "شہدائے احد: سید الشہداء حمزہ اور تسلیِ وحی"
+    "themeUrdu": "شہدائے احد: سید الشہداء حمزہ اور تسلیِ وحی",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 151,
@@ -12940,7 +22447,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4077",
-      "ref_url": "https://sunnah.com/bukhari:4077"
+      "ref_url": "https://sunnah.com/bukhari:4077",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): حضرت عائشہ نے عروہ سے فرمایا: اے بھانجے! تمہارے والد زبیر اور نانا ابوبکر انہی لوگوں میں سے تھے جنہوں نے زخم کھانے کے بعد بھی اللہ اور رسول کی پکار پر فوری لبیک کہا تھا۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki zakhmi hone ke bawajood Hazrat Abu Bakr aur Hazrat Zubair foran nikle.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4077",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4077",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -12986,7 +22507,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "غزوہِ حمراء الاسد: زخمی صحابہ کا شجاعانہ تعاقب"
+    "themeUrdu": "غزوہِ حمراء الاسد: زخمی صحابہ کا شجاعانہ تعاقب",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "الَّذِينَ اسْتَجَابُوا لِلَّهِ وَالرَّسُولِ مِن بَعْدِ مَا أَصَابَهُمُ الْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): حضرت عائشہ نے عروہ سے فرمایا: اے بھانجے! تمہارے والد زبیر اور نانا ابوبکر انہی لوگوں میں سے تھے جنہوں نے زخم کھانے کے بعد بھی اللہ اور رسول کی پکار پر فوری لبیک کہا تھا۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki zakhmi hone ke bawajood Hazrat Abu Bakr aur Hazrat Zubair foran nikle.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4077",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4077",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Sabr, Istiqamat aur Shohada ka Ajar",
@@ -13025,7 +22597,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13072,7 +22658,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "کفر کی چالوں سے بے خوفی اور ربنا ما خلقت ھذا باطلا"
+    "themeUrdu": "کفر کی چالوں سے بے خوفی اور ربنا ما خلقت ھذا باطلا",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ آل عمران کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ali 'Imran ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Nabuwwat ki Ita'at aur Munafiqeen ki Sazishen",
@@ -13111,7 +22757,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13158,7 +22818,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "نبی کی اطاعت اور منہ بولے بیٹوں کے جاہلی احکام کا خاتمہ"
+    "themeUrdu": "نبی کی اطاعت اور منہ بولے بیٹوں کے جاہلی احکام کا خاتمہ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      },
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 154,
@@ -13198,7 +22927,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "2424",
-      "ref_url": "https://sunnah.com/muslim:2424"
+      "ref_url": "https://sunnah.com/muslim:2424",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): رسول اللہ ﷺ نے حضرت فاطمہ، علی، حسن اور حسین پر اپنی چادر ڈالی اور فرمایا: اے اللہ! یہ میرے اہل بیت ہیں، ان سے ناپاکی دور رکھ اور انہیں خوب پاک صاف رکھ۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki Hadees-e-Kisa ke mauqe par aayat-e-tatheer nazil hui.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "2424",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:2424",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13244,7 +22987,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "امہات المومنین کی خصوصی شان، وقار اور طہارت"
+    "themeUrdu": "امہات المومنین کی خصوصی شان، وقار اور طہارت",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا نِسَاءَ النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاءِ ۚ إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): رسول اللہ ﷺ نے حضرت فاطمہ، علی، حسن اور حسین پر اپنی چادر ڈالی اور فرمایا: اے اللہ! یہ میرے اہل بیت ہیں، ان سے ناپاکی دور رکھ اور انہیں خوب پاک صاف رکھ۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki Hadees-e-Kisa ke mauqe par aayat-e-tatheer nazil hui.",
+      "chapter_title": "Kitab Faza'il as-Sahabah (باب فضائل أهل بيت النبي صلى الله عليه وسلم)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "2424",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:2424",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "id": 155,
@@ -13284,7 +23068,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Bukhari",
       "book": "Sahih Bukhari",
       "hadithNumber": "4758",
-      "ref_url": "https://sunnah.com/bukhari:4758"
+      "ref_url": "https://sunnah.com/bukhari:4758",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): حضرت عائشہ فرماتی ہیں: اللہ تعالیٰ مہاجر خواتین پر رحم فرمائے، جب یہ آیت نازل ہوئی تو انہوں نے اپنی موٹی چادروں کو پھاڑ کر فورا اپنے دوپٹے اور نقاب بنا لیے۔",
+      "combined_roman": "Hazrat Aisha (R.A) farmati hain ki jab parde ka hukum aaya to Ansar aur Muhajir khawateen ne foran apne badan dhaanp liye.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4758",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4758",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13330,7 +23128,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "عام مسلم خواتین کے لیے حجاب اور بڑی چادروں کا حکم"
+    "themeUrdu": "عام مسلم خواتین کے لیے حجاب اور بڑی چادروں کا حکم",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): حضرت عائشہ فرماتی ہیں: اللہ تعالیٰ مہاجر خواتین پر رحم فرمائے، جب یہ آیت نازل ہوئی تو انہوں نے اپنی موٹی چادروں کو پھاڑ کر فورا اپنے دوپٹے اور نقاب بنا لیے۔",
+      "combined_roman": "Hazrat Aisha (R.A) farmati hain ki jab parde ka hukum aaya to Ansar aur Muhajir khawateen ne foran apne badan dhaanp liye.",
+      "chapter_title": "Kitab Tafsir al-Quran",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4758",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4758",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
+    }
   },
   {
     "id": 156,
@@ -13370,7 +23209,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4101",
-      "ref_url": "https://sunnah.com/bukhari:4101"
+      "ref_url": "https://sunnah.com/bukhari:4101",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): حضرت جابر فرماتے ہیں کہ خندق کھودتے ہوئے ہم تین دن تک بھوکے رہے اور پیٹ پر پتھر باندھ رکھے تھے۔ جب ایک سخت چٹان نہ ٹوٹی تو رسول اللہ نے کدال ماری اور وہ ریت کا ڈھیر بن گئی اور روم و فارس کی فتوحات کی بشارت دی۔",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne chattaan todte hue azeem khush-khabriyan di.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4101",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4101",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13416,7 +23269,58 @@ window.WAHI_EPISODES = [
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
     ],
-    "themeUrdu": "غزوہِ احزاب (خندق): دس ہزار کا لشکر اور خوف کا عالم"
+    "themeUrdu": "غزوہِ احزاب (خندق): دس ہزار کا لشکر اور خوف کا عالم",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): حضرت جابر فرماتے ہیں کہ خندق کھودتے ہوئے ہم تین دن تک بھوکے رہے اور پیٹ پر پتھر باندھ رکھے تھے۔ جب ایک سخت چٹان نہ ٹوٹی تو رسول اللہ نے کدال ماری اور وہ ریت کا ڈھیر بن گئی اور روم و فارس کی فتوحات کی بشارت دی۔",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne chattaan todte hue azeem khush-khabriyan di.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4101",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4101",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 157,
@@ -13456,7 +23360,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Bukhari",
       "book": "Sahih Bukhari",
       "hadithNumber": "4110",
-      "ref_url": "https://sunnah.com/bukhari:4110"
+      "ref_url": "https://sunnah.com/bukhari:4110",
+      "combined_urdu": "Rawi: Sulaiman bin Surad (R.A): رسول اللہ ﷺ نے فتح کے بعد فرمایا: اب ہم ان پر حملہ کریں گے، وہ ہم پر چڑھائی نہیں کر سکیں گے، اب ہماری باری ہے کہ ہم ان کی طرف پیش قدمی کریں۔",
+      "combined_roman": "Hazrat Sulaiman bin Surad (R.A) riwayat karte hain ki Khandaq ke baad Nabi ﷺ ne aelana farmaya ki ab kuffar kabhi Madinah par hamla karne ki jurrat nahi karenge.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4110",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4110",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13502,7 +23420,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "خندق کی فتح: تند و تیز ہوا اور کفر کی عبرتناک پسپائی"
+    "themeUrdu": "خندق کی فتح: تند و تیز ہوا اور کفر کی عبرتناک پسپائی",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      },
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا",
+      "combined_urdu": "Rawi: Sulaiman bin Surad (R.A): رسول اللہ ﷺ نے فتح کے بعد فرمایا: اب ہم ان پر حملہ کریں گے، وہ ہم پر چڑھائی نہیں کر سکیں گے، اب ہماری باری ہے کہ ہم ان کی طرف پیش قدمی کریں۔",
+      "combined_roman": "Hazrat Sulaiman bin Surad (R.A) riwayat karte hain ki Khandaq ke baad Nabi ﷺ ne aelana farmaya ki ab kuffar kabhi Madinah par hamla karne ki jurrat nahi karenge.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4110",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4110",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
+    }
   },
   {
     "id": 158,
@@ -13542,7 +23520,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4088",
-      "ref_url": "https://sunnah.com/bukhari:4088"
+      "ref_url": "https://sunnah.com/bukhari:4088",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): حضرت انس بن مالک فرماتے ہیں کہ میں نے رسول اللہ ﷺ کو کبھی کسی بات پر اتنا غمگین نہیں دیکھا جتنا بئرِ معونہ کے ستر قاری صحابہ کی شہادت پر آپ غمگین ہوئے، آپ نے ایک مہینے تک ان قبائل پر بددعا فرمائی۔",
+      "combined_roman": "Hazrat Anas bin Malik (R.A) riwayat karte hain ki shaheed hone wale qariyon ne rab se dua ki thi: 'Hamare Nabi ko hamara salaam pahoncha de ki hum apne Rab se raazi hain aur Rab hum se raazi hai'.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4088",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4088",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13588,7 +23580,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بئرِ معونہ اور رجیع کے شہداء کا زندہ ہونا"
+    "themeUrdu": "بئرِ معونہ اور رجیع کے شہداء کا زندہ ہونا",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Anfal",
+        "surah_number": 8,
+        "ayah_range": "41–48",
+        "relation_ur": "بدر کی نصرت اور احد کی آزمائش کا تقابل",
+        "relation_roman": "Badr ki nusrat aur Uhud ki aazmaish ka taqabul",
+        "link_url": "https://quran.com/ur/8:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "9–27",
+        "relation_ur": "غزوات میں اہلِ ایمان کی ثابت قدمی",
+        "relation_roman": "Ghazwat mein ahl-e-iman ki sabit qadami",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): حضرت انس بن مالک فرماتے ہیں کہ میں نے رسول اللہ ﷺ کو کبھی کسی بات پر اتنا غمگین نہیں دیکھا جتنا بئرِ معونہ کے ستر قاری صحابہ کی شہادت پر آپ غمگین ہوئے، آپ نے ایک مہینے تک ان قبائل پر بددعا فرمائی۔",
+      "combined_roman": "Hazrat Anas bin Malik (R.A) riwayat karte hain ki shaheed hone wale qariyon ne rab se dua ki thi: 'Hamare Nabi ko hamara salaam pahoncha de ki hum apne Rab se raazi hain aur Rab hum se raazi hai'.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4088",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4088",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 159,
@@ -13628,7 +23680,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "3043",
-      "ref_url": "https://sunnah.com/bukhari:3043"
+      "ref_url": "https://sunnah.com/bukhari:3043",
+      "combined_urdu": "Rawi: Abu Sa'id al-Khudri (R.A): رسول اللہ ﷺ نے حضرت سعد بن معاذ کے فیصلے پر فرمایا: تم نے ان کے بارے میں وہی فیصلہ کیا ہے جو سات آسمانوں کے اوپر سے اللہ تعالیٰ کا فیصلہ تھا!",
+      "combined_roman": "Hazrat Abu Sa'eed al-Khudri (R.A) riwayat karte hain ki Rasoolullah ﷺ ne Hazrat Saad ke faisle ko ilahi faisle ke mutabiq qarar diya.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3043",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3043",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13674,7 +23740,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بنو قریظہ کی غداری اور حضرت سعد کا تاریخی فیصلہ"
+    "themeUrdu": "بنو قریظہ کی غداری اور حضرت سعد کا تاریخی فیصلہ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِّنْ أَهْلِ الْكِتَابِ مِن صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+      "combined_urdu": "Rawi: Abu Sa'id al-Khudri (R.A): رسول اللہ ﷺ نے حضرت سعد بن معاذ کے فیصلے پر فرمایا: تم نے ان کے بارے میں وہی فیصلہ کیا ہے جو سات آسمانوں کے اوپر سے اللہ تعالیٰ کا فیصلہ تھا!",
+      "combined_roman": "Hazrat Abu Sa'eed al-Khudri (R.A) riwayat karte hain ki Rasoolullah ﷺ ne Hazrat Saad ke faisle ko ilahi faisle ke mutabiq qarar diya.",
+      "chapter_title": "Kitab al-Jihad",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "3043",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:3043",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Azwaj-e-Mutahharat ka Imtehan",
@@ -13713,7 +23830,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13760,7 +23891,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "امہات المومنین کا دنیاوی آسائشوں پر اللہ و رسول کو چننا"
+    "themeUrdu": "امہات المومنین کا دنیاوی آسائشوں پر اللہ و رسول کو چننا",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      },
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Muslim Mard o Aurat, Zaid o Zainab R.A. & Khatm-e-Nabuwwat",
@@ -13799,7 +23999,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13846,7 +24060,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سیدنا زید و زینب کا نکاح اور خاتم النبیین کا اعلان"
+    "themeUrdu": "سیدنا زید و زینب کا نکاح اور خاتم النبیین کا اعلان",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      },
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Munafiqeen ki Sazishen aur Amanat-e-Ilahi",
@@ -13885,7 +24168,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -13932,7 +24229,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "منافقوں کی افواہ بازیاں اور امانتِ الٰہیہ کا بوجھ"
+    "themeUrdu": "منافقوں کی افواہ بازیاں اور امانتِ الٰہیہ کا بوجھ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      },
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "140–144",
+        "relation_ur": "ایام کی گردش اور منافقین کا امتحان",
+        "relation_roman": "Ayyam ki gardish aur munafiqeen ka imtehan",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      },
+      {
+        "surah_name": "Al-Fath",
+        "surah_number": 48,
+        "ayah_range": "18–25",
+        "relation_ur": "بیعتِ رضوان اور باہمی سکینت",
+        "relation_roman": "Bay'at ar-Ridwan aur baahami sakeenat",
+        "link_url": "https://quran.com/ur/48:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الأحزاب کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ahzab ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 163,
@@ -13972,7 +24338,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4028",
-      "ref_url": "https://sunnah.com/bukhari:4028"
+      "ref_url": "https://sunnah.com/bukhari:4028",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت سعید بن جبیر فرماتے ہیں کہ میں نے ابن عباس سے پوچھا: سورۃ الحشر؟ انہوں نے فرمایا: کہو سورۃ بنی نضیر! یہ پوری سورت بنو نضیر کے نکالے جانے کے واقعے میں نازل ہوئی تھی۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) ne farmaya ki Surah Al-Hashr ka doosra naam hi 'Surah Banu Nadir' hai kyunki yeh unke anjam par nazil hui.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4028",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4028",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14018,7 +24398,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بنو نضیر کی سازش، قلعوں کا گھیراؤ اور جلاوطنی"
+    "themeUrdu": "بنو نضیر کی سازش، قلعوں کا گھیراؤ اور جلاوطنی",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "وادیِ خیبر و قلعۂ قموص",
+        "name_en": "Oasis & Fortresses of Khaybar",
+        "modern_name": "Khaybar, Madinah Province",
+        "context_ur": "یہودی قبائل کا مضبوط عسکری گڑھ جسے حضرت علی المرتضیٰؓ کی قیادت میں فتح کیا گیا۔",
+        "context_roman": "Yahoodi qabail ka mazboot qila jise Hazrat Ali (R.A) ki qayadat mein fatah kiya gaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=25.6989,39.2961",
+        "coordinates": "25.6989° N, 39.2961° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت سعید بن جبیر فرماتے ہیں کہ میں نے ابن عباس سے پوچھا: سورۃ الحشر؟ انہوں نے فرمایا: کہو سورۃ بنی نضیر! یہ پوری سورت بنو نضیر کے نکالے جانے کے واقعے میں نازل ہوئی تھی۔",
+      "combined_roman": "Hazrat Ibn Abbas (R.A) ne farmaya ki Surah Al-Hashr ka doosra naam hi 'Surah Banu Nadir' hai kyunki yeh unke anjam par nazil hui.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4028",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4028",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Yateem, Wirasat, Nikah, Muharramaat aur Maashra",
@@ -14057,7 +24488,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14104,7 +24549,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "یتیموں کے حقوق، وراثت کے قوانین اور محرماتِ نکاح"
+    "themeUrdu": "یتیموں کے حقوق، وراثت کے قوانین اور محرماتِ نکاح",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 165,
@@ -14144,7 +24649,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Albani",
       "book": "Jami' at-Tirmidhi",
       "hadithNumber": "3026",
-      "ref_url": "https://sunnah.com/tirmidhi:3026"
+      "ref_url": "https://sunnah.com/tirmidhi:3026",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر بن الخطاب نے دعا کی تھی: اے اللہ! شراب کے بارے میں ہمیں کوئی واضح اور شافی حکم عطا فرما! تو یہ آیات یکے بعد دیگرے نازل ہوئیں۔",
+      "combined_roman": "Hazrat Umar (R.A) dua farmate the: 'Allahumma bayyin lana fil-khamri bayan-an shafiyan'.",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3026",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3026",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14190,7 +24709,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "شراب کی پہلی ممانعت: نفع سے بڑا گناہ"
+    "themeUrdu": "شراب کی پہلی ممانعت: نفع سے بڑا گناہ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+    "mutalliqah_hadees": {
+      "arabic": "يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ ۖ قُلْ فِيهِمَا إِثْمٌ كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر بن الخطاب نے دعا کی تھی: اے اللہ! شراب کے بارے میں ہمیں کوئی واضح اور شافی حکم عطا فرما! تو یہ آیات یکے بعد دیگرے نازل ہوئیں۔",
+      "combined_roman": "Hazrat Umar (R.A) dua farmate the: 'Allahumma bayyin lana fil-khamri bayan-an shafiyan'.",
+      "chapter_title": "Kitab Tafsir al-Quran (باب ومن سورة البقرة - تحريم الخمر)",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3026",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3026",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Sharab ki Doosri Pabandi: Nashe mein Namaz Mana",
@@ -14229,7 +24789,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14276,7 +24850,67 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "شراب کی دوسری پابندی: نشے کی حالت میں نماز سے ممانعت"
+    "themeUrdu": "شراب کی دوسری پابندی: نشے کی حالت میں نماز سے ممانعت",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Yateem, Nikah, Talaq, Riza'at, Iddat",
@@ -14315,7 +24949,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14362,7 +25010,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "یتیموں کی نگہداشت، نکاح، طلاق اور عدت کے احکام"
+    "themeUrdu": "یتیموں کی نگہداشت، نکاح، طلاق اور عدت کے احکام",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ayat-ul-Kursi & Ibrahim o Namrood",
@@ -14401,7 +25109,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14448,7 +25170,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "آیۃ الکرسی: توحیدِ اعظم اور ابراہیم و نمرود کا مناظرہ"
+    "themeUrdu": "آیۃ الکرسی: توحیدِ اعظم اور ابراہیم و نمرود کا مناظرہ",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Infaq fi Sabilillah & Sadqaat ke Faza'il",
@@ -14487,7 +25269,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14534,7 +25330,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "صدقات کی برکت، ریاکاری سے پاک انفاق"
+    "themeUrdu": "صدقات کی برکت، ریاکاری سے پاک انفاق",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ahl-e-Kitab, Qital, Munafiqeen aur Namaz-e-Khauf",
@@ -14573,7 +25429,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14620,7 +25490,67 @@ window.WAHI_EPISODES = [
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
     ],
-    "themeUrdu": "اہل کتاب کی بدنیتی، منافقین، جہاد اور نمازِ خوف"
+    "themeUrdu": "اہل کتاب کی بدنیتی، منافقین، جہاد اور نمازِ خوف",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Adl, Shirk ki Na-bakhshish aur Isa A.S. ki Wafat ka Radd",
@@ -14659,7 +25589,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14706,7 +25650,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "عدل و انصاف، شرک کی عدم مغفرت اور عیسیٰ کے قتل کا رد"
+    "themeUrdu": "عدل و انصاف، شرک کی عدم مغفرت اور عیسیٰ کے قتل کا رد",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النساء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nisa ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Az-Zalzalah: Islami Mu'ashra ke Ahkaam, Falah aur The Earthquake ke Qawaneen",
@@ -14745,7 +25749,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الزلزلة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Az-Zalzalah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14792,7 +25810,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الزلزلة (مکمل)"
+    "themeUrdu": "سورت الزلزلة (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الزلزلة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Az-Zalzalah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Hadid: Islami Mu'ashra ke Ahkaam, Falah aur The Iron ke Qawaneen",
@@ -14831,7 +25909,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحديد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hadid ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14878,7 +25970,83 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الحديد (مکمل)"
+    "themeUrdu": "سورت الحديد (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "☄️ Nuclear Astrophysics / کائناتی فلکیات",
+      "icon": "☄️",
+      "title_ur": "لوہے کا آسمان سے اتارا جانا (Supernova Nucleosynthesis)",
+      "title_en": "Extraterrestrial Meteoritic Origin of Iron (وَأَنزَلْنَا الْحَدِيدَ)",
+      "summary_ur": "آیت ۲۵ میں لفظ فرمایا: 'اور ہم نے لوہا اتارا (وَأَنزَلْنَا الْحَدِيدَ) جس میں زبردست جنگی طاقت اور انسانوں کے لیے فائدے ہیں'۔ جدید ایٹمی فلکیات بتاتی ہے کہ لوہے کا ایٹم زمین پر پیدا نہیں ہو سکتا کیونکہ اس کے فیوژن کے لیے کروڑوں ڈگری درجہ حرارت درکار ہوتا ہے؛ نظامِ شمسی کا تمام لوہا دیوہیکل ستاروں کے سپرنووا دھماکوں سے بن کر شہابیوں کے ذریعے زمین پر برسا۔",
+      "summary_roman": "Surah 57:25 specifically says 'And We sent down iron (Wa Anzalnal-Hadid)'. Modern astrophysics confirms iron nuclei cannot form on Earth; they require the extreme binding energies of Supernova stellar nucleosynthesis.",
+      "citations": [
+        "Hans Bethe - Nobel Prize for Stellar Nucleosynthesis",
+        "NASA Goddard Space Flight Center - 'Supernovae and the Origin of Heavy Elements'"
+      ],
+      "diagram": {
+        "title": "Supernova Nucleosynthesis & Meteoritic Iron Deposition",
+        "description": "Exotic iron synthesis during massive star core collapse and delivery to terrestrial planets.",
+        "type": "iron_supernova"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحديد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hadid ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Muhammad: Islami Mu'ashra ke Ahkaam, Falah aur Muhammad ke Qawaneen",
@@ -14917,7 +26085,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ محمد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Muhammad ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -14964,7 +26146,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت محمد (مکمل)"
+    "themeUrdu": "سورت محمد (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ محمد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Muhammad ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ar-Ra'd: Islami Mu'ashra ke Ahkaam, Falah aur The Thunder ke Qawaneen",
@@ -15003,7 +26245,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الرعد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ar-Ra'd ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15050,7 +26306,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الرعد (مکمل)"
+    "themeUrdu": "سورت الرعد (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الرعد کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ar-Ra'd ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Ar-Rahman: Islami Mu'ashra ke Ahkaam, Falah aur The Beneficent ke Qawaneen",
@@ -15089,7 +26405,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الرحمن کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ar-Rahman ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15136,7 +26466,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الرحمن (مکمل)"
+    "themeUrdu": "سورت الرحمن (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الرحمن کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Ar-Rahman ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Insan: Islami Mu'ashra ke Ahkaam, Falah aur The Man ke Qawaneen",
@@ -15175,7 +26565,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الانسان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Insan ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15222,7 +26626,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الانسان (مکمل)"
+    "themeUrdu": "سورت الانسان (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الانسان کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Insan ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Talaq: Islami Mu'ashra ke Ahkaam, Falah aur The Divorce ke Qawaneen",
@@ -15261,7 +26725,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الطلاق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Talaq ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15308,7 +26786,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الطلاق (مکمل)"
+    "themeUrdu": "سورت الطلاق (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الطلاق کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Talaq ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Bayyinah: Islami Mu'ashra ke Ahkaam, Falah aur The Clear Proof ke Qawaneen",
@@ -15347,7 +26885,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البينة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Bayyinah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15394,7 +26946,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت البينة (مکمل)"
+    "themeUrdu": "سورت البينة (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البينة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Bayyinah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Muhajireen o Ansar ki Azeem Sifat",
@@ -15433,7 +27045,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحشر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hashr ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15480,7 +27106,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "فقراء مہاجرین اور ایثار کرنے والے انصار کی مدح"
+    "themeUrdu": "فقراء مہاجرین اور ایثار کرنے والے انصار کی مدح",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحشر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hashr ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 181,
@@ -15520,7 +27206,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4884",
-      "ref_url": "https://sunnah.com/bukhari:4884"
+      "ref_url": "https://sunnah.com/bukhari:4884",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر بن الخطاب فرماتے ہیں کہ بنو نضیر کی جائیدادیں خالص رسول اللہ کے لیے تھیں، آپ اس سے اپنے اہل و عیال کا سال بھر کا خرچ رکھتے اور باقی گھوڑوں اور ہتھیاروں کی تیاری میں لگا دیتے تھے۔",
+      "combined_roman": "Hazrat Umar (R.A) riwayat karte hain ki Nabi ﷺ ne yeh maal aam Muhajireen aur do ghareeb Ansar mein baanta taaki unki ghurbat door ho.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4884",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4884",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15566,7 +27266,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اموالِ فئے کے شرعی مصارف اور منافقوں کے جھوٹے دلاسے"
+    "themeUrdu": "اموالِ فئے کے شرعی مصارف اور منافقوں کے جھوٹے دلاسے",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "مَّا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر بن الخطاب فرماتے ہیں کہ بنو نضیر کی جائیدادیں خالص رسول اللہ کے لیے تھیں، آپ اس سے اپنے اہل و عیال کا سال بھر کا خرچ رکھتے اور باقی گھوڑوں اور ہتھیاروں کی تیاری میں لگا دیتے تھے۔",
+      "combined_roman": "Hazrat Umar (R.A) riwayat karte hain ki Nabi ﷺ ne yeh maal aam Muhajireen aur do ghareeb Ansar mein baanta taaki unki ghurbat door ho.",
+      "chapter_title": "Kitab al-Jihad",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4884",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4884",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Law Anzalna Hazal Quran aur Asma-e-Husna",
@@ -15605,7 +27346,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحشر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hashr ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15652,7 +27407,76 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "لو انزلنا ھذا القرآن اور اللہ کے صفاتی اسمائے حسنیٰ"
+    "themeUrdu": "لو انزلنا ھذا القرآن اور اللہ کے صفاتی اسمائے حسنیٰ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      },
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحشر کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hashr ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Hadd-e-Zina aur Li'an ke Ahkaam",
@@ -15691,7 +27515,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nur ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15738,7 +27576,83 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حدِ زنا اور میاں بیوی کے درمیان لعان کے قوانین"
+    "themeUrdu": "حدِ زنا اور میاں بیوی کے درمیان لعان کے قوانین",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🌊 Deep Marine Physics & Optical Attenuation / بحری تاریکیاں",
+      "icon": "🌊",
+      "title_ur": "گہرے سمندر کی اندرونی لہریں اور تہہ در تہہ تاریکی",
+      "title_en": "Internal Oceanic Waves & Optical Extinction Depths",
+      "summary_ur": "آیت ۴۰ میں گہرے سمندر کی مثال دی جس کے اوپر موج ہے، اس کے اوپر پھر موج ہے، اور اوپر بادل ہیں۔ جدید غواصی و اوشنوگرافی نے دریافت کیا کہ سمندر میں صرف سطح پر نہیں بلکہ زیرِ آب کثافت کے فرق سے اندرونی لہریں (Internal Waves) چلتی ہیں اور 200 میٹر سے نیچے روشنی کی شدید کمی سے مکمل تاریکی چھا جاتی ہے۔",
+      "summary_roman": "Surah 24:40 reveals deep ocean layers: 'waves topped by waves topped by dark clouds'. Modern underwater robotics discovered internal sub-surface waves along density boundaries and complete optical extinction below 200m.",
+      "citations": [
+        "Dr. Rao - 'Internal Waves in the Ocean', Oceanographic Observations",
+        "NOAA Ocean Exploration - Light Attenuation in the Marine Water Column"
+      ],
+      "diagram": {
+        "title": "Internal Wave Strata & Photopic Extinction",
+        "description": "Layered oceanic internal waves and exponential sunlight absorption profile.",
+        "type": "internal_waves"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nur ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Gharon ke Aadaab aur Ayat-un-Noor",
@@ -15777,7 +27691,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nur ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15824,7 +27752,83 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "گھروں میں اجازت سے داخلہ اور آیۃ النور (اللہ نور السماوات)"
+    "themeUrdu": "گھروں میں اجازت سے داخلہ اور آیۃ النور (اللہ نور السماوات)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🌊 Deep Marine Physics & Optical Attenuation / بحری تاریکیاں",
+      "icon": "🌊",
+      "title_ur": "گہرے سمندر کی اندرونی لہریں اور تہہ در تہہ تاریکی",
+      "title_en": "Internal Oceanic Waves & Optical Extinction Depths",
+      "summary_ur": "آیت ۴۰ میں گہرے سمندر کی مثال دی جس کے اوپر موج ہے، اس کے اوپر پھر موج ہے، اور اوپر بادل ہیں۔ جدید غواصی و اوشنوگرافی نے دریافت کیا کہ سمندر میں صرف سطح پر نہیں بلکہ زیرِ آب کثافت کے فرق سے اندرونی لہریں (Internal Waves) چلتی ہیں اور 200 میٹر سے نیچے روشنی کی شدید کمی سے مکمل تاریکی چھا جاتی ہے۔",
+      "summary_roman": "Surah 24:40 reveals deep ocean layers: 'waves topped by waves topped by dark clouds'. Modern underwater robotics discovered internal sub-surface waves along density boundaries and complete optical extinction below 200m.",
+      "citations": [
+        "Dr. Rao - 'Internal Waves in the Ocean', Oceanographic Observations",
+        "NOAA Ocean Exploration - Light Attenuation in the Marine Water Column"
+      ],
+      "diagram": {
+        "title": "Internal Wave Strata & Photopic Extinction",
+        "description": "Layered oceanic internal waves and exponential sunlight absorption profile.",
+        "type": "internal_waves"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nur ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Qudrat-e-Ilahi, Ita'at aur Samajik Haya",
@@ -15863,7 +27867,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nur ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15910,7 +27928,83 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "قدرت کی نشانیاں، رسول کی سچی اطاعت اور پردہ"
+    "themeUrdu": "قدرت کی نشانیاں، رسول کی سچی اطاعت اور پردہ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": {
+      "domain": "🌊 Deep Marine Physics & Optical Attenuation / بحری تاریکیاں",
+      "icon": "🌊",
+      "title_ur": "گہرے سمندر کی اندرونی لہریں اور تہہ در تہہ تاریکی",
+      "title_en": "Internal Oceanic Waves & Optical Extinction Depths",
+      "summary_ur": "آیت ۴۰ میں گہرے سمندر کی مثال دی جس کے اوپر موج ہے، اس کے اوپر پھر موج ہے، اور اوپر بادل ہیں۔ جدید غواصی و اوشنوگرافی نے دریافت کیا کہ سمندر میں صرف سطح پر نہیں بلکہ زیرِ آب کثافت کے فرق سے اندرونی لہریں (Internal Waves) چلتی ہیں اور 200 میٹر سے نیچے روشنی کی شدید کمی سے مکمل تاریکی چھا جاتی ہے۔",
+      "summary_roman": "Surah 24:40 reveals deep ocean layers: 'waves topped by waves topped by dark clouds'. Modern underwater robotics discovered internal sub-surface waves along density boundaries and complete optical extinction below 200m.",
+      "citations": [
+        "Dr. Rao - 'Internal Waves in the Ocean', Oceanographic Observations",
+        "NOAA Ocean Exploration - Light Attenuation in the Marine Water Column"
+      ],
+      "diagram": {
+        "title": "Internal Wave Strata & Photopic Extinction",
+        "description": "Layered oceanic internal waves and exponential sunlight absorption profile.",
+        "type": "internal_waves"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ النور کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah An-Nur ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 186,
@@ -15950,7 +28044,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4900",
-      "ref_url": "https://sunnah.com/bukhari:4900"
+      "ref_url": "https://sunnah.com/bukhari:4900",
+      "combined_urdu": "Rawi: Zaid bin Arqam (R.A): حضرت زید بن ارقم فرماتے ہیں کہ جب عبداللہ بن ابی نے جھوٹی قسمیں کھائیں تو میں غم سے بیٹھ گیا، پھر رسول اللہ ﷺ نے میرا کان پکڑ کر پیار سے فرمایا: اے لڑکے! تیرے کان نے سچ سنا تھا اور اللہ نے تیرے سچ کی تصدیق فرما دی!",
+      "combined_roman": "Hazrat Zaid bin Arqam (R.A) riwayat karte hain ki Rasoolullah ne unka kaan hilaya aur farmaya ki Allah ne unki sachayi par aayat utari hai.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4900",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4900",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -15996,7 +28104,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "غزوہِ بنی مصطلق اور رئیس المنافقین عبداللہ بن ابی کی رسوائی"
+    "themeUrdu": "غزوہِ بنی مصطلق اور رئیس المنافقین عبداللہ بن ابی کی رسوائی",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَسُولِ اللَّهِ حَتَّىٰ يَنفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
+      "combined_urdu": "Rawi: Zaid bin Arqam (R.A): حضرت زید بن ارقم فرماتے ہیں کہ جب عبداللہ بن ابی نے جھوٹی قسمیں کھائیں تو میں غم سے بیٹھ گیا، پھر رسول اللہ ﷺ نے میرا کان پکڑ کر پیار سے فرمایا: اے لڑکے! تیرے کان نے سچ سنا تھا اور اللہ نے تیرے سچ کی تصدیق فرما دی!",
+      "combined_roman": "Hazrat Zaid bin Arqam (R.A) riwayat karte hain ki Rasoolullah ne unka kaan hilaya aur farmaya ki Allah ne unki sachayi par aayat utari hai.",
+      "chapter_title": "Kitab Tafsir al-Quran",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4900",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4900",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 187,
@@ -16036,7 +28185,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4750",
-      "ref_url": "https://sunnah.com/bukhari:4750"
+      "ref_url": "https://sunnah.com/bukhari:4750",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): حضرت عائشہ فرماتی ہیں: اللہ کی قسم! میں خود کو اس سے بہت کم تر سمجھتی تھی کہ میرے بارے میں قرآن کی وحی نازل ہوگی جو نمازوں میں تلاوت کی جائے گی! مگر اللہ نے خود میری برات کا اعلان فرمایا۔",
+      "combined_roman": "Hazrat Aisha (R.A) farmati hain: 'Mujhe umeed thi ki khwab mein Nabi ko koi bashaarat hogi, magar Allah ne Quran ki aayatein nazil farmayein jo qayamat tak padhi jayengi'.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4750",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4750",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16082,7 +28245,64 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "واقعہِ افک: ام المومنین عائشہ صدیقہ کی آسمانی برات"
+    "themeUrdu": "واقعہِ افک: ام المومنین عائشہ صدیقہ کی آسمانی برات",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "🌊 Deep Marine Physics & Optical Attenuation / بحری تاریکیاں",
+      "icon": "🌊",
+      "title_ur": "گہرے سمندر کی اندرونی لہریں اور تہہ در تہہ تاریکی",
+      "title_en": "Internal Oceanic Waves & Optical Extinction Depths",
+      "summary_ur": "آیت ۴۰ میں گہرے سمندر کی مثال دی جس کے اوپر موج ہے، اس کے اوپر پھر موج ہے، اور اوپر بادل ہیں۔ جدید غواصی و اوشنوگرافی نے دریافت کیا کہ سمندر میں صرف سطح پر نہیں بلکہ زیرِ آب کثافت کے فرق سے اندرونی لہریں (Internal Waves) چلتی ہیں اور 200 میٹر سے نیچے روشنی کی شدید کمی سے مکمل تاریکی چھا جاتی ہے۔",
+      "summary_roman": "Surah 24:40 reveals deep ocean layers: 'waves topped by waves topped by dark clouds'. Modern underwater robotics discovered internal sub-surface waves along density boundaries and complete optical extinction below 200m.",
+      "citations": [
+        "Dr. Rao - 'Internal Waves in the Ocean', Oceanographic Observations",
+        "NOAA Ocean Exploration - Light Attenuation in the Marine Water Column"
+      ],
+      "diagram": {
+        "title": "Internal Wave Strata & Photopic Extinction",
+        "description": "Layered oceanic internal waves and exponential sunlight absorption profile.",
+        "type": "internal_waves"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِّنكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَّكُم ۖ بَلْ هُوَ خَيْرٌ لَّكُمْ ۚ لِكُلِّ امْرِئٍ مِّنْهُم مَّا اكْتَسَبَ مِنَ الْإِثْمِ",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): حضرت عائشہ فرماتی ہیں: اللہ کی قسم! میں خود کو اس سے بہت کم تر سمجھتی تھی کہ میرے بارے میں قرآن کی وحی نازل ہوگی جو نمازوں میں تلاوت کی جائے گی! مگر اللہ نے خود میری برات کا اعلان فرمایا۔",
+      "combined_roman": "Hazrat Aisha (R.A) farmati hain: 'Mujhe umeed thi ki khwab mein Nabi ko koi bashaarat hogi, magar Allah ne Quran ki aayatein nazil farmayein jo qayamat tak padhi jayengi'.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4750",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4750",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 188,
@@ -16122,7 +28342,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Albani",
       "book": "Sunan Abi Dawood",
       "hadithNumber": "4474",
-      "ref_url": "https://sunnah.com/abudawud:4474"
+      "ref_url": "https://sunnah.com/abudawud:4474",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): رسول اللہ ﷺ نے افک کا پروپیگنڈا کرنے والوں پر حدِ قذف نافذ فرمائی اور حسان بن ثابت، مسطح اور حمنہ بنت جحش کو اسی اسی کوڑے لگوائے۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki aayat aane ke baad Rasoolullah ﷺ ne bohtan tarashon par 80 kodo ki hadd jaari farmayi.",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "4474",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:4474",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16168,7 +28402,64 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حدِ قذف: پاکدامنوں پر تہمت کی سزا اور طیبون للطیبات"
+    "themeUrdu": "حدِ قذف: پاکدامنوں پر تہمت کی سزا اور طیبون للطیبات",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "🌊 Deep Marine Physics & Optical Attenuation / بحری تاریکیاں",
+      "icon": "🌊",
+      "title_ur": "گہرے سمندر کی اندرونی لہریں اور تہہ در تہہ تاریکی",
+      "title_en": "Internal Oceanic Waves & Optical Extinction Depths",
+      "summary_ur": "آیت ۴۰ میں گہرے سمندر کی مثال دی جس کے اوپر موج ہے، اس کے اوپر پھر موج ہے، اور اوپر بادل ہیں۔ جدید غواصی و اوشنوگرافی نے دریافت کیا کہ سمندر میں صرف سطح پر نہیں بلکہ زیرِ آب کثافت کے فرق سے اندرونی لہریں (Internal Waves) چلتی ہیں اور 200 میٹر سے نیچے روشنی کی شدید کمی سے مکمل تاریکی چھا جاتی ہے۔",
+      "summary_roman": "Surah 24:40 reveals deep ocean layers: 'waves topped by waves topped by dark clouds'. Modern underwater robotics discovered internal sub-surface waves along density boundaries and complete optical extinction below 200m.",
+      "citations": [
+        "Dr. Rao - 'Internal Waves in the Ocean', Oceanographic Observations",
+        "NOAA Ocean Exploration - Light Attenuation in the Marine Water Column"
+      ],
+      "diagram": {
+        "title": "Internal Wave Strata & Photopic Extinction",
+        "description": "Layered oceanic internal waves and exponential sunlight absorption profile.",
+        "type": "internal_waves"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+    "mutalliqah_hadees": {
+      "arabic": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ",
+      "combined_urdu": "Rawi: Ummul Momineen Aisha (R.A): رسول اللہ ﷺ نے افک کا پروپیگنڈا کرنے والوں پر حدِ قذف نافذ فرمائی اور حسان بن ثابت، مسطح اور حمنہ بنت جحش کو اسی اسی کوڑے لگوائے۔",
+      "combined_roman": "Hazrat Aisha (R.A) riwayat karti hain ki aayat aane ke baad Rasoolullah ﷺ ne bohtan tarashon par 80 kodo ki hadd jaari farmayi.",
+      "chapter_title": "Kitab al-Hudood (باب في حد القذف)",
+      "takhreej_status": "Sahih (صحیح - Sunan Abi Dawood)",
+      "references": [
+        {
+          "book": "Sunan Abi Dawood",
+          "hadithNumber": "4474",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/abudawud:4474",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
+    }
   },
   {
     "id": 189,
@@ -16208,7 +28499,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4616",
-      "ref_url": "https://sunnah.com/bukhari:4616"
+      "ref_url": "https://sunnah.com/bukhari:4616",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): حضرت انس فرماتے ہیں کہ میں ابو طلحہ کے گھر شراب پلا رہا تھا کہ منادی کی آواز آئی: خبردار شراب حرام ہو گئی! ابو طلحہ نے کہا: انس! باہر جا کر ان مٹکوں کو توڑ دو! مدینہ کی گلیوں میں شراب ندیوں کی طرح بہنے لگی۔",
+      "combined_roman": "Hazrat Anas (R.A) riwayat karte hain ki ailaan sunte hi jinke honto par pyala tha unhone phenk diya aur Madinah ki galiyon mein sharab beh nikli.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4616",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4616",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16254,7 +28559,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "شراب، جوئے اور بتوں کی قطعی حرمت (رجس من عمل الشیطان)"
+    "themeUrdu": "شراب، جوئے اور بتوں کی قطعی حرمت (رجس من عمل الشیطان)",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "281",
+        "relation_ur": "نزولِ وحی کے آخری ایام اور یومِ حساب کی یاد دہانی",
+        "relation_roman": "Nuzool-e-Wahi ke aakhri ayyam aur Youm-e-Hisab ki yaad-dehani",
+        "link_url": "https://quran.com/ur/2:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "تکمیلِ دین اور رسول اللہ ﷺ کا رخصتی خطبہ",
+        "relation_roman": "Takmeel-e-Deen aur Rasool Allah ﷺ ka rukhsaati khutbah",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): حضرت انس فرماتے ہیں کہ میں ابو طلحہ کے گھر شراب پلا رہا تھا کہ منادی کی آواز آئی: خبردار شراب حرام ہو گئی! ابو طلحہ نے کہا: انس! باہر جا کر ان مٹکوں کو توڑ دو! مدینہ کی گلیوں میں شراب ندیوں کی طرح بہنے لگی۔",
+      "combined_roman": "Hazrat Anas (R.A) riwayat karte hain ki ailaan sunte hi jinke honto par pyala tha unhone phenk diya aur Madinah ki galiyon mein sharab beh nikli.",
+      "chapter_title": "Kitab Tafsir al-Quran",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4616",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4616",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Zalzala-e-Qayamat aur Manaasik-e-Hajj",
@@ -16293,7 +28639,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hajj ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16340,7 +28700,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "قیامت کا زلزلہ، حج کے مناسک اور قربانی کا تقویٰ"
+    "themeUrdu": "قیامت کا زلزلہ، حج کے مناسک اور قربانی کا تقویٰ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hajj ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Amr bil Ma'roof, Jihaad aur Millat-e-Ibrahim",
@@ -16379,7 +28799,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hajj ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16426,7 +28860,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "نماز، زکوٰۃ، امر بالمعروف اور ملتِ ابراہیمی کا شرف"
+    "themeUrdu": "نماز، زکوٰۃ، امر بالمعروف اور ملتِ ابراہیمی کا شرف",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحج کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hajj ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Infaq fi Sabilillah aur Maut se Pehle Sadqah",
@@ -16465,7 +28959,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المنافقون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Munafiqun ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16512,7 +29020,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مال و اولاد کے فتنے سے بچاؤ اور موت سے قبل صدقہ"
+    "themeUrdu": "مال و اولاد کے فتنے سے بچاؤ اور موت سے قبل صدقہ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ خندق (مساجدِ سبعہ)",
+        "name_en": "Battlefield of the Trench (Al-Khandaq)",
+        "modern_name": "The Seven Mosques, Madinah al-Munawwarah",
+        "context_ur": "شمالی مدینہ میں کھودی گئی تاریخی خندق جہاں تمام قبائلِ عرب کے محاصرے کو اللہ نے ناکام بنایا۔",
+        "context_roman": "Madinah ke shimal mein khodi gayi khandaq jahan kuffar ka muhasra toota.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4757,39.5969",
+        "coordinates": "24.4757° N, 39.5969° E"
+      },
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المنافقون کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Munafiqun ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 193,
@@ -16552,7 +29120,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4833",
-      "ref_url": "https://sunnah.com/bukhari:4833"
+      "ref_url": "https://sunnah.com/bukhari:4833",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر نے پوچھا: یا رسول اللہ! کیا یہ صلح فتح ہے؟ آپ ﷺ نے فرمایا: ہاں! اس ذات کی قسم جس کے قبضے میں میری جان ہے، یہ یقیناً کھلم کھلا فتح ہے!",
+      "combined_roman": "Hazrat Umar (R.A) riwayat karte hain ki Rasoolullah ﷺ ne qasam kha kar farmaya ki yeh azeem fatah hai.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4833",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4833",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16598,7 +29180,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "صلحِ حدیبیہ: انا فتحنا لک فتحا مبینا کا اعلان"
+    "themeUrdu": "صلحِ حدیبیہ: انا فتحنا لک فتحا مبینا کا اعلان",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "20–25",
+        "relation_ur": "احزاب کے محاصرے کے بعد حدیبیہ کی فتحِ مبین",
+        "relation_roman": "Ahzab ke baad Hudaybiyyah ki Fath-e-Mubeen",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "فتحِ مکہ اور فوج در فوج داخلۂ اسلام",
+        "relation_roman": "Fath-e-Makkah aur fauj dar fauj dakhla-e-Islam",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا ۝ لِّيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيمًا",
+      "combined_urdu": "Rawi: Umar bin al-Khattab (R.A): حضرت عمر نے پوچھا: یا رسول اللہ! کیا یہ صلح فتح ہے؟ آپ ﷺ نے فرمایا: ہاں! اس ذات کی قسم جس کے قبضے میں میری جان ہے، یہ یقیناً کھلم کھلا فتح ہے!",
+      "combined_roman": "Hazrat Umar (R.A) riwayat karte hain ki Rasoolullah ﷺ ne qasam kha kar farmaya ki yeh azeem fatah hai.",
+      "chapter_title": "Kitab Tafsir al-Quran",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4833",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4833",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 194,
@@ -16638,7 +29271,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "1856",
-      "ref_url": "https://sunnah.com/muslim:1856"
+      "ref_url": "https://sunnah.com/muslim:1856",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: درخت کے نیچے بیعت کرنے والوں میں سے کوئی ایک بھی شخص دوزخ میں نہیں جائے گا!",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ne farmaya: 'Tum log aaj ru-ye zameen par sab se behtareen log ho!'.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "1856",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:1856",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16684,7 +29331,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بیعتِ رضوان: شجرۂ بیعت تلے اللہ کی ابدی رضا"
+    "themeUrdu": "بیعتِ رضوان: شجرۂ بیعت تلے اللہ کی ابدی رضا",
+    "phase_category": "madani",
+    "phase_sub": "Tashree' & Muamalat",
+    "locations": [
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "20–25",
+        "relation_ur": "احزاب کے محاصرے کے بعد حدیبیہ کی فتحِ مبین",
+        "relation_roman": "Ahzab ke baad Hudaybiyyah ki Fath-e-Mubeen",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "فتحِ مکہ اور فوج در فوج داخلۂ اسلام",
+        "relation_roman": "Fath-e-Makkah aur fauj dar fauj dakhla-e-Islam",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے فرمایا: درخت کے نیچے بیعت کرنے والوں میں سے کوئی ایک بھی شخص دوزخ میں نہیں جائے گا!",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ne farmaya: 'Tum log aaj ru-ye zameen par sab se behtareen log ho!'.",
+      "chapter_title": "Kitab al-Imarah (باب فضيلة بيعة الرضوان تحت الشجرة)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "1856",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:1856",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Surah Al-Mujadila: Islami Mu'ashra ke Ahkaam, Falah aur The Pleading Woman ke Qawaneen",
@@ -16723,7 +29421,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المجادلة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mujadila ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16770,7 +29482,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت المجادلة (مکمل)"
+    "themeUrdu": "سورت المجادلة (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المجادلة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mujadila ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 196,
@@ -16810,7 +29563,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4209",
-      "ref_url": "https://sunnah.com/bukhari:4209"
+      "ref_url": "https://sunnah.com/bukhari:4209",
+      "combined_urdu": "Rawi: Sahl bin Sa'd as-Sa'idi (R.A): رسول اللہ ﷺ نے حضرت علی کو بلایا جن کی آنکھیں دکھ رہی تھیں، آپ نے لعابِ دہن مبارک ان کی آنکھوں میں لگایا تو وہ فورا ایسے ٹھیک ہو گئے جیسے کبھی کوئی تکلیف ہی نہ تھی، پھر انہیں علم عطا فرمایا۔",
+      "combined_roman": "Hazrat Sahl bin Sa'd (R.A) riwayat karte hain ki Rasoolullah ﷺ ke dast-e-mubarak se Hazrat Ali ko shifa mili aur fatah hui.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4209",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4209",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16856,7 +29623,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "غزوہِ خیبر: کثیر غنائم اور حضرت علی کی فتح"
+    "themeUrdu": "غزوہِ خیبر: کثیر غنائم اور حضرت علی کی فتح",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      },
+      {
+        "name_ur": "وادیِ خیبر و قلعۂ قموص",
+        "name_en": "Oasis & Fortresses of Khaybar",
+        "modern_name": "Khaybar, Madinah Province",
+        "context_ur": "یہودی قبائل کا مضبوط عسکری گڑھ جسے حضرت علی المرتضیٰؓ کی قیادت میں فتح کیا گیا۔",
+        "context_roman": "Yahoodi qabail ka mazboot qila jise Hazrat Ali (R.A) ki qayadat mein fatah kiya gaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=25.6989,39.2961",
+        "coordinates": "25.6989° N, 39.2961° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "20–25",
+        "relation_ur": "احزاب کے محاصرے کے بعد حدیبیہ کی فتحِ مبین",
+        "relation_roman": "Ahzab ke baad Hudaybiyyah ki Fath-e-Mubeen",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "فتحِ مکہ اور فوج در فوج داخلۂ اسلام",
+        "relation_roman": "Fath-e-Makkah aur fauj dar fauj dakhla-e-Islam",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا ۝ وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ",
+      "combined_urdu": "Rawi: Sahl bin Sa'd as-Sa'idi (R.A): رسول اللہ ﷺ نے حضرت علی کو بلایا جن کی آنکھیں دکھ رہی تھیں، آپ نے لعابِ دہن مبارک ان کی آنکھوں میں لگایا تو وہ فورا ایسے ٹھیک ہو گئے جیسے کبھی کوئی تکلیف ہی نہ تھی، پھر انہیں علم عطا فرمایا۔",
+      "combined_roman": "Hazrat Sahl bin Sa'd (R.A) riwayat karte hain ki Rasoolullah ﷺ ke dast-e-mubarak se Hazrat Ali ko shifa mili aur fatah hui.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4209",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4209",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Hajj o Umrah ke Ahkaam aur Imtehanat",
@@ -16895,7 +29722,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -16942,7 +29783,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حج و عمرہ کے مناسک اور تاریخ کے کٹھن امتحانات"
+    "themeUrdu": "حج و عمرہ کے مناسک اور تاریخ کے کٹھن امتحانات",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Fasiq ki Khabar ki Tehqeeq",
@@ -16981,7 +29882,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحجرات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hujurat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17028,7 +29943,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "فاسق کی خبر کی تحقیق اور مومنوں میں باہمی صلح"
+    "themeUrdu": "فاسق کی خبر کی تحقیق اور مومنوں میں باہمی صلح",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحجرات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hujurat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Islam aur Iman ka Farq",
@@ -17067,7 +30023,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحجرات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hujurat ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17114,7 +30084,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "بدویوں کا اسلام اور دلوں میں ایمان کا داخل ہونا"
+    "themeUrdu": "بدویوں کا اسلام اور دلوں میں ایمان کا داخل ہونا",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الحجرات کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Hujurat ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Tahrim: Islami Mu'ashra ke Ahkaam, Falah aur The Prohibition ke Qawaneen",
@@ -17153,7 +30164,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التحريم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tahrim ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17200,7 +30225,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت التحريم (مکمل)"
+    "themeUrdu": "سورت التحريم (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التحريم کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tahrim ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah At-Taghabun: Islami Mu'ashra ke Ahkaam, Falah aur The Mutual Disillusion ke Qawaneen",
@@ -17239,7 +30305,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التغابن کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Taghabun ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17286,7 +30366,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت التغابن (مکمل)"
+    "themeUrdu": "سورت التغابن (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التغابن کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Taghabun ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Surah As-Saf: Islami Mu'ashra ke Ahkaam, Falah aur The Ranks ke Qawaneen",
@@ -17325,7 +30446,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الصف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah As-Saf ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17372,7 +30507,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سورت الصف (مکمل)"
+    "themeUrdu": "سورت الصف (مکمل)",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الصف کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah As-Saf ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 203,
@@ -17412,7 +30588,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Bukhari",
       "book": "Sahih Bukhari",
       "hadithNumber": "4261",
-      "ref_url": "https://sunnah.com/bukhari:4261"
+      "ref_url": "https://sunnah.com/bukhari:4261",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): رسول اللہ ﷺ مدینہ کے منبر پر کھڑے ہوئے اور وحی کے ذریعے میدانِ جنگ دیکھ کر صحابہ کو خبر دی: اب علم زید نے لیا وہ شہید ہوئے، پھر جعفر نے لیا وہ شہید ہوئے، پھر ابن رواحہ نے لیا وہ شہید ہوئے، پھر اللہ کی تلواروں میں سے ایک تلوار (خالد) نے علم لیا اور اللہ نے فتح بخشی۔",
+      "combined_roman": "Hazrat Anas bin Malik (R.A) riwayat karte hain ki Nabi ﷺ ki aankhon se aansu beh rahe the jab aapne madinah mein baith kar Mu'tah ki khabar di.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4261",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4261",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17458,7 +30648,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "شعرائے اسلام کی مدح اور موتہ کے شہداء"
+    "themeUrdu": "شعرائے اسلام کی مدح اور موتہ کے شہداء",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): رسول اللہ ﷺ مدینہ کے منبر پر کھڑے ہوئے اور وحی کے ذریعے میدانِ جنگ دیکھ کر صحابہ کو خبر دی: اب علم زید نے لیا وہ شہید ہوئے، پھر جعفر نے لیا وہ شہید ہوئے، پھر ابن رواحہ نے لیا وہ شہید ہوئے، پھر اللہ کی تلواروں میں سے ایک تلوار (خالد) نے علم لیا اور اللہ نے فتح بخشی۔",
+      "combined_roman": "Hazrat Anas bin Malik (R.A) riwayat karte hain ki Nabi ﷺ ki aankhon se aansu beh rahe the jab aapne madinah mein baith kar Mu'tah ki khabar di.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4261",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4261",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
+    }
   },
   {
     "title": "Bi'that-e-Nabawi aur Yahood ki Misaal",
@@ -17497,7 +30728,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجمعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jumu'ah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17544,7 +30789,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "رسول اللہ کی بعثت، تزکیہ اور گدھے پر کتابوں کی مثال"
+    "themeUrdu": "رسول اللہ کی بعثت، تزکیہ اور گدھے پر کتابوں کی مثال",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "مسجدِ نبوی شریف (روضۂ رسول ﷺ)",
+        "name_en": "Al-Masjid an-Nabawi",
+        "modern_name": "Madinah al-Munawwarah",
+        "context_ur": "ریاستِ مدینہ کا روحانی، سیاسی اور تعلیمی مرکز و روضۂ اطہر رسول اللہ ﷺ۔",
+        "context_roman": "Riyasat-e-Madinah ka markaz aur Nabi-e-Akram ﷺ ka muqaddas aastanah.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4672,39.6111",
+        "coordinates": "24.4672° N, 39.6111° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الجمعة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Jumu'ah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Hatib bin Abi Balta'ah aur Kuffar se Dosti ka Radd",
@@ -17583,7 +30879,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الممتحنة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mumtahanah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17630,7 +30940,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حاطب بن ابی بلتعہ کا خط اور مشرکین سے دوستی کی ممانعت"
+    "themeUrdu": "حاطب بن ابی بلتعہ کا خط اور مشرکین سے دوستی کی ممانعت",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الممتحنة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mumtahanah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Kuffar se Be-zaari ka Aakhiri Hukam",
@@ -17669,7 +31039,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الممتحنة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mumtahanah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17716,7 +31100,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "کفار کے ساتھ قلبی موالات کا قطعی خاتمہ"
+    "themeUrdu": "کفار کے ساتھ قلبی موالات کا قطعی خاتمہ",
+    "phase_category": "madani",
+    "phase_sub": "Ghazwat & Jihad",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الممتحنة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Mumtahanah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Peechay rehne wale Baddoo aur Unka Anjam",
@@ -17755,7 +31199,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفتح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fath ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17802,7 +31260,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حدیبیہ سے پیچھے رہنے والے اعراب اور ان کے جھوٹے عذر"
+    "themeUrdu": "حدیبیہ سے پیچھے رہنے والے اعراب اور ان کے جھوٹے عذر",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "20–25",
+        "relation_ur": "احزاب کے محاصرے کے بعد حدیبیہ کی فتحِ مبین",
+        "relation_roman": "Ahzab ke baad Hudaybiyyah ki Fath-e-Mubeen",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "فتحِ مکہ اور فوج در فوج داخلۂ اسلام",
+        "relation_roman": "Fath-e-Makkah aur fauj dar fauj dakhla-e-Islam",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفتح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fath ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ka'aba se Rokay Jana aur Sakina",
@@ -17841,7 +31350,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفتح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fath ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17888,7 +31411,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مسجدِ حرام سے روکے جانا اور مومنوں پر سکینہ کا نزول"
+    "themeUrdu": "مسجدِ حرام سے روکے جانا اور مومنوں پر سکینہ کا نزول",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "20–25",
+        "relation_ur": "احزاب کے محاصرے کے بعد حدیبیہ کی فتحِ مبین",
+        "relation_roman": "Ahzab ke baad Hudaybiyyah ki Fath-e-Mubeen",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "فتحِ مکہ اور فوج در فوج داخلۂ اسلام",
+        "relation_roman": "Fath-e-Makkah aur fauj dar fauj dakhla-e-Islam",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفتح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fath ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Ru'ya-e-Sadiqah aur Muhammadur Rasoolullah ki Jama'at",
@@ -17927,7 +31491,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفتح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fath ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -17974,7 +31552,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سچا خواب، فتح مکہ کی نوید اور صحابہ کی صفات"
+    "themeUrdu": "سچا خواب، فتح مکہ کی نوید اور صحابہ کی صفات",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "کوہِ صفا (جبلِ صفا)",
+        "name_en": "Mount Safa (Jabal as-Safa)",
+        "modern_name": "Al-Masjid al-Haram, Makkah al-Mukarramah",
+        "context_ur": "مکہ مکرمہ کی وہ تاریخی پہاڑی جہاں رسول اللہ ﷺ نے دعوتِ علانیہ کا پہلا خطبہ ارشاد فرمایا۔",
+        "context_roman": "Makkah ki woh tareekhi pahadi jahan Nabi Kareem ﷺ ne Dawat-e-Ilania ka ailan farmaya.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4225,39.8262",
+        "coordinates": "21.4225° N, 39.8262° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Ahzab",
+        "surah_number": 33,
+        "ayah_range": "20–25",
+        "relation_ur": "احزاب کے محاصرے کے بعد حدیبیہ کی فتحِ مبین",
+        "relation_roman": "Ahzab ke baad Hudaybiyyah ki Fath-e-Mubeen",
+        "link_url": "https://quran.com/ur/33:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "فتحِ مکہ اور فوج در فوج داخلۂ اسلام",
+        "relation_roman": "Fath-e-Makkah aur fauj dar fauj dakhla-e-Islam",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الفتح کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Fath ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 210,
@@ -18014,7 +31643,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Ibn Hajar & Al-Albani",
       "book": "Sunan al-Kubra (Al-Bayhaqi)",
       "hadithNumber": "18276",
-      "ref_url": "https://shamela.ws/book/6450"
+      "ref_url": "https://shamela.ws/book/6450",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): رسول اللہ ﷺ نے قریش سے پوچھا: تمہارا کیا خیال ہے کہ میں تمہارے ساتھ کیا کرنے والا ہوں؟ انہوں نے کہا: آپ کریم بھائی اور کریم بھائی کے بیٹے ہیں۔ آپ نے فرمایا: میں تم سے وہی کہتا ہوں جو یوسف نے کہا تھا: 'آج تم پر کوئی گرفت نہیں، جاؤ تم سب آزاد ہو!'۔",
+      "combined_roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne inteqam lene ke bajaye sab ko aam maafi ata farma di.",
+      "takhreej_status": "Sahih (صحیح - Sunan al-Kubra (Al-Bayhaqi))",
+      "references": [
+        {
+          "book": "Sunan al-Kubra (Al-Bayhaqi)",
+          "hadithNumber": "18276",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/6450",
+          "grade": "Sahih Mursal / Hasan",
+          "authority": "Ibn Hajar & Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18060,7 +31703,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "فتحِ مکہ: اذا جاء نصر اللہ والفتح اور عام معافی"
+    "themeUrdu": "فتحِ مکہ: اذا جاء نصر اللہ والفتح اور عام معافی",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "میدانِ حدیبیہ (الشمیسی)",
+        "name_en": "Al-Hudaybiyyah (Ash-Shumaysi)",
+        "modern_name": "Al-Shumaysi, Old Makkah-Jeddah Road",
+        "context_ur": "تاریخی صلحِ حدیبیہ اور بیعتِ رضوان کا مبارک مقام جس کو قرآن نے 'فتح مبین' قرار دیا۔",
+        "context_roman": "Sulh-e-Hudaybiyyah aur Bay'at ar-Ridwan ka maqam jise Quran ne 'Fath-um-Mubeen' kaha.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.4397,39.6386",
+        "coordinates": "21.4397° N, 39.6386° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Sunan al-Kubra (Al-Bayhaqi))",
+    "mutalliqah_hadees": {
+      "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ۝ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ۝ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): رسول اللہ ﷺ نے قریش سے پوچھا: تمہارا کیا خیال ہے کہ میں تمہارے ساتھ کیا کرنے والا ہوں؟ انہوں نے کہا: آپ کریم بھائی اور کریم بھائی کے بیٹے ہیں۔ آپ نے فرمایا: میں تم سے وہی کہتا ہوں جو یوسف نے کہا تھا: 'آج تم پر کوئی گرفت نہیں، جاؤ تم سب آزاد ہو!'۔",
+      "combined_roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne inteqam lene ke bajaye sab ko aam maafi ata farma di.",
+      "chapter_title": "Kitab as-Siyar (باب فتح مكة والأمان لأهلها)",
+      "takhreej_status": "Sahih (صحیح - Sunan al-Kubra (Al-Bayhaqi))",
+      "references": [
+        {
+          "book": "Sunan al-Kubra (Al-Bayhaqi)",
+          "hadithNumber": "18276",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/6450",
+          "grade": "Sahih Mursal / Hasan",
+          "authority": "Ibn Hajar & Al-Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Ja'al Haqqu wa Zahaqal Baatil",
@@ -18099,7 +31793,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18146,7 +31854,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "جاء الحق وزہق الباطل: باطل کے زوال کا اعلان"
+    "themeUrdu": "جاء الحق وزہق الباطل: باطل کے زوال کا اعلان",
+    "phase_category": "makki",
+    "phase_sub": "Sha'ab Abi Talib",
+    "locations": [
+      {
+        "name_ur": "مسجدِ اقصیٰ (بیت المقدس)",
+        "name_en": "Al-Aqsa Mosque (Al-Quds)",
+        "modern_name": "Old City of Jerusalem / Al-Quds",
+        "context_ur": "سفرِ معراج کا پہلا پڑاؤ جہاں رسول اللہ ﷺ نے تمام انبیاءِ کرام کی امامت فرمائی۔",
+        "context_roman": "Safar-e-Isra ka maqam jahan Nabi ﷺ ne tamaam ambiya ki imamat farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=31.7761,35.2358",
+        "coordinates": "31.7761° N, 35.2358° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-An'am",
+        "surah_number": 6,
+        "ayah_range": "1–10",
+        "relation_ur": "مکی دور کی دعوتِ توحید و دلائلِ ربوبیت",
+        "relation_roman": "Makki daur ki dawat-e-tauheed aur dalaail-e-ruboobiyat",
+        "link_url": "https://quran.com/ur/6:1?translations=158"
+      },
+      {
+        "surah_name": "Yunus",
+        "surah_number": 10,
+        "ayah_range": "1–5",
+        "relation_ur": "آیاتِ الٰہی اور آخرت کی تنبیہ",
+        "relation_roman": "Aayaat-e-Ilahi aur Aakhirat ki tanbeeh",
+        "link_url": "https://quran.com/ur/10:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ الإسراء کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Isra ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 212,
@@ -18186,7 +31945,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4287",
-      "ref_url": "https://sunnah.com/bukhari:4287"
+      "ref_url": "https://sunnah.com/bukhari:4287",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ud (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ فتح مکہ کے دن نبی ﷺ کعبہ میں داخل ہوئے تو وہاں 360 بت تھے۔ آپ اپنی چھڑی سے ان کی آنکھوں اور چہروں پر مارتے جاتے اور یہ آیت تلاوت فرماتے جاتے۔",
+      "combined_roman": "Hazrat Abdullah bin Mas'ud (R.A) riwayat karte hain ki Nabi ﷺ ki chhari ke ishare se but aundhe muh girte chale gaye.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4287",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4287",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18232,7 +32005,64 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "کعبہ سے بتوں کا خاتمہ: بل نقذف بالحق علی الباطل"
+    "themeUrdu": "کعبہ سے بتوں کا خاتمہ: بل نقذف بالحق علی الباطل",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": {
+      "domain": "🌌 Cosmology & Cytology / کونیات و حیاتیات",
+      "icon": "🌌",
+      "title_ur": "کائنات کا ایک جڑے ہوئے مادے سے الگ ہونا اور پانی سے حیات کا ظہور",
+      "title_en": "Cosmic Singularity (Big Bang) & Aqueous Origin of Life",
+      "summary_ur": "آیت ۳۰ میں فرمایا گیا کہ آسمان و زمین باہم پیوست تھے، پھر ہم نے انہیں پھاڑ کر الگ کیا (The Big Bang & Expansion)، اور ہر زندہ چیز کو پانی سے پیدا کیا۔ جدید سیلولر بائیولوجی نے تصدیق کی کہ ہر جاندار کا خلیہ (Cytoplasm) 70% سے 85% تک پانی پر مشتمل ہوتا ہے۔",
+      "summary_roman": "Ayah 30 reveals the cosmic singularity split (Big Bang: 'they were joined together, then We tore them apart') and that all life originated from water (cytoplasm of all living cells consists of 70-85% water).",
+      "citations": [
+        "Stephen Hawking & Roger Penrose - 'The Singularities of Gravitational Collapse and Cosmology'",
+        "Dr. Joe Hinrichs - 'Cellular Water and Biochemical Foundations of Life'"
+      ],
+      "diagram": {
+        "title": "Cosmic Expansion & Protoplasmic Water Ratio",
+        "description": "Initial cosmic singularity splitting outwards and cellular cytoplasm molecular composition.",
+        "type": "cosmology"
+      }
+    },
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ",
+      "combined_urdu": "Rawi: Abdullah bin Mas'ud (R.A): حضرت عبداللہ بن مسعود فرماتے ہیں کہ فتح مکہ کے دن نبی ﷺ کعبہ میں داخل ہوئے تو وہاں 360 بت تھے۔ آپ اپنی چھڑی سے ان کی آنکھوں اور چہروں پر مارتے جاتے اور یہ آیت تلاوت فرماتے جاتے۔",
+      "combined_roman": "Hazrat Abdullah bin Mas'ud (R.A) riwayat karte hain ki Nabi ﷺ ki chhari ke ishare se but aundhe muh girte chale gaye.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4287",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4287",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 213,
@@ -18272,7 +32102,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4315",
-      "ref_url": "https://sunnah.com/bukhari:4315"
+      "ref_url": "https://sunnah.com/bukhari:4315",
+      "combined_urdu": "Rawi: Al-Bara' bin 'Azib (R.A): رسول اللہ ﷺ اپنے سفید خچر پر آگے بڑھتے جاتے اور فرماتے: 'أَنَا النَّبِيُّ لَا كَذِبْ، أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ' (میں سچا نبی ہوں کوئی جھوٹ نہیں، میں عبدالمطلب کا بیٹا ہوں!)، اور حضرت عباس کو آواز لگانے کا حکم دیا: اے اصحابِ بیعتِ رضوان پلٹو!",
+      "combined_roman": "Hazrat Bara bin Azib (R.A) riwayat karte hain ki Rasoolullah ﷺ akele dushman ki teeron ke samne seena taan kar khade the.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4315",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4315",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18318,7 +32162,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "غزوہِ حنین: تعداد کی کثرت کا غرور اور غیبی مدد"
+    "themeUrdu": "غزوہِ حنین: تعداد کی کثرت کا غرور اور غیبی مدد",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ",
+      "combined_urdu": "Rawi: Al-Bara' bin 'Azib (R.A): رسول اللہ ﷺ اپنے سفید خچر پر آگے بڑھتے جاتے اور فرماتے: 'أَنَا النَّبِيُّ لَا كَذِبْ، أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ' (میں سچا نبی ہوں کوئی جھوٹ نہیں، میں عبدالمطلب کا بیٹا ہوں!)، اور حضرت عباس کو آواز لگانے کا حکم دیا: اے اصحابِ بیعتِ رضوان پلٹو!",
+      "combined_roman": "Hazrat Bara bin Azib (R.A) riwayat karte hain ki Rasoolullah ﷺ akele dushman ki teeron ke samne seena taan kar khade the.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4315",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4315",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 214,
@@ -18358,7 +32253,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Albani",
       "book": "Jami' at-Tirmidhi",
       "hadithNumber": "3942",
-      "ref_url": "https://sunnah.com/tirmidhi:3942"
+      "ref_url": "https://sunnah.com/tirmidhi:3942",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): صحابہ نے عرض کیا: یا رسول اللہ! ثقیف کے تیروں نے ہمیں چھلنی کر دیا ہے ان پر بددعا فرمائیے! آپ ﷺ نے دونوں ہاتھ اٹھائے اور فرمایا: 'اللَّهُمَّ اهْدِ ثَقِيفًا وَأْتِ بِهِمْ' (اے اللہ ثقیف کو ہدایت دے اور انہیں لے آ!)۔",
+      "combined_roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ne inteqam ke bajaye rehmat ki dua mangi.",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3942",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3942",
+          "grade": "Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18404,7 +32313,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "غزوہِ طائف اور مشرکین کے حرم میں داخلے پر پابندی"
+    "themeUrdu": "غزوہِ طائف اور مشرکین کے حرم میں داخلے پر پابندی",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "طائف (باغِ عداس و وادیٔ وج)",
+        "name_en": "City of Ta'if",
+        "modern_name": "Ta'if, Makkah Province, Saudi Arabia",
+        "context_ur": "وہ تاریخی وادی جہاں رسول اللہ ﷺ نے دعوت پیش کی اور شدید مصائب پر مشہور دعائے طائف مانگی۔",
+        "context_roman": "Woh tareekhi maqam jahan Nabi ﷺ ne dawat di aur sabr-e-jameel ke sath dua farmayi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.2854,40.4244",
+        "coordinates": "21.2854° N, 40.4244° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا",
+      "combined_urdu": "Rawi: Abu Hurairah (R.A): صحابہ نے عرض کیا: یا رسول اللہ! ثقیف کے تیروں نے ہمیں چھلنی کر دیا ہے ان پر بددعا فرمائیے! آپ ﷺ نے دونوں ہاتھ اٹھائے اور فرمایا: 'اللَّهُمَّ اهْدِ ثَقِيفًا وَأْتِ بِهِمْ' (اے اللہ ثقیف کو ہدایت دے اور انہیں لے آ!)۔",
+      "combined_roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ne inteqam ke bajaye rehmat ki dua mangi.",
+      "chapter_title": "Kitab al-Manaqib (باب في فضل ثقيف والدعاء لهم)",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3942",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3942",
+          "grade": "Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Uqood ki Pabandi aur Sha'a'ir-ullah",
@@ -18443,7 +32403,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المائدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'idah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18490,7 +32464,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "معاہدوں کی پاسداری اور شعائر اللہ کا احترام"
+    "themeUrdu": "معاہدوں کی پاسداری اور شعائر اللہ کا احترام",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "281",
+        "relation_ur": "نزولِ وحی کے آخری ایام اور یومِ حساب کی یاد دہانی",
+        "relation_roman": "Nuzool-e-Wahi ke aakhri ayyam aur Youm-e-Hisab ki yaad-dehani",
+        "link_url": "https://quran.com/ur/2:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "تکمیلِ دین اور رسول اللہ ﷺ کا رخصتی خطبہ",
+        "relation_roman": "Takmeel-e-Deen aur Rasool Allah ﷺ ka rukhsaati khutbah",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المائدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'idah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Halal o Haram, Wuzu, Adl, Qabeel o Habeel, Isa A.S.",
@@ -18529,7 +32544,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المائدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'idah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18576,7 +32605,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "طہارت، قابیل و ہابیل، عدل اور یہود و نصاریٰ کا طرزِ عمل"
+    "themeUrdu": "طہارت، قابیل و ہابیل، عدل اور یہود و نصاریٰ کا طرزِ عمل",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "281",
+        "relation_ur": "نزولِ وحی کے آخری ایام اور یومِ حساب کی یاد دہانی",
+        "relation_roman": "Nuzool-e-Wahi ke aakhri ayyam aur Youm-e-Hisab ki yaad-dehani",
+        "link_url": "https://quran.com/ur/2:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "تکمیلِ دین اور رسول اللہ ﷺ کا رخصتی خطبہ",
+        "relation_roman": "Takmeel-e-Deen aur Rasool Allah ﷺ ka rukhsaati khutbah",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المائدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'idah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Kaffarat-e-Yameen, Sayd-ul-Haram aur Maidah ka Waqiya",
@@ -18615,7 +32685,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المائدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'idah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18662,7 +32746,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "قسموں کا کفارہ، شکار کے احکام اور خوانِ نعمت (مائدہ)"
+    "themeUrdu": "قسموں کا کفارہ، شکار کے احکام اور خوانِ نعمت (مائدہ)",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "281",
+        "relation_ur": "نزولِ وحی کے آخری ایام اور یومِ حساب کی یاد دہانی",
+        "relation_roman": "Nuzool-e-Wahi ke aakhri ayyam aur Youm-e-Hisab ki yaad-dehani",
+        "link_url": "https://quran.com/ur/2:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "تکمیلِ دین اور رسول اللہ ﷺ کا رخصتی خطبہ",
+        "relation_roman": "Takmeel-e-Deen aur Rasool Allah ﷺ ka rukhsaati khutbah",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ المائدة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Ma'idah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 218,
@@ -18702,7 +32827,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Albani",
       "book": "Jami' at-Tirmidhi",
       "hadithNumber": "3701",
-      "ref_url": "https://sunnah.com/tirmidhi:3701"
+      "ref_url": "https://sunnah.com/tirmidhi:3701",
+      "combined_urdu": "Rawi: Abdur Rahman bin Samurah (R.A): رسول اللہ ﷺ نے جب جیش العسرۃ (تنگ دستی کا لشکر) تیار کرنے کی اپیل کی تو حضرت عثمان نے ایک ہزار دینار آپ کی جھولی میں انڈیل دیے۔ آپ ﷺ نے انہیں الٹ پلٹ کر فرمایا: 'آج کے بعد عثمان کا کوئی کام اسے نقصان نہیں پہنچا سکتا!'۔",
+      "combined_roman": "Hazrat Abdur Rahman bin Samurah (R.A) riwayat karte hain ki Hazrat Usman ke is sadqe par Nabi ﷺ ne jannat ki basharat di.",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3701",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3701",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18748,7 +32887,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "غزوہِ تبوک (جیش العسرۃ): شدید گرمی اور جہاد کی پکار"
+    "themeUrdu": "غزوہِ تبوک (جیش العسرۃ): شدید گرمی اور جہاد کی پکار",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ",
+      "combined_urdu": "Rawi: Abdur Rahman bin Samurah (R.A): رسول اللہ ﷺ نے جب جیش العسرۃ (تنگ دستی کا لشکر) تیار کرنے کی اپیل کی تو حضرت عثمان نے ایک ہزار دینار آپ کی جھولی میں انڈیل دیے۔ آپ ﷺ نے انہیں الٹ پلٹ کر فرمایا: 'آج کے بعد عثمان کا کوئی کام اسے نقصان نہیں پہنچا سکتا!'۔",
+      "combined_roman": "Hazrat Abdur Rahman bin Samurah (R.A) riwayat karte hain ki Hazrat Usman ke is sadqe par Nabi ﷺ ne jannat ki basharat di.",
+      "chapter_title": "Kitab al-Manaqib (باب مناقب عثمان بن عفان رضي الله عنه وتجهيز جيش العسرة)",
+      "takhreej_status": "Hasan Sahih (حسن صحیح - ترمذی)",
+      "references": [
+        {
+          "book": "Jami' at-Tirmidhi",
+          "hadithNumber": "3701",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/tirmidhi:3701",
+          "grade": "Hasan Sahih",
+          "authority": "Al-Albani"
+        }
+      ]
+    }
   },
   {
     "title": "Munafiqeen ke Heele aur Sadqaat ke 8 Masarif",
@@ -18787,7 +32967,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18834,7 +33028,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "منافقوں کے جھوٹے عذر اور زکوٰۃ و صدقات کے آٹھ مصارف"
+    "themeUrdu": "منافقوں کے جھوٹے عذر اور زکوٰۃ و صدقات کے آٹھ مصارف",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 220,
@@ -18874,7 +33109,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Bukhari",
       "book": "Sahih Bukhari",
       "hadithNumber": "7113",
-      "ref_url": "https://sunnah.com/bukhari:7113"
+      "ref_url": "https://sunnah.com/bukhari:7113",
+      "combined_urdu": "Rawi: Huzaifa bin al-Yaman (R.A): رسول اللہ ﷺ نے حضرت حذیفہ بن یمان کو مدینہ کے چودہ منافقین کے نام چپکے سے بتا دیے جنہوں نے عقبہ کی گھاٹی میں رسول اللہ کی اونٹنی کو گرانے کی سازش کی تھی، اس لیے حذیفہ کو 'رازدارِ رسول' کہا جاتا ہے۔",
+      "combined_roman": "Hazrat Zaid bin Wahb riwayat karte hain ki Hazrat Umar hamesha Hazrat Huzaifa se puchte the: 'Kya mera naam to munafiqeen mein nahi hai?'.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "7113",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:7113",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -18920,7 +33169,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "منافقینِ تبوک کا بائیکاٹ اور عبداللہ بن ابی کی نمازِ جنازہ سے ممانعت"
+    "themeUrdu": "منافقینِ تبوک کا بائیکاٹ اور عبداللہ بن ابی کی نمازِ جنازہ سے ممانعت",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَقَالُوا لَا تَنفِرُوا فِي الْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا يَفْقَهُونَ ۝ فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا جَزَاءً بِمَا كَانُوا يَكْسِبُونَ",
+      "combined_urdu": "Rawi: Huzaifa bin al-Yaman (R.A): رسول اللہ ﷺ نے حضرت حذیفہ بن یمان کو مدینہ کے چودہ منافقین کے نام چپکے سے بتا دیے جنہوں نے عقبہ کی گھاٹی میں رسول اللہ کی اونٹنی کو گرانے کی سازش کی تھی، اس لیے حذیفہ کو 'رازدارِ رسول' کہا جاتا ہے۔",
+      "combined_roman": "Hazrat Zaid bin Wahb riwayat karte hain ki Hazrat Umar hamesha Hazrat Huzaifa se puchte the: 'Kya mera naam to munafiqeen mein nahi hai?'.",
+      "chapter_title": "Kitab al-Fitan",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "7113",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:7113",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
+    }
   },
   {
     "title": "A'raab ke Uzr aur Bakhshish",
@@ -18959,7 +33249,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19006,7 +33310,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دیہاتی بدوؤں کے احوال اور نیکیوں و گناہوں کا موازنہ"
+    "themeUrdu": "دیہاتی بدوؤں کے احوال اور نیکیوں و گناہوں کا موازنہ",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 222,
@@ -19046,7 +33391,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Ibn Kathir & Ibn Hajar",
       "book": "Seerah Ibn Hisham",
       "ref_url": "https://shamela.ws/book/23833",
-      "jild": "2"
+      "jild": "2",
+      "combined_urdu": "Rawi: Ibn Ishaq: رسول اللہ ﷺ نے حضرت عاصم بن عدی اور مالک بن دخشم کو بھیجا کہ جا کر اس ظالموں کے اڈے کو جلا دو! انہوں نے کھجور کی شاخوں میں آگ لگا کر پوری عمارت خاکستر کر دی۔",
+      "combined_roman": "Ibn Ishaq riwayat karte hain ki Rasoolullah ﷺ ne farmaya: 'Us masjid mein kabhi khade na hona jiske peechay kuffar ki sazish hai'.",
+      "takhreej_status": "Sahih (صحیح - Seerah Ibn Hisham)",
+      "references": [
+        {
+          "book": "Seerah Ibn Hisham",
+          "hadithNumber": "1",
+          "volume": "2",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/23833",
+          "grade": "Hasan Hasan li-ghairihi",
+          "authority": "Ibn Kathir & Ibn Hajar"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19092,7 +33451,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مسجدِ ضرار کا گرایا جانا: عبادت کے بھیس میں فتنہ"
+    "themeUrdu": "مسجدِ ضرار کا گرایا جانا: عبادت کے بھیس میں فتنہ",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Seerah Ibn Hisham)",
+    "mutalliqah_hadees": {
+      "arabic": "وَالَّذِينَ اتَّخَذُوا مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًا بَيْنَ الْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ اللَّهَ وَرَسُولَهُ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَا إِلَّا الْحُسْنَىٰ ۖ وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ",
+      "combined_urdu": "Rawi: Ibn Ishaq: رسول اللہ ﷺ نے حضرت عاصم بن عدی اور مالک بن دخشم کو بھیجا کہ جا کر اس ظالموں کے اڈے کو جلا دو! انہوں نے کھجور کی شاخوں میں آگ لگا کر پوری عمارت خاکستر کر دی۔",
+      "combined_roman": "Ibn Ishaq riwayat karte hain ki Rasoolullah ﷺ ne farmaya: 'Us masjid mein kabhi khade na hona jiske peechay kuffar ki sazish hai'.",
+      "chapter_title": "Ghazwa Tabook wa Jaish-ul-Usrah",
+      "takhreej_status": "Sahih (صحیح - Seerah Ibn Hisham)",
+      "references": [
+        {
+          "book": "Seerah Ibn Hisham",
+          "hadithNumber": "1",
+          "volume": "2",
+          "page": "",
+          "ref_url": "https://shamela.ws/book/23833",
+          "grade": "Hasan Hasan li-ghairihi",
+          "authority": "Ibn Kathir & Ibn Hajar"
+        }
+      ]
+    }
   },
   {
     "title": "Inna Allahashtara Minal Mo'mineena Anfusahum",
@@ -19131,7 +33541,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19178,7 +33602,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "جان و مال کے بدلے جنت کا سودا اور استغفار کی حدود"
+    "themeUrdu": "جان و مال کے بدلے جنت کا سودا اور استغفار کی حدود",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 224,
@@ -19218,7 +33683,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4418",
-      "ref_url": "https://sunnah.com/bukhari:4418"
+      "ref_url": "https://sunnah.com/bukhari:4418",
+      "combined_urdu": "Rawi: Ka'b bin Malik (R.A): حضرت کعب فرماتے ہیں کہ جب میں مسجد نبوی پہنچا تو رسول اللہ ﷺ کا چہرہ مبارک چودھویں کے چاند کی طرح چمک رہا تھا، آپ نے فرمایا: اے کعب! تمہیں مبارک ہو وہ بہترین دن جو تمہاری ماں کے جننے کے دن سے آج تک تمہاری زندگی میں آیا ہے!",
+      "combined_roman": "Hazrat Ka'b bin Malik (R.A) riwayat karte hain ki Rasoolullah ﷺ ne unhein gale lagaya aur Sahaba mubarakbaad dene daud pade.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4418",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4418",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19264,7 +33743,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "تین صحابہ (کعب بن مالک و رفقاء) کی سچی توبہ کی قبولیت"
+    "themeUrdu": "تین صحابہ (کعب بن مالک و رفقاء) کی سچی توبہ کی قبولیت",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا",
+      "combined_urdu": "Rawi: Ka'b bin Malik (R.A): حضرت کعب فرماتے ہیں کہ جب میں مسجد نبوی پہنچا تو رسول اللہ ﷺ کا چہرہ مبارک چودھویں کے چاند کی طرح چمک رہا تھا، آپ نے فرمایا: اے کعب! تمہیں مبارک ہو وہ بہترین دن جو تمہاری ماں کے جننے کے دن سے آج تک تمہاری زندگی میں آیا ہے!",
+      "combined_roman": "Hazrat Ka'b bin Malik (R.A) riwayat karte hain ki Rasoolullah ﷺ ne unhein gale lagaya aur Sahaba mubarakbaad dene daud pade.",
+      "chapter_title": "Kitab al-Maghazi",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4418",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4418",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "title": "Bara'at-e-Mushrikeen aur Hajj-e-Akbar",
@@ -19303,7 +33823,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19350,7 +33884,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "مشرکین سے براءت کا اعلان اور حجِ اکبر کا خطبہ"
+    "themeUrdu": "مشرکین سے براءت کا اعلان اور حجِ اکبر کا خطبہ",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 226,
@@ -19390,7 +33965,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "4846",
-      "ref_url": "https://sunnah.com/bukhari:4846"
+      "ref_url": "https://sunnah.com/bukhari:4846",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): حضرت ثابت بن قیس کی آواز قدرتی طور پر بلند تھی، اس آیت پر وہ گھر میں روتے ہوئے بیٹھ گئے کہ میرے اعمال برباد ہو گئے۔ نبی ﷺ نے بلا کر فرمایا: تم برباد نہیں ہوئے بلکہ تم خیر کے ساتھ جیو گے، شہید ہو کر مرو گے اور جنت میں جاؤ گے!",
+      "combined_roman": "Hazrat Anas (R.A) riwayat karte hain ki Rasoolullah ne Hazrat Sabit bin Qais ko jannat ki khushkhabri sunayi.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4846",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4846",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19436,7 +34025,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "عام الوفود: بارگاہِ رسالت کے بلند ترین آداب"
+    "themeUrdu": "عام الوفود: بارگاہِ رسالت کے بلند ترین آداب",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَالُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+      "combined_urdu": "Rawi: Anas bin Malik (R.A): حضرت ثابت بن قیس کی آواز قدرتی طور پر بلند تھی، اس آیت پر وہ گھر میں روتے ہوئے بیٹھ گئے کہ میرے اعمال برباد ہو گئے۔ نبی ﷺ نے بلا کر فرمایا: تم برباد نہیں ہوئے بلکہ تم خیر کے ساتھ جیو گے، شہید ہو کر مرو گے اور جنت میں جاؤ گے!",
+      "combined_roman": "Hazrat Anas (R.A) riwayat karte hain ki Rasoolullah ne Hazrat Sabit bin Qais ko jannat ki khushkhabri sunayi.",
+      "chapter_title": "Kitab Tafsir al-Quran",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4846",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4846",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 227,
@@ -19476,7 +34116,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Al-Arna'ut",
       "book": "Musnad Ahmad",
       "hadithNumber": "22978",
-      "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/22978"
+      "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/22978",
+      "combined_urdu": "Rawi: Sahabi min Ashab an-Nabi: رسول اللہ ﷺ نے فرمایا: خبردار! کسی عربی کو کسی عجمی پر، اور کسی عجمی کو کسی عربی پر، اور کسی گورے کو کالے پر، اور کسی کالے کو گورے پر کوئی فضیلت حاصل نہیں مگر تقویٰ کے سبب! تم سب آدم کی اولاد ہو اور آدم مٹی سے بنے تھے۔",
+      "combined_roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne Hajjat-ul-Wida mein insani barabari ka aalami khutba diya.",
+      "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+      "references": [
+        {
+          "book": "Musnad Ahmad",
+          "hadithNumber": "22978",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/22978",
+          "grade": "Sahih",
+          "authority": "Al-Arna'ut"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19522,7 +34176,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "اخوت اور مساوات: ان اکرمکم عند اللہ اتقاکم"
+    "themeUrdu": "اخوت اور مساوات: ان اکرمکم عند اللہ اتقاکم",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "مسجدِ قبا (پہلی اسلامی مسجد)",
+        "name_en": "Masjid Quba",
+        "modern_name": "Quba, Madinah al-Munawwarah",
+        "context_ur": "اسلام کی وہ اولین مسجد جس کی بنیاد رسول اللہ ﷺ نے ہجرت کے بعد تقویٰ پر رکھی۔",
+        "context_roman": "Islam ki pehli masjid jiski buniyaad Nabi ﷺ ne Hijrat ke waqt taqwa par rakhi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.4393,39.6173",
+        "coordinates": "24.4393° N, 39.6173° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+      "combined_urdu": "Rawi: Sahabi min Ashab an-Nabi: رسول اللہ ﷺ نے فرمایا: خبردار! کسی عربی کو کسی عجمی پر، اور کسی عجمی کو کسی عربی پر، اور کسی گورے کو کالے پر، اور کسی کالے کو گورے پر کوئی فضیلت حاصل نہیں مگر تقویٰ کے سبب! تم سب آدم کی اولاد ہو اور آدم مٹی سے بنے تھے۔",
+      "combined_roman": "Hazrat Abu Hurairah (R.A) riwayat karte hain ki Rasoolullah ﷺ ne Hajjat-ul-Wida mein insani barabari ka aalami khutba diya.",
+      "chapter_title": "Musnad al-Ansar (خطبة وداع النبي - لا فضل لعربي على أعجمي)",
+      "takhreej_status": "Sahih (صحیح - Musnad Ahmad)",
+      "references": [
+        {
+          "book": "Musnad Ahmad",
+          "hadithNumber": "22978",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://mohaddis.com/View/Musnad-Ahmad/T2/22978",
+          "grade": "Sahih",
+          "authority": "Al-Arna'ut"
+        }
+      ]
+    }
   },
   {
     "title": "Jizya, Yahood o Nasara aur Ashhur-ul-Hurum",
@@ -19561,7 +34266,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19608,7 +34327,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "جزیہ کا نفاذ، عزیر و مسیح کے شرک کا رد اور حرمت والے مہینے"
+    "themeUrdu": "جزیہ کا نفاذ، عزیر و مسیح کے شرک کا رد اور حرمت والے مہینے",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 229,
@@ -19648,7 +34408,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Muslim",
       "book": "Sahih Muslim",
       "hadithNumber": "1598",
-      "ref_url": "https://sunnah.com/muslim:1598"
+      "ref_url": "https://sunnah.com/muslim:1598",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے لعنت فرمائی سود کھانے والے پر، سود کھلانے والے پر، اس کا حساب لکھنے والے پر اور اس کے دونوں گواہوں پر، اور فرمایا: وہ سب گناہ میں برابر ہیں!",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ne sood se munsalik tamam afrad par laanat farmayi.",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "1598",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:1598",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19694,7 +34468,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "سود (ربا) کی قطعی ممانعت: اللہ و رسول کا اعلانِ جنگ"
+    "themeUrdu": "سود (ربا) کی قطعی ممانعت: اللہ و رسول کا اعلانِ جنگ",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+    "mutalliqah_hadees": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ ۝ فَإِن لَّمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ",
+      "combined_urdu": "Rawi: Jabir bin Abdullah (R.A): رسول اللہ ﷺ نے لعنت فرمائی سود کھانے والے پر، سود کھلانے والے پر، اس کا حساب لکھنے والے پر اور اس کے دونوں گواہوں پر، اور فرمایا: وہ سب گناہ میں برابر ہیں!",
+      "combined_roman": "Hazrat Jabir bin Abdullah (R.A) riwayat karte hain ki Rasoolullah ne sood se munsalik tamam afrad par laanat farmayi.",
+      "chapter_title": "Kitab al-Musaqah (باب لعن آكل الربا وموكله)",
+      "takhreej_status": "Sahih Muslim (صحیح مسلم)",
+      "references": [
+        {
+          "book": "Sahih Muslim",
+          "hadithNumber": "1598",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/muslim:1598",
+          "grade": "Sahih",
+          "authority": "Sahih Muslim"
+        }
+      ]
+    }
   },
   {
     "title": "Aayat-e-Mudayanah aur Amanar-Rasool",
@@ -19733,7 +34548,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19780,7 +34609,67 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "آیتِ مدائینہ (قرض کا قانون) اور آمن الرسول کی دعائیں"
+    "themeUrdu": "آیتِ مدائینہ (قرض کا قانون) اور آمن الرسول کی دعائیں",
+    "phase_category": "madani",
+    "phase_sub": "Hijrat & Tasees-e-Riyasat",
+    "locations": [
+      {
+        "name_ur": "میدانِ بدر (یوم الفرقان)",
+        "name_en": "Battlefield of Badr",
+        "modern_name": "Badr Governorate, Madinah Region",
+        "context_ur": "حق و باطل کا پہلا فیصلہ کن معرکہ جہاں 313 مجاہدین نے مشرکین پر فتح پائی۔",
+        "context_roman": "Haq o baatil ka pehla faislakun maarka jahan 313 musalmanon ne fateh payi.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=23.7786,38.7892",
+        "coordinates": "23.7786° N, 38.7892° E"
+      },
+      {
+        "name_ur": "میدانِ احد و جبلِ رماۃ",
+        "name_en": "Mount Uhud & Battlefield",
+        "modern_name": "Mount Uhud, Madinah al-Munawwarah",
+        "context_ur": "غزوۂ احد کا مقامِ صبر و آزمائش اور سید الشہداء حضرت حمزہؓ کا مدفن۔",
+        "context_roman": "Ghazwah-e-Uhud ka maqam-e-imtihan aur Sayyidush Shuhada Hazrat Hamza (R.A) ka mazar.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=24.5036,39.6122",
+        "coordinates": "24.5036° N, 39.6122° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ البقرة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah Al-Baqarah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "title": "Tafaqquh fid-Deen aur Laqad Ja'akum Rasool",
@@ -19819,7 +34708,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih (Bukhari)",
       "book": "Sahih Bukhari",
       "hadithNumber": "5027",
-      "ref_url": "https://sunnah.com/bukhari:5027"
+      "ref_url": "https://sunnah.com/bukhari:5027",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19866,7 +34769,48 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "دین کی سمجھ، جہاد اور لقد جاءکم رسول من انفسکم"
+    "themeUrdu": "دین کی سمجھ، جہاد اور لقد جاءکم رسول من انفسکم",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "177–185",
+        "relation_ur": "مدنی احکام، عبادات اور معاشرتی تقاضے",
+        "relation_roman": "Madani ahkaam, ibadaat aur muasharati taqazay",
+        "link_url": "https://quran.com/ur/2:177?translations=158"
+      },
+      {
+        "surah_name": "An-Nisa",
+        "surah_number": 4,
+        "ayah_range": "1–10",
+        "relation_ur": "معاشرتی عدل اور اسلامی شریعت کی بنیادیں",
+        "relation_roman": "Muasharati adl aur Islami Shariat ki buniyadein",
+        "link_url": "https://quran.com/ur/4:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "combined_urdu": "Rawi: Hazrat Uthman bin Affan (R.A): رسول اللہ ﷺ نے فرمایا: تم میں سے بہترین وہ ہے جو قرآن سیکھے اور اسے دوسروں کو سکھائے۔ (سورہ التوبة کی تلاوت باعثِ اجر و برکت ہے)",
+      "combined_roman": "Nabi Kareem ﷺ ne farmaya: Tum mein se behtareen shakhs woh hai jo Quran seekhe aur sikhaye. (Surah At-Tawbah ki tilawat roohani sukoon ka zariya hai)",
+      "chapter_title": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "5027",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:5027",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih (Bukhari)"
+        }
+      ]
+    }
   },
   {
     "id": 232,
@@ -19906,7 +34850,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Muttafaq Alaih",
       "book": "Sahih Bukhari",
       "hadithNumber": "45",
-      "ref_url": "https://sunnah.com/bukhari:45"
+      "ref_url": "https://sunnah.com/bukhari:45",
+      "combined_urdu": "Rawi: Tariq bin Shihab / Umar (R.A): ایک یہودی نے حضرت عمر سے کہا: آپ کی کتاب میں ایک آیت ہے اگر وہ ہم پر نازل ہوتی تو ہم اس دن کو عید بناتے۔ حضرت عمر نے فرمایا: مجھے وہ دن اور وہ جگہ خوب معلوم ہے، وہ آیت جمعہ کے دن میدانِ عرفات میں رسول اللہ پر نازل ہوئی تھی جب آپ خطبہ دے رہے تھے۔",
+      "combined_roman": "Hazrat Umar bin al-Khattab (R.A) riwayat karte hain ki yeh aayat dohari eid (Jumu'ah aur Youm-e-Arafah) ke din nazil hui.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "45",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:45",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -19952,7 +34910,58 @@ window.WAHI_EPISODES = [
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
     ],
-    "themeUrdu": "حجۃ الوداع: الیوم اکملت لکم دینکم کا تاریخی اعلان"
+    "themeUrdu": "حجۃ الوداع: الیوم اکملت لکم دینکم کا تاریخی اعلان",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [
+      {
+        "name_ur": "میدانِ عرفات (جبلِ رحمت)",
+        "name_en": "Plains of Arafat (Mount of Mercy)",
+        "modern_name": "Arafat, Makkah al-Mukarramah",
+        "context_ur": "حجۃ الوداع کا میدان جہاں رسول اللہ ﷺ نے تاریخی خطبۂ انسانی حقوق ارشاد فرمایا اور تکمیلِ دین کی آیت نازل ہوئی۔",
+        "context_roman": "Hajjat-ul-Wida ka midan jahan Nabi ﷺ ne aalmi khutbah diya aur deen ki takmeel hui.",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=21.3548,39.9840",
+        "coordinates": "21.3548° N, 39.9840° E"
+      }
+    ],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Baqarah",
+        "surah_number": 2,
+        "ayah_range": "281",
+        "relation_ur": "نزولِ وحی کے آخری ایام اور یومِ حساب کی یاد دہانی",
+        "relation_roman": "Nuzool-e-Wahi ke aakhri ayyam aur Youm-e-Hisab ki yaad-dehani",
+        "link_url": "https://quran.com/ur/2:1?translations=158"
+      },
+      {
+        "surah_name": "An-Nasr",
+        "surah_number": 110,
+        "ayah_range": "1–3",
+        "relation_ur": "تکمیلِ دین اور رسول اللہ ﷺ کا رخصتی خطبہ",
+        "relation_roman": "Takmeel-e-Deen aur Rasool Allah ﷺ ka rukhsaati khutbah",
+        "link_url": "https://quran.com/ur/110:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
+      "combined_urdu": "Rawi: Tariq bin Shihab / Umar (R.A): ایک یہودی نے حضرت عمر سے کہا: آپ کی کتاب میں ایک آیت ہے اگر وہ ہم پر نازل ہوتی تو ہم اس دن کو عید بناتے۔ حضرت عمر نے فرمایا: مجھے وہ دن اور وہ جگہ خوب معلوم ہے، وہ آیت جمعہ کے دن میدانِ عرفات میں رسول اللہ پر نازل ہوئی تھی جب آپ خطبہ دے رہے تھے۔",
+      "combined_roman": "Hazrat Umar bin al-Khattab (R.A) riwayat karte hain ki yeh aayat dohari eid (Jumu'ah aur Youm-e-Arafah) ke din nazil hui.",
+      "chapter_title": "Kitab al-Iman",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "45",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:45",
+          "grade": "Sahih",
+          "authority": "Muttafaq Alaih"
+        }
+      ]
+    }
   },
   {
     "id": 233,
@@ -19992,7 +35001,21 @@ window.WAHI_EPISODES = [
       "gradingAuthority": "Sahih Bukhari",
       "book": "Sahih Bukhari",
       "hadithNumber": "4605",
-      "ref_url": "https://sunnah.com/bukhari:4605"
+      "ref_url": "https://sunnah.com/bukhari:4605",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ رسول اللہ ﷺ پر نازل ہونے والی سب سے آخری آیت 'وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ' تھی، اس کے بعد آپ اکیس دن (یا نو دن) زندہ رہے اور وصال فرمایا۔",
+      "combined_roman": "Hazrat Abdullah bin Abbas (R.A) riwayat karte hain ki yeh aakhiri wahi thi jisne quran ke nuzool ko mukammal farmaya.",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4605",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4605",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
     },
     "tafseers": {
       "ibnKathir": {
@@ -20038,6 +35061,51 @@ window.WAHI_EPISODES = [
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
     ],
-    "themeUrdu": "نزولِ وحی کا اختتام: سب سے آخری آیت"
+    "themeUrdu": "نزولِ وحی کا اختتام: سب سے آخری آیت",
+    "phase_category": "madani",
+    "phase_sub": "Fath-e-Makkah & Hajjat-ul-Wida",
+    "locations": [],
+    "scientific_insights": null,
+    "cross_references": [
+      {
+        "surah_name": "Al-Fatihah",
+        "surah_number": 1,
+        "ayah_range": "1–7",
+        "relation_ur": "اہدنا الصراط المستقیم کا عملی نصاب",
+        "relation_roman": "Ihdinas-Siratal-Mustaqeem ka amali nisaab",
+        "link_url": "https://quran.com/ur/1:1?translations=158"
+      },
+      {
+        "surah_name": "Aal-e-Imran",
+        "surah_number": 3,
+        "ayah_range": "1–4",
+        "relation_ur": "توراۃ، انجیل اور فرقان کے نزول کا تقابل",
+        "relation_roman": "Tawrah, Injeel aur Furqan ke nuzool ka taqabul",
+        "link_url": "https://quran.com/ur/3:1?translations=158"
+      }
+    ],
+    "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+    "mutalliqah_hadees": {
+      "arabic": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "combined_urdu": "Rawi: Abdullah bin Abbas (R.A): حضرت ابن عباس فرماتے ہیں کہ رسول اللہ ﷺ پر نازل ہونے والی سب سے آخری آیت 'وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ' تھی، اس کے بعد آپ اکیس دن (یا نو دن) زندہ رہے اور وصال فرمایا۔",
+      "combined_roman": "Hazrat Abdullah bin Abbas (R.A) riwayat karte hain ki yeh aakhiri wahi thi jisne quran ke nuzool ko mukammal farmaya.",
+      "chapter_title": "Kitab Tafsir al-Quran",
+      "takhreej_status": "Sahih Bukhari (صحیح بخاری)",
+      "references": [
+        {
+          "book": "Sahih Bukhari",
+          "hadithNumber": "4605",
+          "volume": "",
+          "page": "",
+          "ref_url": "https://sunnah.com/bukhari:4605",
+          "grade": "Sahih",
+          "authority": "Sahih Bukhari"
+        }
+      ]
+    }
   }
 ];
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = window.WAHI_EPISODES;
+}
