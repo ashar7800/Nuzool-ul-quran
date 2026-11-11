@@ -1,4 +1,4 @@
-// Complete 100% Chronological Quran Wahi Units Dataset with Standard Academic Hadith Citations
+// Complete 100% Chronological Quran Wahi Units Dataset with Urdu & Roman Themes + Lessons
 window.WAHI_EPISODES = [
   {
     "id": 1,
@@ -83,7 +83,8 @@ window.WAHI_EPISODES = [
         "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
-    ]
+    ],
+    "themeUrdu": "غارِ حرا میں پہلی وحی کا نزول"
   },
   {
     "id": 2,
@@ -168,7 +169,8 @@ window.WAHI_EPISODES = [
         "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
-    ]
+    ],
+    "themeUrdu": "تسلیِ رسالت اور اخلاقِ عظیم کی گواہی"
   },
   {
     "title": "Kuffar ki Takzeeb aur Ashab-ul-Jannah",
@@ -253,7 +255,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کفار کی تکذیب اور اصحاب الجنة کی عبرتناک مثال"
   },
   {
     "id": 4,
@@ -338,7 +341,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "قیام اللیل اور تلاوتِ قرآن کی ترغیب"
   },
   {
     "title": "Sabr aur Kuffar ki Dhamki",
@@ -423,7 +427,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مشرکین کے طعنوں پر صبر اور عذابِ قیامت کا انذار"
   },
   {
     "id": 6,
@@ -508,7 +513,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دعوت و انذار کا باقاعدہ الٰہی حکم"
   },
   {
     "title": "Surah Al-Fatihah: Umm-ul-Kitab aur Dua-e-Hidayat",
@@ -593,7 +599,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الفاتحة (مکمل)"
   },
   {
     "title": "Surah Al-Masad: Kohan-e-Safa par Dawat aur Abu Lahab ka Anjam",
@@ -678,7 +685,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت المسد (مکمل)"
   },
   {
     "id": 9,
@@ -763,7 +771,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حرم میں ابو جہل کی سرکشی اور نماز سے روکنا"
   },
   {
     "title": "Surah At-Takwir: Dawat-e-Tauheed, Akhlaaq aur The Overthrowing ke Asbaaq",
@@ -848,7 +857,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت التكوير (مکمل)"
   },
   {
     "title": "Surah Al-A'la: Dawat-e-Tauheed, Akhlaaq aur The Most High ke Asbaaq",
@@ -933,7 +943,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الأعلى (مکمل)"
   },
   {
     "title": "Walid bin Mughira ka Takabbur aur Saqar",
@@ -1018,7 +1029,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ولید بن مغیرہ کا تکبر اور دوزخ (سقر) کی ہولناکی"
   },
   {
     "title": "Tazkirah o Aakhirat aur Ashab-ul-Yameen",
@@ -1103,7 +1115,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "آخرت کا تذکرہ، شفاعت اور اصحاب الیمین کا انجام"
   },
   {
     "id": 14,
@@ -1188,7 +1201,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نضر بن حارث کی داستان سرائیاں اور قرآن کا رد"
   },
   {
     "title": "Surah Al-Layl: Dawat-e-Tauheed, Akhlaaq aur The Night ke Asbaaq",
@@ -1273,7 +1287,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الليل (مکمل)"
   },
   {
     "title": "Surah Al-Fajr: Dawat-e-Tauheed, Akhlaaq aur The Dawn ke Asbaaq",
@@ -1358,7 +1373,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الفجر (مکمل)"
   },
   {
     "id": 17,
@@ -1443,7 +1459,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مشرکین کا تشدد، عمار بن یاسر اور مجبور مومن کی توبہ"
   },
   {
     "title": "Surah Ad-Duhaa: Dawat-e-Tauheed, Akhlaaq aur The Morning Hours ke Asbaaq",
@@ -1528,7 +1545,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الضحى (مکمل)"
   },
   {
     "title": "Surah Ash-Sharh: Dawat-e-Tauheed, Akhlaaq aur The Relief ke Asbaaq",
@@ -1613,7 +1631,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الشرح (مکمل)"
   },
   {
     "title": "Surah Al-'Asr: Dawat-e-Tauheed, Akhlaaq aur The Declining Day ke Asbaaq",
@@ -1698,7 +1717,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت العصر (مکمل)"
   },
   {
     "title": "Surah Al-'Adiyat: Dawat-e-Tauheed, Akhlaaq aur The Courser ke Asbaaq",
@@ -1783,7 +1803,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت العاديات (مکمل)"
   },
   {
     "title": "Surah Al-Kawthar: Dawat-e-Tauheed, Akhlaaq aur The Abundance ke Asbaaq",
@@ -1868,7 +1889,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الكوثر (مکمل)"
   },
   {
     "title": "Surah At-Takathur: Dawat-e-Tauheed, Akhlaaq aur The Rivalry in world increase ke Asbaaq",
@@ -1953,7 +1975,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت التكاثر (مکمل)"
   },
   {
     "title": "Surah Al-Ma'un: Dawat-e-Tauheed, Akhlaaq aur The Small kindnesses ke Asbaaq",
@@ -2038,7 +2061,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الماعون (مکمل)"
   },
   {
     "title": "Surah Al-Kafirun: Dawat-e-Tauheed, Akhlaaq aur The Disbelievers ke Asbaaq",
@@ -2123,7 +2147,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الكافرون (مکمل)"
   },
   {
     "title": "Surah Al-Fil: Dawat-e-Tauheed, Akhlaaq aur The Elephant ke Asbaaq",
@@ -2208,7 +2233,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الفيل (مکمل)"
   },
   {
     "title": "Surah Al-Falaq: Dawat-e-Tauheed, Akhlaaq aur The Daybreak ke Asbaaq",
@@ -2293,7 +2319,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الفلق (مکمل)"
   },
   {
     "title": "Surah An-Nas: Dawat-e-Tauheed, Akhlaaq aur Mankind ke Asbaaq",
@@ -2378,7 +2405,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الناس (مکمل)"
   },
   {
     "title": "Surah Al-Ikhlas: Dawat-e-Tauheed, Akhlaaq aur The Sincerity ke Asbaaq",
@@ -2463,7 +2491,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الإخلاص (مکمل)"
   },
   {
     "title": "Laat, Manat, Uzza ki Tardeed aur Qudrat-e-Ilahi",
@@ -2548,7 +2577,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "لات، منات اور عزیٰ کا رد اور خدائی قدرت کا بیان"
   },
   {
     "id": 31,
@@ -2633,7 +2663,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورۃ النجم کا تاریخی سجدہ اور حق کی ہیبت"
   },
   {
     "id": 32,
@@ -2718,7 +2749,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت ابن ام مکتوم اور دعوتِ دین کے الٰہی اصول"
   },
   {
     "title": "Insaan ki Takhleeq aur Youm-e-Hashr ki Haibat",
@@ -2803,7 +2835,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انسان کی پیدائش اور روزِ حشر ماں باپ سے بھاگنا"
   },
   {
     "title": "Surah Al-Qadr: Dawat-e-Tauheed, Akhlaaq aur The Power ke Asbaaq",
@@ -2888,7 +2921,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت القدر (مکمل)"
   },
   {
     "title": "Surah Ash-Shams: Dawat-e-Tauheed, Akhlaaq aur The Sun ke Asbaaq",
@@ -2973,7 +3007,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الشمس (مکمل)"
   },
   {
     "id": 36,
@@ -3058,7 +3093,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اصحاب الاخدود اور آگ کی خندقوں میں مظلوم اہلِ ایمان"
   },
   {
     "title": "Momineen ka Ajar aur Lawh-e-Mahfooz",
@@ -3143,7 +3179,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اہلِ ایمان کا ابدی اجر اور لوحِ محفوظ کا تحفظ"
   },
   {
     "title": "Ashab-e-Kahf ka Qissa: Hijrat-e-Habshah",
@@ -3228,7 +3265,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اصحابِ کہف کا واقعہ اور غار میں تین سو سال کی نیند"
   },
   {
     "title": "Surah At-Tin: Dawat-e-Tauheed, Akhlaaq aur The Fig ke Asbaaq",
@@ -3313,7 +3351,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت التين (مکمل)"
   },
   {
     "title": "Surah Quraysh: Dawat-e-Tauheed, Akhlaaq aur Quraysh ke Asbaaq",
@@ -3398,7 +3437,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت قريش (مکمل)"
   },
   {
     "title": "Surah Al-Qari'ah: Dawat-e-Tauheed, Akhlaaq aur The Calamity ke Asbaaq",
@@ -3483,7 +3523,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت القارعة (مکمل)"
   },
   {
     "title": "Surah Al-Qiyamah: Dawat-e-Tauheed, Akhlaaq aur The Resurrection ke Asbaaq",
@@ -3568,7 +3609,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت القيامة (مکمل)"
   },
   {
     "title": "Surah Al-Humazah: Dawat-e-Tauheed, Akhlaaq aur The Traducer ke Asbaaq",
@@ -3653,7 +3695,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الهمزة (مکمل)"
   },
   {
     "title": "Surah Al-Mursalat: Dawat-e-Tauheed, Akhlaaq aur The Emissaries ke Asbaaq",
@@ -3738,7 +3781,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت المرسلات (مکمل)"
   },
   {
     "title": "Surah Qaf: Dawat-e-Tauheed, Akhlaaq aur The Letter \"Qaf\" ke Asbaaq",
@@ -3823,7 +3867,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت ق (مکمل)"
   },
   {
     "title": "Surah Al-Balad: Dawat-e-Tauheed, Akhlaaq aur The City ke Asbaaq",
@@ -3908,7 +3953,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت البلد (مکمل)"
   },
   {
     "title": "Surah At-Tariq: Dawat-e-Tauheed, Akhlaaq aur The Nightcommer ke Asbaaq",
@@ -3993,7 +4039,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الطارق (مکمل)"
   },
   {
     "id": 48,
@@ -4078,7 +4125,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شَقُّ القمر: چاند کے دو ٹکڑے ہونے کا تاریخی معجزہ"
   },
   {
     "title": "Pichli Qaumon ki Takzeeb: Nuh, Aad, Samood, Lut",
@@ -4163,7 +4211,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "پچھلی قوموں کی ہلاکت اور قرآن کی نصیحت"
   },
   {
     "title": "Surah Sad: Dawat-e-Tauheed, Akhlaaq aur The Letter \"Saad\" ke Asbaaq",
@@ -4248,7 +4297,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت ص (مکمل)"
   },
   {
     "title": "Adam o Iblees aur Ashab-ul-A'raf",
@@ -4333,7 +4383,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "آدم و ابلیس کا قصہ اور اصحابِ اعراف"
   },
   {
     "title": "Ambiya-e-Kiram: Nuh, Hud, Salih, Lut, Shu'aib aur Firaun",
@@ -4418,7 +4469,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انبیائے کرام کی دعوت اور سرکش قوموں کا انجام"
   },
   {
     "title": "Musa A.S. ka Koh-e-Toor, Samiri aur Misaq-e-Alast",
@@ -4503,7 +4555,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "موسیٰ علیہ السلام کا کوہِ طور اور میثاقِ الست"
   },
   {
     "id": 54,
@@ -4588,7 +4641,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سفرِ طائف سے واپسی اور جنوں کا قرآن سننا"
   },
   {
     "title": "Istiqaamat aur Ilm-e-Ghayb ki Hifazat",
@@ -4673,7 +4727,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دین پر استقامت اور غیب کے محافظ فرشتے"
   },
   {
     "id": 56,
@@ -4758,7 +4813,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نصیبین کے جنوں کی ایمان لانے کے بعد اپنی قوم کو دعوت"
   },
   {
     "title": "Habib an-Najjar aur Ashab-ul-Qaryah",
@@ -4843,7 +4899,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حبیب النجار اور بستی والوں کا تاریخی قصہ"
   },
   {
     "title": "Qudrat-e-Ilahi, Soor phoonka jana aur Kun Fayakoon",
@@ -4928,7 +4985,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نشانیاں، قیامت کا صور اور کن فیکون کا اقتدار"
   },
   {
     "title": "Surah Al-Furqan: Dawat-e-Tauheed, Akhlaaq aur The Criterion ke Asbaaq",
@@ -5013,7 +5071,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الفرقان (مکمل)"
   },
   {
     "title": "Surah Fatir: Dawat-e-Tauheed, Akhlaaq aur Originator ke Asbaaq",
@@ -5098,7 +5157,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت فاطر (مکمل)"
   },
   {
     "title": "Hazrat Zakariyya aur Yahya A.S.",
@@ -5183,7 +5243,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت زکریا کی دعا اور حضرت یحییٰ کی ولادت"
   },
   {
     "id": 62,
@@ -5268,7 +5329,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نجاشی کے دربار میں تلاوت: سیدہ مریم اور عیسیٰ علیہ السلام"
   },
   {
     "title": "Hazrat Ibrahim, Musa, Idrees A.S. aur Shafa'at",
@@ -5353,7 +5415,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ابراہیم و دیگر انبیاء اور شرک کا قطعی رد"
   },
   {
     "id": 64,
@@ -5438,7 +5501,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت عمر کے قبولِ اسلام کا سبب: کوہِ طور کی پکار"
   },
   {
     "title": "Musa A.S., Firaun ke Jadoogar aur Samiri ka Bachhda",
@@ -5523,7 +5587,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "موسیٰ کا عصا، ساحروں کا سجدہ اور بچھڑے کا انجام"
   },
   {
     "title": "Qayamat ki Haibat aur Adam o Iblees",
@@ -5608,7 +5673,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "روزِ قیامت پہاڑوں کا اڑنا اور آدم کی توبہ"
   },
   {
     "id": 67,
@@ -5694,7 +5760,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مردہ دلوں کو نورِ ایمان سے زندہ کرنے کی مثال"
   },
   {
     "title": "Surah Al-Waqi'ah: Dawat-e-Tauheed, Akhlaaq aur The Inevitable ke Asbaaq",
@@ -5779,7 +5846,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الواقعة (مکمل)"
   },
   {
     "title": "Musa A.S. aur Firaun ke Lashkar ka Gharq hona",
@@ -5864,7 +5932,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "موسیٰ اور دریا کا پھٹنا، فرعون کا غرقاب ہونا"
   },
   {
     "title": "Ibrahim, Nuh, Hud, Salih, Lut, Shu'aib A.S.",
@@ -5949,7 +6018,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انبیائے کرام کی جدوجہد اور ان کی قوموں کا خاتمہ"
   },
   {
     "title": "Tanzil-e-Quran aur Rooh-ul-Ameen",
@@ -6034,7 +6104,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قرآن کی عظمت اور روح الامین کا نزول"
   },
   {
     "title": "Surah An-Naml: Dawat-e-Tauheed, Akhlaaq aur The Ant ke Asbaaq",
@@ -6119,7 +6190,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت النمل (مکمل)"
   },
   {
     "title": "Surah Al-Qasas: Dawat-e-Tauheed, Akhlaaq aur The Stories ke Asbaaq",
@@ -6204,7 +6276,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت القصص (مکمل)"
   },
   {
     "title": "Bani Israel ki Tareekh aur 14 Akhlaqi Hikmaten",
@@ -6289,7 +6362,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بنی اسرائیل کے ادوار اور اخلاقِ انسانی کا الٰہی منشور"
   },
   {
     "title": "Quran Shifa aur Rahmat hai",
@@ -6374,7 +6448,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قرآن مومنوں کے لیے شفا اور رحمت ہے"
   },
   {
     "title": "Quran ki Misl lane ka Challenge aur Asma-ul-Husna",
@@ -6459,7 +6534,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قرآن کا اعجاز اور اللہ کے خوبصورت نام"
   },
   {
     "title": "Surah Yunus: Dawat-e-Tauheed, Akhlaaq aur Jonah ke Asbaaq",
@@ -6544,7 +6620,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت يونس (مکمل)"
   },
   {
     "title": "Surah Hud: Dawat-e-Tauheed, Akhlaaq aur Hud ke Asbaaq",
@@ -6629,7 +6706,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت هود (مکمل)"
   },
   {
     "title": "Surah Yusuf: Dawat-e-Tauheed, Akhlaaq aur Joseph ke Asbaaq",
@@ -6714,7 +6792,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت يوسف (مکمل)"
   },
   {
     "title": "Surah Al-Hijr: Dawat-e-Tauheed, Akhlaaq aur The Rocky Tract ke Asbaaq",
@@ -6799,7 +6878,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الحجر (مکمل)"
   },
   {
     "title": "Dawat-e-Tauheed aur Mushrikeen ke Shubhāt ka Radd",
@@ -6884,7 +6964,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "توحیدِ کامل اور شرک کی تمام صورتوں کا رد"
   },
   {
     "title": "Deen-e-Qayyim aur Muharramaat ka Bayan",
@@ -6969,7 +7050,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دینِ حنیف، وصایا کی دس باتیں اور قل ان صلاتی"
   },
   {
     "title": "Surah As-Saffat: Dawat-e-Tauheed, Akhlaaq aur Those who set the Ranks ke Asbaaq",
@@ -7054,7 +7136,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الصافات (مکمل)"
   },
   {
     "title": "Muhsineen ki Sifaat aur Hidayat",
@@ -7139,7 +7222,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "محسنین کی صفات اور کتابِ حکیم کی ہدایت"
   },
   {
     "title": "Hazrat Luqman ki Apne Bete ko Nasihaten",
@@ -7224,7 +7308,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت لقمان کی بیٹے کو حکمت بھری نصیحتیں"
   },
   {
     "title": "Surah Saba: Dawat-e-Tauheed, Akhlaaq aur Sheba ke Asbaaq",
@@ -7309,7 +7394,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت سبإ (مکمل)"
   },
   {
     "title": "Surah Az-Zumar: Dawat-e-Tauheed, Akhlaaq aur The Troops ke Asbaaq",
@@ -7394,7 +7480,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الزمر (مکمل)"
   },
   {
     "title": "Surah Ghafir: Dawat-e-Tauheed, Akhlaaq aur The Forgiver ke Asbaaq",
@@ -7479,7 +7566,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت غافر (مکمل)"
   },
   {
     "title": "Surah Fussilat: Dawat-e-Tauheed, Akhlaaq aur Explained in Detail ke Asbaaq",
@@ -7564,7 +7652,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت فصلت (مکمل)"
   },
   {
     "title": "Surah Ash-Shuraa: Dawat-e-Tauheed, Akhlaaq aur The Consultation ke Asbaaq",
@@ -7649,7 +7738,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الشورى (مکمل)"
   },
   {
     "title": "Surah Az-Zukhruf: Dawat-e-Tauheed, Akhlaaq aur The Ornaments of Gold ke Asbaaq",
@@ -7734,7 +7824,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الزخرف (مکمل)"
   },
   {
     "title": "Surah Ad-Dukhan: Dawat-e-Tauheed, Akhlaaq aur The Smoke ke Asbaaq",
@@ -7819,7 +7910,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الدخان (مکمل)"
   },
   {
     "title": "Surah Al-Jathiyah: Dawat-e-Tauheed, Akhlaaq aur The Crouching ke Asbaaq",
@@ -7904,7 +7996,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الجاثية (مکمل)"
   },
   {
     "title": "Wadi-e-Ahqaf aur Qoum-e-Aad ka Anjam",
@@ -7989,7 +8082,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "وادیِ احقاف، قومِ عاد کی بربادی اور توحید"
   },
   {
     "title": "Sabr-e-Ulul Azm aur Qayamat ka Din",
@@ -8074,7 +8168,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اولوالعزم پیغمبروں کی طرح صبر کا حکم"
   },
   {
     "title": "Surah Adh-Dhariyat: Dawat-e-Tauheed, Akhlaaq aur The Winnowing Winds ke Asbaaq",
@@ -8159,7 +8254,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الذاريات (مکمل)"
   },
   {
     "title": "Surah Al-Ghashiyah: Dawat-e-Tauheed, Akhlaaq aur The Overwhelming ke Asbaaq",
@@ -8244,7 +8340,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الغاشية (مکمل)"
   },
   {
     "title": "Hamd-e-Ilahi aur Inzaar-e-Qurani",
@@ -8329,7 +8426,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حمدِ الٰہی اور قرآن کی رہنمائی"
   },
   {
     "title": "Do Baghon ka Malik aur Iblees ka Takabbur",
@@ -8414,7 +8512,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دو باغوں والے کا انجام اور ابلیس کا سجدے سے انکار"
   },
   {
     "title": "Musa A.S. aur Khidr A.S. ka Safar",
@@ -8499,7 +8598,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "موسیٰ اور خضر کا تاریخی سفر اور تکوینی حکمتیں"
   },
   {
     "title": "Aamaal ki Barbaadi aur Qul Law Kanal Bahru Midadan",
@@ -8584,7 +8684,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اعمال کا ضائع ہونا اور قل لو کان البحر مدادا"
   },
   {
     "id": 102,
@@ -8669,7 +8770,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "واقعہِ اسراء و معراج: مسجد حرام سے مسجد اقصی تک"
   },
   {
     "title": "Nemat-e-Ilahi, Shehad ki Makhi aur Tauheed",
@@ -8754,7 +8856,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انعامِ الٰہی، شہد کی مکھی اور قدرت کی نشانیاں"
   },
   {
     "id": 104,
@@ -8839,7 +8942,8 @@ window.WAHI_EPISODES = [
         "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
-    ]
+    ],
+    "themeUrdu": "روح کے متعلق مشرکین کا سوال اور علمِ قلیل"
   },
   {
     "title": "Ud'u Ila Sabeeli Rabbika bil Hikmah",
@@ -8924,7 +9028,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حکمت اور موعظۂ حسنہ کے ساتھ دعوتِ دین کا طریقہ"
   },
   {
     "id": 106,
@@ -9009,7 +9114,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ذوالقرنین، یاجوج ماجوج اور لوہے کی مضبوط دیوار"
   },
   {
     "id": 107,
@@ -9094,7 +9200,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "معراج: سدرۃ المنتہیٰ اور آیاتِ کبریٰ کا مشاہدہ"
   },
   {
     "title": "Surah Nuh: Dawat-e-Tauheed, Akhlaaq aur Noah ke Asbaaq",
@@ -9179,7 +9286,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت نوح (مکمل)"
   },
   {
     "title": "Surah Ibrahim: Dawat-e-Tauheed, Akhlaaq aur Abraham ke Asbaaq",
@@ -9264,7 +9372,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت ابراهيم (مکمل)"
   },
   {
     "title": "Hisab ka Qareeb aana aur Ghaflat",
@@ -9349,7 +9458,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "لوگوں کے حساب کا قریب آنا اور غفلت میں پڑے رہنا"
   },
   {
     "title": "Ambiya: Ibrahim, Ayyub, Yunus aur Rahmatul-lil-Aalameen",
@@ -9434,7 +9544,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انبیائے کرام کی دعائیں اور وما ارسلناک الا رحمة للعالمین"
   },
   {
     "title": "Surah Al-Mu'minun: Dawat-e-Tauheed, Akhlaaq aur The Believers ke Asbaaq",
@@ -9519,7 +9630,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت المؤمنون (مکمل)"
   },
   {
     "title": "Surah As-Sajdah: Dawat-e-Tauheed, Akhlaaq aur The Prostration ke Asbaaq",
@@ -9604,7 +9716,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت السجدة (مکمل)"
   },
   {
     "title": "Surah At-Tur: Dawat-e-Tauheed, Akhlaaq aur The Mount ke Asbaaq",
@@ -9689,7 +9802,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الطور (مکمل)"
   },
   {
     "title": "Surah Al-Mulk: Dawat-e-Tauheed, Akhlaaq aur The Sovereignty ke Asbaaq",
@@ -9774,7 +9888,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الملك (مکمل)"
   },
   {
     "title": "Surah Al-Haqqah: Dawat-e-Tauheed, Akhlaaq aur The Reality ke Asbaaq",
@@ -9859,7 +9974,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الحاقة (مکمل)"
   },
   {
     "title": "Surah Al-Ma'arij: Dawat-e-Tauheed, Akhlaaq aur The Ascending Stairways ke Asbaaq",
@@ -9944,7 +10060,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت المعارج (مکمل)"
   },
   {
     "title": "Surah An-Naba: Dawat-e-Tauheed, Akhlaaq aur The Tidings ke Asbaaq",
@@ -10029,7 +10146,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت النبإ (مکمل)"
   },
   {
     "title": "Surah An-Nazi'at: Dawat-e-Tauheed, Akhlaaq aur Those who drag forth ke Asbaaq",
@@ -10114,7 +10232,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت النازعات (مکمل)"
   },
   {
     "title": "Surah Al-Infitar: Dawat-e-Tauheed, Akhlaaq aur The Cleaving ke Asbaaq",
@@ -10199,7 +10318,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الإنفطار (مکمل)"
   },
   {
     "title": "Surah Al-Inshiqaq: Dawat-e-Tauheed, Akhlaaq aur The Sundering ke Asbaaq",
@@ -10284,7 +10404,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الإنشقاق (مکمل)"
   },
   {
     "title": "Surah Ar-Rum: Dawat-e-Tauheed, Akhlaaq aur The Romans ke Asbaaq",
@@ -10369,7 +10490,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الروم (مکمل)"
   },
   {
     "title": "Surah Al-'Ankabut: Dawat-e-Tauheed, Akhlaaq aur The Spider ke Asbaaq",
@@ -10454,7 +10576,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت العنكبوت (مکمل)"
   },
   {
     "title": "Surah Al-Mutaffifin: Dawat-e-Tauheed, Akhlaaq aur The Defrauding ke Asbaaq",
@@ -10539,7 +10662,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت المطففين (مکمل)"
   },
   {
     "id": 125,
@@ -10624,7 +10748,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "خواتین کی بیعت اور بیعتِ عقبہ کے لازمی شرائط"
   },
   {
     "title": "Qiyam-ul-Layl mein Takhfeef aur Jihad o Sadqaat",
@@ -10709,7 +10834,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "قیام اللیل میں تخفیف اور جہاد و انفاق کے احکام"
   },
   {
     "id": 127,
@@ -10795,7 +10921,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شبِ ہجرت: رسول اللہ کے گھر کا گھیراؤ اور غیبی حفاظت"
   },
   {
     "id": 128,
@@ -10880,7 +11007,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دار الندوہ کی سازش اور واللہ خیر الماکرین"
   },
   {
     "title": "Namaz-e-Jumu'ah ki Farziyat aur Aadaab",
@@ -10965,7 +11093,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "نمازِ جمعہ کی فرضیت اور اذان سن کر دوڑنے کا حکم"
   },
   {
     "id": 130,
@@ -11050,7 +11179,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مواخاةِ مدینہ: مہاجرین اور انصار کا بے مثال بھائی چارہ"
   },
   {
     "id": 131,
@@ -11135,7 +11265,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "مظلومین کو قتال فی سبیل اللہ کی پہلی اجازت"
   },
   {
     "title": "Bani Israel ko Dawat aur Misaq-e-Madinah",
@@ -11220,7 +11351,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بنی اسرائیل کو دعوت، احسانات اور میثاقِ مدینہ"
   },
   {
     "title": "Mutaqqeen, Munafiqeen aur Khilafat-e-Adam",
@@ -11305,7 +11437,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "متقی، منافق اور زمین پر حضرت آدم کی خلافت"
   },
   {
     "title": "Bani Israel ki Ahd-shikani & Millat-e-Ibrahimi",
@@ -11390,7 +11523,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "عہد شکنی، بچھڑا پرستی اور ابراہیم و اسماعیل کی دعا"
   },
   {
     "title": "Tahweel-e-Qibla: Ka'aba ki Taraf Rukh",
@@ -11475,7 +11609,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تحویلِ قبلہ: بیت المقدس سے کعبۃ اللہ کی طرف رخ"
   },
   {
     "title": "Sabr, Safa-Marwah, Halal-Haram, Qisas, Wasiyyat",
@@ -11560,7 +11695,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صبر، صفا و مروہ، حلال و حرام اور قصاص کے احکام"
   },
   {
     "id": 137,
@@ -11645,7 +11781,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ماہِ رمضان اور روزے کی فرضیت کا دائمی اعلان"
   },
   {
     "title": "Qital fi Sabilillah ke Akhlaqi Qawaneen",
@@ -11730,7 +11867,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "قتال فی سبیل اللہ کے اخلاقی اصول اور حدود"
   },
   {
     "title": "Infaq aur Jihad ki Ahmiyat",
@@ -11815,7 +11953,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "راہِ خدا میں خرچ اور جہاد کی فضیلت"
   },
   {
     "title": "Ghazwa-e-Badr: Youm-ul-Furqan & Farishto ki Nusrat",
@@ -11900,7 +12039,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ بدر: یومُ الفرقان اور ایک ہزار فرشتوں کی مدد"
   },
   {
     "title": "Haq o Baatil ka Faisla aur Tawakkul",
@@ -11985,7 +12125,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حق و باطل کی تمیز اور کفر کی چالوں کا خاتمہ"
   },
   {
     "title": "Badr ki Fatah & Maal-e-Ghaneemat ka Khumus",
@@ -12070,7 +12211,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "بدر کی فتح، خمس کی تقسیم اور جنگی تیاریاں"
   },
   {
     "id": 143,
@@ -12155,7 +12297,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "اسیرانِ بدر کا معاملہ: فدیہ اور عتابِ الٰہی"
   },
   {
     "title": "Talut o Jalut aur Dawood A.S. ka Jihaad",
@@ -12240,7 +12383,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "طالوت و جالوت کی جنگ اور داؤد علیہ السلام کی شجاعت"
   },
   {
     "id": 145,
@@ -12325,7 +12469,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بنو قینقاع کی سرکشی، دھمکی اور جلاوطنی"
   },
   {
     "title": "Muhkam o Mutashabih aur Wafd Najran",
@@ -12410,7 +12555,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "محکم و متشابہ آیات اور وفدِ نجران کی آمد"
   },
   {
     "title": "Aal-e-Imran, Maryam, Isa A.S. & Ahl-e-Kitab se Khitaab",
@@ -12495,7 +12641,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سیدہ مریم، ولادتِ عیسیٰ، مباہلہ اور اہل کتاب سے خطاب"
   },
   {
     "id": 148,
@@ -12580,7 +12727,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ احد: جبلِ رماۃ پر تیر اندازوں کی خطا"
   },
   {
     "title": "Sood ki Mumani'at aur Sabr",
@@ -12665,7 +12813,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سود سے پرہیز، تقویٰ اور میدانِ احد کی نصیحتیں"
   },
   {
     "title": "Shohada-e-Uhud aur Hazrat Hamza ki Shahadat",
@@ -12750,7 +12899,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "شہدائے احد: سید الشہداء حمزہ اور تسلیِ وحی"
   },
   {
     "id": 151,
@@ -12835,7 +12985,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ حمراء الاسد: زخمی صحابہ کا شجاعانہ تعاقب"
   },
   {
     "title": "Sabr, Istiqamat aur Shohada ka Ajar",
@@ -12920,7 +13071,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کفر کی چالوں سے بے خوفی اور ربنا ما خلقت ھذا باطلا"
   },
   {
     "title": "Nabuwwat ki Ita'at aur Munafiqeen ki Sazishen",
@@ -13005,7 +13157,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نبی کی اطاعت اور منہ بولے بیٹوں کے جاہلی احکام کا خاتمہ"
   },
   {
     "id": 154,
@@ -13090,7 +13243,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "امہات المومنین کی خصوصی شان، وقار اور طہارت"
   },
   {
     "id": 155,
@@ -13175,7 +13329,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "عام مسلم خواتین کے لیے حجاب اور بڑی چادروں کا حکم"
   },
   {
     "id": 156,
@@ -13260,7 +13415,8 @@ window.WAHI_EPISODES = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ احزاب (خندق): دس ہزار کا لشکر اور خوف کا عالم"
   },
   {
     "id": 157,
@@ -13345,7 +13501,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "خندق کی فتح: تند و تیز ہوا اور کفر کی عبرتناک پسپائی"
   },
   {
     "id": 158,
@@ -13430,7 +13587,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بئرِ معونہ اور رجیع کے شہداء کا زندہ ہونا"
   },
   {
     "id": 159,
@@ -13515,7 +13673,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بنو قریظہ کی غداری اور حضرت سعد کا تاریخی فیصلہ"
   },
   {
     "title": "Azwaj-e-Mutahharat ka Imtehan",
@@ -13600,7 +13759,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "امہات المومنین کا دنیاوی آسائشوں پر اللہ و رسول کو چننا"
   },
   {
     "title": "Muslim Mard o Aurat, Zaid o Zainab R.A. & Khatm-e-Nabuwwat",
@@ -13685,7 +13845,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سیدنا زید و زینب کا نکاح اور خاتم النبیین کا اعلان"
   },
   {
     "title": "Munafiqeen ki Sazishen aur Amanat-e-Ilahi",
@@ -13770,7 +13931,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "منافقوں کی افواہ بازیاں اور امانتِ الٰہیہ کا بوجھ"
   },
   {
     "id": 163,
@@ -13855,7 +14017,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بنو نضیر کی سازش، قلعوں کا گھیراؤ اور جلاوطنی"
   },
   {
     "title": "Yateem, Wirasat, Nikah, Muharramaat aur Maashra",
@@ -13940,7 +14103,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "یتیموں کے حقوق، وراثت کے قوانین اور محرماتِ نکاح"
   },
   {
     "id": 165,
@@ -14025,7 +14189,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شراب کی پہلی ممانعت: نفع سے بڑا گناہ"
   },
   {
     "title": "Sharab ki Doosri Pabandi: Nashe mein Namaz Mana",
@@ -14110,7 +14275,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "شراب کی دوسری پابندی: نشے کی حالت میں نماز سے ممانعت"
   },
   {
     "title": "Yateem, Nikah, Talaq, Riza'at, Iddat",
@@ -14195,7 +14361,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "یتیموں کی نگہداشت، نکاح، طلاق اور عدت کے احکام"
   },
   {
     "title": "Ayat-ul-Kursi & Ibrahim o Namrood",
@@ -14280,7 +14447,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "آیۃ الکرسی: توحیدِ اعظم اور ابراہیم و نمرود کا مناظرہ"
   },
   {
     "title": "Infaq fi Sabilillah & Sadqaat ke Faza'il",
@@ -14365,7 +14533,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صدقات کی برکت، ریاکاری سے پاک انفاق"
   },
   {
     "title": "Ahl-e-Kitab, Qital, Munafiqeen aur Namaz-e-Khauf",
@@ -14450,7 +14619,8 @@ window.WAHI_EPISODES = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "اہل کتاب کی بدنیتی، منافقین، جہاد اور نمازِ خوف"
   },
   {
     "title": "Adl, Shirk ki Na-bakhshish aur Isa A.S. ki Wafat ka Radd",
@@ -14535,7 +14705,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "عدل و انصاف، شرک کی عدم مغفرت اور عیسیٰ کے قتل کا رد"
   },
   {
     "title": "Surah Az-Zalzalah: Islami Mu'ashra ke Ahkaam, Falah aur The Earthquake ke Qawaneen",
@@ -14620,7 +14791,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الزلزلة (مکمل)"
   },
   {
     "title": "Surah Al-Hadid: Islami Mu'ashra ke Ahkaam, Falah aur The Iron ke Qawaneen",
@@ -14705,7 +14877,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الحديد (مکمل)"
   },
   {
     "title": "Surah Muhammad: Islami Mu'ashra ke Ahkaam, Falah aur Muhammad ke Qawaneen",
@@ -14790,7 +14963,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت محمد (مکمل)"
   },
   {
     "title": "Surah Ar-Ra'd: Islami Mu'ashra ke Ahkaam, Falah aur The Thunder ke Qawaneen",
@@ -14875,7 +15049,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الرعد (مکمل)"
   },
   {
     "title": "Surah Ar-Rahman: Islami Mu'ashra ke Ahkaam, Falah aur The Beneficent ke Qawaneen",
@@ -14960,7 +15135,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الرحمن (مکمل)"
   },
   {
     "title": "Surah Al-Insan: Islami Mu'ashra ke Ahkaam, Falah aur The Man ke Qawaneen",
@@ -15045,7 +15221,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الانسان (مکمل)"
   },
   {
     "title": "Surah At-Talaq: Islami Mu'ashra ke Ahkaam, Falah aur The Divorce ke Qawaneen",
@@ -15130,7 +15307,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الطلاق (مکمل)"
   },
   {
     "title": "Surah Al-Bayyinah: Islami Mu'ashra ke Ahkaam, Falah aur The Clear Proof ke Qawaneen",
@@ -15215,7 +15393,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت البينة (مکمل)"
   },
   {
     "title": "Muhajireen o Ansar ki Azeem Sifat",
@@ -15300,7 +15479,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فقراء مہاجرین اور ایثار کرنے والے انصار کی مدح"
   },
   {
     "id": 181,
@@ -15385,7 +15565,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اموالِ فئے کے شرعی مصارف اور منافقوں کے جھوٹے دلاسے"
   },
   {
     "title": "Law Anzalna Hazal Quran aur Asma-e-Husna",
@@ -15470,7 +15651,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "لو انزلنا ھذا القرآن اور اللہ کے صفاتی اسمائے حسنیٰ"
   },
   {
     "title": "Hadd-e-Zina aur Li'an ke Ahkaam",
@@ -15555,7 +15737,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حدِ زنا اور میاں بیوی کے درمیان لعان کے قوانین"
   },
   {
     "title": "Gharon ke Aadaab aur Ayat-un-Noor",
@@ -15640,7 +15823,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "گھروں میں اجازت سے داخلہ اور آیۃ النور (اللہ نور السماوات)"
   },
   {
     "title": "Qudrat-e-Ilahi, Ita'at aur Samajik Haya",
@@ -15725,7 +15909,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قدرت کی نشانیاں، رسول کی سچی اطاعت اور پردہ"
   },
   {
     "id": 186,
@@ -15810,7 +15995,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ بنی مصطلق اور رئیس المنافقین عبداللہ بن ابی کی رسوائی"
   },
   {
     "id": 187,
@@ -15895,7 +16081,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "واقعہِ افک: ام المومنین عائشہ صدیقہ کی آسمانی برات"
   },
   {
     "id": 188,
@@ -15980,7 +16167,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حدِ قذف: پاکدامنوں پر تہمت کی سزا اور طیبون للطیبات"
   },
   {
     "id": 189,
@@ -16065,7 +16253,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شراب، جوئے اور بتوں کی قطعی حرمت (رجس من عمل الشیطان)"
   },
   {
     "title": "Zalzala-e-Qayamat aur Manaasik-e-Hajj",
@@ -16150,7 +16339,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قیامت کا زلزلہ، حج کے مناسک اور قربانی کا تقویٰ"
   },
   {
     "title": "Amr bil Ma'roof, Jihaad aur Millat-e-Ibrahim",
@@ -16235,7 +16425,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نماز، زکوٰۃ، امر بالمعروف اور ملتِ ابراہیمی کا شرف"
   },
   {
     "title": "Infaq fi Sabilillah aur Maut se Pehle Sadqah",
@@ -16320,7 +16511,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مال و اولاد کے فتنے سے بچاؤ اور موت سے قبل صدقہ"
   },
   {
     "id": 193,
@@ -16405,7 +16597,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صلحِ حدیبیہ: انا فتحنا لک فتحا مبینا کا اعلان"
   },
   {
     "id": 194,
@@ -16490,7 +16683,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بیعتِ رضوان: شجرۂ بیعت تلے اللہ کی ابدی رضا"
   },
   {
     "title": "Surah Al-Mujadila: Islami Mu'ashra ke Ahkaam, Falah aur The Pleading Woman ke Qawaneen",
@@ -16575,7 +16769,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت المجادلة (مکمل)"
   },
   {
     "id": 196,
@@ -16660,7 +16855,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ خیبر: کثیر غنائم اور حضرت علی کی فتح"
   },
   {
     "title": "Hajj o Umrah ke Ahkaam aur Imtehanat",
@@ -16745,7 +16941,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حج و عمرہ کے مناسک اور تاریخ کے کٹھن امتحانات"
   },
   {
     "title": "Fasiq ki Khabar ki Tehqeeq",
@@ -16830,7 +17027,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فاسق کی خبر کی تحقیق اور مومنوں میں باہمی صلح"
   },
   {
     "title": "Islam aur Iman ka Farq",
@@ -16915,7 +17113,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بدویوں کا اسلام اور دلوں میں ایمان کا داخل ہونا"
   },
   {
     "title": "Surah At-Tahrim: Islami Mu'ashra ke Ahkaam, Falah aur The Prohibition ke Qawaneen",
@@ -17000,7 +17199,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت التحريم (مکمل)"
   },
   {
     "title": "Surah At-Taghabun: Islami Mu'ashra ke Ahkaam, Falah aur The Mutual Disillusion ke Qawaneen",
@@ -17085,7 +17285,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت التغابن (مکمل)"
   },
   {
     "title": "Surah As-Saf: Islami Mu'ashra ke Ahkaam, Falah aur The Ranks ke Qawaneen",
@@ -17170,7 +17371,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سورت الصف (مکمل)"
   },
   {
     "id": 203,
@@ -17255,7 +17457,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شعرائے اسلام کی مدح اور موتہ کے شہداء"
   },
   {
     "title": "Bi'that-e-Nabawi aur Yahood ki Misaal",
@@ -17340,7 +17543,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "رسول اللہ کی بعثت، تزکیہ اور گدھے پر کتابوں کی مثال"
   },
   {
     "title": "Hatib bin Abi Balta'ah aur Kuffar se Dosti ka Radd",
@@ -17425,7 +17629,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حاطب بن ابی بلتعہ کا خط اور مشرکین سے دوستی کی ممانعت"
   },
   {
     "title": "Kuffar se Be-zaari ka Aakhiri Hukam",
@@ -17510,7 +17715,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کفار کے ساتھ قلبی موالات کا قطعی خاتمہ"
   },
   {
     "title": "Peechay rehne wale Baddoo aur Unka Anjam",
@@ -17595,7 +17801,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حدیبیہ سے پیچھے رہنے والے اعراب اور ان کے جھوٹے عذر"
   },
   {
     "title": "Ka'aba se Rokay Jana aur Sakina",
@@ -17680,7 +17887,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مسجدِ حرام سے روکے جانا اور مومنوں پر سکینہ کا نزول"
   },
   {
     "title": "Ru'ya-e-Sadiqah aur Muhammadur Rasoolullah ki Jama'at",
@@ -17765,7 +17973,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سچا خواب، فتح مکہ کی نوید اور صحابہ کی صفات"
   },
   {
     "id": 210,
@@ -17850,7 +18059,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فتحِ مکہ: اذا جاء نصر اللہ والفتح اور عام معافی"
   },
   {
     "title": "Ja'al Haqqu wa Zahaqal Baatil",
@@ -17935,7 +18145,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "جاء الحق وزہق الباطل: باطل کے زوال کا اعلان"
   },
   {
     "id": 212,
@@ -18020,7 +18231,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کعبہ سے بتوں کا خاتمہ: بل نقذف بالحق علی الباطل"
   },
   {
     "id": 213,
@@ -18105,7 +18317,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ حنین: تعداد کی کثرت کا غرور اور غیبی مدد"
   },
   {
     "id": 214,
@@ -18190,7 +18403,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ طائف اور مشرکین کے حرم میں داخلے پر پابندی"
   },
   {
     "title": "Uqood ki Pabandi aur Sha'a'ir-ullah",
@@ -18275,7 +18489,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "معاہدوں کی پاسداری اور شعائر اللہ کا احترام"
   },
   {
     "title": "Halal o Haram, Wuzu, Adl, Qabeel o Habeel, Isa A.S.",
@@ -18360,7 +18575,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "طہارت، قابیل و ہابیل، عدل اور یہود و نصاریٰ کا طرزِ عمل"
   },
   {
     "title": "Kaffarat-e-Yameen, Sayd-ul-Haram aur Maidah ka Waqiya",
@@ -18445,7 +18661,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قسموں کا کفارہ، شکار کے احکام اور خوانِ نعمت (مائدہ)"
   },
   {
     "id": 218,
@@ -18530,7 +18747,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوہِ تبوک (جیش العسرۃ): شدید گرمی اور جہاد کی پکار"
   },
   {
     "title": "Munafiqeen ke Heele aur Sadqaat ke 8 Masarif",
@@ -18615,7 +18833,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "منافقوں کے جھوٹے عذر اور زکوٰۃ و صدقات کے آٹھ مصارف"
   },
   {
     "id": 220,
@@ -18700,7 +18919,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "منافقینِ تبوک کا بائیکاٹ اور عبداللہ بن ابی کی نمازِ جنازہ سے ممانعت"
   },
   {
     "title": "A'raab ke Uzr aur Bakhshish",
@@ -18785,7 +19005,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دیہاتی بدوؤں کے احوال اور نیکیوں و گناہوں کا موازنہ"
   },
   {
     "id": 222,
@@ -18870,7 +19091,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مسجدِ ضرار کا گرایا جانا: عبادت کے بھیس میں فتنہ"
   },
   {
     "title": "Inna Allahashtara Minal Mo'mineena Anfusahum",
@@ -18955,7 +19177,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "جان و مال کے بدلے جنت کا سودا اور استغفار کی حدود"
   },
   {
     "id": 224,
@@ -19040,7 +19263,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تین صحابہ (کعب بن مالک و رفقاء) کی سچی توبہ کی قبولیت"
   },
   {
     "title": "Bara'at-e-Mushrikeen aur Hajj-e-Akbar",
@@ -19125,7 +19349,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مشرکین سے براءت کا اعلان اور حجِ اکبر کا خطبہ"
   },
   {
     "id": 226,
@@ -19210,7 +19435,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "عام الوفود: بارگاہِ رسالت کے بلند ترین آداب"
   },
   {
     "id": 227,
@@ -19295,7 +19521,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اخوت اور مساوات: ان اکرمکم عند اللہ اتقاکم"
   },
   {
     "title": "Jizya, Yahood o Nasara aur Ashhur-ul-Hurum",
@@ -19380,7 +19607,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "جزیہ کا نفاذ، عزیر و مسیح کے شرک کا رد اور حرمت والے مہینے"
   },
   {
     "id": 229,
@@ -19465,7 +19693,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سود (ربا) کی قطعی ممانعت: اللہ و رسول کا اعلانِ جنگ"
   },
   {
     "title": "Aayat-e-Mudayanah aur Amanar-Rasool",
@@ -19550,7 +19779,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "آیتِ مدائینہ (قرض کا قانون) اور آمن الرسول کی دعائیں"
   },
   {
     "title": "Tafaqquh fid-Deen aur Laqad Ja'akum Rasool",
@@ -19635,7 +19865,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دین کی سمجھ، جہاد اور لقد جاءکم رسول من انفسکم"
   },
   {
     "id": 232,
@@ -19720,7 +19951,8 @@ window.WAHI_EPISODES = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حجۃ الوداع: الیوم اکملت لکم دینکم کا تاریخی اعلان"
   },
   {
     "id": 233,
@@ -19805,6 +20037,7 @@ window.WAHI_EPISODES = [
         "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
-    ]
+    ],
+    "themeUrdu": "نزولِ وحی کا اختتام: سب سے آخری آیت"
   }
 ];

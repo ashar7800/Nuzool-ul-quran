@@ -1,4 +1,4 @@
-// Complete 114 Surahs Dataset with Standard Academic Hadith Citations
+// Complete 114 Surahs Dataset with Urdu & Roman Themes + Lessons
 window.SURAH_DATA = [
   {
     "revelationOrder": 1,
@@ -207,7 +207,8 @@ window.SURAH_DATA = [
         "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
         "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
       }
-    ]
+    ],
+    "themeUrdu": "پہلی وحی، علم و قلم کی فضیلت اور ابو جہل کی سرکشی"
   },
   {
     "revelationOrder": 2,
@@ -647,7 +648,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تسلیِ رسالت، اخلاقِ عظیم اور اصحاب الجنة"
   },
   {
     "revelationOrder": 3,
@@ -863,7 +865,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قیام اللیل، ترتیلِ قرآن اور صبر کی تلقین"
   },
   {
     "revelationOrder": 4,
@@ -1331,7 +1334,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دعوت و انذار کا آغاز اور تکبر کا انجام"
   },
   {
     "revelationOrder": 5,
@@ -1456,7 +1460,8 @@ window.SURAH_DATA = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "ام الکتاب اور دعائے ہدایتِ صراطِ مستقیم"
   },
   {
     "revelationOrder": 6,
@@ -1567,7 +1572,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مسد: ابو لہب اور اس کی بیوی کا عبرتناک انجام"
   },
   {
     "revelationOrder": 7,
@@ -1846,7 +1852,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انقلابِ قیامت اور عظمتِ وحی"
   },
   {
     "revelationOrder": 8,
@@ -2055,7 +2062,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تسبیحِ ربِ اعلیٰ اور تزکیۂ نفس"
   },
   {
     "revelationOrder": 9,
@@ -2278,7 +2286,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انفاق، بخل اور دو متضاد راستوں کا انجام"
   },
   {
     "revelationOrder": 10,
@@ -2564,7 +2573,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فجر، عشرۂ ذی الحجہ اور نفسِ مطمئنہ"
   },
   {
     "revelationOrder": 11,
@@ -2717,7 +2727,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ضحیٰ: رب کی عنایت اور یتیموں کی رعایت"
   },
   {
     "revelationOrder": 12,
@@ -2849,7 +2860,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شرحِ صدر اور ہر مشکل کے بعد آسانی"
   },
   {
     "revelationOrder": 13,
@@ -2946,7 +2958,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "عصر: زمانے کی قسم، خسارے سے نجات کے چار ارکان"
   },
   {
     "revelationOrder": 14,
@@ -3099,7 +3112,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "عادیات: دوڑنے والے گھوڑے اور انسان کی ناشکری"
   },
   {
     "revelationOrder": 15,
@@ -3196,7 +3210,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کوثر: خیرِ کثیر کی عطا اور دشمن کی بے نام و نشانی"
   },
   {
     "revelationOrder": 16,
@@ -3328,7 +3343,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تکاثر: مال و دولت کی کثرت کا فتنہ اور غفلت"
   },
   {
     "revelationOrder": 17,
@@ -3453,7 +3469,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ماعون: یتیموں سے بدسلوکی اور دکھاوے کی نماز"
   },
   {
     "revelationOrder": 18,
@@ -3571,7 +3588,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کافرون: شرک سے قطعی برائت کا اعلان"
   },
   {
     "revelationOrder": 19,
@@ -3682,7 +3700,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اصحاب الفیل اور ابابیل کا تاریخی معجزہ"
   },
   {
     "revelationOrder": 20,
@@ -3793,7 +3812,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فلق: مخلوقات کے شرور اور جادو ٹونے سے پناہ"
   },
   {
     "revelationOrder": 21,
@@ -3911,7 +3931,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ناس: وسوسہ انداز شیطانوں اور برے انسانوں سے پناہ"
   },
   {
     "revelationOrder": 22,
@@ -4015,7 +4036,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اخلاص: توحیدِ خالص کا بے نظیر منشور"
   },
   {
     "revelationOrder": 23,
@@ -4525,7 +4547,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "معراجِ نبوی اور اوحیٰ الیٰ عبدہٖ"
   },
   {
     "revelationOrder": 24,
@@ -4895,7 +4918,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ابنِ امِ مکتوم اور دعوت کی ترجیحات"
   },
   {
     "revelationOrder": 25,
@@ -5006,7 +5030,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شبِ قدر کی فضیلت اور نزولِ قرآن"
   },
   {
     "revelationOrder": 26,
@@ -5187,7 +5212,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تزکیۂ نفس اور قومِ ثمود کی سرکشی"
   },
   {
     "revelationOrder": 27,
@@ -5417,7 +5443,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اصحاب الاخدود اور اہلِ ایمان پر ظلم کا انجام"
   },
   {
     "revelationOrder": 28,
@@ -5549,7 +5576,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تین و زیتون، احسنِ تقویم اور اسفل سافلین"
   },
   {
     "revelationOrder": 29,
@@ -5653,7 +5681,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قریش پر اللہ کے احسانات اور ربِ کعبہ کی عبادت"
   },
   {
     "revelationOrder": 30,
@@ -5806,7 +5835,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قارعہ: کھڑکھڑانے والی قیامت اور میزانِ اعمال"
   },
   {
     "revelationOrder": 31,
@@ -6162,7 +6192,8 @@ window.SURAH_DATA = [
         "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
         "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
       }
-    ]
+    ],
+    "themeUrdu": "نفسِ لوامہ اور علاماتِ قیامت"
   },
   {
     "revelationOrder": 32,
@@ -6301,7 +6332,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ہمزہ: عیب جوئی، طعنہ زنی اور مال پر اترانے کا انجام"
   },
   {
     "revelationOrder": 33,
@@ -6727,7 +6759,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مرسلات کی قسم اور جھٹلانے والوں کی ہلاکت"
   },
   {
     "revelationOrder": 34,
@@ -7118,7 +7151,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قربِ الٰہی (حبل الورید) اور بعث بعد الموت"
   },
   {
     "revelationOrder": 35,
@@ -7334,7 +7368,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بلدِ امین اور دشوار گزار گھاٹی (عقبہ) کو پار کرنا"
   },
   {
     "revelationOrder": 36,
@@ -7529,7 +7564,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "طارق: رات کو نمودار ہونے والا تارہ اور انسان کی پیدائش"
   },
   {
     "revelationOrder": 37,
@@ -7990,7 +8026,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شق القمر اور عبرتِ اقوامِ ماضیہ"
   },
   {
     "revelationOrder": 38,
@@ -8682,7 +8719,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صبرِ ایوب اور حضرت داؤد کی توبہ"
   },
   {
     "revelationOrder": 39,
@@ -10200,7 +10238,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تاریخِ انبیاء اور اقوامِ ماضیہ کے عبرتناک انجام"
   },
   {
     "revelationOrder": 40,
@@ -10472,7 +10511,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "جنات کا ایمان اور غیب کے راز"
   },
   {
     "revelationOrder": 41,
@@ -11129,7 +11169,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قلبِ قرآن: بعثت، رسالت اور قیامت کے دلائل"
   },
   {
     "revelationOrder": 42,
@@ -11744,7 +11785,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فرقانِ حق و باطل اور عباد الرحمن کے اوصاف"
   },
   {
     "revelationOrder": 43,
@@ -12135,7 +12177,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فاطر السموات، تخلیقِ ملائکہ اور قدردانیِ رب"
   },
   {
     "revelationOrder": 44,
@@ -12897,7 +12940,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "رحمتِ پروردگار اور حضرت مریم و عیسیٰ علیہما السلام"
   },
   {
     "revelationOrder": 45,
@@ -13918,7 +13962,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مقامِ رسالت، حضرت موسیٰ علیہ السلام اور فرعون"
   },
   {
     "revelationOrder": 46,
@@ -14666,7 +14711,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "واقعۂ قیامت اور تین درجاتِ انسانی"
   },
   {
     "revelationOrder": 47,
@@ -16331,7 +16377,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حقانیتِ رسالت اور معجزاتِ انبیاء"
   },
   {
     "revelationOrder": 48,
@@ -17058,7 +17105,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت سلیمان علیہ السلام اور ملکۂ سبا کا واقعہ"
   },
   {
     "revelationOrder": 49,
@@ -17750,7 +17798,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت موسیٰ علیہ السلام کا بچپن اور قارون کا غرور"
   },
   {
     "revelationOrder": 50,
@@ -18603,7 +18652,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "واقعۂ معراج، اخلاقی احکام اور بنی اسرائیل کا عروج و زوال"
   },
   {
     "revelationOrder": 51,
@@ -19442,7 +19492,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حقانیتِ وحی، توبہ اور حضرت یونس علیہ السلام کا واقعہ"
   },
   {
     "revelationOrder": 52,
@@ -20379,7 +20430,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "استقامت علی الحق اور حضرت ہود و قومِ عاد کا انجام"
   },
   {
     "revelationOrder": 53,
@@ -21232,7 +21284,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "احسن القصص: صبر، عفت اور حضرت یوسف علیہ السلام کا عروج"
   },
   {
     "revelationOrder": 54,
@@ -22001,7 +22054,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حفاظتِ قرآن اور حجر والوں کا انجام"
   },
   {
     "revelationOrder": 55,
@@ -23232,7 +23286,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "توحیدِ باری تعالیٰ، ردِ شرک اور دلائلِ کائنات"
   },
   {
     "revelationOrder": 56,
@@ -24582,7 +24637,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "توحیدِ صفات اور حضرت ابراہیم کی قربانی"
   },
   {
     "revelationOrder": 57,
@@ -24896,7 +24952,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حکمتِ لقمان اور والدین کے حقوق"
   },
   {
     "revelationOrder": 58,
@@ -25350,7 +25407,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت داؤد و سلیمان اور قومِ سبا کا عبرتناک سیلاب"
   },
   {
     "revelationOrder": 59,
@@ -25951,7 +26009,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اخلاص فی الدین اور رحمتِ الٰہی کی وسعت"
   },
   {
     "revelationOrder": 60,
@@ -26622,7 +26681,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "دعوتِ حق، مومنِ آلِ فرعون اور مغفرت"
   },
   {
     "revelationOrder": 61,
@@ -27076,7 +27136,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نزولِ قرآن کی فصاحت اور فصلت کے دلائل"
   },
   {
     "revelationOrder": 62,
@@ -27523,7 +27584,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "وحی و شریعت، اصولِ شوریٰ اور مغفرت"
   },
   {
     "revelationOrder": 63,
@@ -28222,7 +28284,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "زر و مال کا فتنہ اور حقیقی شرافت"
   },
   {
     "revelationOrder": 64,
@@ -28711,7 +28774,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نزولِ قرآن کی مبارک رات اور دخان کا عذاب"
   },
   {
     "revelationOrder": 65,
@@ -29046,7 +29110,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "جاثیہ: گھٹنوں کے بل گرنے والی قیامت"
   },
   {
     "revelationOrder": 66,
@@ -29367,7 +29432,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "احقاف کی قوم اور والدین کے ساتھ حسنِ سلوک"
   },
   {
     "revelationOrder": 67,
@@ -29863,7 +29929,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "رزق کی ضمانت اور قیامت کے قطعی دلائل"
   },
   {
     "revelationOrder": 68,
@@ -30121,7 +30188,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غاشیہ: چھا جانے والی قیامت اور نعمت ہائے جنت"
   },
   {
     "revelationOrder": 69,
@@ -30967,7 +31035,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فتنوں سے حفاظت کے چار قصص اور اصحابِ کہف"
   },
   {
     "revelationOrder": 70,
@@ -31939,7 +32008,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نعمت ہائے الٰہیہ اور شکر گزاری کی اہمیت"
   },
   {
     "revelationOrder": 71,
@@ -32211,7 +32281,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حضرت نوح علیہ السلام کی نو سو پچاس سالہ دعوت"
   },
   {
     "revelationOrder": 72,
@@ -32651,7 +32722,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کلمۂ طیبہ و خبیثہ اور حضرت ابراہیم علیہ السلام کی دعائیں"
   },
   {
     "revelationOrder": 73,
@@ -33511,7 +33583,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انبیاءِ کرام کا مشن اور محاسبۂ قیامت"
   },
   {
     "revelationOrder": 74,
@@ -34413,7 +34486,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "مومنین کی فلاح کے اوصاف اور مراحلِ خلقت"
   },
   {
     "revelationOrder": 75,
@@ -34699,7 +34773,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تخلیقِ کائنات، سجود اور قیامت کا یقین"
   },
   {
     "revelationOrder": 76,
@@ -35118,7 +35193,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "طورِ سینا کی قسم اور منکرین کا احتساب"
   },
   {
     "revelationOrder": 77,
@@ -35404,7 +35480,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ملک و اقتدارِ الٰہی اور موت و حیات کی آزمائش"
   },
   {
     "revelationOrder": 78,
@@ -35844,7 +35921,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حاقہ: سچی قیامت اور حساب کتاب کا دن"
   },
   {
     "revelationOrder": 79,
@@ -36228,7 +36306,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صبرِ جمیل اور انسان کی بے صبری کی فطرت"
   },
   {
     "revelationOrder": 80,
@@ -36584,7 +36663,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نبأِ عظیم: قیامت کا قطعی فیصلہ"
   },
   {
     "revelationOrder": 81,
@@ -36982,7 +37062,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نازعات: نزعِ روح اور واقعۂ قیامت"
   },
   {
     "revelationOrder": 82,
@@ -37191,7 +37272,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انفطارِ کائنات اور کراماً کاتبین"
   },
   {
     "revelationOrder": 83,
@@ -37442,7 +37524,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انشقاقِ آسمان اور نامۂ اعمال کی پیشی"
   },
   {
     "revelationOrder": 84,
@@ -37938,7 +38021,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "پیشین گوئیِ غلبۂ روم اور نشانیاںِ فطرت"
   },
   {
     "revelationOrder": 85,
@@ -38497,7 +38581,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ایمان کی آزمائش اور عنکبوت (مکڑی) کی مثال"
   },
   {
     "revelationOrder": 86,
@@ -38825,7 +38910,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ناپ تول میں کمی (تطفیف) اور کتابِ ابرار و فجار"
   },
   {
     "revelationOrder": 87,
@@ -40903,7 +40989,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ایمان، احکامِ شریعت، میثاقِ بنی اسرائیل اور خلافتِ ارضی"
   },
   {
     "revelationOrder": 88,
@@ -41504,7 +41591,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوۂ بدر کے اسباق اور مالِ غنیمت کے احکام"
   },
   {
     "revelationOrder": 89,
@@ -42980,7 +43068,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوۂ احد کے اسباق، استقامت اور نصرتِ الٰہی"
   },
   {
     "revelationOrder": 90,
@@ -43567,7 +43656,8 @@ window.SURAH_DATA = [
         "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
         "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
       }
-    ]
+    ],
+    "themeUrdu": "غزوۂ احزاب، مقامِ ختمِ نبوت اور پردے کے احکام"
   },
   {
     "revelationOrder": 91,
@@ -43734,7 +43824,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "کفار سے موالات کی حدود اور امتحانِ ایمان"
   },
   {
     "revelationOrder": 92,
@@ -45042,7 +45133,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "حقوق النساء، معاشرتی عدل اور خاندانی احکام"
   },
   {
     "revelationOrder": 93,
@@ -45174,7 +45266,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "زلزال: زمین کا لرزنا اور ذرہ برابر نیکی بدی کا بدلہ"
   },
   {
     "revelationOrder": 94,
@@ -45453,7 +45546,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "انفاق فی سبیل اللہ اور حدید (لوہے) کے فوائد"
   },
   {
     "revelationOrder": 95,
@@ -45795,7 +45889,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "جہاد فی سبیل اللہ اور سیرتِ محمد ﷺ"
   },
   {
     "revelationOrder": 96,
@@ -46172,7 +46267,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "قوتِ الٰہی، عبرتِ کائنات اور دلوں کا اطمینان"
   },
   {
     "revelationOrder": 97,
@@ -46794,7 +46890,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "رحمن کی نعمتیں: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ"
   },
   {
     "revelationOrder": 98,
@@ -47087,7 +47184,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "ابرار کی جزاء اور انسان کی تخلیق"
   },
   {
     "revelationOrder": 99,
@@ -47247,7 +47345,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "احکامِ طلاق، عدت اور نفقہ کی حدود"
   },
   {
     "revelationOrder": 100,
@@ -47379,7 +47478,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "بینہ: واضح دلیل اور خیر البریہ کا انجام"
   },
   {
     "revelationOrder": 101,
@@ -47623,7 +47723,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "اخراجِ یہودِ بنی نضیر اور اسماءِ حسنیٰ"
   },
   {
     "revelationOrder": 102,
@@ -48147,7 +48248,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "معاشرتی پاکیزگی، حدودِ قذف اور آیتِ نور"
   },
   {
     "revelationOrder": 103,
@@ -48769,7 +48871,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "شعائر اللہ کی تعظیم، فریضۂ حج اور اذنِ جہاد"
   },
   {
     "revelationOrder": 104,
@@ -48922,7 +49025,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نفاق کی علامات اور بروقت انفاق کی تاکید"
   },
   {
     "revelationOrder": 105,
@@ -49152,7 +49256,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "سننے والی ذات، احکامِ ظہار اور نجویٰ کے آداب"
   },
   {
     "revelationOrder": 106,
@@ -49354,7 +49459,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "آدابِ رسالت، اسلامی اخوت اور معاشرتی آداب"
   },
   {
     "revelationOrder": 107,
@@ -49514,7 +49620,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "خاندانی تربیت اور ازواجِ مطہرات کی عبرت"
   },
   {
     "revelationOrder": 108,
@@ -49716,7 +49823,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تغابن: نفع و نقصان کا دن اور تقدیرِ الٰہی"
   },
   {
     "revelationOrder": 109,
@@ -49890,7 +49998,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صف بندی فی سبیل اللہ اور بشارتِ احمد ﷺ"
   },
   {
     "revelationOrder": 110,
@@ -50043,7 +50152,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "فضیلتِ جمعہ اور بعثتِ نبوی کا مقصد"
   },
   {
     "revelationOrder": 111,
@@ -50322,7 +50432,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "صلحِ حدیبیہ اور فتحِ مبین کی خوشخبری"
   },
   {
     "revelationOrder": 112,
@@ -51238,7 +51349,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "تکمیلِ دین، ایفاءِ عہد اور حلال و حرام کے حدود"
   },
   {
     "revelationOrder": 113,
@@ -52217,7 +52329,8 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "برائتِ مشرکین، غزوۂ تبوک اور نفاق کی حقیقت"
   },
   {
     "revelationOrder": 114,
@@ -52314,6 +52427,7 @@ window.SURAH_DATA = [
         "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
         "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
       }
-    ]
+    ],
+    "themeUrdu": "نصر: فتحِ مکہ اور استغفار و تسبیح کی تاکید"
   }
 ];
