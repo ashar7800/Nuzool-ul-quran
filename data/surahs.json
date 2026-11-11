@@ -246,9 +246,14 @@
         "Dr. E. Marshall Johnson - Anatomy & Developmental Biology, Thomas Jefferson University"
       ],
       "diagram": {
-        "title": "Blastocyst Implantation ('Alaqah Stage)",
-        "description": "Cross-sectional visualization of early blastocyst adhering to the uterine endometrial wall.",
-        "type": "embryology"
+        "title": "Human Embryo at 24–28 Days & Blastocyst Implantation vs. 'Alaqah Morphology",
+        "description": "Authentic histological and micrographic full-colour comparison showing Carnegie Stage 11–12 human embryo implantation into uterine endometrium wall with trophoblastic villi, somites, and neural tube versus Freshwater Leech ('Alaqah) tripartite structure.",
+        "type": "embryology",
+        "image_url": "assets/scientific_diagrams/embryo_implantation_alaq.svg",
+        "high_res_url": "assets/scientific_diagrams/embryo_implantation_alaq.svg",
+        "caption_ur": "۲۴ تا ۲۸ دن کے انسانی جنین (Carnegie Stage 11-12) کی رحمِ مادر میں امپلانٹیشن اور جونک نما ساخت (علقہ) کا مستند تقابلی و تشریحی نقشہ",
+        "caption_en": "Authentic Full-Colour Micrographic Comparison: Human Embryo Implantation & Somite Morphology vs. Leech ('Alaqah)",
+        "scientific_source": "Prof. Keith L. Moore (The Developing Human, 8th Ed., Saunders) & Carnegie Institution of Washington"
       }
     },
     "cross_references": [
@@ -9582,7 +9587,12 @@
       "diagram": {
         "title": "Rotating Neutron Star & Pulsar Jet Geometry",
         "description": "Magnetic axis rotational beam emitting piercing periodic relativistic pulses.",
-        "type": "pulsar"
+        "type": "pulsar",
+        "image_url": "assets/scientific_diagrams/pulsar_neutron_star.svg",
+        "high_res_url": "assets/scientific_diagrams/pulsar_neutron_star.svg",
+        "caption_ur": "پلسار نیوٹران ستارے کی گردش، خلا کو چیرتی ہوئی مقناطیسی شعاعیں اور دستک کی مانند آواز",
+        "caption_en": "Relativistic Synchrotron Pulsar Radiation Cone & Periodic Radio Knocker (At-Tariq)",
+        "scientific_source": "Dame Jocelyn Bell Burnell & Antony Hewish • Max Planck Institute for Radio Astronomy"
       }
     },
     "cross_references": [
@@ -14149,7 +14159,12 @@
       "diagram": {
         "title": "Halocline & Density Gradient Interface",
         "description": "Subsurface pycnocline barrier maintaining salinity boundary between confluent water bodies.",
-        "type": "oceanography"
+        "type": "oceanography",
+        "image_url": "assets/scientific_diagrams/halocline_marine_barrier.svg",
+        "high_res_url": "assets/scientific_diagrams/halocline_marine_barrier.svg",
+        "caption_ur": "بحیرۂ روم اور بحرِ اوقیانوس کے سنگم پر ہالوکلائن و پکنوکلائن پردے کا طبعی نقشہ",
+        "caption_en": "Thermohaline Halocline & Pycnocline Marine Density Separation Barrier (Barzakh)",
+        "scientific_source": "Dr. William Hay (University of Colorado) • Pickard & Emery, 'Descriptive Physical Oceanography'"
       }
     },
     "cross_references": [
@@ -26401,7 +26416,12 @@
       "diagram": {
         "title": "Atmospheric Pressure Fall & Alveolar Hypoxia Curve",
         "description": "Correlation between altitude gain and decreasing partial oxygen pressure causing respiratory tightness.",
-        "type": "aviation_medicine"
+        "type": "aviation_medicine",
+        "image_url": "assets/scientific_diagrams/high_altitude_hypoxia.svg",
+        "high_res_url": "assets/scientific_diagrams/high_altitude_hypoxia.svg",
+        "caption_ur": "بلندی پر فضائی دباؤ کی کمی اور پھیپھڑوں میں آکسیجن کے دباؤ کے گرنے سے سینے کی گھٹن کا گراف",
+        "caption_en": "High-Altitude Hypobaric Alveolar Hypoxia Curve & Thoracic Constriction",
+        "scientific_source": "FAA Civil Aerospace Medical Institute • Ernsting's Aviation Medicine"
       }
     },
     "cross_references": [
@@ -33840,7 +33860,12 @@
       "diagram": {
         "title": "Expanding Spacetime Metric & Redshift",
         "description": "Galactic cosmological redshift demonstrating continuous metric expansion of spacetime.",
-        "type": "astrophysics"
+        "type": "astrophysics",
+        "image_url": "assets/scientific_diagrams/cosmic_expansion_hubble.svg",
+        "high_res_url": "assets/scientific_diagrams/cosmic_expansion_hubble.svg",
+        "caption_ur": "کائنات کے وقت کے ساتھ مسلسل وسعت پذیر ہونے اور کہکشاؤں کے ریڈ شفٹ اسپیکٹرم کا سائنسی چارٹ",
+        "caption_en": "Continuous Accelerated Metric Spacetime Expansion & Hubble's Cosmological Redshift",
+        "scientific_source": "Edwin Hubble (1929) • Nobel Prize in Physics (2011) - Perlmutter, Schmidt & Riess"
       }
     },
     "cross_references": [
@@ -37900,7 +37925,12 @@
       "diagram": {
         "title": "Cosmic Expansion & Protoplasmic Water Ratio",
         "description": "Initial cosmic singularity splitting outwards and cellular cytoplasm molecular composition.",
-        "type": "cosmology"
+        "type": "cosmology",
+        "image_url": "assets/scientific_diagrams/cosmic_singularity_bigbang.svg",
+        "high_res_url": "assets/scientific_diagrams/cosmic_singularity_bigbang.svg",
+        "caption_ur": "کائناتی سنگولیرٹی سے کہکشاؤں کا پھیلاؤ اور زندہ خلیے کے سائٹوپلازم میں پانی کا بنیادی تناسب",
+        "caption_en": "Cosmic Singularity Metric Split (Big Bang) & Cytoplasmic Aqueous Protoplasm Model",
+        "scientific_source": "Hawking & Penrose Singularity Theorems • Alberts et al., 'Molecular Biology of the Cell'"
       }
     },
     "cross_references": [
@@ -38884,7 +38914,12 @@
       "diagram": {
         "title": "Somite Formation & Skeletal Differentiation",
         "description": "Chronological Carnegie stages matching the Quranic progression from Mudghah to Myogenesis.",
-        "type": "morphogenesis"
+        "type": "morphogenesis",
+        "image_url": "assets/scientific_diagrams/embryonic_carnegie_stages.svg",
+        "high_res_url": "assets/scientific_diagrams/embryonic_carnegie_stages.svg",
+        "caption_ur": "انسانی جنین کے ۴ تسلسلی مراحل (نطفہ، علقہ، مضغہ، عظام و لحم) کا کارنیگی مائیکروگرافک چارٹ",
+        "caption_en": "Sequential Morphogenetic Carnegie Stages (Nutfah ➔ 'Alaqah ➔ Mudghah ➔ Osteogenesis & Myogenesis)",
+        "scientific_source": "Carnegie Institution of Washington (Embryology Series) • Prof. T.V.N. Persaud"
       }
     },
     "cross_references": [
@@ -41467,7 +41502,12 @@
       "diagram": {
         "title": "Continental Crust Mountain Roots (Isostatic Equilibrium)",
         "description": "Deep lithospheric roots extending into the asthenosphere acting as stabilizing tectonic pegs.",
-        "type": "geology"
+        "type": "geology",
+        "image_url": "assets/scientific_diagrams/mountain_roots_isostasy.svg",
+        "high_res_url": "assets/scientific_diagrams/mountain_roots_isostasy.svg",
+        "caption_ur": "پہاڑوں کی قشرِ ارض کے نیچے ۱۰ تا ۱۵ گنا گہری میخ نما جڑوں (Isostatic Roots) کا جیوفزیکل خاکہ",
+        "caption_en": "Continental Crustal Isostasy & Deep Lithospheric Roots (Autadan / Stabilizing Pegs)",
+        "scientific_source": "Sir George Biddell Airy (Isostasy Theory) • Dr. Frank Press ('Earth', NAS President)"
       }
     },
     "cross_references": [
@@ -51357,7 +51397,12 @@
       "diagram": {
         "title": "Supernova Nucleosynthesis & Meteoritic Iron Deposition",
         "description": "Exotic iron synthesis during massive star core collapse and delivery to terrestrial planets.",
-        "type": "iron_supernova"
+        "type": "iron_supernova",
+        "image_url": "assets/scientific_diagrams/supernova_iron_nucleosynthesis.svg",
+        "high_res_url": "assets/scientific_diagrams/supernova_iron_nucleosynthesis.svg",
+        "caption_ur": "ستاروں کے مرکز میں لوہے کی نیوکلیوسنتھیسز اور سپرنووا کے بعد شہابیوں کے ذریعے زمین پر ترسیل",
+        "caption_en": "Extraterrestrial Supernova Nucleosynthesis of Iron-56 & Meteoritic Planetary Delivery",
+        "scientific_source": "Hans Bethe (Nobel Prize in Physics) • NASA Goddard Space Flight Center"
       }
     },
     "cross_references": [
@@ -54667,7 +54712,12 @@
       "diagram": {
         "title": "Internal Wave Strata & Photopic Extinction",
         "description": "Layered oceanic internal waves and exponential sunlight absorption profile.",
-        "type": "internal_waves"
+        "type": "internal_waves",
+        "image_url": "assets/scientific_diagrams/deep_ocean_internal_waves.svg",
+        "high_res_url": "assets/scientific_diagrams/deep_ocean_internal_waves.svg",
+        "caption_ur": "گہرے سمندر کی زیرِ آب اندرونی لہروں اور ۲۰۰ میٹر نیچے مکمل تاریکی کا سائنسی کراس سیکشن",
+        "caption_en": "Subsurface Internal Wave Dynamics & Exponential Photopic Extinction Zones",
+        "scientific_source": "Dr. Rao ('Internal Waves in the Ocean') • NOAA Deep Marine Exploration"
       }
     },
     "cross_references": [

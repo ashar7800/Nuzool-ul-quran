@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="ironBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#18181b"/>
+    </linearGradient>
+    <radialGradient id="novaBurst" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="30%" stop-color="#f59e0b"/>
+      <stop offset="70%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="520" fill="url(#ironBg)"/>
+
+  <!-- Top Header Banner -->
+  <rect x="0" y="0" width="900" height="55" fill="#030712" opacity="0.85"/>
+  <rect x="25" y="14" width="170" height="28" rx="6" fill="#dc2626"/>
+  <text x="35" y="32" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">☄️ NUCLEAR ASTROPHYSICS</text>
+  <text x="205" y="33" fill="#f8fafc" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="700">EXTRATERRESTRIAL SUPERNOVA ORIGIN OF IRON-56 (وَأَنزَلْنَا الْحَدِيدَ)</text>
+  <text x="875" y="35" fill="#fca5a5" font-family="'Amiri', serif" font-size="17" font-weight="bold" text-anchor="end">وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ (الحدید: ۲۵)</text>
+
+  <!-- Supernova Core & Meteoritic Delivery -->
+  <g transform="translate(40, 80)">
+    <rect x="0" y="0" width="820" height="340" rx="10" fill="#030712" stroke="#1e293b"/>
+
+    <!-- Massive Supergiant Stellar Onion Shells -->
+    <g transform="translate(200, 170)">
+      <circle cx="0" cy="0" r="140" fill="none" stroke="#3b82f6" stroke-width="2"/>
+      <text x="0" y="-145" fill="#60a5fa" font-size="9" text-anchor="middle">Hydrogen / Helium Outer Envelope</text>
+      <circle cx="0" cy="0" r="105" fill="none" stroke="#22c55e" stroke-width="2"/>
+      <circle cx="0" cy="0" r="75" fill="none" stroke="#eab308" stroke-width="2"/>
+      <circle cx="0" cy="0" r="50" fill="none" stroke="#f97316" stroke-width="2"/>
+      <!-- Iron Core -->
+      <circle cx="0" cy="0" r="30" fill="#ef4444" stroke="#ffffff" stroke-width="2.5"/>
+      <text x="0" y="4" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold" text-anchor="middle">⁵⁶Fe CORE</text>
+      <text x="0" y="16" fill="#fecdd3" font-size="8" text-anchor="middle">T &gt; 3×10⁹ K</text>
+    </g>
+
+    <!-- Supernova Explosion & Meteorite to Terrestrial Surface -->
+    <g transform="translate(480, 50)">
+      <rect x="0" y="0" width="315" height="260" rx="8" fill="#0f172a" stroke="#334155"/>
+      <text x="15" y="25" fill="#f87171" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="bold">EXTRATERRESTRIAL DESCENT TO EARTH</text>
+      <!-- Meteoroid trail -->
+      <path d="M 280 40 L 80 180" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="75" cy="185" r="18" fill="#71717a" stroke="#ef4444" stroke-width="2"/>
+      <text x="15" y="225" fill="#fde047" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">Iron Cannot Synthesize on Earth</text>
+      <text x="15" y="245" fill="#cbd5e1" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Binding energy barrier requires a supernova cataclysm.</text>
+    </g>
+  </g>
+
+  <!-- Bottom Academic Citation -->
+  <rect x="0" y="465" width="900" height="55" fill="#020617"/>
+  <text x="25" y="488" fill="#38bdf8" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">ACADEMIC RESEARCH & SCIENTIFIC CITATION:</text>
+  <text x="25" y="504" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Hans Bethe (Nobel Prize in Physics) • Fred Hoyle (Stellar Nucleosynthesis) • NASA Goddard Space Flight Center.</text>
+  <text x="875" y="495" fill="#64748b" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" text-anchor="end">Nuzool-ul-Quran Scientific Insight Series</text>
+</svg>

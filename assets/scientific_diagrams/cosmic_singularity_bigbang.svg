@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgCosmo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="singularityGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="15%" stop-color="#fbbf24"/>
+      <stop offset="40%" stop-color="#f97316"/>
+      <stop offset="70%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="waterGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="520" fill="url(#bgCosmo)"/>
+
+  <!-- Top Header Banner -->
+  <rect x="0" y="0" width="900" height="55" fill="#030712" opacity="0.85"/>
+  <rect x="25" y="14" width="165" height="28" rx="6" fill="#4338ca"/>
+  <text x="35" y="32" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">🌌 COSMOLOGY & CYTOLOGY</text>
+  <text x="205" y="33" fill="#f8fafc" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="700">COSMIC SINGULARITY SEPARATION (BIG BANG) & AQUEOUS CELLULAR LIFE</text>
+  <text x="875" y="35" fill="#818cf8" font-family="'Amiri', serif" font-size="17" font-weight="bold" text-anchor="end">رَتْقًا فَفَتَقْنَاهُمَا وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ (الأنبیاء: ۳۰)</text>
+
+  <!-- Left: Cosmic Singularity Split (Ratqan Fa-Fataqnahuma) -->
+  <g transform="translate(30, 75)">
+    <rect x="0" y="0" width="410" height="28" rx="6" fill="#1e293b"/>
+    <text x="12" y="18" fill="#fbbf24" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="bold">1. COSMIC SINGULARITY EXPANSION (رَتْقًا فَفَتَقْنَاهُمَا)</text>
+
+    <rect x="0" y="38" width="410" height="335" rx="8" fill="#030712" stroke="#1e293b"/>
+
+    <!-- Central Singularity Core -->
+    <circle cx="80" cy="190" r="50" fill="url(#singularityGlow)"/>
+    <circle cx="80" cy="190" r="12" fill="#ffffff"/>
+    <text x="35" y="260" fill="#fde68a" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="bold">Singularity (رَتْقًا / Unified State)</text>
+
+    <!-- Expansion Jets & Particle Tracks -->
+    <path d="M 80 190 Q 180 110 320 80" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="4,2"/>
+    <path d="M 80 190 Q 200 160 360 140" stroke="#ec4899" stroke-width="2"/>
+    <path d="M 80 190 Q 220 220 380 230" stroke="#818cf8" stroke-width="2.5"/>
+    <path d="M 80 190 Q 180 270 340 310" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,2"/>
+
+    <!-- Emerging Galaxies & CMB Radiations -->
+    <ellipse cx="280" cy="95" rx="22" ry="11" fill="#c084fc" transform="rotate(35 280 95)"/>
+    <ellipse cx="340" cy="150" rx="26" ry="12" fill="#818cf8" transform="rotate(-25 340 150)"/>
+    <ellipse cx="320" cy="245" rx="24" ry="10" fill="#38bdf8" transform="rotate(40 320 245)"/>
+    <ellipse cx="270" cy="315" rx="20" ry="9" fill="#f43f5e" transform="rotate(-30 270 315)"/>
+
+    <text x="210" y="350" fill="#e2e8f0" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="bold">13.8 Billion Year Expansion Timeline ➔</text>
+  </g>
+
+  <!-- Right: Cellular Aqueous Cytology (Kulla Shay'in Hayy) -->
+  <g transform="translate(460, 75)">
+    <rect x="0" y="0" width="410" height="28" rx="6" fill="#1e293b"/>
+    <text x="12" y="18" fill="#38bdf8" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="bold">2. AQUEOUS ORIGIN OF ALL CELLULAR LIFE (مِنَ الْمَاءِ حَيٍّ)</text>
+
+    <rect x="0" y="38" width="410" height="335" rx="8" fill="#030712" stroke="#1e293b"/>
+
+    <!-- Living Biological Cell Anatomy -->
+    <ellipse cx="205" cy="180" rx="140" ry="115" fill="#082f49" stroke="#38bdf8" stroke-width="2.5"/>
+    <text x="110" y="85" fill="#bae6fd" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="bold">Cell Membrane & Cytoplasm (سائٹوپلازم)</text>
+
+    <!-- Nucleus -->
+    <ellipse cx="205" cy="180" rx="45" ry="38" fill="#1e3a8a" stroke="#60a5fa" stroke-width="2"/>
+    <text x="180" y="185" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="bold">Nucleus (مرکزہ)</text>
+
+    <!-- Water H2O Molecules Grid in Cytosol -->
+    <g fill="#38bdf8">
+      <circle cx="120" cy="130" r="10" fill="url(#waterGlow)"/>
+      <circle cx="110" cy="120" r="5" fill="#e0f2fe"/>
+      <circle cx="130" cy="120" r="5" fill="#e0f2fe"/>
+
+      <circle cx="280" cy="140" r="10" fill="url(#waterGlow)"/>
+      <circle cx="270" cy="130" r="5" fill="#e0f2fe"/>
+      <circle cx="290" cy="130" r="5" fill="#e0f2fe"/>
+
+      <circle cx="130" cy="230" r="10" fill="url(#waterGlow)"/>
+      <circle cx="120" cy="220" r="5" fill="#e0f2fe"/>
+      <circle cx="140" cy="220" r="5" fill="#e0f2fe"/>
+
+      <circle cx="275" cy="225" r="10" fill="url(#waterGlow)"/>
+      <circle cx="265" cy="215" r="5" fill="#e0f2fe"/>
+      <circle cx="285" cy="215" r="5" fill="#e0f2fe"/>
+    </g>
+
+    <!-- Protoplasm Ratio Badge -->
+    <rect x="35" y="305" width="340" height="48" rx="6" fill="#0c4a6e" stroke="#0284c7"/>
+    <text x="45" y="324" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">CYTOLOGICAL FACT: 70% – 85% of Active Cytosol is Water (H₂O)</text>
+    <text x="45" y="340" fill="#bae6fd" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Every metabolic process and genetic replication strictly requires water solvent.</text>
+  </g>
+
+  <!-- Bottom Academic Citation -->
+  <rect x="0" y="465" width="900" height="55" fill="#020617"/>
+  <text x="25" y="488" fill="#38bdf8" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">ACADEMIC RESEARCH & SCIENTIFIC CITATION:</text>
+  <text x="25" y="504" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Stephen Hawking & Roger Penrose (Singularity Theorems) • Alberts et al., "Molecular Biology of the Cell" (Garland Science).</text>
+  <text x="875" y="495" fill="#64748b" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" text-anchor="end">Nuzool-ul-Quran Scientific Insight Series</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="geoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="crustGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#78716c"/>
+      <stop offset="100%" stop-color="#44403c"/>
+    </linearGradient>
+    <linearGradient id="mantleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="520" fill="url(#geoBg)"/>
+
+  <!-- Top Header Banner -->
+  <rect x="0" y="0" width="900" height="55" fill="#030712" opacity="0.85"/>
+  <rect x="25" y="14" width="165" height="28" rx="6" fill="#b45309"/>
+  <text x="35" y="32" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">🌍 GEOPHYSICS &amp; TECTONICS</text>
+  <text x="200" y="33" fill="#f8fafc" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="700">CONTINENTAL CRUST ISOSTASY &amp; DEEP MOUNTAIN ROOTS (أَوْتَادًا)</text>
+  <text x="875" y="35" fill="#fde047" font-family="'Amiri', serif" font-size="17" font-weight="bold" text-anchor="end">وَالْجِبَالَ أَوْتَادًا (النبأ: ۷)</text>
+
+  <!-- Cross-sectional Crust & Mantle Peg Diagram -->
+  <g transform="translate(40, 80)">
+    <rect x="0" y="0" width="820" height="340" rx="10" fill="#030712" stroke="#1e293b"/>
+
+    <!-- Mantle Asthenosphere Base (Dense Liquid Magma Layer) -->
+    <rect x="0" y="160" width="820" height="180" fill="url(#mantleGrad)"/>
+    <text x="25" y="315" fill="#fde68a" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="bold">Upper Mantle / Asthenosphere (کثیف میگما کی پرت)</text>
+
+    <!-- Continental Crust Baseline -->
+    <rect x="0" y="100" width="820" height="60" fill="url(#crustGrad)"/>
+    <text x="25" y="125" fill="#f5f5f4" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">Standard Continental Crust (قشرِ ارض ~35 km)</text>
+
+    <!-- Mountain Peak (Surface Elevation ~5 km) -->
+    <polygon points="320,100 410,25 500,100" fill="#a8a29e" stroke="#f5f5f4" stroke-width="2"/>
+    <text x="410" y="55" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Mountain Peak (+5 km)</text>
+
+    <!-- Deep Peg-like Root Penetrating into Dense Mantle (10-15x Deeper: ~65 km) -->
+    <polygon points="320,160 410,310 500,160" fill="#57534e" stroke="#eab308" stroke-width="2.5"/>
+    <text x="410" y="235" fill="#fef08a" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="bold" text-anchor="middle">أَوْتَادًا (STABILIZING PEG ROOT)</text>
+    <text x="410" y="255" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" text-anchor="middle">Deep Lithospheric Root (~65 km Depth)</text>
+
+    <!-- Airy-Heiskanen Balance Arrows -->
+    <g stroke="#38bdf8" stroke-width="3" stroke-linecap="round">
+      <line x1="390" y1="315" x2="390" y2="280"/>
+      <line x1="430" y1="315" x2="430" y2="280"/>
+    </g>
+    <text x="525" y="280" fill="#7dd3fc" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">Isostatic Buoyant Force ➔</text>
+  </g>
+
+  <!-- Bottom Academic Citation -->
+  <rect x="0" y="465" width="900" height="55" fill="#020617"/>
+  <text x="25" y="488" fill="#38bdf8" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">ACADEMIC RESEARCH & SCIENTIFIC CITATION:</text>
+  <text x="25" y="504" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Sir George Biddell Airy (Isostasy Theory) • Dr. Frank Press (Former President, US National Academy of Sciences - "Earth").</text>
+  <text x="875" y="495" fill="#64748b" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" text-anchor="end">Nuzool-ul-Quran Scientific Insight Series</text>
+</svg>

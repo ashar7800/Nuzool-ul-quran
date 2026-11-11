@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="medGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#075985"/>
+    </linearGradient>
+    <linearGradient id="atlGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#064e3b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="520" fill="#090d16"/>
+
+  <!-- Top Header Banner -->
+  <rect x="0" y="0" width="900" height="55" fill="#030712" opacity="0.85"/>
+  <rect x="25" y="14" width="165" height="28" rx="6" fill="#0284c7"/>
+  <text x="35" y="32" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">🌊 PHYSICAL OCEANOGRAPHY</text>
+  <text x="200" y="33" fill="#f8fafc" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="700">HALOCLINE &amp; PYCNOCLINE BARRIER BETWEEN CONFLUENT SEAS</text>
+  <text x="875" y="35" fill="#38bdf8" font-family="'Amiri', serif" font-size="17" font-weight="bold" text-anchor="end">مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ (الرحمن: ۱۹-۲۰)</text>
+
+  <!-- Cross-sectional Ocean Basin Diagram -->
+  <g transform="translate(40, 80)">
+    <rect x="0" y="0" width="820" height="340" rx="10" fill="#030712" stroke="#1e293b"/>
+
+    <!-- Left Sea (Mediterranean Sea: Salinity 38.5‰, Density 1.028 g/cm³) -->
+    <path d="M 0 50 L 410 80 L 410 340 L 0 340 Z" fill="url(#medGrad)"/>
+    <text x="30" y="85" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="bold">MEDITERRANEAN SEA WATER MASS</text>
+    <text x="30" y="105" fill="#bae6fd" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Salinity: 38.5 ‰ • High Density: 1.028 g/cm³ • Warmer Saline Core</text>
+
+    <!-- Right Sea (Atlantic Ocean: Salinity 35.5‰, Density 1.026 g/cm³) -->
+    <path d="M 410 80 L 820 50 L 820 340 L 410 340 Z" fill="url(#atlGrad)"/>
+    <text x="450" y="85" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="bold">ATLANTIC OCEAN WATER MASS</text>
+    <text x="450" y="105" fill="#a7f3d0" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Salinity: 35.5 ‰ • Lower Density: 1.026 g/cm³ • Fresher Inflow</text>
+
+    <!-- The Barrier / Pycnocline Front (بَرْزَخٌ) -->
+    <line x1="410" y1="50" x2="410" y2="340" stroke="#facc15" stroke-width="4" stroke-dasharray="8,4"/>
+    <rect x="330" y="180" width="160" height="36" rx="6" fill="#ca8a04" stroke="#fef08a" stroke-width="1.5"/>
+    <text x="410" y="202" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold" text-anchor="middle">بَرْزَخٌ (BARRIER FRONT)</text>
+
+    <text x="410" y="240" fill="#fef08a" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle">Thermodynamic Hydrostatic Equilibrium Prevents Total Mixing</text>
+  </g>
+
+  <!-- Bottom Academic Citation -->
+  <rect x="0" y="465" width="900" height="55" fill="#020617"/>
+  <text x="25" y="488" fill="#38bdf8" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="bold">ACADEMIC RESEARCH & SCIENTIFIC CITATION:</text>
+  <text x="25" y="504" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Dr. William Hay (University of Colorado) • Pickard &amp; Emery, "Descriptive Physical Oceanography" (Pergamon Press).</text>
+  <text x="875" y="495" fill="#64748b" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" text-anchor="end">Nuzool-ul-Quran Scientific Insight Series</text>
+</svg>

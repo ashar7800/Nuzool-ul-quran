@@ -366,7 +366,7 @@ function generateScientificDiagramSvg(type) {
 }
 
 /**
- * Renders Science & Quranic Signs Section (Ilm o Hikmat).
+ * Renders Science & Quranic Signs Section (Ilm o Hikmat) with High-Resolution Colored Visuals.
  */
 function renderScientificInsights(item) {
   const section = document.getElementById('scientific-insights-section');
@@ -388,7 +388,66 @@ function renderScientificInsights(item) {
     </li>
   `).join('');
 
-  const diagramHtml = generateScientificDiagramSvg(sci.diagram?.type || 'embryology');
+  const diagram = sci.diagram || {};
+  const imgUrl = diagram.image_url || diagram.high_res_url || '';
+  const captionEn = diagram.caption_en || diagram.title || sci.title_en;
+  const captionUr = diagram.caption_ur || sci.title_ur;
+  const sciSource = diagram.scientific_source || (sci.citations ? sci.citations[0] : 'Peer-Reviewed Scientific Observation');
+
+  // Interactive Colored Preview Container
+  let visualPreviewHtml = '';
+  if (imgUrl) {
+    visualPreviewHtml = `
+      <div 
+        onclick="openScientificModal('${escapeHtml(sci.title_en)}', '${escapeHtml(sci.title_ur)}', '${escapeHtml(sci.summary_ur)}', '${escapeHtml(sci.summary_roman)}', '${imgUrl}', '${escapeHtml(captionEn)}', '${escapeHtml(captionUr)}', '${escapeHtml(sciSource)}')"
+        class="cursor-pointer group relative border border-emerald-500/20 shadow-md rounded-xl overflow-hidden bg-slate-950 transition hover:border-emerald-500/40"
+        title="HD Full-Color Visual: Bada karke dekhiye (Click to Zoom)"
+      >
+        <div class="relative w-full bg-slate-950 flex items-center justify-center p-1.5 sm:p-2">
+          <img 
+            src="${imgUrl}" 
+            alt="${captionEn}" 
+            class="object-contain max-h-72 w-full rounded-lg transition-transform duration-300 group-hover:scale-[1.015]"
+            loading="lazy"
+          />
+          <div class="absolute inset-0 bg-slate-950/25 group-hover:bg-slate-950/40 transition flex items-center justify-center pointer-events-none">
+            <span class="bg-black/80 text-white text-[11px] font-semibold px-3 py-1.5 rounded-lg border border-emerald-500/40 shadow-lg backdrop-blur-xs flex items-center gap-1.5 group-hover:scale-105 transition-transform">
+              <span class="text-emerald-400">🔍</span>
+              <span>HD Colored Visual • Click to Zoom</span>
+            </span>
+          </div>
+        </div>
+        <!-- Labeled Bilingual Sub-caption Bar -->
+        <div class="bg-slate-900/90 border-t border-slate-800 px-3 py-2 space-y-0.5 text-left">
+          <p class="text-[11px] text-emerald-300 font-semibold leading-snug" dir="ltr">
+            ${captionEn}
+          </p>
+          <p class="font-urdu text-[11.5px] text-stone-300 text-right leading-normal" dir="rtl">
+            ${captionUr}
+          </p>
+          <p class="text-[9.5px] text-slate-400 font-medium italic pt-0.5" dir="ltr">
+            Source: ${sciSource}
+          </p>
+        </div>
+      </div>
+    `;
+  } else {
+    const fallbackSvg = generateScientificDiagramSvg(diagram.type || 'embryology');
+    visualPreviewHtml = `
+      <div 
+        onclick="openScientificModal('${escapeHtml(sci.title_en)}', '${escapeHtml(sci.title_ur)}', '${escapeHtml(sci.summary_ur)}', '${escapeHtml(sci.summary_roman)}', '', '${escapeHtml(captionEn)}', '${escapeHtml(captionUr)}', '${escapeHtml(sciSource)}', '${diagram.type || 'embryology'}')"
+        class="cursor-pointer group relative border border-emerald-500/20 shadow-md rounded-xl overflow-hidden bg-slate-950 transition"
+      >
+        ${fallbackSvg}
+        <div class="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition flex items-center justify-center">
+          <span class="bg-black/80 text-white text-xs px-2.5 py-1 rounded-md font-semibold backdrop-blur-xs flex items-center gap-1">
+            <span>🔍</span>
+            <span>Click to Zoom</span>
+          </span>
+        </div>
+      </div>
+    `;
+  }
 
   container.innerHTML = `
     <div class="p-3.5 rounded-xl bg-gradient-to-br from-emerald-50/90 to-teal-50/70 border border-emerald-300/80 shadow-sm space-y-3">
@@ -409,30 +468,18 @@ function renderScientificInsights(item) {
         <p class="font-urdu text-xs sm:text-sm text-emerald-900 font-bold text-right mt-0.5" dir="rtl">${sci.title_ur}</p>
       </div>
 
-      <!-- Diagram / Visual preview with Click to Zoom Modal -->
-      <div 
-        onclick="openScientificModal('${escapeHtml(sci.title_en)}', '${escapeHtml(sci.summary_ur)}', '${escapeHtml(sci.summary_roman)}', '${sci.diagram?.type || 'embryology'}')"
-        class="cursor-pointer group relative rounded-lg overflow-hidden border border-emerald-300 shadow-2xs hover:shadow-md transition"
-        title="Bada karke dekhiye (Click to Zoom)"
-      >
-        ${diagramHtml}
-        <div class="absolute inset-0 bg-emerald-950/20 group-hover:bg-emerald-950/40 transition flex items-center justify-center">
-          <span class="bg-black/75 text-white text-xs px-2.5 py-1 rounded-md font-semibold backdrop-blur-xs flex items-center gap-1">
-            <span>🔍</span>
-            <span>Click to Zoom & View Citations</span>
-          </span>
-        </div>
-      </div>
+      <!-- High-Resolution Colored Scientific Diagram Frame -->
+      ${visualPreviewHtml}
 
-      <!-- Summary -->
-      <div class="space-y-1.5 text-xs">
+      <!-- Discovery Summary -->
+      <div class="space-y-1.5 text-xs pt-1">
         <p class="font-urdu text-xs text-stone-800 text-right leading-relaxed" dir="rtl">${sci.summary_ur}</p>
         <p class="text-stone-600 italic text-left leading-relaxed pl-1" dir="ltr">${sci.summary_roman}</p>
       </div>
 
       <!-- Citations -->
       <div class="pt-2 border-t border-emerald-200/80 space-y-1">
-        <span class="text-[10px] font-bold text-stone-500 uppercase tracking-wider">Research Citations:</span>
+        <span class="text-[10px] font-bold text-stone-500 uppercase tracking-wider">Research Citations & Sources:</span>
         <ul class="space-y-1">
           ${citationsHtml}
         </ul>
@@ -447,40 +494,96 @@ function escapeHtml(str) {
 }
 
 /**
- * Interactive Click-to-Zoom Scientific Modal.
+ * Interactive Full-Color High-Resolution Lightbox Modal.
  */
-function openScientificModal(title, summaryUr, summaryRoman, type) {
+function openScientificModal(titleEn, titleUr, summaryUr, summaryRoman, imgUrl, captionEn, captionUr, sciSource, fallbackType = 'embryology') {
   let modal = document.getElementById('scientific-zoom-modal');
   if (!modal) {
     modal = document.createElement('div');
     modal.id = 'scientific-zoom-modal';
-    modal.className = 'fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4';
+    modal.className = 'fixed inset-0 bg-black/85 backdrop-blur-md z-50 flex items-center justify-center p-3 sm:p-6';
     modal.onclick = (e) => {
       if (e.target === modal) closeScientificModal();
     };
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeScientificModal();
+    });
     document.body.appendChild(modal);
   }
 
-  const svgDiagram = generateScientificDiagramSvg(type);
+  let visualElementHtml = '';
+  if (imgUrl) {
+    visualElementHtml = `
+      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-3 flex items-center justify-center shadow-inner">
+        <img 
+          src="${imgUrl}" 
+          alt="${captionEn || titleEn}" 
+          class="max-h-[62vh] w-auto max-w-full object-contain rounded-lg shadow-2xl"
+        />
+      </div>
+    `;
+  } else {
+    visualElementHtml = `
+      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-3">
+        ${generateScientificDiagramSvg(fallbackType)}
+      </div>
+    `;
+  }
 
   modal.innerHTML = `
-    <div class="bg-white rounded-2xl max-w-2xl w-full p-5 space-y-4 shadow-2xl border border-emerald-200 max-h-[90vh] overflow-y-auto" onclick="event.stopPropagation()">
-      <div class="flex items-center justify-between border-b border-stone-200 pb-3">
-        <h3 class="text-base font-bold text-emerald-950">${title}</h3>
-        <button onclick="closeScientificModal()" class="w-8 h-8 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-600 font-bold flex items-center justify-center transition">
+    <div class="bg-slate-950 text-white rounded-2xl max-w-4xl w-full p-4 sm:p-6 space-y-4 shadow-2xl border border-emerald-500/30 max-h-[92vh] overflow-y-auto" onclick="event.stopPropagation()">
+      <!-- Modal Top Bar -->
+      <div class="flex items-start justify-between border-b border-slate-800 pb-3 gap-3">
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="text-xs bg-emerald-700 text-white px-2 py-0.5 rounded font-bold uppercase tracking-wider">
+              HD Scientific Reference
+            </span>
+            <span class="text-xs text-emerald-400 font-semibold truncate max-w-md">${titleEn}</span>
+          </div>
+          ${titleUr ? `<p class="font-urdu text-sm text-emerald-200 font-bold text-right mt-1" dir="rtl">${titleUr}</p>` : ''}
+        </div>
+        <button 
+          onclick="closeScientificModal()" 
+          class="w-8 h-8 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white font-bold flex items-center justify-center transition shrink-0 cursor-pointer"
+          title="Band karein (Esc)"
+        >
           ✕
         </button>
       </div>
-      <div>
-        ${svgDiagram}
+
+      <!-- High-Resolution Colored Visual -->
+      ${visualElementHtml}
+
+      <!-- Detailed Caption & Scientific Source Attribution -->
+      <div class="bg-slate-900 border border-slate-800/80 rounded-xl p-3.5 space-y-2">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-1 border-b border-slate-800 pb-2">
+          <p class="text-xs font-bold text-emerald-300 leading-snug" dir="ltr">
+            ${captionEn || titleEn}
+          </p>
+          <p class="font-urdu text-xs text-stone-200 font-semibold text-right" dir="rtl">
+            ${captionUr || titleUr}
+          </p>
+        </div>
+        <p class="text-[11px] text-slate-400 italic">
+          <strong class="text-slate-300">Scientific Attribution:</strong> ${sciSource || 'Peer-reviewed clinical/observational reference'}
+        </p>
       </div>
-      <div class="space-y-2 text-xs">
-        <p class="font-urdu text-sm text-stone-800 text-right leading-relaxed" dir="rtl">${summaryUr}</p>
-        <p class="text-xs text-stone-600 italic leading-relaxed text-left" dir="ltr">${summaryRoman}</p>
+
+      <!-- Scientific Discovery Explanation -->
+      <div class="space-y-2 text-xs bg-slate-900/50 p-3 rounded-xl border border-slate-800/50">
+        <p class="font-urdu text-xs sm:text-sm text-stone-200 text-right leading-relaxed" dir="rtl">${summaryUr}</p>
+        <p class="text-xs text-slate-300 italic leading-relaxed text-left pl-1" dir="ltr">${summaryRoman}</p>
       </div>
-      <div class="pt-3 border-t border-stone-100 flex justify-end">
-        <button onclick="closeScientificModal()" class="px-4 py-1.5 rounded-lg bg-emerald-800 text-white font-semibold text-xs shadow-xs hover:bg-emerald-900 transition">
-          Theek Hai (Close)
+
+      <!-- Bottom Action Bar -->
+      <div class="pt-2 border-t border-slate-800 flex items-center justify-between">
+        <span class="text-[10px] text-slate-400">Press <kbd class="px-1.5 py-0.5 bg-slate-800 border border-slate-700 rounded text-slate-300">Esc</kbd> or click outside to close</span>
+        <button 
+          onclick="closeScientificModal()" 
+          class="px-5 py-2 rounded-lg bg-emerald-700 hover:bg-emerald-600 text-white font-bold text-xs shadow-md transition cursor-pointer"
+        >
+          Theek Hai (Close Lightbox)
         </button>
       </div>
     </div>
