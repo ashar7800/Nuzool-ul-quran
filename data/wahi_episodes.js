@@ -1,5 +1,4 @@
-// Complete 100% Chronological Quran Wahi Units Dataset (All 6,236 Verses)
-// Auto-generated for zero-CORS browser support
+// Complete 100% Chronological Quran Wahi Units Dataset (All 6,236 Verses) with Enriched Live Hyperlinks
 window.WAHI_EPISODES = [
   {
     "id": 1,
@@ -25,7 +24,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "غارِ حرا میں جب رسول اللہ ﷺ مصروفِ عبادت تھے، حضرت جبرائیل علیہ السلام پہلی بار تشریف لائے اور فرمایا 'اقْرَأْ' (پڑھیے)۔ آپ ﷺ نے فرمایا: 'ما أنا بقارئ'۔ فرشتے نے تین مرتبہ بھینچ کر یہ پانچ آیات تلاوت فرمائیں۔",
       "roman": "Ghar-e-Hira mein jab Rasoolullah ﷺ ibadat mein mashghool the, Hazrat Jibreel A.S. tashreef laye aur 'Iqra' farmaya. Teen martaba bheinchnay ke baad yeh awwaleen 5 aayatein nazil huin.",
-      "reference": "Sahih Bukhari: Hadees #3 (Kitab Bad' al-Wahi), Musnad Ahmad"
+      "reference": "Sahih Bukhari: Hadees #3 (Kitab Bad' al-Wahi), Musnad Ahmad",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=96&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "فَأَخَذَنِي فَغَطَّنِي حَتَّى بَلَغَ مِنِّي الْجَهْدَ ثُمَّ أَرْسَلَنِي فَقَالَ: اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
@@ -35,26 +35,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Bad' al-Wahi",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "3",
+      "ref_url": "https://sunnah.com/bukhari:3"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Alaq 1-5",
         "urdu": "ابن کثیر فرماتے ہیں کہ یہ آیات کائنات پر اللہ کی پہلی اور سب سے عظیم رحمت ہیں جس میں انسان کو علم و قلم کے ذریعے شرف بخشا گیا۔",
-        "roman": "Ibn Kathir farmate hain ki yeh awwaleen aayatein Allah ki pehli nemat hain jisme insaan ko qalam aur ilm ke zariye sarfarazi bakhshi gayi."
+        "roman": "Ibn Kathir farmate hain ki yeh awwaleen aayatein Allah ki pehli nemat hain jisme insaan ko qalam aur ilm ke zariye sarfarazi bakhshi gayi.",
+        "ref_url": "https://quran.com/96:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری فرماتے ہیں کہ 'اقرأ باسم ربک' کا مفہوم ہے: اپنے اس رب کی یاد اور توحید کے ساتھ تلاوت کیجیے جس نے تمام کائنات کو پیدا فرمایا۔",
-        "roman": "Imam al-Tabari farmate hain ki is hukum se Nabi Kareem ﷺ ko Nabuwwat ke azeem farize ka aaghaz farmaya gaya."
+        "roman": "Imam al-Tabari farmate hain ki is hukum se Nabi Kareem ﷺ ko Nabuwwat ke azeem farize ka aaghaz farmaya gaya.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=96&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Alaq Dibacha",
         "urdu": "تفہیم القرآن کے مطابق غارِ حرا کی یہ ساعت تاریخِ انسانی کا سب سے بڑا موڑ تھی جہاں سے علم و وحی کا آفتاب طلوع ہوا۔",
-        "roman": "Maududi saheb likhte hain ki yahan se insaani tareekh ka naya daur shuru hota hai jisme wahi-e-ilaahi ko tamam rehnumayi ka marqaz banaya gaya."
+        "roman": "Maududi saheb likhte hain ki yahan se insaani tareekh ka naya daur shuru hota hai jisme wahi-e-ilaahi ko tamam rehnumayi ka marqaz banaya gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/96.1"
       }
     }
   },
@@ -82,7 +88,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "جب قریش کے سرداروں نے پہلی وحی کی خبر سن کر رسول اللہ ﷺ پر مجنون ہونے کی تہمت لگائی، تو اللہ تعالیٰ نے قلم اور تحریر کی قسم کھا کر نبی ﷺ کے بلند کردار کی گواہی دی اور تسلی فرمائی۔",
       "roman": "Pehli wahi ke baad kuffar ne tohmat lagayi, tab Allah ne qalam ki qasam kha kar Nabi kareem ke aala kirdar ki tasalli farmayi.",
-      "reference": "Lubab an-Nuqul fi Asbab an-Nuzul by Imam Suyuti, Surah Al-Qalam"
+      "reference": "Lubab an-Nuqul fi Asbab an-Nuzul by Imam Suyuti, Surah Al-Qalam",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=68&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "كَانَ خُلُقُهُ الْقُرْآنَ",
@@ -92,26 +99,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Salat al-Musafirin",
       "narrator": "Rawi: Sa'd bin Hisham (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "746",
+      "ref_url": "https://sunnah.com/muslim:746"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'وانک لعلی خلق عظیم' کا مطلب ہے کہ آپ کا دین اور سیرت وہ ہے جس کا حکم قرآن نے دیا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki Allah ne qalam ki qasam kha kar sabit kiya ki Nabi majnoon nahi balke azeem tareen ikhlaq par faaiz hain."
+        "roman": "Ibn Kathir farmate hain ki Allah ne qalam ki qasam kha kar sabit kiya ki Nabi majnoon nahi balke azeem tareen ikhlaq par faaiz hain.",
+        "ref_url": "https://quran.com/68:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری فرماتے ہیں کہ 'خلق عظیم' سے مراد اسلام کا کامل ترین ادب اور حق پر صبر کی وہ چٹان ہے جس کے سامنے مخالفین بے بس ہو گئے۔",
-        "roman": "Imam Tabari ke mutabiq kuffar ke taane Nabi ﷺ ke paak kirdar ke samne raakh ban gaye."
+        "roman": "Imam Tabari ke mutabiq kuffar ke taane Nabi ﷺ ke paak kirdar ke samne raakh ban gaye.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=68&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ کفر کے منفی پروپیگنڈے کا اخلاقی جواب تھا کہ جس کی شرافت کی چالیس سال گواہی دی، اسے دیوانہ کہنا ان کی اخلاقی پستی ہے۔",
-        "roman": "Maududi saheb farmate hain ki dushman ke jhoote ilzamat ka muqabla Quran ne daleel aur kirdar ki bulandi se kiya."
+        "roman": "Maududi saheb farmate hain ki dushman ke jhoote ilzamat ka muqabla Quran ne daleel aur kirdar ki bulandi se kiya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/68.1"
       }
     }
   },
@@ -138,7 +151,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "قریش کی جانب سے رسول اللہ ﷺ پر لگائے گئے جھوٹے الزامات کی تردید اور نبی ﷺ کی تسلی کے لیے یہ سورت نازل ہوئی۔",
       "roman": "Pehli wahi ke baad jab kuffar ne tohmat lagayi, tab Allah ne qalam ki qasam kha kar Nabi kareem ke aala kirdar ki tasalli farmayi.",
-      "reference": "Lubab an-Nuqul fi Asbab an-Nuzul by Imam Suyuti, Surah Al-Qalam."
+      "reference": "Lubab an-Nuqul fi Asbab an-Nuzul by Imam Suyuti, Surah Al-Qalam.",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=68&tAyahNo=8&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "كَانَ خُلُقُهُ الْقُرْآنَ",
@@ -148,26 +162,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Salat al-Musafirin (باب جامع صلاة الليل)",
       "narrator": "Rawi: Sa'd bin Hisham bin Amir",
       "grade": "Sahih",
-      "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali"
+      "gradingAuthority": "Hukm: Sahih Muslim Sanad-e-Aali",
+      "book": "Sahih Muslim",
+      "hadithNumber": "746",
+      "ref_url": "https://sunnah.com/muslim:746"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Qalam",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے قلم کی عظمت کی قسم کھائی ہے۔ قلم سے مراد وہ لوح و محفوظ کا قلم بھی ہے جس سے تقدیر لکھی گئی اور عام قلم بھی۔ اور آپ ﷺ پر جنون کا الزام باطل ثابت کیا گیا۔",
-        "roman": "Ibn Kathir ke mutabiq Allah ne qalam ki qasam kha kar Nabi ﷺ ke aala ikhlaq ka zikr kiya aur dushmano ke majnoon hone ke bohtan ko jhoota qaraar diya."
+        "roman": "Ibn Kathir ke mutabiq Allah ne qalam ki qasam kha kar Nabi ﷺ ke aala ikhlaq ka zikr kiya aur dushmano ke majnoon hone ke bohtan ko jhoota qaraar diya.",
+        "ref_url": "https://quran.com/68:8/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23, Surah Nun wal-Qalam",
         "urdu": "امام طبری لکھتے ہیں کہ اہل علم کے نزدیک اس قلم سے مراد وہ قلم ہے جس سے اللہ کے فرشتوں نے بندوں کے اعمال اور تقدیر کو تحریر کیا۔ 'خلق عظیم' سے مراد قرآن مجید کا کامل ترین ادب اور دینِ اسلام ہے۔",
-        "roman": "Imam al-Tabari farmate hain ki 'Khuluqin Azeem' se muraad deen-e-Islam aur Quran ki mukammal itteba hai."
+        "roman": "Imam al-Tabari farmate hain ki 'Khuluqin Azeem' se muraad deen-e-Islam aur Quran ki mukammal itteba hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=68&tAyahNo=8&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Nun wal-Qalam",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت ان معاندین کو للکارتی ہے جو نبوت کے ابتدائی دور میں رسول اللہ ﷺ کے خلاف منفی پروپیگنڈا چلا رہے تھے۔ ان کے اوچھے ہتھکنڈوں کے مقابلے میں اخلاق کی برتری دکھائی گئی۔",
-        "roman": "Maududi saheb likhte hain ki is surah mein kuffar ke jhoote ilzamat ka muqabla daleel aur shandar kirdar se kiya gaya hai."
+        "roman": "Maududi saheb likhte hain ki is surah mein kuffar ke jhoote ilzamat ka muqabla daleel aur shandar kirdar se kiya gaya hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/68.8"
       }
     },
     "id": 3
@@ -196,7 +216,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "دعوتِ حق کا بھاری بوجھ اٹھانے کے لیے رات کے وقت تنہائی میں عبادت، قیام اور تدبر کے ساتھ تلاوتِ قرآن کا حکم دیا گیا تاکہ نفس کی مضبوط تربیت ہو۔",
       "roman": "Dawat-e-Islam ke azeem bojh ke liye Roohani quwwat darkaar thi, isliye raat me Tahajjud aur thehar thehar kar tilawat ka hukum hua.",
-      "reference": "Al-Durr al-Manthur by Imam Suyuti, Surah Al-Muzzammil"
+      "reference": "Al-Durr al-Manthur by Imam Suyuti, Surah Al-Muzzammil",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=73&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
@@ -206,26 +227,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Tatwwu'",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Allama Albani"
+      "gradingAuthority": "Allama Albani",
+      "book": "Sunan Abi Dawud",
+      "hadithNumber": "1342",
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ ترتیل سے مراد ٹھہر ٹھہر کر اور تدبر کے ساتھ پڑھنا ہے، رات کی تنہائی دل کو یکسوئی بخشتی ہے۔",
-        "roman": "Ibn Kathir ke mutabiq raat ki tilawat se dil mein noor aur roohani istiqamat paida hoti hai."
+        "roman": "Ibn Kathir ke mutabiq raat ki tilawat se dil mein noor aur roohani istiqamat paida hoti hai.",
+        "ref_url": "https://quran.com/73:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری لکھتے ہیں کہ 'مزمل' پیار بھرا خطاب ہے جس میں فرمایا گیا کہ نیند کی چادر چھوڑ کر رب کے حضور کھڑے ہو جائیے۔",
-        "roman": "Imam Tabari farmate hain ki yeh khitaab bepanah shafqat par mabni hai jisme deen ki zimmedariyon ki tayyari karwayi gayi."
+        "roman": "Imam Tabari farmate hain ki yeh khitaab bepanah shafqat par mabni hai jisme deen ki zimmedariyon ki tayyari karwayi gayi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=73&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ تحریکِ اسلامی کے علمبرداروں کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا۔",
-        "roman": "Maududi farmate hain ki raat ki ibadat momin ki roohani battery recharge karti hai."
+        "roman": "Maududi farmate hain ki raat ki ibadat momin ki roohani battery recharge karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/73.1"
       }
     }
   },
@@ -252,7 +279,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "دعوت حق کا بھاری بوجھ اٹھانے کے لیے رات کے وقت قیام اور تلاوت قرآن کے ذریعے روحانی تیاری کا حکم دیا گیا۔",
       "roman": "Dawat-e-Islam ke azeem bojh ke liye Roohani quwwat darkaar thi, isliye raat me Tahajjud ki pabandi ka hukum hua.",
-      "reference": "Al-Durr al-Manthur by Imam Jalaluddin al-Suyuti, Surah Al-Muzzammil."
+      "reference": "Al-Durr al-Manthur by Imam Jalaluddin al-Suyuti, Surah Al-Muzzammil.",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=73&tAyahNo=9&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
@@ -262,26 +290,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Tatwwu' (باب قيام الليل)",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)"
+      "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
+      "book": "Sunan Abi Dawud",
+      "hadithNumber": "1342",
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Muzzammil",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے اپنے نبی ﷺ کو رات کے وقت تنہائی میں عبادت کرنے کا حکم دیا تاکہ دن کے وقت تبلیغ رسالت کی جو مشکلات ہیں ان کو برداشت کرنے کا حوصلہ مل سکے۔ ترتیل سے مراد ٹھہر ٹھہر کر اور تدبر کے ساتھ پڑھنا ہے۔",
-        "roman": "Ibn Kathir ke mutabiq Qiyam-ul-Layl roohani quwwat ka zariya banaya gaya tha taaki 'Qawlan Saqeela' (bhari hukum) ko uthane ki salahiyat paida ho sake."
+        "roman": "Ibn Kathir ke mutabiq Qiyam-ul-Layl roohani quwwat ka zariya banaya gaya tha taaki 'Qawlan Saqeela' (bhari hukum) ko uthane ki salahiyat paida ho sake.",
+        "ref_url": "https://quran.com/73:9/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23, Surah Al-Muzzammil",
         "urdu": "امام طبری لکھتے ہیں کہ 'مزمل' وہ ہے جس نے کپڑے اپنے اوپر لپیٹ رکھے ہوں۔ اللہ تعالیٰ نے محبت آمیز انداز میں پکار کر فرمایا کہ نیند کا لباس چھوڑ کر اپنے رب کے حضور کھڑے ہو جائیے۔",
-        "roman": "Imam al-Tabari farmate hain ki yeh khitaab nihayat piyar bhara hai jisme Nabi ﷺ ko aane wali zimmedariyon ke liye raat ke waqt tilawat-e-Quran ki takeed ki gayi."
+        "roman": "Imam al-Tabari farmate hain ki yeh khitaab nihayat piyar bhara hai jisme Nabi ﷺ ko aane wali zimmedariyon ke liye raat ke waqt tilawat-e-Quran ki takeed ki gayi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=73&tAyahNo=9&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Muzzammil",
         "urdu": "تفہیم القرآن کے مطابق یہ ایک مومن کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا تاکہ تحریک اسلامی کے علمبردار ہر قسم کی مخالفتوں کا خندہ پیشانی سے سامنا کر سکیں۔",
-        "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai."
+        "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/73.9"
       }
     },
     "id": 5
@@ -310,7 +344,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "وحی کے وقفے کے بعد جب رسول اللہ ﷺ نے حضرت جبرائیل کو آسمان و زمین کے درمیان دیکھا تو گھر آ کر چادر اوڑھ لی۔ تب آیات نازل ہوئیں کہ اب آرام کا وقت ختم، اٹھ کر دنیا کو بیدار کیجیے۔",
       "roman": "Fatrah al-Wahi ke baad jab Jibreel A.S. ko dobara dekha, tab Nabi ﷺ ne ghar aakar chadar odhi. Tab Allah ne 'Qum fa-andhir' farma kar dawat-e-aam ka hukum diya.",
-      "reference": "Sahih Bukhari: Hadees #4922 (Tafsir Surah Al-Muddaththir)"
+      "reference": "Sahih Bukhari: Hadees #4922 (Tafsir Surah Al-Muddaththir)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=74&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "جَاوَرْتُ بِحِرَاءٍ فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ فَنُودِيتُ...",
@@ -320,26 +355,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4922",
+      "ref_url": "https://sunnah.com/bukhari:4922"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ علق سے نبوت اور مدثر سے رسالت کا فرض سونپا گیا۔ 'وربک فکبر' سے صرف اللہ کی کبریائی کا پرچم بلند کرنا ہے۔",
-        "roman": "Ibn Kathir ke mutabiq 'Qum fa-andhir' se ba-qaaida tableegh aur risalat ka khula aelaan shuru hua."
+        "roman": "Ibn Kathir ke mutabiq 'Qum fa-andhir' se ba-qaaida tableegh aur risalat ka khula aelaan shuru hua.",
+        "ref_url": "https://quran.com/74:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری لکھتے ہیں کہ 'وثیابک فطہر' سے مراد اعمال اور اخلاق کو ہر قسم کے شرک اور گندگی سے پاک رکھنا ہے۔",
-        "roman": "Imam Tabari farmate hain ki da'ee-e-haqq ke liye pakizgi aur Rab ki badayi bayan karna awwaleen shart hai."
+        "roman": "Imam Tabari farmate hain ki da'ee-e-haqq ke liye pakizgi aur Rab ki badayi bayan karna awwaleen shart hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=74&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ آرام کی زندگی سے نکل کر جہدِ مسلسل کے میدان میں کود پڑنے کا الٰہی فرمان تھا۔",
-        "roman": "Maududi farmate hain ki yahan se Rasoolullah ﷺ ki risalat ka amli inqilab shuru hota hai."
+        "roman": "Maududi farmate hain ki yahan se Rasoolullah ﷺ ki risalat ka amli inqilab shuru hota hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/74.1"
       }
     }
   },
@@ -366,7 +407,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "نماز کی باقاعدہ فرضیت کے آغاز میں پوری سورت ایک ساتھ نازل ہوئی تاکہ ہر نماز کی ہر رکعت میں بندہ اپنے رب سے سیدھے راستے کی ہدایت مانگ سکے۔",
       "roman": "Namaz farz hone ke aaghaz me poori Surah ek sath nazil hui taaki banda Rab se seedhe raste ki hidayat maang sake.",
-      "reference": "Tafsir Ibn Kathir, Dibacha Surah Al-Fatihah."
+      "reference": "Tafsir Ibn Kathir, Dibacha Surah Al-Fatihah.",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=1&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "قَالَ اللَّهُ تَعَالَى: قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ...",
@@ -376,26 +418,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab as-Salat (باب وجوب قراءة الفاتحة)",
       "narrator": "Rawi: Hazrat Abu Hurairah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "395",
+      "ref_url": "https://sunnah.com/muslim:395"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 1",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورہ فاتحہ کو ام الکتاب، سبع مثانی اور شفاء کہا گیا ہے۔ اس میں تمام اسلامی عقائد (توحید، رسالت، معاد) اور عبودیت کا خلاصہ موجود ہے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh Surah Quran ka khulasa hai jo bandey aur uske Rab ke darmiyan ahd aur shukr guzari ka rasta sikhata hai."
+        "roman": "Ibn Kathir farmate hain ki yeh Surah Quran ka khulasa hai jo bandey aur uske Rab ke darmiyan ahd aur shukr guzari ka rasta sikhata hai.",
+        "ref_url": "https://quran.com/1:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 1",
         "urdu": "امام طبری لکھتے ہیں کہ صراط مستقیم سے مراد دینِ اسلام، قرآنِ مجید اور نبی اکرم ﷺ اور صحابہ کرام کی پیروی کا شفاف راستہ ہے۔",
-        "roman": "Imam Tabari ke mutabiq Sirat-e-Mustaqeem se muraad Allah ki ita'at aur Quran-e-Pak ka rasta hai."
+        "roman": "Imam Tabari ke mutabiq Sirat-e-Mustaqeem se muraad Allah ki ita'at aur Quran-e-Pak ka rasta hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=1&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ دراصل ایک دعا ہے جو اللہ نے اپنے بندے کو سکھائی، اور باقی پورا قرآن اس دعا کا جواب ہے۔",
-        "roman": "Maududi farmate hain ki Surah Fatihah bandey ki taraf se dua hai aur poora Quran-e-Pak us dua ka ilahi jawab hai."
+        "roman": "Maududi farmate hain ki Surah Fatihah bandey ki taraf se dua hai aur poora Quran-e-Pak us dua ka ilahi jawab hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/1.1"
       }
     },
     "id": 7
@@ -423,7 +471,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "جب رسول اللہ ﷺ نے کوہِ صفا پر کھڑے ہو کر تمام قبائل کو پکارا اور دعوت دی، تو ابو لہب نے بدزبانی کرتے ہوئے کہا 'تباً لک' (تیرے لیے ہلاکت ہو)، اس پر یہ سورت نازل ہوئی۔",
       "roman": "Jab Rasoolullah ﷺ ne Kohan-e-Safa par khade hokar dawat di, toh Abu Lahab ne kaha 'Tabbat laka'. Is par yeh surah nazil hui.",
-      "reference": "Sahih Bukhari: Kitab at-Tafseer (Surah Tabbat Yada Abi Lahab)."
+      "reference": "Sahih Bukhari: Kitab at-Tafseer (Surah Tabbat Yada Abi Lahab).",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=111&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "صَعِدَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الصَّفَا فَقَالَ: يَا صَبَاحَاهْ...",
@@ -433,26 +482,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4770",
+      "ref_url": "https://sunnah.com/bukhari:4770"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر لکھتے ہیں کہ یہ قرآن کے زندہ معجزات میں سے ہے کہ ابو لہب اور اس کی بیوی ام جمیل کے بارے میں پیش گوئی کی گئی کہ وہ کفر پر ہی مریں گے اور حقیقت میں انہوں نے کبھی اسلام قبول نہ کیا۔",
-        "roman": "Ibn Kathir ke mutabiq yeh Quran ka azeem tareekhi moajaza tha ki Abu Lahab ko azaab ki khabar uski maut se barson pehle di gayi."
+        "roman": "Ibn Kathir ke mutabiq yeh Quran ka azeem tareekhi moajaza tha ki Abu Lahab ko azaab ki khabar uski maut se barson pehle di gayi.",
+        "ref_url": "https://quran.com/111:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری فرماتے ہیں کہ 'تبت یدا' سے مراد اس کے اعمال کا خسارہ اور اس کی طاقت کا زوال ہے جو بدر کے بعد شدید ذلت کی موت مرا۔",
-        "roman": "Imam Tabari ke mutabiq Abu Lahab ka saara ghamand aur daulat uske kisi kaam na aayi."
+        "roman": "Imam Tabari ke mutabiq Abu Lahab ka saara ghamand aur daulat uske kisi kaam na aayi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=111&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ ان دشمنانِ حق کے انجام کا ایک نمونہ تھا جو رشتہ داری اور سرداری کے گھمنڈ میں اللہ کے سچے دین کی مخالفت کرتے تھے۔",
-        "roman": "Maududi saheb farmate hain ki jo bhi deen-e-haqq ke samne rukawat banega uska anjaam Abu Lahab jaisa hoga."
+        "roman": "Maududi saheb farmate hain ki jo bhi deen-e-haqq ke samne rukawat banega uska anjaam Abu Lahab jaisa hoga.",
+        "ref_url": "https://quranx.com/tafsir/maududi/111.1"
       }
     },
     "id": 8
@@ -481,7 +536,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "ابو جہل نے رسول اللہ ﷺ کو مقامِ ابراہیم پر نماز پڑھنے سے روکا اور دھمکی دی کہ اگر آپ سجدہ کریں گے تو گردن روند دوں گا۔ تب اللہ نے اس کی سرکشی پر سخت آیات نازل فرمائیں۔",
       "roman": "Surah Al-Alaq ka yeh doosra hissa (Aayat 6–19) tab nazil hua jab Abu Jahl ne Nabi ﷺ ko Ka'aba ke paas Namaz padhne se roka aur bad-tamizi ki.",
-      "reference": "Sahih Muslim: Hadees #2797 (Sifat al-Munafiqin), Jami at-Tirmidhi #3348"
+      "reference": "Sahih Muslim: Hadees #2797 (Sifat al-Munafiqin), Jami at-Tirmidhi #3348",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=96&tAyahNo=6&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "قَالَ أَبُو جَهْلٍ: هَلْ يُعَفِّرُ مُحَمَّدٌ وَجْهَهُ بَيْنَ أَظْهُرِكُمْ؟...",
@@ -491,26 +547,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Sifat al-Qiyamah",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "2797",
+      "ref_url": "https://sunnah.com/muslim:2797"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'کلا ان الانسان لیطغیٰ' انسان کی سرکشی کا نقشہ کھینچتا ہے جب وہ خود کو بے پرواہ سمجھنے لگتا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki Abu Jahl ne jab apni majlis ko bulane ki baat ki to Allah ne farmaya ki hum Zabaniyah ko bula lenge."
+        "roman": "Ibn Kathir farmate hain ki Abu Jahl ne jab apni majlis ko bulane ki baat ki to Allah ne farmaya ki hum Zabaniyah ko bula lenge.",
+        "ref_url": "https://quran.com/96:6/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری لکھتے ہیں کہ 'واسجد واقترب' مومن کو حکم دیتی ہے کہ کسی ظالم کی پرواہ کیے بغیر سجدے میں گر کر رب کی قربت حاصل کرے۔",
-        "roman": "Imam Tabari ke mutabiq dushmanon ki sarkashi ka behtareen jawab sajda aur Allah ka taqarrub hai."
+        "roman": "Imam Tabari ke mutabiq dushmanon ki sarkashi ka behtareen jawab sajda aur Allah ka taqarrub hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=96&tAyahNo=6&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ ثابت کرتا ہے کہ باطل کی فرعونیت حق کے سامنے ریت کا ڈھیر ہے۔",
-        "roman": "Maududi farmate hain ki is passage ne Nabi ﷺ ko yaqeen dilaya ki zaalimon ki dhamkiyon se ghabraye baghair apna safar jari rakhein."
+        "roman": "Maududi farmate hain ki is passage ne Nabi ﷺ ko yaqeen dilaya ki zaalimon ki dhamkiyon se ghabraye baghair apna safar jari rakhein.",
+        "ref_url": "https://quranx.com/tafsir/maududi/96.6"
       }
     }
   },
@@ -537,7 +599,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التكوير (At-Takwir) نزولی ترتیب کے لحاظ سے #7 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Takwir (التكوير) Nuzooli tartib ke mutabiq #7 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Takwir)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Takwir)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=81&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -547,26 +610,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Takwir",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التكوير کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Takwir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Takwir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/81:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Takwir",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=81&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah At-Takwir",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takwir deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takwir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/81.1"
       }
     },
     "id": 10
@@ -594,7 +663,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأعلى (Al-A'la) نزولی ترتیب کے لحاظ سے #8 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-A'la (الأعلى) Nuzooli tartib ke mutabiq #8 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'la)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'la)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=87&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -604,26 +674,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-A'la",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأعلى کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'la ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'la ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/87:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-A'la",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=87&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-A'la",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'la deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'la deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/87.1"
       }
     },
     "id": 11
@@ -651,7 +727,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "وحی کے وقفے (فترة الوحی) کے بعد جب رسول اللہ ﷺ نے جبرائیل علیہ السلام کو افق پر دیکھا تو گھر آ کر فرمایا 'زملونی زملونی'۔ اس پر یہ سورت نازل ہوئی کہ اب اٹھ کر خبردار کرنے کا وقت آ گیا ہے۔",
       "roman": "Wahi ke waqfe (Fatrah al-Wahi) ke baad Jibreel A.S. ko aasmaan o zameen ke darmiyan dekh kar Nabi ﷺ ghar laute, tab uth kar khabardar karne ka hukum aaya.",
-      "reference": "Sahih Bukhari: Kitab Bad' al-Wahi & Tafsir Surah Al-Muddaththir."
+      "reference": "Sahih Bukhari: Kitab Bad' al-Wahi & Tafsir Surah Al-Muddaththir.",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=74&tAyahNo=8&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "جَاوَرْتُ بِحِرَاءٍ، فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَنُودِيتُ...",
@@ -661,26 +738,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer (سورة المدثر)",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4922",
+      "ref_url": "https://sunnah.com/bukhari:4922"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Muddaththir",
         "urdu": "ابن کثیر فرماتے ہیں کہ اس سورت سے رسول اللہ ﷺ کو باقاعدہ 'نذیر' (خوشخبری اور تنبیہ سنانے والا رسول) بنا کر خلق خدا کی طرف مبعوث فرمایا گیا۔ 'قم فانذر' دعوت کا باضابطہ آغاز تھا۔",
-        "roman": "Ibn Kathir farmate hain ki Surah Al-Alaq se Nabi ﷺ ko Nabuwwat mili aur Surah Al-Muddaththir se Risalat aur dawat ka fariza sonpa gaya."
+        "roman": "Ibn Kathir farmate hain ki Surah Al-Alaq se Nabi ﷺ ko Nabuwwat mili aur Surah Al-Muddaththir se Risalat aur dawat ka fariza sonpa gaya.",
+        "ref_url": "https://quran.com/74:8/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری لکھتے ہیں کہ 'قم فانذر' کا مطلب ہے کہ غفلت میں پڑے ہوئے انسانوں کو اللہ کے عذاب اور آخرت کی عدالت سے ڈرائیے۔",
-        "roman": "Imam Tabari ke mutabiq iska hukum tha ki insaanon ko aane wale azaab se khabardar kijiye aur Allah ki badayi bayan kijiye."
+        "roman": "Imam Tabari ke mutabiq iska hukum tha ki insaanon ko aane wale azaab se khabardar kijiye aur Allah ki badayi bayan kijiye.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=74&tAyahNo=8&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Muddaththir",
         "urdu": "تفہیم القرآن کے مطابق یہ آرام و سکون کی زندگی سے نکل کر جہدِ مسلسل اور تحریکِ اسلامی کے میدانِ عمل میں کود پڑنے کا الٰہی فرمان تھا۔",
-        "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai."
+        "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/74.8"
       }
     },
     "id": 12
@@ -708,7 +791,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "وحی کے وقفے (فترة الوحی) کے بعد جب رسول اللہ ﷺ نے جبرائیل علیہ السلام کو افق پر دیکھا تو گھر آ کر فرمایا 'زملونی زملونی'۔ اس پر یہ سورت نازل ہوئی کہ اب اٹھ کر خبردار کرنے کا وقت آ گیا ہے۔",
       "roman": "Wahi ke waqfe (Fatrah al-Wahi) ke baad Jibreel A.S. ko aasmaan o zameen ke darmiyan dekh kar Nabi ﷺ ghar laute, tab uth kar khabardar karne ka hukum aaya.",
-      "reference": "Sahih Bukhari: Kitab Bad' al-Wahi & Tafsir Surah Al-Muddaththir."
+      "reference": "Sahih Bukhari: Kitab Bad' al-Wahi & Tafsir Surah Al-Muddaththir.",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=74&tAyahNo=32&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "جَاوَرْتُ بِحِرَاءٍ، فَلَمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَنُودِيتُ...",
@@ -718,26 +802,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer (سورة المدثر)",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari & Muslim)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4922",
+      "ref_url": "https://sunnah.com/bukhari:4922"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Muddaththir",
         "urdu": "ابن کثیر فرماتے ہیں کہ اس سورت سے رسول اللہ ﷺ کو باقاعدہ 'نذیر' (خوشخبری اور تنبیہ سنانے والا رسول) بنا کر خلق خدا کی طرف مبعوث فرمایا گیا۔ 'قم فانذر' دعوت کا باضابطہ آغاز تھا۔",
-        "roman": "Ibn Kathir farmate hain ki Surah Al-Alaq se Nabi ﷺ ko Nabuwwat mili aur Surah Al-Muddaththir se Risalat aur dawat ka fariza sonpa gaya."
+        "roman": "Ibn Kathir farmate hain ki Surah Al-Alaq se Nabi ﷺ ko Nabuwwat mili aur Surah Al-Muddaththir se Risalat aur dawat ka fariza sonpa gaya.",
+        "ref_url": "https://quran.com/74:32/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری لکھتے ہیں کہ 'قم فانذر' کا مطلب ہے کہ غفلت میں پڑے ہوئے انسانوں کو اللہ کے عذاب اور آخرت کی عدالت سے ڈرائیے۔",
-        "roman": "Imam Tabari ke mutabiq iska hukum tha ki insaanon ko aane wale azaab se khabardar kijiye aur Allah ki badayi bayan kijiye."
+        "roman": "Imam Tabari ke mutabiq iska hukum tha ki insaanon ko aane wale azaab se khabardar kijiye aur Allah ki badayi bayan kijiye.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=74&tAyahNo=32&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Muddaththir",
         "urdu": "تفہیم القرآن کے مطابق یہ آرام و سکون کی زندگی سے نکل کر جہدِ مسلسل اور تحریکِ اسلامی کے میدانِ عمل میں کود پڑنے کا الٰہی فرمان تھا۔",
-        "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai."
+        "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/74.32"
       }
     },
     "id": 13
@@ -766,7 +856,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "نضر بن حارث ایران سے رستم و اسفندیار کے قصے اور گانے والیاں خرید کر لایا اور کہتا کہ محمد تمہیں ماضی کی کہانیاں سناتے ہیں تو میں بھی قصے سناتا ہوں تاکہ لوگ قرآن نہ سنیں۔",
       "roman": "Nazar bin Harith Fars se afsane aur gane waliyan laya taaki logon ko Quran sunne se rokay. Is par Surah Luqman ki yeh aayat utri.",
-      "reference": "Asbab an-Nuzul by Imam Wahidi, Surah Luqman"
+      "reference": "Asbab an-Nuzul by Imam Wahidi, Surah Luqman",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=31&tAyahNo=6&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ: {وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ}، قَالَ: هُوَ الْغِنَاءُ وَأَشْبَاهُهُ",
@@ -776,26 +867,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab ash-Shahadat",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Ibn Kathir"
+      "gradingAuthority": "Ibn Kathir",
+      "book": "As-Sunan al-Kubra (Al-Bayhaqi)",
+      "hadithNumber": "21002",
+      "ref_url": "https://shamela.ws/book/6450"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ مشرکین قرآن سننے سے روکنے کے لیے قصے کہانیوں اور شور شرابے کا سہارا لیتے تھے۔",
-        "roman": "Ibn Kathir farmate hain ki baatil hamesha sanjeeda daleel se bhag kar behuda sargarmion mein panaah leta hai."
+        "roman": "Ibn Kathir farmate hain ki baatil hamesha sanjeeda daleel se bhag kar behuda sargarmion mein panaah leta hai.",
+        "ref_url": "https://quran.com/31:6/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری لکھتے ہیں کہ جو شخص اللہ کی آیات کو حقیر جان کر قصے کہانیوں سے لوگوں کو گمراہ کرے اس کے لیے رسوا کن عذاب ہے۔",
-        "roman": "Imam Tabari ke mutabiq Nazar bin Harith ki saari tadbeerain nakam huin aur Badr mein qatal hua."
+        "roman": "Imam Tabari ke mutabiq Nazar bin Harith ki saari tadbeerain nakam huin aur Badr mein qatal hua.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=31&tAyahNo=6&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق یہ میڈیا وار کی وہ قدیم شکل تھی جس کے ذریعے دینی تحریک کے سنجیدہ پیغام کو گانوں اور خرافات میں دبانے کی کوشش کی گئی۔",
-        "roman": "Maududi farmate hain ki har daur mein baatil ne lehw-o-la'ib ke zariye aawam ko sachayi se andha karne ki koshish ki."
+        "roman": "Maududi farmate hain ki har daur mein baatil ne lehw-o-la'ib ke zariye aawam ko sachayi se andha karne ki koshish ki.",
+        "ref_url": "https://quranx.com/tafsir/maududi/31.6"
       }
     }
   },
@@ -822,7 +919,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الليل (Al-Layl) نزولی ترتیب کے لحاظ سے #9 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Layl (الليل) Nuzooli tartib ke mutabiq #9 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Layl)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Layl)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=92&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -832,26 +930,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Layl",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الليل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Layl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Layl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/92:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Layl",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=92&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Layl",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Layl deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Layl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/92.1"
       }
     },
     "id": 15
@@ -879,7 +983,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفجر (Al-Fajr) نزولی ترتیب کے لحاظ سے #10 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fajr (الفجر) Nuzooli tartib ke mutabiq #10 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fajr)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fajr)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=89&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -889,26 +994,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fajr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفجر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fajr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fajr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/89:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Fajr",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=89&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Fajr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fajr deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fajr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/89.1"
       }
     },
     "id": 16
@@ -937,7 +1048,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "حضرت عمار بن یاسر کے والدین (یاسر اور سمیہ) کو شہید کر دیا گیا، اور عمار کو اتنی آگ پر تپایا گیا کہ جان بچانے کے لیے کلمۂ کفر زبان سے نکلا مگر دل ایمان پر مطمئن تھا۔",
       "roman": "Kuffar ne Hazrat Ammar bin Yasir par shadeed shikanja kasha. Jab majboori mein zubaan se kalima nikla to rote hue Nabi ﷺ ke paas aaye. Allah ne unki safai nazil farmai.",
-      "reference": "Mustadrak al-Hakim: Hadees #3362 (Tafsir Surah An-Nahl)"
+      "reference": "Mustadrak al-Hakim: Hadees #3362 (Tafsir Surah An-Nahl)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=16&tAyahNo=106&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "أَخَذَ الْمُشْرِكُونَ عَمَّارًا فَلَمْ يَتْرُكُوهُ حَتَّى سَبَّ النَّبِيَّ... فَقَالَ النَّبِيُّ: كَيْفَ تَجِدُ قَلْبَكَ؟ قَالَ: مُطْمَئِنًّا بِالْإِيمَانِ، قَالَ: فَإِنْ عَادُوا فَعُدْ",
@@ -947,26 +1059,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Ammar bin Yasir (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Imam Hakim & Dhahabi"
+      "gradingAuthority": "Imam Hakim & Dhahabi",
+      "book": "Al-Mustadrak 'ala al-Sahihayn (Al-Hakim)",
+      "hadithNumber": "3362",
+      "ref_url": "https://shamela.ws/book/2266"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4",
         "urdu": "ابن کثیر فرماتے ہیں کہ اس آیت نے شریعت کا عظیم اصول قائم کیا کہ جبر اور جان کے خطرے کے وقت زبان سے کفر کا کلمہ کہنا معاف ہے اگر دل ایمان سے لبریز ہو۔",
-        "roman": "Ibn Kathir farmate hain ki Hazrat Sumayyah aur Hazrat Yasir ne jaan de di magar shikanje ke aage jhuke nahi."
+        "roman": "Ibn Kathir farmate hain ki Hazrat Sumayyah aur Hazrat Yasir ne jaan de di magar shikanje ke aage jhuke nahi.",
+        "ref_url": "https://quran.com/16:106/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری لکھتے ہیں کہ مومن کا اصل ایمان اس کے باطن اور نیت میں ہوتا ہے، مجبور اور مظلوم پر اللہ کا عذاب نہیں بلکہ رحمت ہے۔",
-        "roman": "Imam Tabari ke mutabiq mazaalim ke ba-wujood ehl-e-imaan ne sabr ki be-misaal misalein qayam karein."
+        "roman": "Imam Tabari ke mutabiq mazaalim ke ba-wujood ehl-e-imaan ne sabr ki be-misaal misalein qayam karein.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=16&tAyahNo=106&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ مکہ کے اس خونی دور کا منظر ہے جہاں ایک ایک کلمہ گو کو لوہے کی زرہیں پہنا کر دھوپ میں جلایا جاتا تھا۔",
-        "roman": "Maududi farmate hain ki unhi ghareeb aur mazloom Sahaba ki qurbaniyon ne Islam ki azeem imarat ko qayam kiya."
+        "roman": "Maududi farmate hain ki unhi ghareeb aur mazloom Sahaba ki qurbaniyon ne Islam ki azeem imarat ko qayam kiya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/16.106"
       }
     }
   },
@@ -993,7 +1111,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الضحى (Ad-Duhaa) نزولی ترتیب کے لحاظ سے #11 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ad-Duhaa (الضحى) Nuzooli tartib ke mutabiq #11 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ad-Duhaa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ad-Duhaa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=93&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1003,26 +1122,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ad-Duhaa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الضحى کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ad-Duhaa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ad-Duhaa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/93:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ad-Duhaa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=93&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Ad-Duhaa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Duhaa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Duhaa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/93.1"
       }
     },
     "id": 18
@@ -1050,7 +1175,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الشرح (Ash-Sharh) نزولی ترتیب کے لحاظ سے #12 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Sharh (الشرح) Nuzooli tartib ke mutabiq #12 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Sharh)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Sharh)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=94&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1060,26 +1186,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Sharh",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشرح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Sharh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Sharh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/94:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ash-Sharh",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=94&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Ash-Sharh",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Sharh deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Sharh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/94.1"
       }
     },
     "id": 19
@@ -1107,7 +1239,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت العصر (Al-'Asr) نزولی ترتیب کے لحاظ سے #13 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-'Asr (العصر) Nuzooli tartib ke mutabiq #13 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Asr)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Asr)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=103&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1117,26 +1250,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-'Asr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت العصر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Asr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Asr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/103:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-'Asr",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=103&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-'Asr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Asr deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Asr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/103.1"
       }
     },
     "id": 20
@@ -1164,7 +1303,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت العاديات (Al-'Adiyat) نزولی ترتیب کے لحاظ سے #14 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-'Adiyat (العاديات) Nuzooli tartib ke mutabiq #14 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Adiyat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Adiyat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=100&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1174,26 +1314,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-'Adiyat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت العاديات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Adiyat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Adiyat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/100:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-'Adiyat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=100&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-'Adiyat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Adiyat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Adiyat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/100.1"
       }
     },
     "id": 21
@@ -1221,7 +1367,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكوثر (Al-Kawthar) نزولی ترتیب کے لحاظ سے #15 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kawthar (الكوثر) Nuzooli tartib ke mutabiq #15 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kawthar)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kawthar)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=108&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1231,26 +1378,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kawthar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكوثر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kawthar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kawthar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/108:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kawthar",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=108&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Kawthar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kawthar deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kawthar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/108.1"
       }
     },
     "id": 22
@@ -1278,7 +1431,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التكاثر (At-Takathur) نزولی ترتیب کے لحاظ سے #16 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Takathur (التكاثر) Nuzooli tartib ke mutabiq #16 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Takathur)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Takathur)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=102&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1288,26 +1442,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Takathur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التكاثر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Takathur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Takathur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/102:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Takathur",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=102&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah At-Takathur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takathur deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takathur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/102.1"
       }
     },
     "id": 23
@@ -1335,7 +1495,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الماعون (Al-Ma'un) نزولی ترتیب کے لحاظ سے #17 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'un (الماعون) Nuzooli tartib ke mutabiq #17 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'un)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'un)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=107&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1345,26 +1506,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'un",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الماعون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'un ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'un ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/107:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ma'un",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=107&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Ma'un",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'un deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'un deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/107.1"
       }
     },
     "id": 24
@@ -1392,7 +1559,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكافرون (Al-Kafirun) نزولی ترتیب کے لحاظ سے #18 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kafirun (الكافرون) Nuzooli tartib ke mutabiq #18 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kafirun)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kafirun)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=109&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1402,26 +1570,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kafirun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكافرون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kafirun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kafirun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/109:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kafirun",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=109&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Kafirun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kafirun deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kafirun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/109.1"
       }
     },
     "id": 25
@@ -1449,7 +1623,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفيل (Al-Fil) نزولی ترتیب کے لحاظ سے #19 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fil (الفيل) Nuzooli tartib ke mutabiq #19 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fil)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fil)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=105&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1459,26 +1634,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fil",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفيل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fil ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fil ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/105:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Fil",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=105&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Fil",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fil deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fil deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/105.1"
       }
     },
     "id": 26
@@ -1506,7 +1687,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفلق (Al-Falaq) نزولی ترتیب کے لحاظ سے #20 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Falaq (الفلق) Nuzooli tartib ke mutabiq #20 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Falaq)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Falaq)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=113&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1516,26 +1698,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Falaq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفلق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Falaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Falaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/113:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Falaq",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=113&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Falaq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Falaq deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Falaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/113.1"
       }
     },
     "id": 27
@@ -1563,7 +1751,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الناس (An-Nas) نزولی ترتیب کے لحاظ سے #21 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nas (الناس) Nuzooli tartib ke mutabiq #21 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nas)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nas)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=114&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1573,26 +1762,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nas",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الناس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/114:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nas",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=114&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah An-Nas",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nas deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/114.1"
       }
     },
     "id": 28
@@ -1620,7 +1815,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإخلاص (Al-Ikhlas) نزولی ترتیب کے لحاظ سے #22 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ikhlas (الإخلاص) Nuzooli tartib ke mutabiq #22 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ikhlas)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ikhlas)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=112&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1630,26 +1826,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ikhlas",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإخلاص کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ikhlas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ikhlas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/112:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ikhlas",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=112&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Ikhlas",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ikhlas deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ikhlas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/112.1"
       }
     },
     "id": 29
@@ -1677,7 +1879,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النجم (An-Najm) نزولی ترتیب کے لحاظ سے #23 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Najm (النجم) Nuzooli tartib ke mutabiq #23 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Najm)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Najm)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=53&tAyahNo=19&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1687,26 +1890,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Najm",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النجم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Najm ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Najm ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/53:19/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Najm",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=53&tAyahNo=19&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah An-Najm",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Najm deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Najm deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/53.19"
       }
     },
     "id": 30
@@ -1735,7 +1944,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "رسول اللہ ﷺ نے حرمِ کعبہ میں پہلی بار کھلے عام سورۂ نجم کی تلاوت فرمائی۔ اس کلام کی ہیبت اور جلال اتنا شدید تھا کہ آخری آیت 'فاسجدوا للہ واعبدوا' پر تمام مسلمان اور مشرکین بے اختیار سجدے میں گر پڑے۔",
       "roman": "Haram-e-Ka'aba mein jab Nabi ﷺ ne Surah An-Najm tilawat farmai to uski taseer se mushrikeen bhi be-ikhtiyar sajde mein gir pade.",
-      "reference": "Sahih Bukhari: Hadees #1071 (Kitab as-Sujud)"
+      "reference": "Sahih Bukhari: Hadees #1071 (Kitab as-Sujud)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=53&tAyahNo=59&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "سَجَدَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالنَّجْمِ، وَسَجَدَ مَعَهُ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْجِنُّ وَالْإِنْسُ",
@@ -1745,26 +1955,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab as-Sujud",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "1067",
+      "ref_url": "https://sunnah.com/bukhari:1067"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ کلامِ الٰہی کی فصاحت اور جلال نے ان کے کانوں اور دلوں پر ایسا سحر طاری کیا کہ ان کے پاس سجدے کے سوا کوئی چارہ نہ رہا۔",
-        "roman": "Ibn Kathir farmate hain ki baad mein sharmindagi mitane ke liye kuffar ne 'Gharaniq' ka jhoota afsana ghadha jise Quran ne batil qarar diya."
+        "roman": "Ibn Kathir farmate hain ki baad mein sharmindagi mitane ke liye kuffar ne 'Gharaniq' ka jhoota afsana ghadha jise Quran ne batil qarar diya.",
+        "ref_url": "https://quran.com/53:59/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری لکھتے ہیں کہ سجدۂ تلاوت کی یہ پہلی آیت تھی جس نے ثابت کیا کہ تمام مخلوق کا اصل ماتھا اللہ ہی کے سامنے جھکنے کے لیے ہے۔",
-        "roman": "Imam Tabari ke mutabiq yeh Quran ka azeem tareen tareekhi din tha."
+        "roman": "Imam Tabari ke mutabiq yeh Quran ka azeem tareen tareekhi din tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=53&tAyahNo=59&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ منظر کفر کی اس فکری شکست کی تصویر تھا جس میں وہ کلامِ پاک کے سامنے بے بس ہو کر جھک گئے۔",
-        "roman": "Maududi farmate hain ki Quran ke samne dushmanon ki zabanain gung ho jati theen."
+        "roman": "Maududi farmate hain ki Quran ke samne dushmanon ki zabanain gung ho jati theen.",
+        "ref_url": "https://quranx.com/tafsir/maududi/53.59"
       }
     }
   },
@@ -1792,7 +2008,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "رسول اللہ ﷺ قریش کے بڑے سرداروں کو سمجھا رہے تھے کہ نابینا صحابی عبداللہ بن ام مکتوم آ گئے اور دینی بات پوچھی۔ نبی ﷺ نے سرداروں کے بدمزہ ہونے کے اندیشے سے ذرا بے رغبتی دکھائی تو اللہ نے شفقت آمیز تنبیہ فرمائی۔",
       "roman": "Sardaran-e-Quraish ko dawat dete waqt Hazrat Ibn Umm Maktoom (R.A) tashreef laye. Allah ne sikhaya ki deen ki dawat mein daulatmand mutakabbir ke muqable mein sachche talib-e-ilm ki qeemat zyada hai.",
-      "reference": "Jami' at-Tirmidhi: Hadees #3331 (Tafsir Surah Abasa)"
+      "reference": "Jami' at-Tirmidhi: Hadees #3331 (Tafsir Surah Abasa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=80&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "أُنْزِلَتْ فِي ابْنِ أُمِّ مَكْتُومٍ الْأَعْمَى... فَكَانَ النَّبِيُّ يُكْرِمُهُ وَيَقُولُ: مَرْحَبًا بِمَنْ عَاتَبَنِي فِيهِ رَبِّي!",
@@ -1802,26 +2019,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Imam Tirmidhi"
+      "gradingAuthority": "Imam Tirmidhi",
+      "book": "Jami` at-Tirmidhi",
+      "hadithNumber": "3331",
+      "ref_url": "https://sunnah.com/tirmidhi:3331"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے اپنے نبی کو ادب سکھایا کہ جو خود ہدایت مانگنے ڈرتا ہوا آئے اس کی طرف پوری توجہ دینی چاہیے۔",
-        "roman": "Ibn Kathir farmate hain ki deen mein taqat aur daulat ki koi haiseeyat nahi, taqwa hi asal meyaar hai."
+        "roman": "Ibn Kathir farmate hain ki deen mein taqat aur daulat ki koi haiseeyat nahi, taqwa hi asal meyaar hai.",
+        "ref_url": "https://quran.com/80:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری لکھتے ہیں کہ کفر کے مغرور سرداروں کی پرواہ کیے بغیر ان مخلصین کی قدر کرنا ضروری ہے جو خدا کے خوف سے تڑپتے ہیں۔",
-        "roman": "Imam Tabari ke mutabiq yeh sabaq qayamat tak ke du'aat ke liye dastoor hai."
+        "roman": "Imam Tabari ke mutabiq yeh sabaq qayamat tak ke du'aat ke liye dastoor hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=80&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ رسول اللہ ﷺ کی صداقت کی سب سے بڑی دلیل ہے کہ اگر یہ قرآن آپ کا کلام ہوتا تو اپنی ایسی تنبیہ کبھی شامل نہ فرماتے۔",
-        "roman": "Maududi farmate hain ki Quran ne aalmi satah par insaani barabari aur roohani qadron ka parcham buland kiya."
+        "roman": "Maududi farmate hain ki Quran ne aalmi satah par insaani barabari aur roohani qadron ka parcham buland kiya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/80.1"
       }
     }
   },
@@ -1848,7 +2071,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت عبس ('Abasa) نزولی ترتیب کے لحاظ سے #24 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah 'Abasa (عبس) Nuzooli tartib ke mutabiq #24 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah 'Abasa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah 'Abasa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=80&tAyahNo=17&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1858,26 +2082,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah 'Abasa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت عبس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah 'Abasa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah 'Abasa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/80:17/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah 'Abasa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=80&tAyahNo=17&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah 'Abasa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah 'Abasa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah 'Abasa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/80.17"
       }
     },
     "id": 33
@@ -1905,7 +2135,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت القدر (Al-Qadr) نزولی ترتیب کے لحاظ سے #25 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qadr (القدر) Nuzooli tartib ke mutabiq #25 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qadr)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qadr)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=97&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1915,26 +2146,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qadr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القدر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qadr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qadr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/97:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Qadr",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=97&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Qadr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qadr deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qadr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/97.1"
       }
     },
     "id": 34
@@ -1962,7 +2199,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الشمس (Ash-Shams) نزولی ترتیب کے لحاظ سے #26 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shams (الشمس) Nuzooli tartib ke mutabiq #26 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shams)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shams)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=91&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -1972,26 +2210,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shams",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشمس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shams ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shams ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/91:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ash-Shams",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=91&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Ash-Shams",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shams deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shams deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/91.1"
       }
     },
     "id": 35
@@ -2020,7 +2264,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "جب مکہ میں کمزور مسلمانوں پر ظلم کی انتہا کر دی گئی تو اللہ نے یمن کے ان مومنوں کا واقعہ سنایا جنہیں صرف ایمان لانے کے جرم میں آگ کے گڑھوں میں زندہ جلا دیا گیا تھا، مگر وہ حق سے نہ پھرے۔",
       "roman": "Makkah ke mazloom musalmano ki dildari ke liye Ashab-ul-Ukhdood ka waqiya nazil hua jisme zalim badshah ne momino ko aag mein jala diya tha.",
-      "reference": "Sahih Muslim: Hadees #3005 (Qissat Ashab al-Ukhdood)"
+      "reference": "Sahih Muslim: Hadees #3005 (Qissat Ashab al-Ukhdood)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=85&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "كَانَ مَلِكٌ فِيمَنْ كَانَ قَبْلَكُمْ، وَكَانَ لَهُ سَاحِرٌ... فَأَمَرَ بِالْأُخْدُودِ فِي سِوَكِ السِّكَكِ، فَخُدَّتْ، وَأَضْرَمَ النِّيرَانَ...",
@@ -2030,26 +2275,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab az-Zuhd",
       "narrator": "Rawi: Suhaib Rumi (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "3005",
+      "ref_url": "https://sunnah.com/muslim:3005"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ ظالم یہ سمجھتے ہیں کہ وہ جیت گئے مگر اللہ تعالیٰ نے ان کے لیے جہنم کے جلانے والے عذاب کا فیصلہ فرما رکھا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki momin ki maut zaya nahi jati, uska badla jannat-e-abdi hai."
+        "roman": "Ibn Kathir farmate hain ki momin ki maut zaya nahi jati, uska badla jannat-e-abdi hai.",
+        "ref_url": "https://quran.com/85:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری لکھتے ہیں کہ 'وما نقموا منہم الا ان یؤمنوا باللہ' سے ظاہر ہے کہ کافروں کو مومنوں سے صرف ایک ہی بغض تھا کہ وہ خدائے واحد پر ایمان لائے تھے۔",
-        "roman": "Imam Tabari ke mutabiq haq parasto ki qurbani dunya mein misaal ban jati hai."
+        "roman": "Imam Tabari ke mutabiq haq parasto ki qurbani dunya mein misaal ban jati hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=85&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق یہ مکہ کے مسلمانوں کے لیے پیغام تھا کہ جو تحریکِ حق کا علم اٹھاتے ہیں انہیں تاریخ کے ہر دور میں آگ کے دریا سے گزرنا پڑتا ہے۔",
-        "roman": "Maududi farmate hain ki qurbani ke baghair haq ka parcham kabhi sar-buland nahi hota."
+        "roman": "Maududi farmate hain ki qurbani ke baghair haq ka parcham kabhi sar-buland nahi hota.",
+        "ref_url": "https://quranx.com/tafsir/maududi/85.1"
       }
     }
   },
@@ -2076,7 +2327,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البروج (Al-Buruj) نزولی ترتیب کے لحاظ سے #27 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Buruj (البروج) Nuzooli tartib ke mutabiq #27 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Buruj)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Buruj)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=85&tAyahNo=11&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2086,26 +2338,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Buruj",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البروج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Buruj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Buruj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/85:11/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Buruj",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=85&tAyahNo=11&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Buruj",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Buruj deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Buruj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/85.11"
       }
     },
     "id": 37
@@ -2133,7 +2391,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكهف (Al-Kahf) نزولی ترتیب کے لحاظ سے #69 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kahf (الكهف) Nuzooli tartib ke mutabiq #69 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=9&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2143,26 +2402,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kahf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكهف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/18:9/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kahf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=18&tAyahNo=9&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Kahf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/18.9"
       }
     },
     "id": 38
@@ -2190,7 +2455,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التين (At-Tin) نزولی ترتیب کے لحاظ سے #28 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tin (التين) Nuzooli tartib ke mutabiq #28 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tin)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tin)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=95&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2200,26 +2466,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التين کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/95:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tin",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=95&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah At-Tin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tin deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/95.1"
       }
     },
     "id": 39
@@ -2247,7 +2519,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت قريش (Quraysh) نزولی ترتیب کے لحاظ سے #29 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Quraysh (قريش) Nuzooli tartib ke mutabiq #29 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Quraysh)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Quraysh)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=106&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2257,26 +2530,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Quraysh",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت قريش کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Quraysh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Quraysh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/106:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Quraysh",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=106&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Quraysh",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Quraysh deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Quraysh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/106.1"
       }
     },
     "id": 40
@@ -2304,7 +2583,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت القارعة (Al-Qari'ah) نزولی ترتیب کے لحاظ سے #30 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qari'ah (القارعة) Nuzooli tartib ke mutabiq #30 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qari'ah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qari'ah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=101&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2314,26 +2594,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qari'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القارعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qari'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qari'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/101:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Qari'ah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=101&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Qari'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qari'ah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qari'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/101.1"
       }
     },
     "id": 41
@@ -2361,7 +2647,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت القيامة (Al-Qiyamah) نزولی ترتیب کے لحاظ سے #31 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qiyamah (القيامة) Nuzooli tartib ke mutabiq #31 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qiyamah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qiyamah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=75&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2371,26 +2658,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qiyamah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القيامة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qiyamah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qiyamah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/75:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Qiyamah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=75&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Qiyamah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qiyamah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qiyamah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/75.1"
       }
     },
     "id": 42
@@ -2418,7 +2711,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الهمزة (Al-Humazah) نزولی ترتیب کے لحاظ سے #32 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Humazah (الهمزة) Nuzooli tartib ke mutabiq #32 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Humazah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Humazah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=104&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2428,26 +2722,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Humazah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الهمزة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Humazah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Humazah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/104:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Humazah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=104&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Humazah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Humazah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Humazah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/104.1"
       }
     },
     "id": 43
@@ -2475,7 +2775,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المرسلات (Al-Mursalat) نزولی ترتیب کے لحاظ سے #33 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mursalat (المرسلات) Nuzooli tartib ke mutabiq #33 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mursalat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mursalat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=77&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2485,26 +2786,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mursalat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المرسلات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mursalat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mursalat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/77:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mursalat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=77&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mursalat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mursalat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mursalat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/77.1"
       }
     },
     "id": 44
@@ -2532,7 +2839,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت ق (Qaf) نزولی ترتیب کے لحاظ سے #34 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Qaf (ق) Nuzooli tartib ke mutabiq #34 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Qaf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Qaf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=50&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2542,26 +2850,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Qaf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت ق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Qaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Qaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/50:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Qaf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=50&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Qaf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Qaf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Qaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/50.1"
       }
     },
     "id": 45
@@ -2589,7 +2903,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البلد (Al-Balad) نزولی ترتیب کے لحاظ سے #35 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Balad (البلد) Nuzooli tartib ke mutabiq #35 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Balad)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Balad)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=90&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2599,26 +2914,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Balad",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البلد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Balad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Balad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/90:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Balad",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=90&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Balad",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Balad deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Balad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/90.1"
       }
     },
     "id": 46
@@ -2646,7 +2967,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الطارق (At-Tariq) نزولی ترتیب کے لحاظ سے #36 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tariq (الطارق) Nuzooli tartib ke mutabiq #36 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tariq)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tariq)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=86&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2656,26 +2978,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tariq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الطارق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tariq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tariq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/86:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tariq",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=86&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah At-Tariq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tariq deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tariq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/86.1"
       }
     },
     "id": 47
@@ -2704,7 +3032,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "مشرکینِ مکہ نے رسول اللہ ﷺ سے مطالبہ کیا کہ اگر آپ سچے ہیں تو چاند کے دو ٹکڑے کر کے دکھائیں۔ آپ نے انگلی کا اشارہ فرمایا تو چاند دو ٹکڑے ہو کر جبلِ حرا کے دونوں طرف نظر آیا۔",
       "roman": "Kuffar ke mutalbe par Nabi ﷺ ke ishare se chaand do tukde ho gaya. Phir bhi kuffar ne kaha: Yeh to jadoo hai!",
-      "reference": "Sahih Bukhari: Hadees #3636 (Kitab Manaqib al-Ansar)"
+      "reference": "Sahih Bukhari: Hadees #3636 (Kitab Manaqib al-Ansar)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=54&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "انْشَقَّ الْقَمَرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِرْقَتَيْنِ: فِرْقَةً فَوْقَ الْجَبَلِ، وَفِرْقَةً دُونَهُ...",
@@ -2714,26 +3043,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Manaqib al-Ansar",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "3636",
+      "ref_url": "https://sunnah.com/bukhari:3636"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ شق القمر احادیثِ متواترہ سے ثابت ہے اور اہل علم کا اس پر اجماع ہے کہ یہ نبی ﷺ کا حسی معجزہ تھا۔",
-        "roman": "Ibn Kathir farmate hain ki dunya ke mukhtalif hisson ke logon ne us raat chaand ko do tukde hote dekha."
+        "roman": "Ibn Kathir farmate hain ki dunya ke mukhtalif hisson ke logon ne us raat chaand ko do tukde hote dekha.",
+        "ref_url": "https://quran.com/54:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری لکھتے ہیں کہ کافروں کی ضد اتنی شدید تھی کہ اتنا بڑا فلکیاتی معجزہ دیکھ کر بھی بولے: 'یہ تو پرانا جادو ہے'۔",
-        "roman": "Imam Tabari ke mutabiq nishani dekh kar bhi inkar karna kuffar ki purani aadat thi."
+        "roman": "Imam Tabari ke mutabiq nishani dekh kar bhi inkar karna kuffar ki purani aadat thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=54&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ کائنات کے نظام میں اس عظیم ہلچل کا نمونہ تھا جو قیامت کے دن برپا ہونے والی ہے۔",
-        "roman": "Maududi farmate hain ki is moajaze ne dawat-e-qayamat ko aanhko ke samne la khada kiya."
+        "roman": "Maududi farmate hain ki is moajaze ne dawat-e-qayamat ko aanhko ke samne la khada kiya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/54.1"
       }
     }
   },
@@ -2760,7 +3095,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت القمر (Al-Qamar) نزولی ترتیب کے لحاظ سے #37 نمبر پر ہے۔ یہ دورِ Early Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qamar (القمر) Nuzooli tartib ke mutabiq #37 par nazil hui. Yeh Early Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qamar)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qamar)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=54&tAyahNo=6&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2770,26 +3106,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qamar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القمر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qamar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qamar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/54:6/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Qamar",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=54&tAyahNo=6&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Qamar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qamar deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qamar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/54.6"
       }
     },
     "id": 49
@@ -2817,7 +3159,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت ص (Sad) نزولی ترتیب کے لحاظ سے #38 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Sad (ص) Nuzooli tartib ke mutabiq #38 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Sad)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Sad)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=38&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2827,26 +3170,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Sad",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت ص کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Sad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Sad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/38:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Sad",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=38&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Sad",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Sad deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Sad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/38.1"
       }
     },
     "id": 50
@@ -2874,7 +3223,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأعراف (Al-A'raf) نزولی ترتیب کے لحاظ سے #39 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-A'raf (الأعراف) Nuzooli tartib ke mutabiq #39 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=7&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2884,26 +3234,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-A'raf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأعراف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/7:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-A'raf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=7&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-A'raf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/7.1"
       }
     },
     "id": 51
@@ -2931,7 +3287,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأعراف (Al-A'raf) نزولی ترتیب کے لحاظ سے #39 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-A'raf (الأعراف) Nuzooli tartib ke mutabiq #39 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=7&tAyahNo=59&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2941,26 +3298,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-A'raf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأعراف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/7:59/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-A'raf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=7&tAyahNo=59&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-A'raf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/7.59"
       }
     },
     "id": 52
@@ -2988,7 +3351,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأعراف (Al-A'raf) نزولی ترتیب کے لحاظ سے #39 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-A'raf (الأعراف) Nuzooli tartib ke mutabiq #39 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-A'raf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=7&tAyahNo=137&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -2998,26 +3362,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-A'raf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأعراف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-A'raf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/7:137/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-A'raf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=7&tAyahNo=137&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-A'raf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/7.137"
       }
     },
     "id": 53
@@ -3046,7 +3416,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "اہلِ طائف کے پتھراؤ اور لہولہان ہونے کے بعد واپسی پر وادیِ نخلہ میں رسول اللہ ﷺ نے نمازِ فجر میں قرآن پڑھا تو نصیبین کے جنات نے سنا اور فوراً ایمان لا کر اپنی قوم کو دعوت دینے چلے گئے۔",
       "roman": "Taif ke zakhmon ke baad jab insaanon ne inkar kiya to Allah ne Jinnat ko wahi ka shaida bana diya. Unhone Quran sun kar kaha: 'Humne ajeeb Quran suna hai!'",
-      "reference": "Sahih Bukhari: Hadees #4921 (Kitab at-Tafseer, Surah Al-Jinn)"
+      "reference": "Sahih Bukhari: Hadees #4921 (Kitab at-Tafseer, Surah Al-Jinn)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=72&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "انْطَلَقَ النَّبِيُّ فِي نَفَرٍ مِنْ أَصْحَابِهِ عَامِدِينَ إِلَى سُوقِ عُكَاظٍ... فَسَمِعُوا الْقُرْآنَ فَقَالُوا: هَذَا وَاللَّهِ الَّذِي حَالَ بَيْنَكُمْ وَبَيْنَ خَبَرِ السَّمَاءِ...",
@@ -3056,26 +3427,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4921",
+      "ref_url": "https://sunnah.com/bukhari:4921"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ جب زمین کے سرکش انسانوں نے منہ موڑا تو اللہ نے غیبی مخلوق (جنات) کو آپ کے کلام پر گرویدہ فرما کر آپ کی تسلی فرمائی۔",
-        "roman": "Ibn Kathir farmate hain ki Nabi Kareem ﷺ insaan aur jinn dono ke Rasool hain."
+        "roman": "Ibn Kathir farmate hain ki Nabi Kareem ﷺ insaan aur jinn dono ke Rasool hain.",
+        "ref_url": "https://quran.com/72:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری لکھتے ہیں کہ جنات نے سمجھ لیا کہ اللہ کا کوئی شریک نہیں اور جو جنات اللہ پر جھوٹ گھڑتے تھے وہ باطل تھے۔",
-        "roman": "Imam Tabari ke mutabiq yeh aayat sabit karti hai ki Quran aalamgeer hidayat hai."
+        "roman": "Imam Tabari ke mutabiq yeh aayat sabit karti hai ki Quran aalamgeer hidayat hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=72&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق طائف کے المناک واقعے کے بعد یہ غیبی فتح تھی جس نے ظاہر کیا کہ دعوتِ حق کو انسانوں کی مخالفت نہیں روک سکتی۔",
-        "roman": "Maududi farmate hain ki jinnat ka iman lana is baat ka saboot tha ki Quran fitrat ki aawaz hai."
+        "roman": "Maududi farmate hain ki jinnat ka iman lana is baat ka saboot tha ki Quran fitrat ki aawaz hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/72.1"
       }
     }
   },
@@ -3102,7 +3479,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الجن (Al-Jinn) نزولی ترتیب کے لحاظ سے #40 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jinn (الجن) Nuzooli tartib ke mutabiq #40 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jinn)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jinn)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=72&tAyahNo=16&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3112,26 +3490,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jinn",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجن کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jinn ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jinn ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/72:16/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Jinn",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=72&tAyahNo=16&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Jinn",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jinn deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jinn deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/72.16"
       }
     },
     "id": 55
@@ -3160,7 +3544,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "وادیِ نخلہ میں قرآن سنتے ہی جنات نے ایک دوسرے سے کہا 'خاموش رہو اور سنو!'، پھر جب تلاوت مکمل ہوئی تو اپنی قوم کی طرف ڈرانے والے (داعی) بن کر پلٹے اور پکارا کہ اللہ کے داعی کی بات مانو!",
       "roman": "Jinnat ne Quran sunte hi apni qaum mein ja kar Nabuwwat aur Moosa A.S. ke baad aane wali is aakhri kitaab ki tasdeeq bayan ki.",
-      "reference": "Sahih Muslim: Hadees #449 (Bab Istima' al-Jinn lil-Quran)"
+      "reference": "Sahih Muslim: Hadees #449 (Bab Istima' al-Jinn lil-Quran)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=46&tAyahNo=29&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أُمِرْتُ أَنْ أَقْرَأَ عَلَى الْجِنِّ، فَانْطَلَقْتُ مَعَهُ...",
@@ -3170,26 +3555,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab as-Salat",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "450",
+      "ref_url": "https://sunnah.com/muslim:450"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ جنات نے اپنی قوم کو سمجھایا کہ جو اللہ کے داعی کی بات نہیں مانے گا وہ زمین میں اللہ کو عاجز نہیں کر سکتا۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayat jinno ke da'ee banne ki tareekhi gawahi hai."
+        "roman": "Ibn Kathir farmate hain ki yeh aayat jinno ke da'ee banne ki tareekhi gawahi hai.",
+        "ref_url": "https://quran.com/46:29/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری لکھتے ہیں کہ جنات تورات سے واقف تھے، اس لیے انہوں نے فوراً کہا کہ ہم نے موسیٰ کے بعد نازل ہونے والی کتاب سنی ہے۔",
-        "roman": "Imam Tabari ke mutabiq yeh aayat Quran ki taazgi aur taseer ka bayan hai."
+        "roman": "Imam Tabari ke mutabiq yeh aayat Quran ki taazgi aur taseer ka bayan hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=46&tAyahNo=29&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق اس سے مکہ کے مشرکین پر طنز کیا گیا کہ جنات کلام سن کر مان گئے مگر تم اپنی عقل پر پردہ ڈالے بیٹھے ہو۔",
-        "roman": "Maududi farmate hain ki agar insaan na manein to Allah ghayb ki makhlooq se apna kaam le leta hai."
+        "roman": "Maududi farmate hain ki agar insaan na manein to Allah ghayb ki makhlooq se apna kaam le leta hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/46.29"
       }
     }
   },
@@ -3216,7 +3607,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت يس (Ya-Sin) نزولی ترتیب کے لحاظ سے #41 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ya-Sin (يس) Nuzooli tartib ke mutabiq #41 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ya-Sin)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ya-Sin)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=36&tAyahNo=10&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3226,26 +3618,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ya-Sin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ya-Sin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ya-Sin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/36:10/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ya-Sin",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=36&tAyahNo=10&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ya-Sin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/36.10"
       }
     },
     "id": 57
@@ -3273,7 +3671,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت يس (Ya-Sin) نزولی ترتیب کے لحاظ سے #41 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ya-Sin (يس) Nuzooli tartib ke mutabiq #41 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ya-Sin)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ya-Sin)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=36&tAyahNo=33&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3283,26 +3682,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ya-Sin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ya-Sin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ya-Sin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/36:33/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ya-Sin",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=36&tAyahNo=33&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ya-Sin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/36.33"
       }
     },
     "id": 58
@@ -3330,7 +3735,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفرقان (Al-Furqan) نزولی ترتیب کے لحاظ سے #42 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Furqan (الفرقان) Nuzooli tartib ke mutabiq #42 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Furqan)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Furqan)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=25&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3340,26 +3746,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Furqan",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفرقان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Furqan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Furqan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/25:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Furqan",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=25&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Furqan",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Furqan deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Furqan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/25.1"
       }
     },
     "id": 59
@@ -3387,7 +3799,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت فاطر (Fatir) نزولی ترتیب کے لحاظ سے #43 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Fatir (فاطر) Nuzooli tartib ke mutabiq #43 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Fatir)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Fatir)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=35&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3397,26 +3810,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Fatir",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت فاطر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Fatir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Fatir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/35:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Fatir",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=35&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Fatir",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Fatir deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Fatir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/35.1"
       }
     },
     "id": 60
@@ -3444,7 +3863,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت مريم (Maryam) نزولی ترتیب کے لحاظ سے #44 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Maryam (مريم) Nuzooli tartib ke mutabiq #44 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Maryam)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Maryam)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=19&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3454,26 +3874,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Maryam",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت مريم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Maryam ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Maryam ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/19:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Maryam",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=19&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Maryam",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/19.1"
       }
     },
     "id": 61
@@ -3502,7 +3928,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "جب قریش نے نجاشی کو تحائف دے کر مہاجرین کو واپس مانگا تو حضرت جعفر بن ابی طالب نے سورۂ مریم تلاوت فرمائی۔ نجاشی اور درباری رو پڑے اور پناہ کی ضمانت دی۔",
       "roman": "Najashi ke darbar mein Hazrat Ja'far (R.A) ne Surah Maryam ki tilawat ki jisse mutasir hokar Najashi ne musalmano ko wapas bhejne se inkar kar diya.",
-      "reference": "Musnad Ahmad: Hadees #1740, Seerah Ibn Hisham"
+      "reference": "Musnad Ahmad: Hadees #1740, Seerah Ibn Hisham",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=19&tAyahNo=16&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "فَقَرَأَ عَلَيْهِ صَدْرًا مِنْ كَهَيْعَصَ، فَبَكَى النَّجَاشِيُّ حَتَّى اخْضَلَّتْ لِحْيَتُهُ...",
@@ -3512,26 +3939,32 @@ window.WAHI_EPISODES = [
       "chapter": "Musnad al-Kufiyyin",
       "narrator": "Rawi: Umm Salama (R.A)",
       "grade": "Sahih Hasan",
-      "gradingAuthority": "Ahmad Shakir"
+      "gradingAuthority": "Ahmad Shakir",
+      "book": "Musnad Ahmad bin Hanbal",
+      "hadithNumber": "1740",
+      "ref_url": "https://sunnah.com/ahmad:1740"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5",
         "urdu": "ابن کثیر فرماتے ہیں کہ اس کلام نے عیسائیوں کے سامنے حضرت عیسیٰ کی شان اور حضرت مریم کی طہارت کو مکمل توحید کے پیرائے میں واضح کر دیا۔",
-        "roman": "Ibn Kathir farmate hain ki حضرت Isa A.S. ne farmaya: 'Inni Abdullah' (Main Allah ka banda hoon)."
+        "roman": "Ibn Kathir farmate hain ki حضرت Isa A.S. ne farmaya: 'Inni Abdullah' (Main Allah ka banda hoon).",
+        "ref_url": "https://quran.com/19:16/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 16",
         "urdu": "امام طبری لکھتے ہیں کہ نجاشی کے دربار میں اس تلاوت نے اسلام کو جزیرۂ عرب سے باہر پہلی بین الاقوامی فتح سے ہمکنار کیا۔",
-        "roman": "Imam Tabari ke mutabiq yeh wahi dilon ko pighla kar dushmano ko dost bana dene wali taqat rakhti hai."
+        "roman": "Imam Tabari ke mutabiq yeh wahi dilon ko pighla kar dushmano ko dost bana dene wali taqat rakhti hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=19&tAyahNo=16&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق یہ اسلامی سفارت کاری کا شاہکار تھا جس میں حق کے بنیادی نظریات پر سمجھوتہ کیے بغیر عیسائی حکمران کی ہمدردی حاصل کی گئی۔",
-        "roman": "Maududi farmate hain ki Quran ki aawaz ne ek ghair-muslim badshah ko musalmano ka safe-haven bana diya."
+        "roman": "Maududi farmate hain ki Quran ki aawaz ne ek ghair-muslim badshah ko musalmano ka safe-haven bana diya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/19.16"
       }
     }
   },
@@ -3558,7 +3991,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت مريم (Maryam) نزولی ترتیب کے لحاظ سے #44 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Maryam (مريم) Nuzooli tartib ke mutabiq #44 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Maryam)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Maryam)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=19&tAyahNo=37&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3568,26 +4002,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Maryam",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت مريم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Maryam ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Maryam ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/19:37/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Maryam",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=19&tAyahNo=37&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Maryam",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/19.37"
       }
     },
     "id": 63
@@ -3616,7 +4056,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "ابو جہل کی رسول اللہ ﷺ سے گستاخی پر پہلے شیرِ خدا حضرت حمزہ اسلام لائے، پھر چند دن بعد حضرت عمر تلوار سونت کر نکلے اور بہن کے گھر سورۂ طہٰ سن کر کلمہ پڑھ لیا۔",
       "roman": "Hazrat Hamza (R.A) aur Hazrat Umar (R.A) ke dakhil-e-Islam hone se musalmano ko taqat mili aur Ka'aba mein aelaniyah namaz padhi gayi.",
-      "reference": "Al-Bidayah wan-Nihayah by Ibn Kathir Vol 3, Dalail an-Nubuwwah by Bayhaqi"
+      "reference": "Al-Bidayah wan-Nihayah by Ibn Kathir Vol 3, Dalail an-Nubuwwah by Bayhaqi",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=20&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "اللَّهُمَّ أَعِزَّ الْإِسْلَامَ بِأَحَبِّ هَذَيْنِ الرَّجُلَيْنِ إِلَيْكَ: بِأَبِي جَهْلٍ أَوْ بِعُمَرَ بْنِ الْخَطَّابِ",
@@ -3626,26 +4067,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Manaqib",
       "narrator": "Rawi: Abdullah bin Umar (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Imam Tirmidhi"
+      "gradingAuthority": "Imam Tirmidhi",
+      "book": "Jami` at-Tirmidhi",
+      "hadithNumber": "3681",
+      "ref_url": "https://sunnah.com/tirmidhi:3681"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'ما انزلنا علیک القرآن لتشقیٰ' نے واضح کیا کہ قرآن انسان کو تکلیف میں ڈالنے کے لیے نہیں بلکہ دلوں کی تسکین اور اللہ کی یاد کے لیے ہے۔",
-        "roman": "Ibn Kathir ke mutabiq Surah Taha ne Hazrat Umar ke sakht dil ko pighla kar shama-e-hidayat bana diya."
+        "roman": "Ibn Kathir ke mutabiq Surah Taha ne Hazrat Umar ke sakht dil ko pighla kar shama-e-hidayat bana diya.",
+        "ref_url": "https://quran.com/20:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 16",
         "urdu": "امام طبری لکھتے ہیں کہ حضرت عمر اور حمزہ کے اسلام لانے کے بعد مکہ کے کفار سکتے میں آ گئے اور کمزور مسلمانوں کے حوصلے بلند ہو گئے۔",
-        "roman": "Imam Tabari farmate hain ki yeh daur-e-nubuwwat ka azeem tareen inqilab tha."
+        "roman": "Imam Tabari farmate hain ki yeh daur-e-nubuwwat ka azeem tareen inqilab tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=20&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق یہ تاریخی لمحہ تھا جب تحریکِ اسلامی مدافعت سے نکل کر کھل کر میدان میں آ گئی۔",
-        "roman": "Maududi saheb farmate hain ki is wahi ke zariye tareekh ka rukh hidayat ki taraf modh diya gaya."
+        "roman": "Maududi saheb farmate hain ki is wahi ke zariye tareekh ka rukh hidayat ki taraf modh diya gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/20.1"
       }
     }
   },
@@ -3672,7 +4119,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت طه (Taha) نزولی ترتیب کے لحاظ سے #45 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Taha (طه) Nuzooli tartib ke mutabiq #45 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Taha)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Taha)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=20&tAyahNo=15&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3682,26 +4130,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Taha",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت طه کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Taha ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Taha ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/20:15/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Taha",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=20&tAyahNo=15&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Taha",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/20.15"
       }
     },
     "id": 65
@@ -3729,7 +4183,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت طه (Taha) نزولی ترتیب کے لحاظ سے #45 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Taha (طه) Nuzooli tartib ke mutabiq #45 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Taha)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Taha)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=20&tAyahNo=99&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3739,26 +4194,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Taha",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت طه کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Taha ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Taha ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/20:99/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Taha",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=20&tAyahNo=99&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Taha",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/20.99"
       }
     },
     "id": 66
@@ -3787,7 +4248,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "مفسرین کے مطابق یہ آیت حضرت عمر بن خطاب اور حضرت حمزہ کی مثال کے طور پر نازل ہوئی کہ جو کفر و جہالت میں مردہ تھے، اللہ نے انہیں اسلام کے نور سے نئی زندگی عطا فرمائی۔",
       "roman": "Allah Ta'ala ne farmaya ki kya woh shakhs jo pehle murda tha phir humne usey zinda kiya aur noor diya, woh andheron mein bhatakne wale jaisa ho sakta hai?",
-      "reference": "Tafsir Ibn Kathir, Surah Al-An'am 122"
+      "reference": "Tafsir Ibn Kathir, Surah Al-An'am 122",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=6&tAyahNo=122&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ: {أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ}، قَالَ: نَزَلَتْ فِي حَمْزَةَ بْنِ عَبْدِ الْمُطَّلِبِ وَعُمَرَ بْنِ الْخَطَّابِ",
@@ -3797,26 +4259,32 @@ window.WAHI_EPISODES = [
       "chapter": "Surah Al-An'am",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan",
-      "gradingAuthority": "Imam Tabari"
+      "gradingAuthority": "Imam Tabari",
+      "book": "Jami' al-Bayan (At-Tabari)",
+      "hadithNumber": "13778",
+      "ref_url": "https://shamela.ws/book/43"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 3",
         "urdu": "ابن کثیر فرماتے ہیں کہ ایمان دل کی اصل حیات ہے اور کفر روحانی موت ہے، قرآن وہ نور ہے جس کے ساتھ انسان دنیا کے اندھیروں میں سیدھی راہ چلتا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki imaan aane se insaan ka poora wajood noor-ala-noor ho jata hai."
+        "roman": "Ibn Kathir farmate hain ki imaan aane se insaan ka poora wajood noor-ala-noor ho jata hai.",
+        "ref_url": "https://quran.com/6:122/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 8",
         "urdu": "امام طبری لکھتے ہیں کہ جس طرح زندہ اور مردہ برابر نہیں ہو سکتے، اسی طرح بصیرت والا مومن اور اندھا کافر برابر نہیں ہو سکتے۔",
-        "roman": "Imam Tabari ke mutabiq yeh aayat kufr o imaan ka tareekhi mawazna hai."
+        "roman": "Imam Tabari ke mutabiq yeh aayat kufr o imaan ka tareekhi mawazna hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=6&tAyahNo=122&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ بتاتی ہے کہ اسلام ایک انسان کے اندر مکمل فکری اور اخلاقی کایا پلٹ کر کے اسے نئی بصیرت عطا کرتا ہے۔",
-        "roman": "Maududi farmate hain ki Islam aane ke baad Umar (R.A) Farooq-e-Azam ban gaye."
+        "roman": "Maududi farmate hain ki Islam aane ke baad Umar (R.A) Farooq-e-Azam ban gaye.",
+        "ref_url": "https://quranx.com/tafsir/maududi/6.122"
       }
     }
   },
@@ -3843,7 +4311,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الواقعة (Al-Waqi'ah) نزولی ترتیب کے لحاظ سے #46 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Waqi'ah (الواقعة) Nuzooli tartib ke mutabiq #46 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Waqi'ah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Waqi'ah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=56&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3853,26 +4322,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Waqi'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الواقعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Waqi'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Waqi'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/56:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Waqi'ah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=56&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Waqi'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Waqi'ah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Waqi'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/56.1"
       }
     },
     "id": 68
@@ -3900,7 +4375,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الشعراء (Ash-Shu'ara) نزولی ترتیب کے لحاظ سے #47 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shu'ara (الشعراء) Nuzooli tartib ke mutabiq #47 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=26&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3910,26 +4386,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shu'ara",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشعراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/26:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ash-Shu'ara",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=26&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ash-Shu'ara",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/26.1"
       }
     },
     "id": 69
@@ -3957,7 +4439,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الشعراء (Ash-Shu'ara) نزولی ترتیب کے لحاظ سے #47 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shu'ara (الشعراء) Nuzooli tartib ke mutabiq #47 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=26&tAyahNo=69&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -3967,26 +4450,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shu'ara",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشعراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/26:69/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ash-Shu'ara",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=26&tAyahNo=69&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ash-Shu'ara",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/26.69"
       }
     },
     "id": 70
@@ -4014,7 +4503,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الشعراء (Ash-Shu'ara) نزولی ترتیب کے لحاظ سے #47 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shu'ara (الشعراء) Nuzooli tartib ke mutabiq #47 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shu'ara)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=26&tAyahNo=192&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4024,26 +4514,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shu'ara",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشعراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shu'ara ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/26:192/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ash-Shu'ara",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=26&tAyahNo=192&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ash-Shu'ara",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/26.192"
       }
     },
     "id": 71
@@ -4071,7 +4567,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النمل (An-Naml) نزولی ترتیب کے لحاظ سے #48 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Naml (النمل) Nuzooli tartib ke mutabiq #48 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Naml)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Naml)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=27&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4081,26 +4578,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Naml",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النمل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Naml ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Naml ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/27:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Naml",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=27&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah An-Naml",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naml deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naml deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/27.1"
       }
     },
     "id": 72
@@ -4128,7 +4631,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت القصص (Al-Qasas) نزولی ترتیب کے لحاظ سے #49 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Qasas (القصص) Nuzooli tartib ke mutabiq #49 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qasas)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Qasas)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=28&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4138,26 +4642,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Qasas",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت القصص کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qasas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Qasas ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/28:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Qasas",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=28&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Qasas",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qasas deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qasas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/28.1"
       }
     },
     "id": 73
@@ -4185,7 +4695,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإسراء (Al-Isra) نزولی ترتیب کے لحاظ سے #50 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Isra (الإسراء) Nuzooli tartib ke mutabiq #50 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=2&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4195,26 +4706,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Isra",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإسراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/17:2/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Isra",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=17&tAyahNo=2&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Isra",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/17.2"
       }
     },
     "id": 74
@@ -4242,7 +4759,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإسراء (Al-Isra) نزولی ترتیب کے لحاظ سے #50 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Isra (الإسراء) Nuzooli tartib ke mutabiq #50 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=82&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4252,26 +4770,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Isra",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإسراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/17:82/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Isra",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=17&tAyahNo=82&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Isra",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/17.82"
       }
     },
     "id": 75
@@ -4299,7 +4823,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإسراء (Al-Isra) نزولی ترتیب کے لحاظ سے #50 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Isra (الإسراء) Nuzooli tartib ke mutabiq #50 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=86&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4309,26 +4834,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Isra",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإسراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/17:86/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Isra",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=17&tAyahNo=86&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Isra",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/17.86"
       }
     },
     "id": 76
@@ -4356,7 +4887,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت يونس (Yunus) نزولی ترتیب کے لحاظ سے #51 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Yunus (يونس) Nuzooli tartib ke mutabiq #51 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Yunus)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Yunus)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=10&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4366,26 +4898,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Yunus",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يونس کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Yunus ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Yunus ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/10:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Yunus",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=10&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Yunus",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Yunus deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Yunus deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/10.1"
       }
     },
     "id": 77
@@ -4413,7 +4951,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت هود (Hud) نزولی ترتیب کے لحاظ سے #52 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Hud (هود) Nuzooli tartib ke mutabiq #52 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Hud)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Hud)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=11&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4423,26 +4962,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Hud",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت هود کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Hud ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Hud ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/11:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Hud",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=11&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Hud",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Hud deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Hud deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/11.1"
       }
     },
     "id": 78
@@ -4470,7 +5015,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت يوسف (Yusuf) نزولی ترتیب کے لحاظ سے #53 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Yusuf (يوسف) Nuzooli tartib ke mutabiq #53 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Yusuf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Yusuf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=12&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4480,26 +5026,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Yusuf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت يوسف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Yusuf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Yusuf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/12:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Yusuf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=12&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Yusuf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Yusuf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Yusuf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/12.1"
       }
     },
     "id": 79
@@ -4527,7 +5079,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحجر (Al-Hijr) نزولی ترتیب کے لحاظ سے #54 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hijr (الحجر) Nuzooli tartib ke mutabiq #54 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hijr)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hijr)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=15&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4537,26 +5090,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hijr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحجر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hijr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hijr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/15:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hijr",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=15&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Hijr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hijr deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hijr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/15.1"
       }
     },
     "id": 80
@@ -4584,7 +5143,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنعام (Al-An'am) نزولی ترتیب کے لحاظ سے #55 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-An'am (الأنعام) Nuzooli tartib ke mutabiq #55 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-An'am)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-An'am)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=6&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4594,26 +5154,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-An'am",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنعام کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-An'am ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-An'am ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/6:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-An'am",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=6&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-An'am",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/6.1"
       }
     },
     "id": 81
@@ -4641,7 +5207,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنعام (Al-An'am) نزولی ترتیب کے لحاظ سے #55 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-An'am (الأنعام) Nuzooli tartib ke mutabiq #55 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-An'am)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-An'am)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=6&tAyahNo=123&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4651,26 +5218,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-An'am",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنعام کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-An'am ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-An'am ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/6:123/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-An'am",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=6&tAyahNo=123&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-An'am",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/6.123"
       }
     },
     "id": 82
@@ -4698,7 +5271,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الصافات (As-Saffat) نزولی ترتیب کے لحاظ سے #56 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah As-Saffat (الصافات) Nuzooli tartib ke mutabiq #56 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Saffat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Saffat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=37&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4708,26 +5282,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah As-Saffat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الصافات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Saffat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Saffat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/37:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah As-Saffat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=37&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah As-Saffat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saffat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saffat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/37.1"
       }
     },
     "id": 83
@@ -4755,7 +5335,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت لقمان (Luqman) نزولی ترتیب کے لحاظ سے #57 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Luqman (لقمان) Nuzooli tartib ke mutabiq #57 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Luqman)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Luqman)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=31&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4765,26 +5346,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Luqman",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت لقمان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Luqman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Luqman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/31:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Luqman",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=31&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Luqman",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/31.1"
       }
     },
     "id": 84
@@ -4812,7 +5399,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت لقمان (Luqman) نزولی ترتیب کے لحاظ سے #57 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Luqman (لقمان) Nuzooli tartib ke mutabiq #57 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Luqman)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Luqman)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=31&tAyahNo=8&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4822,26 +5410,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Luqman",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت لقمان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Luqman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Luqman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/31:8/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Luqman",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=31&tAyahNo=8&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Luqman",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/31.8"
       }
     },
     "id": 85
@@ -4869,7 +5463,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت سبإ (Saba) نزولی ترتیب کے لحاظ سے #58 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Saba (سبإ) Nuzooli tartib ke mutabiq #58 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Saba)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Saba)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=34&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4879,26 +5474,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Saba",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت سبإ کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Saba ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Saba ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/34:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Saba",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=34&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Saba",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Saba deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Saba deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/34.1"
       }
     },
     "id": 86
@@ -4926,7 +5527,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الزمر (Az-Zumar) نزولی ترتیب کے لحاظ سے #59 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Az-Zumar (الزمر) Nuzooli tartib ke mutabiq #59 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zumar)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zumar)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=39&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4936,26 +5538,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Az-Zumar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الزمر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zumar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zumar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/39:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Az-Zumar",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=39&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Az-Zumar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zumar deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zumar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/39.1"
       }
     },
     "id": 87
@@ -4983,7 +5591,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت غافر (Ghafir) نزولی ترتیب کے لحاظ سے #60 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ghafir (غافر) Nuzooli tartib ke mutabiq #60 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ghafir)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ghafir)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=40&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -4993,26 +5602,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ghafir",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت غافر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ghafir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ghafir ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/40:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ghafir",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=40&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ghafir",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ghafir deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ghafir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/40.1"
       }
     },
     "id": 88
@@ -5040,7 +5655,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت فصلت (Fussilat) نزولی ترتیب کے لحاظ سے #61 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Fussilat (فصلت) Nuzooli tartib ke mutabiq #61 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Fussilat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Fussilat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=41&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5050,26 +5666,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Fussilat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت فصلت کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Fussilat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Fussilat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/41:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Fussilat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=41&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Fussilat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Fussilat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Fussilat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/41.1"
       }
     },
     "id": 89
@@ -5097,7 +5719,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الشورى (Ash-Shuraa) نزولی ترتیب کے لحاظ سے #62 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ash-Shuraa (الشورى) Nuzooli tartib ke mutabiq #62 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shuraa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ash-Shuraa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=42&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5107,26 +5730,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ash-Shuraa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الشورى کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shuraa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ash-Shuraa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/42:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ash-Shuraa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=42&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ash-Shuraa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shuraa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shuraa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/42.1"
       }
     },
     "id": 90
@@ -5154,7 +5783,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الزخرف (Az-Zukhruf) نزولی ترتیب کے لحاظ سے #63 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Az-Zukhruf (الزخرف) Nuzooli tartib ke mutabiq #63 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zukhruf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zukhruf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=43&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5164,26 +5794,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Az-Zukhruf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الزخرف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zukhruf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zukhruf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/43:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Az-Zukhruf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=43&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Az-Zukhruf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zukhruf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zukhruf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/43.1"
       }
     },
     "id": 91
@@ -5211,7 +5847,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الدخان (Ad-Dukhan) نزولی ترتیب کے لحاظ سے #64 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ad-Dukhan (الدخان) Nuzooli tartib ke mutabiq #64 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ad-Dukhan)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ad-Dukhan)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=44&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5221,26 +5858,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ad-Dukhan",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الدخان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ad-Dukhan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ad-Dukhan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/44:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ad-Dukhan",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=44&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ad-Dukhan",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Dukhan deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Dukhan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/44.1"
       }
     },
     "id": 92
@@ -5268,7 +5911,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الجاثية (Al-Jathiyah) نزولی ترتیب کے لحاظ سے #65 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jathiyah (الجاثية) Nuzooli tartib ke mutabiq #65 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jathiyah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jathiyah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=45&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5278,26 +5922,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jathiyah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجاثية کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jathiyah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jathiyah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/45:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Jathiyah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=45&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Jathiyah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jathiyah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jathiyah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/45.1"
       }
     },
     "id": 93
@@ -5325,7 +5975,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأحقاف (Al-Ahqaf) نزولی ترتیب کے لحاظ سے #66 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahqaf (الأحقاف) Nuzooli tartib ke mutabiq #66 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahqaf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahqaf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=46&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5335,26 +5986,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahqaf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحقاف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahqaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahqaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/46:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ahqaf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=46&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Ahqaf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/46.1"
       }
     },
     "id": 94
@@ -5382,7 +6039,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأحقاف (Al-Ahqaf) نزولی ترتیب کے لحاظ سے #66 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahqaf (الأحقاف) Nuzooli tartib ke mutabiq #66 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahqaf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahqaf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=46&tAyahNo=33&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5392,26 +6050,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahqaf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحقاف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahqaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahqaf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/46:33/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ahqaf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=46&tAyahNo=33&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Ahqaf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/46.33"
       }
     },
     "id": 95
@@ -5439,7 +6103,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الذاريات (Adh-Dhariyat) نزولی ترتیب کے لحاظ سے #67 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Adh-Dhariyat (الذاريات) Nuzooli tartib ke mutabiq #67 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Adh-Dhariyat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Adh-Dhariyat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=51&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5449,26 +6114,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Adh-Dhariyat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الذاريات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Adh-Dhariyat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Adh-Dhariyat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/51:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Adh-Dhariyat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=51&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Adh-Dhariyat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Adh-Dhariyat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Adh-Dhariyat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/51.1"
       }
     },
     "id": 96
@@ -5496,7 +6167,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الغاشية (Al-Ghashiyah) نزولی ترتیب کے لحاظ سے #68 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ghashiyah (الغاشية) Nuzooli tartib ke mutabiq #68 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ghashiyah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ghashiyah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=88&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5506,26 +6178,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ghashiyah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الغاشية کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ghashiyah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ghashiyah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/88:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ghashiyah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=88&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Ghashiyah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ghashiyah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ghashiyah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/88.1"
       }
     },
     "id": 97
@@ -5553,7 +6231,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكهف (Al-Kahf) نزولی ترتیب کے لحاظ سے #69 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kahf (الكهف) Nuzooli tartib ke mutabiq #69 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5563,26 +6242,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kahf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكهف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/18:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kahf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=18&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Kahf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/18.1"
       }
     },
     "id": 98
@@ -5610,7 +6295,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكهف (Al-Kahf) نزولی ترتیب کے لحاظ سے #69 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kahf (الكهف) Nuzooli tartib ke mutabiq #69 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=27&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5620,26 +6306,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kahf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكهف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/18:27/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kahf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=18&tAyahNo=27&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Kahf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/18.27"
       }
     },
     "id": 99
@@ -5667,7 +6359,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكهف (Al-Kahf) نزولی ترتیب کے لحاظ سے #69 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kahf (الكهف) Nuzooli tartib ke mutabiq #69 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=60&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5677,26 +6370,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kahf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكهف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/18:60/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kahf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=18&tAyahNo=60&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Kahf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/18.60"
       }
     },
     "id": 100
@@ -5724,7 +6423,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الكهف (Al-Kahf) نزولی ترتیب کے لحاظ سے #69 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Kahf (الكهف) Nuzooli tartib ke mutabiq #69 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Kahf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=99&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5734,26 +6434,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Kahf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الكهف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Kahf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/18:99/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Kahf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=18&tAyahNo=99&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Kahf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/18.99"
       }
     },
     "id": 101
@@ -5782,7 +6488,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "عام الحزن اور طائف کے بعد اللہ تعالیٰ نے اپنے حبیب ﷺ کو راتوں رات مسجدِ حرام سے مسجدِ اقصیٰ اور وہاں سے سدرۃ المنتہیٰ تک بلایا، انبیاء کی امامت کرائی اور 5 نمازوں کا فرض تحفہ عطا فرمایا۔",
       "roman": "Safar-e-Miraj mein Nabi Kareem ﷺ ko arsh-e-moalla par bulaya gaya. Hazrat Abu Bakr ne bila-jhijhak tasdeeq karke 'Siddiq' ka laqab paya.",
-      "reference": "Sahih Bukhari: Hadees #3887 (Kitab Manaqib al-Ansar, Bab al-Miraj)"
+      "reference": "Sahih Bukhari: Hadees #3887 (Kitab Manaqib al-Ansar, Bab al-Miraj)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "فُرِضَتْ عَلَيَّ الصَّلَوَاتُ خَمْسِينَ... فَلَمْ أَزَلْ أَرْجِعُ بَيْنَ رَبِّي وَبَيْنَ مُوسَى حَتَّى قَالَ: هِيَ خَمْسٌ، وَهُنَّ خَمْسُونَ...",
@@ -5792,26 +6499,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab as-Salat",
       "narrator": "Rawi: Anas bin Malik (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "349",
+      "ref_url": "https://sunnah.com/bukhari:349"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5",
         "urdu": "ابن کثیر فرماتے ہیں کہ معراج جسم اور روح کے ساتھ بیداری کی حالت میں ہوئی جس سے رسول اللہ ﷺ کی سیادتِ مطلقہ کا اعلان ہوا۔",
-        "roman": "Ibn Kathir farmate hain ki Bait-ul-Muqaddas mein tamam Anbiya ki imamat ne sabit kiya ki ab qayamat tak ki imamat Muhammad ﷺ ke paas hai."
+        "roman": "Ibn Kathir farmate hain ki Bait-ul-Muqaddas mein tamam Anbiya ki imamat ne sabit kiya ki ab qayamat tak ki imamat Muhammad ﷺ ke paas hai.",
+        "ref_url": "https://quran.com/17:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 15",
         "urdu": "امام طبری لکھتے ہیں کہ 'سبحان الذی اسریٰ' اس پاک ذات کی قدرت کا شاہکار ہے جس کے آگے زمان و مکان کی کوئی قید نہیں۔",
-        "roman": "Imam Tabari ke mutabiq Miraj se momino ke imaan ki azmaish hui."
+        "roman": "Imam Tabari ke mutabiq Miraj se momino ke imaan ki azmaish hui.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=17&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ دورِ نبوت کے نئے مرحلے کا آغاز تھا جہاں سے مکہ کی مظلومیت ختم ہو کر مدینہ کی اسلامی حکومت کی داغ بیل پڑنے والی تھی۔",
-        "roman": "Maududi farmate hain ki Miraj musalmano ko fani dunya se nikal kar aalam-e-baala ke sath jodhne ka waqiya hai."
+        "roman": "Maududi farmate hain ki Miraj musalmano ko fani dunya se nikal kar aalam-e-baala ke sath jodhne ka waqiya hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/17.1"
       }
     }
   },
@@ -5838,7 +6551,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النحل (An-Nahl) نزولی ترتیب کے لحاظ سے #70 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nahl (النحل) Nuzooli tartib ke mutabiq #70 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nahl)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nahl)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=16&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5848,26 +6562,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nahl",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النحل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nahl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nahl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/16:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nahl",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=16&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nahl",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/16.1"
       }
     },
     "id": 103
@@ -5896,7 +6616,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "قریش نے مدینہ کے یہودیوں سے پوچھا کہ محمد کو کیسے پرکھیں؟ یہودیوں نے کہا ان سے 'روح' کے بارے میں پوچھو۔ جب سوال کیا گیا تو یہ آیت نازل ہوئی کہ روح میرے رب کے امر سے ہے اور تمہیں بہت تھوڑا علم دیا گیا ہے۔",
       "roman": "Yahood ke mashware par kuffar ne Rooh ke bare mein sawal kiya. Allah Ta'ala ne farmaya ki Rooh mere Rab ka amr hai aur insaan ka ilm mehdood hai.",
-      "reference": "Sahih Bukhari: Hadees #4721 (Kitab at-Tafseer, Surah Al-Isra)"
+      "reference": "Sahih Bukhari: Hadees #4721 (Kitab at-Tafseer, Surah Al-Isra)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=85&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "بَيْنَمَا أَنَا أَمْشِي مَعَ النَّبِيِّ فِي خَرِبِ الْمَدِينَةِ... فَقَالَ الْيَهُودُ: سَلُوهُ عَنِ الرُّوحِ... فَقَالَ: {قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي}",
@@ -5906,26 +6627,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Abdullah bin Mas'ood (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4721",
+      "ref_url": "https://sunnah.com/bukhari:4721"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے تمام انسانوں کے علم کی حد بتا دی کہ انسان چاہے کتنی سائنس پڑھ لے، وہ زندگی کی اصل حقیقت (روح) کو نہیں پا سکتا۔",
-        "roman": "Ibn Kathir farmate hain ki Rooh ka ilm sirf Allah ke paas hai."
+        "roman": "Ibn Kathir farmate hain ki Rooh ka ilm sirf Allah ke paas hai.",
+        "ref_url": "https://quran.com/17:85/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 15",
         "urdu": "امام طبری لکھتے ہیں کہ اس مختصر اور حکیمانہ جواب نے یہودی علماء کو لاجواب کر دیا کیونکہ تورات میں بھی یہی نشانی درج تھی۔",
-        "roman": "Imam Tabari ke mutabiq yeh aayat Nabi ﷺ ki sachi Nabuwwat ki mohar thi."
+        "roman": "Imam Tabari ke mutabiq yeh aayat Nabi ﷺ ki sachi Nabuwwat ki mohar thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=17&tAyahNo=85&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ بتاتی ہے کہ کائنات میں بے شمار حقائق ایسے ہیں جن کا ادراک عقلِ انسانی کے احاطے سے باہر ہے۔",
-        "roman": "Maududi farmate hain ki insaani ghamand ko todne ke liye Rooh ka sawal kafi hai."
+        "roman": "Maududi farmate hain ki insaani ghamand ko todne ke liye Rooh ka sawal kafi hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/17.85"
       }
     }
   },
@@ -5952,7 +6679,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النحل (An-Nahl) نزولی ترتیب کے لحاظ سے #70 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nahl (النحل) Nuzooli tartib ke mutabiq #70 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nahl)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nahl)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=16&tAyahNo=111&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -5962,26 +6690,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nahl",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النحل کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nahl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nahl ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/16:111/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nahl",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=16&tAyahNo=111&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nahl",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/16.111"
       }
     },
     "id": 105
@@ -6010,7 +6744,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "قریش نے یہودیوں کے سکھانے پر ذوالقرنین کے بارے میں پوچھا جنہوں نے مشرق و مغرب کا سفر کیا تھا۔ اللہ تعالیٰ نے ذوالقرنین کے عدل، لوہے اور تانبے کی دیوار اور یاجوج ماجوج کی قید کا مفصل واقعہ نازل فرمایا۔",
       "roman": "Quraish ne Zulqarnain ke mutalliq sawal kiya to Surah Kahf ka aakhri hissa nazil hua jisme unki aalamgeer fatah aur Deewar-e-Sadd ka zikr hai.",
-      "reference": "Asbab an-Nuzul by Imam Wahidi, Surah Al-Kahf 83"
+      "reference": "Asbab an-Nuzul by Imam Wahidi, Surah Al-Kahf 83",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=18&tAyahNo=83&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "بَعَثَتْ قُرَيْشٌ النَّضْرَ بْنَ الْحَارِثِ وَعُقْبَةَ بْنَ أَبِي مُعَيْطٍ إِلَى أَحْبَارِ يَهُودَ بِالْمَدِينَةِ...",
@@ -6020,26 +6755,31 @@ window.WAHI_EPISODES = [
       "chapter": "Zikr Asbab an-Nuzul",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan",
-      "gradingAuthority": "Ibn Hisham"
+      "gradingAuthority": "Ibn Hisham",
+      "book": "As-Seerah an-Nabawiyyah (Ibn Hisham)",
+      "ref_url": "https://shamela.ws/book/23833"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5",
         "urdu": "ابن کثیر فرماتے ہیں کہ ذوالقرنین ایک عادل اور مومن بادشاہ تھے جنہوں نے مظلوم قوم کو یاجوج ماجوج کے فساد سے بچانے کے لیے لوہے کی دیوار تعمیر کی۔",
-        "roman": "Ibn Kathir farmate hain ki Zulqarnain ne taaqat ke ba-wujood ghamand nahi kiya aur farmaya: 'Haza rahmatun min Rabbi'."
+        "roman": "Ibn Kathir farmate hain ki Zulqarnain ne taaqat ke ba-wujood ghamand nahi kiya aur farmaya: 'Haza rahmatun min Rabbi'.",
+        "ref_url": "https://quran.com/18:83/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 15",
         "urdu": "امام طبری لکھتے ہیں کہ جب اللہ کا وعدہ آئے گا تو یہ مضبوط دیوار بھی ریزہ ریزہ ہو جائے گی اور یاجوج ماجوج ہر بلندی سے نکل پڑیں گے۔",
-        "roman": "Imam Tabari ke mutabiq yeh waqiya qayamat ki azeem nishaniyon mein se hai."
+        "roman": "Imam Tabari ke mutabiq yeh waqiya qayamat ki azeem nishaniyon mein se hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=18&tAyahNo=83&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ ایک مثالی حکمران کا نمونہ پیش کرتا ہے جو طاقت کو اللہ کی امانت سمجھ کر مخلوق کی فلاح کے لیے استعمال کرتا ہے۔",
-        "roman": "Maududi farmate hain ki Zulqarnain ka kirdar dunya ke fir'auni hukmarano ke muqable mein khuda-tars badshah ki misaal hai."
+        "roman": "Maududi farmate hain ki Zulqarnain ka kirdar dunya ke fir'auni hukmarano ke muqable mein khuda-tars badshah ki misaal hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/18.83"
       }
     }
   },
@@ -6067,7 +6807,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سدرۃ المنتہیٰ پر جہاں حضرت جبرائیل کے پر رک گئے، رسول اللہ ﷺ آگے بڑھے اور اپنے رب کی بڑی بڑی نشانیوں کا بچشمِ خود مشاہدہ فرمایا۔ نہ نگاہ بہکی نہ حد سے بڑھی۔",
       "roman": "Surah An-Najm mein Miraj ke un unche makamat ka zikr hai jahan Jibreel A.S. bhi aage na ja sake aur Nabi ﷺ ne Rab ki azeem nishaniyan dekhein.",
-      "reference": "Sahih Bukhari: Hadees #4855 (Kitab at-Tafseer, Surah An-Najm)"
+      "reference": "Sahih Bukhari: Hadees #4855 (Kitab at-Tafseer, Surah An-Najm)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=53&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "عَنْ مَسْرُوقٍ، قَالَ: قُلْتُ لِعَائِشَةَ: يَا أُمَّتَاهْ! هَلْ رَأَى مُحَمَّدٌ رَبَّهُ؟ فَقَالَتْ: لَقَدْ قَفَّ شَعَرِي... ثُمَّ قَرَأَتْ: {لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى}",
@@ -6077,26 +6818,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab at-Tafseer",
       "narrator": "Rawi: Masrooq bin al-Ajda'",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4855",
+      "ref_url": "https://sunnah.com/bukhari:4855"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'قاب قوسین او ادنیٰ' انتہائی قرب کا استعارہ ہے جہاں بندگی اپنے معراج پر پہنچ گئی۔",
-        "roman": "Ibn Kathir farmate hain ki Jannat-ul-Ma'wa aur Sidrat-ul-Muntaha par Allah ke anwaar ki aisi barish thi jise koi zubaan bayan nahi kar sakti."
+        "roman": "Ibn Kathir farmate hain ki Jannat-ul-Ma'wa aur Sidrat-ul-Muntaha par Allah ke anwaar ki aisi barish thi jise koi zubaan bayan nahi kar sakti.",
+        "ref_url": "https://quran.com/53:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری لکھتے ہیں کہ 'ما زاغ البصر وما طغیٰ' حضور کے کمالِ ادب اور استقامت کی گواہی ہے کہ تجلیات کے سمندر میں بھی ہوش قائم رہا۔",
-        "roman": "Imam Tabari ke mutabiq yeh maqam kisi doosre insaan ya farishte ko naseeb nahi hua."
+        "roman": "Imam Tabari ke mutabiq yeh maqam kisi doosre insaan ya farishte ko naseeb nahi hua.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=53&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ وحی ان تمام شبہات کو ختم کر دیتی ہے کہ معراج کوئی خواب تھا، بلکہ یہ آنکھوں دیکھا بیداری کا تاریخی سچ تھا۔",
-        "roman": "Maududi farmate hain ki Nabi ﷺ ne Nabuwwat ki aala tareen haqeeqaton ka khud mushahida farmaya."
+        "roman": "Maududi farmate hain ki Nabi ﷺ ne Nabuwwat ki aala tareen haqeeqaton ka khud mushahida farmaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/53.1"
       }
     }
   },
@@ -6123,7 +6870,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت نوح (Nuh) نزولی ترتیب کے لحاظ سے #71 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Nuh (نوح) Nuzooli tartib ke mutabiq #71 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Nuh)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Nuh)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=71&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6133,26 +6881,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Nuh",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت نوح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Nuh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Nuh ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/71:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Nuh",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=71&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Nuh",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Nuh deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Nuh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/71.1"
       }
     },
     "id": 108
@@ -6180,7 +6934,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت ابراهيم (Ibrahim) نزولی ترتیب کے لحاظ سے #72 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ibrahim (ابراهيم) Nuzooli tartib ke mutabiq #72 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ibrahim)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ibrahim)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=14&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6190,26 +6945,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ibrahim",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت ابراهيم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ibrahim ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ibrahim ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/14:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ibrahim",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=14&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ibrahim",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ibrahim deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ibrahim deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/14.1"
       }
     },
     "id": 109
@@ -6237,7 +6998,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنبياء (Al-Anbya) نزولی ترتیب کے لحاظ سے #73 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anbya (الأنبياء) Nuzooli tartib ke mutabiq #73 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anbya)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anbya)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=21&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6247,26 +7009,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anbya",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنبياء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anbya ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anbya ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/21:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Anbya",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=21&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Anbya",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/21.1"
       }
     },
     "id": 110
@@ -6294,7 +7062,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنبياء (Al-Anbya) نزولی ترتیب کے لحاظ سے #73 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anbya (الأنبياء) Nuzooli tartib ke mutabiq #73 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anbya)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anbya)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=21&tAyahNo=19&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6304,26 +7073,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anbya",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنبياء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anbya ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anbya ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/21:19/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Anbya",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=21&tAyahNo=19&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Anbya",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/21.19"
       }
     },
     "id": 111
@@ -6351,7 +7126,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المؤمنون (Al-Mu'minun) نزولی ترتیب کے لحاظ سے #74 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mu'minun (المؤمنون) Nuzooli tartib ke mutabiq #74 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mu'minun)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mu'minun)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=23&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6361,26 +7137,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mu'minun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المؤمنون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mu'minun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mu'minun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/23:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mu'minun",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=23&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Mu'minun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mu'minun deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mu'minun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/23.1"
       }
     },
     "id": 112
@@ -6408,7 +7190,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت السجدة (As-Sajdah) نزولی ترتیب کے لحاظ سے #75 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah As-Sajdah (السجدة) Nuzooli tartib ke mutabiq #75 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Sajdah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Sajdah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=32&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6418,26 +7201,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah As-Sajdah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت السجدة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Sajdah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Sajdah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/32:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah As-Sajdah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=32&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah As-Sajdah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Sajdah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Sajdah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/32.1"
       }
     },
     "id": 113
@@ -6465,7 +7254,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الطور (At-Tur) نزولی ترتیب کے لحاظ سے #76 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tur (الطور) Nuzooli tartib ke mutabiq #76 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tur)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tur)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=52&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6475,26 +7265,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الطور کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/52:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tur",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=52&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah At-Tur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tur deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/52.1"
       }
     },
     "id": 114
@@ -6522,7 +7318,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الملك (Al-Mulk) نزولی ترتیب کے لحاظ سے #77 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mulk (الملك) Nuzooli tartib ke mutabiq #77 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mulk)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mulk)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=67&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6532,26 +7329,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mulk",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الملك کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mulk ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mulk ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/67:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mulk",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=67&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mulk",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mulk deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mulk deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/67.1"
       }
     },
     "id": 115
@@ -6579,7 +7382,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحاقة (Al-Haqqah) نزولی ترتیب کے لحاظ سے #78 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Haqqah (الحاقة) Nuzooli tartib ke mutabiq #78 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Haqqah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Haqqah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=69&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6589,26 +7393,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Haqqah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحاقة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Haqqah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Haqqah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/69:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Haqqah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=69&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Haqqah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Haqqah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Haqqah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/69.1"
       }
     },
     "id": 116
@@ -6636,7 +7446,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المعارج (Al-Ma'arij) نزولی ترتیب کے لحاظ سے #79 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'arij (المعارج) Nuzooli tartib ke mutabiq #79 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'arij)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'arij)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=70&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6646,26 +7457,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'arij",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المعارج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'arij ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'arij ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/70:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ma'arij",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=70&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Ma'arij",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'arij deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'arij deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/70.1"
       }
     },
     "id": 117
@@ -6693,7 +7510,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النبإ (An-Naba) نزولی ترتیب کے لحاظ سے #80 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Naba (النبإ) Nuzooli tartib ke mutabiq #80 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Naba)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Naba)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=78&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6703,26 +7521,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Naba",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النبإ کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Naba ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Naba ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/78:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Naba",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=78&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah An-Naba",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naba deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naba deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/78.1"
       }
     },
     "id": 118
@@ -6750,7 +7574,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النازعات (An-Nazi'at) نزولی ترتیب کے لحاظ سے #81 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nazi'at (النازعات) Nuzooli tartib ke mutabiq #81 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nazi'at)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nazi'at)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=79&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6760,26 +7585,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nazi'at",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النازعات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nazi'at ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nazi'at ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/79:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nazi'at",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=79&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah An-Nazi'at",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nazi'at deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nazi'at deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/79.1"
       }
     },
     "id": 119
@@ -6807,7 +7638,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإنفطار (Al-Infitar) نزولی ترتیب کے لحاظ سے #82 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Infitar (الإنفطار) Nuzooli tartib ke mutabiq #82 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Infitar)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Infitar)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=82&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6817,26 +7649,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Infitar",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإنفطار کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Infitar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Infitar ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/82:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Infitar",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=82&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Infitar",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Infitar deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Infitar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/82.1"
       }
     },
     "id": 120
@@ -6864,7 +7702,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإنشقاق (Al-Inshiqaq) نزولی ترتیب کے لحاظ سے #83 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Inshiqaq (الإنشقاق) Nuzooli tartib ke mutabiq #83 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Inshiqaq)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Inshiqaq)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=84&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6874,26 +7713,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Inshiqaq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإنشقاق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Inshiqaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Inshiqaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/84:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Inshiqaq",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=84&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Inshiqaq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Inshiqaq deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Inshiqaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/84.1"
       }
     },
     "id": 121
@@ -6921,7 +7766,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الروم (Ar-Rum) نزولی ترتیب کے لحاظ سے #84 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ar-Rum (الروم) Nuzooli tartib ke mutabiq #84 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Rum)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Rum)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=30&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6931,26 +7777,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ar-Rum",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الروم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Rum ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Rum ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/30:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ar-Rum",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=30&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Ar-Rum",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rum deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rum deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/30.1"
       }
     },
     "id": 122
@@ -6978,7 +7830,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت العنكبوت (Al-'Ankabut) نزولی ترتیب کے لحاظ سے #85 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-'Ankabut (العنكبوت) Nuzooli tartib ke mutabiq #85 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Ankabut)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-'Ankabut)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=29&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -6988,26 +7841,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-'Ankabut",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت العنكبوت کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Ankabut ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-'Ankabut ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/29:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-'Ankabut",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=29&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-'Ankabut",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Ankabut deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Ankabut deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/29.1"
       }
     },
     "id": 123
@@ -7035,7 +7894,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المطففين (Al-Mutaffifin) نزولی ترتیب کے لحاظ سے #86 نمبر پر ہے۔ یہ دورِ Late Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mutaffifin (المطففين) Nuzooli tartib ke mutabiq #86 par nazil hui. Yeh Late Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mutaffifin)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mutaffifin)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=83&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7045,26 +7905,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mutaffifin",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المطففين کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mutaffifin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mutaffifin ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/83:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mutaffifin",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=83&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Mutaffifin",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mutaffifin deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mutaffifin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/83.1"
       }
     },
     "id": 124
@@ -7093,7 +7959,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "حج کے موقع پر یثرب (مدینہ) کے انصار نے منیٰ کی وادی عقبہ میں خفیہ بیعت کی کہ وہ رسول اللہ ﷺ کی حفاظت اپنے اہل و عیال کی طرح کریں گے اور شرک و برائیوں سے پاک رہیں گے۔",
       "roman": "Bay'at-e-Aqabah ne Hijrat-e-Madinah ki bunyad rakhi jahan Hazrat As'ad bin Zurarah aur Ansar ne jaan o maal qurban karne ka ahd kiya.",
-      "reference": "Sahih Bukhari: Hadees #18 (Kitab al-Iman, Bab Bay'at al-Aqabah)"
+      "reference": "Sahih Bukhari: Hadees #18 (Kitab al-Iman, Bab Bay'at al-Aqabah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=60&tAyahNo=12&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "بَايِعُونِي عَلَى أَنْ لَا تُشْرِكُوا بِاللَّهِ شَيْئًا، وَلَا تَسْرِقُوا، وَلَا تَزْنُوا، وَلَا تَقْتُلُوا أَوْلَادَكُمْ...",
@@ -7103,26 +7970,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Iman",
       "narrator": "Rawi: Ubadah bin as-Samit (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "18",
+      "ref_url": "https://sunnah.com/bukhari:18"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ یہ بیعت اسلامی معاشرے کے اخلاقی اور سماجی ستون تھے جس نے مدینہ منورہ کو امن کا گہوارہ بنایا۔",
-        "roman": "Ibn Kathir farmate hain ki Ansar ne Nabuwwat ka daman thaam kar tareekh ka rasta badal diya."
+        "roman": "Ibn Kathir farmate hain ki Ansar ne Nabuwwat ka daman thaam kar tareekh ka rasta badal diya.",
+        "ref_url": "https://quran.com/60:12/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری لکھتے ہیں کہ انصارِ مدینہ نے رسول اللہ ﷺ کو اپنی جانوں سے بڑھ کر چاہا اور اپنا سب کچھ لٹا دیا۔",
-        "roman": "Imam Tabari ke mutabiq yeh aayat har momin ke liye bay'at aur wafa ka dastoor hai."
+        "roman": "Imam Tabari ke mutabiq yeh aayat har momin ke liye bay'at aur wafa ka dastoor hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=60&tAyahNo=12&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ اسلام کی پہلی سیاسی اور سماجی تنظیم کا قیام تھا جس نے مکہ کی تاریکیوں سے نکال کر مدینہ کی ریاستی بنیاد رکھی۔",
-        "roman": "Maududi farmate hain ki Bay'at-e-Aqabah Nabuwwat ki sab se kamyab tareen hikmat-e-amli thi."
+        "roman": "Maududi farmate hain ki Bay'at-e-Aqabah Nabuwwat ki sab se kamyab tareen hikmat-e-amli thi.",
+        "ref_url": "https://quranx.com/tafsir/maududi/60.12"
       }
     }
   },
@@ -7149,7 +8022,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "دعوت حق کا بھاری بوجھ اٹھانے کے لیے رات کے وقت قیام اور تلاوت قرآن کے ذریعے روحانی تیاری کا حکم دیا گیا۔",
       "roman": "Dawat-e-Islam ke azeem bojh ke liye Roohani quwwat darkaar thi, isliye raat me Tahajjud ki pabandi ka hukum hua.",
-      "reference": "Al-Durr al-Manthur by Imam Jalaluddin al-Suyuti, Surah Al-Muzzammil."
+      "reference": "Al-Durr al-Manthur by Imam Jalaluddin al-Suyuti, Surah Al-Muzzammil.",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=73&tAyahNo=20&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِنَّ اللَّهَ افْتَرَضَ قِيَامَ اللَّيْلِ فِي أَوَّلِ هَذِهِ السُّورَةِ...",
@@ -7159,26 +8033,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Tatwwu' (باب قيام الليل)",
       "narrator": "Rawi: Ummul Momineen Hazrat Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)"
+      "gradingAuthority": "Hukm: Allama Al-Albani (Sahih Sunan Abi Dawud)",
+      "book": "Sunan Abi Dawud",
+      "hadithNumber": "1342",
+      "ref_url": "https://sunnah.com/abudawud:1342"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Muzzammil",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے اپنے نبی ﷺ کو رات کے وقت تنہائی میں عبادت کرنے کا حکم دیا تاکہ دن کے وقت تبلیغ رسالت کی جو مشکلات ہیں ان کو برداشت کرنے کا حوصلہ مل سکے۔ ترتیل سے مراد ٹھہر ٹھہر کر اور تدبر کے ساتھ پڑھنا ہے۔",
-        "roman": "Ibn Kathir ke mutabiq Qiyam-ul-Layl roohani quwwat ka zariya banaya gaya tha taaki 'Qawlan Saqeela' (bhari hukum) ko uthane ki salahiyat paida ho sake."
+        "roman": "Ibn Kathir ke mutabiq Qiyam-ul-Layl roohani quwwat ka zariya banaya gaya tha taaki 'Qawlan Saqeela' (bhari hukum) ko uthane ki salahiyat paida ho sake.",
+        "ref_url": "https://quran.com/73:20/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23, Surah Al-Muzzammil",
         "urdu": "امام طبری لکھتے ہیں کہ 'مزمل' وہ ہے جس نے کپڑے اپنے اوپر لپیٹ رکھے ہوں۔ اللہ تعالیٰ نے محبت آمیز انداز میں پکار کر فرمایا کہ نیند کا لباس چھوڑ کر اپنے رب کے حضور کھڑے ہو جائیے۔",
-        "roman": "Imam al-Tabari farmate hain ki yeh khitaab nihayat piyar bhara hai jisme Nabi ﷺ ko aane wali zimmedariyon ke liye raat ke waqt tilawat-e-Quran ki takeed ki gayi."
+        "roman": "Imam al-Tabari farmate hain ki yeh khitaab nihayat piyar bhara hai jisme Nabi ﷺ ko aane wali zimmedariyon ke liye raat ke waqt tilawat-e-Quran ki takeed ki gayi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=73&tAyahNo=20&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6, Surah Al-Muzzammil",
         "urdu": "تفہیم القرآن کے مطابق یہ ایک مومن کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا تاکہ تحریک اسلامی کے علمبردار ہر قسم کی مخالفتوں کا خندہ پیشانی سے سامنا کر سکیں۔",
-        "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai."
+        "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/73.20"
       }
     },
     "id": 126
@@ -7207,7 +8087,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "دار الندوہ کے فیصلے کے بعد قریش کے ننگی تلواریں لیے قاتلوں نے رات کو رسول اللہ ﷺ کے گھر کا گھیراؤ کیا۔ آپ ﷺ نے حضرت علی کو اپنے بستر پر لٹایا اور خاک کی مٹھی پھینک کر سورۂ یٰسین پڑھتے ہوئے نکل گئے۔",
       "roman": "Shabb-e-Hijrat jab kuffar qatal ki niyat se gher kar khade the, Nabi ﷺ Surah Ya-Sin ki aayatein padhte hue unke darmyan se nikal gaye aur unhe nazar na aaye.",
-      "reference": "Seerah Ibn Hisham Vol 1, Tafsir Ibn Kathir Surah Ya-Sin"
+      "reference": "Seerah Ibn Hisham Vol 1, Tafsir Ibn Kathir Surah Ya-Sin",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=36&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَرَجَ رَسُولُ اللَّهِ وَقُرَيْشٌ يَنْتَظِرُونَهُ، فَوَضَعَ التُّرَابَ عَلَى رُءُوسِهِمْ وَهُوَ يَقْرَأُ: {وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا}...",
@@ -7217,26 +8098,32 @@ window.WAHI_EPISODES = [
       "chapter": "Hijrat an-Nabi",
       "narrator": "Rawi: Ali bin Abi Talib (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Ibn Kathir"
+      "gradingAuthority": "Ibn Kathir",
+      "book": "Dala'il an-Nubuwwah (Al-Bayhaqi)",
+      "hadithNumber": "473",
+      "ref_url": "https://shamela.ws/book/12028"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'فاغشیناہم فہم لا یبصرون' نے دشمنوں کی آنکھوں پر غفلت کی پٹی باندھ دی اور اللہ نے اپنے رسول کو بچا لیا۔",
-        "roman": "Ibn Kathir farmate hain ki Allah jab bachana chahta hai to dushman ki tezi andhi ho jati hai."
+        "roman": "Ibn Kathir farmate hain ki Allah jab bachana chahta hai to dushman ki tezi andhi ho jati hai.",
+        "ref_url": "https://quran.com/36:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری لکھتے ہیں کہ یہ واقعہ تاریخ کا معجزہ ہے کہ دشمن سر پر کھڑے رہے اور رسول اللہ نکل کر غارِ ثور پہنچ گئے۔",
-        "roman": "Imam Tabari ke mutabiq sachche momin ki hifazat farishte karte hain."
+        "roman": "Imam Tabari ke mutabiq sachche momin ki hifazat farishte karte hain.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=36&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق یہ کفر کی خفیہ تدبیر کے مقابلے میں اللہ کی تدبیر کا وہ غلبہ تھا جس نے باطل کی عقلیں ماؤف کر دیں۔",
-        "roman": "Maududi farmate hain ki Shabb-e-Hijrat ne Hazrat Ali ki be-khauf wafa ko hamesha ke liye amar kar diya."
+        "roman": "Maududi farmate hain ki Shabb-e-Hijrat ne Hazrat Ali ki be-khauf wafa ko hamesha ke liye amar kar diya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/36.1"
       }
     }
   },
@@ -7264,7 +8151,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "دارالندوہ میں ابو جہل اور ابلیس (نجدی شیخ کی صورت میں) نے سازش رچی کہ ہر قبیلے کا ایک نوجوان مل کر رسول اللہ کو قتل کرے تاکہ خون تمام قبائل میں بٹ جائے۔ اللہ نے ان کی ساری سازش خاک میں ملا دی۔",
       "roman": "Kuffar ne qaid karne, qatal karne ya jila-watan karne ki sazish ki. Allah ne farmaya: 'Woh apni chaal chalte the aur Allah apni, aur Allah sab se behtareen tadbeer karne wala hai'.",
-      "reference": "Musnad Ahmad: Hadees #2483, Seerah Ibn Hisham"
+      "reference": "Musnad Ahmad: Hadees #2483, Seerah Ibn Hisham",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=30&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "تَشَاوَرَتْ قُرَيْشٌ لَيْلَةً بِمَكَّةَ: فَقَالَ بَعْضُهُمْ: إِذَا أَصْبَحَ فَأَثْبِتُوهُ بِالْوَثَاقِ... وَقَالَ أَبُو جَهْلٍ: بَلْ نَقْتُلُهُ جَمِيعًا... فَأَخْبَرَ اللَّهُ نَبِيَّهُ",
@@ -7274,26 +8162,32 @@ window.WAHI_EPISODES = [
       "chapter": "Musnad Bani Hashim",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Ahmad Shakir"
+      "gradingAuthority": "Ahmad Shakir",
+      "book": "Musnad Ahmad bin Hanbal",
+      "hadithNumber": "2483",
+      "ref_url": "https://sunnah.com/ahmad:2483"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4",
         "urdu": "ابن کثیر فرماتے ہیں کہ مشرکین اپنی طاقت پر نازاں تھے مگر اللہ نے ان کے منصوبے کو خود ان کی رسوائی کا سبب بنا دیا۔",
-        "roman": "Ibn Kathir farmate hain ki 'Wallahu khairul maakireen' har daur ke zaalimon ke liye khauf ki ghanti hai."
+        "roman": "Ibn Kathir farmate hain ki 'Wallahu khairul maakireen' har daur ke zaalimon ke liye khauf ki ghanti hai.",
+        "ref_url": "https://quran.com/8:30/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 9",
         "urdu": "امام طبری لکھتے ہیں کہ کفر کی سازشیں ریت کی دیوار ہیں، اللہ اپنے حبیب کو تنہا نہیں چھوڑتا۔",
-        "roman": "Imam Tabari ke mutabiq yeh aayat Nabuwwat ki kamyabi ki ilahi dhal hai."
+        "roman": "Imam Tabari ke mutabiq yeh aayat Nabuwwat ki kamyabi ki ilahi dhal hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=8&tAyahNo=30&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق تاریخ گواہ ہے کہ وہی رسول جنہیں قتل کرنے کا منصوبہ بنایا گیا تھا، چند سال بعد فاتح بن کر مکہ میں داخل ہوئے۔",
-        "roman": "Maududi farmate hain ki insaani tadbeerein taqdeer-e-ilaahi ke aage be-bas hoti hain."
+        "roman": "Maududi farmate hain ki insaani tadbeerein taqdeer-e-ilaahi ke aage be-bas hoti hain.",
+        "ref_url": "https://quranx.com/tafsir/maududi/8.30"
       }
     }
   },
@@ -7320,7 +8214,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الجمعة (Al-Jumu'ah) نزولی ترتیب کے لحاظ سے #110 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jumu'ah (الجمعة) Nuzooli tartib ke mutabiq #110 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jumu'ah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jumu'ah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=62&tAyahNo=9&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7330,26 +8225,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jumu'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجمعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jumu'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jumu'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/62:9/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Jumu'ah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=62&tAyahNo=9&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Jumu'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/62.9"
       }
     },
     "id": 129
@@ -7378,7 +8279,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "مدینہ تشریف لانے کے بعد رسول اللہ ﷺ نے حضرت انس بن مالک کے مکان میں مہاجرین اور انصار کے درمیان باہمی اخوت (بھائی چارہ) قائم فرمایا۔ انصار نے اپنی جائیداد، باغات اور گھر اپنے مہاجر بھائیوں کے ساتھ آدھے آدھے بانٹ لیے۔",
       "roman": "Madinah aane ke baad Rasoolullah ﷺ ne Muhajireen aur Ansar ke darmiyan tareekhi Bhaichara qaim farmaya. Ansar ne apni aadhi jaidad Muhajir bhaiyon ko pesh kardi.",
-      "reference": "Sahih Bukhari: Hadees #3781 (Manaqib al-Ansar), Seerah Ibn Hisham"
+      "reference": "Sahih Bukhari: Hadees #3781 (Manaqib al-Ansar), Seerah Ibn Hisham",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=72&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِنَّ الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوا وَّنَصَرُوا أُولَٰئِكَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ",
@@ -7388,26 +8290,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Manaqib al-Ansar",
       "narrator": "Rawi: Abdur Rahman bin Awf (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Bukhari"
+      "gradingAuthority": "Sahih Bukhari",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "3781",
+      "ref_url": "https://sunnah.com/bukhari:3781"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4, Surah Al-Anfal",
         "urdu": "ابن کثیر فرماتے ہیں کہ تاریخِ انسانیت میں ایثار اور بھائی چارے کی ایسی بے نظیر مثال کہیں اور نہیں ملتی۔",
-        "roman": "Ibn Kathir farmate hain ki Allah ne Muhajireen aur Ansar ki is wilayat aur maddadgari ki tareef Quran mein hamesha ke liye qayam kardi."
+        "roman": "Ibn Kathir farmate hain ki Allah ne Muhajireen aur Ansar ki is wilayat aur maddadgari ki tareef Quran mein hamesha ke liye qayam kardi.",
+        "ref_url": "https://quran.com/8:72/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 10",
         "urdu": "امام طبri لکھتے ہیں کہ دین کی بنیاد پر قائم ہونے والا یہ رشتہ خونی رشتوں سے بھی زیادہ مضبوط ثابت ہوا۔",
-        "roman": "Imam al-Tabari farmate hain ki Mu'akhah ne qabeelayi tasubbaat ko jadh se ukhaad phainka."
+        "roman": "Imam al-Tabari farmate hain ki Mu'akhah ne qabeelayi tasubbaat ko jadh se ukhaad phainka.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=8&tAyahNo=72&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ ایک ایسی سچی سوشلسٹ اور روحانی اخوت تھی جس نے ایک بے گھر قوم کو چند ہفتوں میں مستحکم ریاست بنا دیا۔",
-        "roman": "Maududi farmate hain ki yeh islaam ke azeem maashrati nizam ka amli namoona tha."
+        "roman": "Maududi farmate hain ki yeh islaam ke azeem maashrati nizam ka amli namoona tha.",
+        "ref_url": "https://quranx.com/tafsir/maududi/8.72"
       }
     }
   },
@@ -7435,7 +8343,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "تیرہ سال تک مکہ میں ظلم و ستم، تازیانے اور بائیکاٹ برداشت کرنے کے بعد جب مسلمان مدینہ پہنچے، تو پہلی مرتبہ دفاعی جنگ اور قتال کی مشروط اجازت مرحمت فرمائی گئی کیونکہ وہ مظلوم تھے اور بے گناہ نکالے گئے تھے۔",
       "roman": "13 saal ke zulm o tashaddud ke baad Madinah aakar pehli martaba difa ke liye qital ki ijazat di gayi kyunki Musalmano par zulm hua tha.",
-      "reference": "Sunan at-Tirmidhi: Hadees #3171, Tafsir Ibn Kathir"
+      "reference": "Sunan at-Tirmidhi: Hadees #3171, Tafsir Ibn Kathir",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=22&tAyahNo=39&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
@@ -7445,26 +8354,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Al-Albani"
+      "gradingAuthority": "Al-Albani",
+      "book": "Jami` at-Tirmidhi",
+      "hadithNumber": "3171",
+      "ref_url": "https://sunnah.com/tirmidhi:3171"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5, Surah Al-Hajj",
         "urdu": "ابن کثیر فرماتے ہیں کہ قتال کی اجازت ظلم کو روکنے اور عبادت گاہوں کی حفاظت کے لیے دی گئی، نہ کہ جارحیت اور لوٹ مار کے لیے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayat shariat mein jihaad ki pehli qanooni sanad hai."
+        "roman": "Ibn Kathir farmate hain ki yeh aayat shariat mein jihaad ki pehli qanooni sanad hai.",
+        "ref_url": "https://quran.com/22:39/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 17",
         "urdu": "امام طبری فرماتے ہیں کہ اگر اللہ ایک ظالم گروہ کو دوسرے کے ذریعے نہ ہٹاتا تو زمین پر صومعے، گرجے اور مساجد مسمار کر دی جاتیں۔",
-        "roman": "Imam al-Tabari ke mutabiq difa-e-haq dunya mein aman ka azeem zariya hai."
+        "roman": "Imam al-Tabari ke mutabiq difa-e-haq dunya mein aman ka azeem zariya hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=22&tAyahNo=39&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق اسلام میں تلوار جارحیت کے لیے نہیں بلکہ ظلم کی زنجیریں کاٹنے اور مذہبی آزادی کے تحفظ کے لیے اٹھائی جاتی ہے۔",
-        "roman": "Maududi farmate hain ki qital ka maqsad fitna aur zulm ka khatma hai."
+        "roman": "Maududi farmate hain ki qital ka maqsad fitna aur zulm ka khatma hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/22.39"
       }
     }
   },
@@ -7491,7 +8406,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=40&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7501,26 +8417,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:40/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=40&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.40"
       }
     },
     "id": 132
@@ -7548,7 +8470,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7558,26 +8481,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.1"
       }
     },
     "id": 133
@@ -7605,7 +8534,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=87&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7615,26 +8545,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:87/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=87&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.87"
       }
     },
     "id": 134
@@ -7662,7 +8598,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=142&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7672,26 +8609,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:142/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=142&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.142"
       }
     },
     "id": 135
@@ -7719,7 +8662,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=153&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7729,26 +8673,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:153/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=153&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.153"
       }
     },
     "id": 136
@@ -7777,7 +8727,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "تحویلِ قبلہ کے بعد شعبان 2 ہجری میں رمضان المبارک کے روزے فرض کیے گئے۔ اللہ نے فرمایا کہ جیسے تم سے پہلی امتوں پر روزے فرض کیے گئے تھے تم پر بھی فرض ہوئے تاکہ تم میں تقویٰ پیدا ہو۔",
       "roman": "2 Hijri mein Ramadan ke roze farz hue taaki taqwa paida ho. Is mahine mein Quran nazil hua jo tamam insaniyat ke liye hidayat hai.",
-      "reference": "Sahih Bukhari: Hadees #1891, Sahih Muslim: Hadees #1151"
+      "reference": "Sahih Bukhari: Hadees #1891, Sahih Muslim: Hadees #1151",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=183&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ",
@@ -7787,26 +8738,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab as-Sawm",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "1891",
+      "ref_url": "https://sunnah.com/bukhari:1891"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 1",
         "urdu": "ابن کثیر فرماتے ہیں کہ روزے کا اصل مقصود روح کی پاکیزگی اور نفسانی خواہشات پر قابو پا کر اللہ کا تقویٰ حاصل کرنا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki Quran aur Ramadan ka aapas mein gehra roohani talluq hai."
+        "roman": "Ibn Kathir farmate hain ki Quran aur Ramadan ka aapas mein gehra roohani talluq hai.",
+        "ref_url": "https://quran.com/2:183/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 2",
         "urdu": "امام طبری فرماتے ہیں کہ تقویٰ یہ ہے کہ بندہ اللہ کے اوامر کو بجا لائے اور نواہی سے باز رہے، روزہ اس کی بہترین تربیت ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq roza makhfi ibadat hai jiska ajar be-hisaab hai."
+        "roman": "Imam al-Tabari ke mutabiq roza makhfi ibadat hai jiska ajar be-hisaab hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=183&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق ایک پورے مہینے کی یہ اجتماعی کیمپ ٹریننگ امت کو اللہ کے احکام کی اطاعت کے لیے سال بھر تیار رکھتی ہے۔",
-        "roman": "Maududi farmate hain ki roza fard aur maashre dono ko pakeeza banata hai."
+        "roman": "Maududi farmate hain ki roza fard aur maashre dono ko pakeeza banata hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.183"
       }
     }
   },
@@ -7833,7 +8790,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=188&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7843,26 +8801,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:188/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=188&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.188"
       }
     },
     "id": 138
@@ -7890,7 +8854,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=215&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7900,26 +8865,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:215/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=215&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.215"
       }
     },
     "id": 139
@@ -7947,7 +8918,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنفال (Al-Anfal) نزولی ترتیب کے لحاظ سے #88 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anfal (الأنفال) Nuzooli tartib ke mutabiq #88 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -7957,26 +8929,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anfal",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنفال کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/8:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Anfal",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=8&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Anfal",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/8.1"
       }
     },
     "id": 140
@@ -8004,7 +8982,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنفال (Al-Anfal) نزولی ترتیب کے لحاظ سے #88 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anfal (الأنفال) Nuzooli tartib ke mutabiq #88 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=31&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8014,26 +8993,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anfal",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنفال کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/8:31/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Anfal",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=8&tAyahNo=31&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Anfal",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/8.31"
       }
     },
     "id": 141
@@ -8061,7 +9046,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأنفال (Al-Anfal) نزولی ترتیب کے لحاظ سے #88 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Anfal (الأنفال) Nuzooli tartib ke mutabiq #88 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Anfal)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=41&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8071,26 +9057,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Anfal",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأنفال کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Anfal ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/8:41/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Anfal",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=8&tAyahNo=41&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Anfal",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/8.41"
       }
     },
     "id": 142
@@ -8119,7 +9111,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "بدر کے 70 قیدیوں کے بارے میں حضرت ابوبکر نے فدیہ لے کر چھوڑنے کا مشورہ دیا جبکہ حضرت عمر نے قتل کرنے کی رائے دی۔ رسول اللہ نے نرمی کا پہلو اختیار کرتے ہوئے فدیہ یا دس مسلمان بچوں کو پڑھانے کے بدلے رہائی کا فیصلہ فرمایا۔ اس پر ہلکا عتاب نازل ہوا۔",
       "roman": "Badr ke qaidiyon ke baare mein mashwara hua. Nabi ﷺ ne fidiya lekar taleem dene ke badle rihayi di. Quran ne aazmaish par rehnumayi ata farmayi.",
-      "reference": "Sahih Muslim: Hadees #1763, Sunan Abi Dawud"
+      "reference": "Sahih Muslim: Hadees #1763, Sunan Abi Dawud",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=8&tAyahNo=67&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ",
@@ -8129,26 +9122,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Jihad was-Siyar",
       "narrator": "Rawi: Umar bin al-Khattab (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "1763",
+      "ref_url": "https://sunnah.com/muslim:1763"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4",
         "urdu": "ابن کثیر فرماتے ہیں کہ اسیرانِ بدر کو علم و خواندگی سکھانے پر رہا کرنا تاریخِ عالم میں تعلیم کی سب سے شاندار قدر افزائی تھی۔",
-        "roman": "Ibn Kathir farmate hain ki jo qaidee padhna likhna jaante the unka fidiya das bacho ko sikhana tha."
+        "roman": "Ibn Kathir farmate hain ki jo qaidee padhna likhna jaante the unka fidiya das bacho ko sikhana tha.",
+        "ref_url": "https://quran.com/8:67/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 10",
         "urdu": "امام طبری فرماتے ہیں کہ اللہ تعالیٰ نے اگر پہلے سے مغفرت کا فیصلہ نہ فرمایا ہوتا تو یہ اجتہادی لغزش آزمائش بن جاتی۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh aayat shariat mein asiran-e-jang ke ahkaam wazeh karti hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh aayat shariat mein asiran-e-jang ke ahkaam wazeh karti hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=8&tAyahNo=67&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق نبی ﷺ نے دشمن کے قیدیوں کے ساتھ حسن سلوک کی ایسی مثال قائم کی کہ صحابہ خود بھوکے رہ کر قیدیوں کو روٹی کھلاتے تھے۔",
-        "roman": "Maududi likhte hain ki qaidiyo ke sath azeem tareen ikhlaq pesh kiya gaya."
+        "roman": "Maududi likhte hain ki qaidiyo ke sath azeem tareen ikhlaq pesh kiya gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/8.67"
       }
     }
   },
@@ -8175,7 +9174,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=243&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8185,26 +9185,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:243/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=243&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.243"
       }
     },
     "id": 144
@@ -8233,7 +9239,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "بدر کی فتح کے بعد مدینہ کے یہودی قبیلے بنو قینقاع نے حسد اور تکبر کا مظاہرہ کیا اور بازار میں ایک مسلمان خاتون کی بے حرمتی کی۔ رسول اللہ کے سمجھانے پر انہوں نے جنگ کی دھمکی دی۔ 15 دن کے محاصرے کے بعد انہیں ہتھیار ڈالنے پر مدینہ سے جلاوطن کیا گیا۔",
       "roman": "Badr ke baad Banu Qaynuqa ne sarkashi ki aur muahedah toda. 15 din ke gherao ke baad unhein jila-watan kiya gaya.",
-      "reference": "Sunan Abi Dawud: Hadees #3001, Seerah Ibn Hisham"
+      "reference": "Sunan Abi Dawud: Hadees #3001, Seerah Ibn Hisham",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=12&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "قُل لِّلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ ۝ قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا",
@@ -8243,26 +9250,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Kharaj wal-Imarah",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Hasan",
-      "gradingAuthority": "Al-Albani"
+      "gradingAuthority": "Al-Albani",
+      "book": "Sunan Abi Dawud",
+      "hadithNumber": "3001",
+      "ref_url": "https://sunnah.com/abudawud:3001"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 2",
         "urdu": "ابن کثیر فرماتے ہیں کہ بنو قینقاع کی جلاوطنی نے ثابت کر دیا کہ اسلامی ریاست کے اندر رہ کر غداری کرنے والوں کو معاف نہیں کیا جائے گا۔",
-        "roman": "Ibn Kathir likhte hain ki 'Satughlaboona' ki peshangoyi unki jila-watni aur zillat se poori hui."
+        "roman": "Ibn Kathir likhte hain ki 'Satughlaboona' ki peshangoyi unki jila-watni aur zillat se poori hui.",
+        "ref_url": "https://quran.com/3:12/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 3",
         "urdu": "امام طبری فرماتے ہیں کہ بدر کا واقعہ ان کے لیے نشانی تھا مگر تکبر نے ان کی آنکھوں پر پردہ ڈال دیا تھا۔",
-        "roman": "Imam al-Tabari ke mutabiq ahd-shikani ka anjam hamesha ruswayi hota hai."
+        "roman": "Imam al-Tabari ke mutabiq ahd-shikani ka anjam hamesha ruswayi hota hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=12&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ مدینہ کے اندرونی امن کو مستحکم کرنے کا ناگزیر اقدام تھا تاکہ آستین کے سانپ کچلے جا سکیں۔",
-        "roman": "Maududi likhte hain ki riasat ke dastoor ki khilaf-warzi par yeh pehla qanooni action tha."
+        "roman": "Maududi likhte hain ki riasat ke dastoor ki khilaf-warzi par yeh pehla qanooni action tha.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.12"
       }
     }
   },
@@ -8289,7 +9302,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت آل عمران (Ali 'Imran) نزولی ترتیب کے لحاظ سے #89 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ali 'Imran (آل عمران) Nuzooli tartib ke mutabiq #89 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8299,26 +9313,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ali 'Imran",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت آل عمران کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/3:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ali 'Imran",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ali 'Imran",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.1"
       }
     },
     "id": 146
@@ -8346,7 +9366,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت آل عمران (Ali 'Imran) نزولی ترتیب کے لحاظ سے #89 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ali 'Imran (آل عمران) Nuzooli tartib ke mutabiq #89 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=14&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8356,26 +9377,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ali 'Imran",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت آل عمران کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/3:14/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ali 'Imran",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=14&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ali 'Imran",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.14"
       }
     },
     "id": 147
@@ -8404,7 +9431,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "شوال 3 ہجری میں قریش بدر کا بدلہ لینے تین ہزار لشکر کے ساتھ احد پہنچے۔ نبی ﷺ نے جبلِ عینین (جبلِ رماۃ) پر 50 تیر انداز بٹھائے اور تاکید کی کہ چاہے ہم جیتیں یا ہاریں، اپنی جگہ نہ چھوڑنا۔ فتح کے گمان میں تیر انداز درہ چھوڑ گئے اور خالد بن ولید نے پیچھے سے حملہ کر دیا۔",
       "roman": "Ghazwa Uhud mein 50 teer-andazon ne hukum ki taameel mein ghalti ki jisse jeeti hui baazi palat gayi aur musalmano ko shadeed aazmaish ka samna karna pada.",
-      "reference": "Sahih Bukhari: Hadees #4039, Sahih Muslim: Hadees #1790"
+      "reference": "Sahih Bukhari: Hadees #4039, Sahih Muslim: Hadees #1790",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=121&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
@@ -8414,26 +9442,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Al-Bara' bin 'Azib (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4039",
+      "ref_url": "https://sunnah.com/bukhari:4039"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 2",
         "urdu": "ابن کثیر فرماتے ہیں کہ احد کا یہ سانحہ مسلمانوں کے لیے قیامت تک کے لیے سبق تھا کہ رسول کی اطاعت سے ہٹنے کا نتیجہ ناکامی ہوتا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh waqia dikhata hai ki ek ghalati puri fauj par bhari pad sakti hai."
+        "roman": "Ibn Kathir farmate hain ki yeh waqia dikhata hai ki ek ghalati puri fauj par bhari pad sakti hai.",
+        "ref_url": "https://quran.com/3:121/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 4",
         "urdu": "امام طبری فرماتے ہیں کہ احد کی گھاٹی پر مسلمانوں کو اپنے نفس کی کمزوری کا سامنا کرنا پڑا جس سے ان کی تربیت مکمل ہوئی۔",
-        "roman": "Imam al-Tabari ke mutabiq Allah ne momino ko aazma kar khalis sona banaya."
+        "roman": "Imam al-Tabari ke mutabiq Allah ne momino ko aazma kar khalis sona banaya.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=121&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ عسکری نظم و ضبط اور امیر کی غیر مشروط اطاعت کا وہ سبق تھا جس نے آئندہ اسلامی فتوحات کی ضمانت دی۔",
-        "roman": "Maududi likhte hain ki shariat ke qawaneen se sar-mow inhiraf bhi nuqsaan deh hota hai."
+        "roman": "Maududi likhte hain ki shariat ke qawaneen se sar-mow inhiraf bhi nuqsaan deh hota hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.121"
       }
     }
   },
@@ -8460,7 +9494,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت آل عمران (Ali 'Imran) نزولی ترتیب کے لحاظ سے #89 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ali 'Imran (آل عمران) Nuzooli tartib ke mutabiq #89 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=130&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8470,26 +9505,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ali 'Imran",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت آل عمران کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/3:130/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ali 'Imran",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=130&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ali 'Imran",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.130"
       }
     },
     "id": 149
@@ -8517,7 +9558,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت آل عمران (Ali 'Imran) نزولی ترتیب کے لحاظ سے #89 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ali 'Imran (آل عمران) Nuzooli tartib ke mutabiq #89 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=140&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8527,26 +9569,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ali 'Imran",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت آل عمران کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/3:140/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ali 'Imran",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=140&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ali 'Imran",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.140"
       }
     },
     "id": 150
@@ -8575,7 +9623,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "احد کے اگلے ہی روز رسول اللہ ﷺ نے اعلان فرمایا کہ کوئی نیا شخص ساتھ نہ چلے، صرف وہی زخمی صحابہ ابوسفیان کے لشکر کا تعاقب کریں گے جو کل شریک تھے۔ زخموں سے چور ہونے کے باوجود صحابہ لبیک کہتے ہوئے حمراء الاسد تک نکلے جس سے قریش خوفزدہ ہو کر مکہ بھاگ گئے۔",
       "roman": "Uhud ke agle hi din zakhmi Sahaba ne Nabi ke hukum par dushman ka taaqub kiya. Quraish khauf-zada hokar Makkah bhag gaye.",
-      "reference": "Sahih Bukhari: Hadees #4077, Seerah Ibn Hisham"
+      "reference": "Sahih Bukhari: Hadees #4077, Seerah Ibn Hisham",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=172&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "الَّذِينَ اسْتَجَابُوا لِلَّهِ وَالرَّسُولِ مِن بَعْدِ مَا أَصَابَهُمُ الْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ",
@@ -8585,26 +9634,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4077",
+      "ref_url": "https://sunnah.com/bukhari:4077"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 2",
         "urdu": "ابن کثیر فرماتے ہیں کہ حمراء الاسد نے دشمن کی نفسیاتی برتری کو 24 گھنٹے کے اندر اندر خاک میں ملا دیا۔",
-        "roman": "Ibn Kathir likhte hain ki 'Hasbunallahu wa ni'mal wakeel' unka sab se bada hathiyar tha."
+        "roman": "Ibn Kathir likhte hain ki 'Hasbunallahu wa ni'mal wakeel' unka sab se bada hathiyar tha.",
+        "ref_url": "https://quran.com/3:172/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 4",
         "urdu": "امام طبری لکھتے ہیں کہ منافقین نے ڈرایا کہ دشمن بہت بڑا لشکر لے کر آ رہا ہے، مگر اس خوف نے ان کے ایمان میں مزید اضافہ کر دیا۔",
-        "roman": "Imam al-Tabari farmate hain ki yeh aala tareen imaan ki tasweer hai."
+        "roman": "Imam al-Tabari farmate hain ki yeh aala tareen imaan ki tasweer hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=172&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ تاریخی مظاہرہ تھا کہ ایک سچا مومن جسمانی زخموں کے باوجود کبھی بھی ہتھیار نہیں ڈالتا۔",
-        "roman": "Maududi likhte hain ki is qadam ne Madinah par dushman ke hamle ki himmat hamesha ke liye khatm kar di."
+        "roman": "Maududi likhte hain ki is qadam ne Madinah par dushman ke hamle ki himmat hamesha ke liye khatm kar di.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.172"
       }
     }
   },
@@ -8631,7 +9686,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت آل عمران (Ali 'Imran) نزولی ترتیب کے لحاظ سے #89 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ali 'Imran (آل عمران) Nuzooli tartib ke mutabiq #89 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ali 'Imran)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=176&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8641,26 +9697,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ali 'Imran",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت آل عمران کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ali 'Imran ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/3:176/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ali 'Imran",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=176&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ali 'Imran",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.176"
       }
     },
     "id": 152
@@ -8688,7 +9750,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأحزاب (Al-Ahzab) نزولی ترتیب کے لحاظ سے #90 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahzab (الأحزاب) Nuzooli tartib ke mutabiq #90 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -8698,26 +9761,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحزاب کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/33:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ahzab",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Ahzab",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.1"
       }
     },
     "id": 153
@@ -8746,7 +9815,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "نبی اکرم ﷺ کے گھرانے کو امت کا مثالی رول ماڈل بنانے کے لیے ازواجِ مطہرات کو خصوصی وقار اور آداب سکھائے گئے: نرم لہجے میں غیر مردوں سے گفتگو نہ کرنا، اپنے گھروں میں وقار سے جم کر رہنا اور جاہلیت کے بناؤ سنگھار سے بچنا۔",
       "roman": "Ummahat-ul-Momineen ko azeem martaba ata hua aur unhein khusoosi pakeezgi aur adab ke ahkaam diye gaye.",
-      "reference": "Sahih Muslim: Hadees #2424 (Fazail Ahl-ul-Bait)"
+      "reference": "Sahih Muslim: Hadees #2424 (Fazail Ahl-ul-Bait)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=32&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا نِسَاءَ النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاءِ ۚ إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
@@ -8756,26 +9826,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il as-Sahabah",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "2424",
+      "ref_url": "https://sunnah.com/muslim:2424"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6, Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ امہات المومنین تمام مومنین کی مائیں ہیں، ان کا رتبہ اور ان کی ذمہ داری دنیا کی تمام عورتوں سے بلند ہے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayatein azwaj-e-mutahharat ke azeem taqwa ki gawaahi hain."
+        "roman": "Ibn Kathir farmate hain ki yeh aayatein azwaj-e-mutahharat ke azeem taqwa ki gawaahi hain.",
+        "ref_url": "https://quran.com/33:32/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری فرماتے ہیں کہ 'فیطمع الذی فی قلبہ مرض' سے مراد منافقین اور بد نیت لوگ ہیں جن کی نگاہِ بد سے مومن عورتوں کو محفوظ رکھنے کا حکم دیا گیا۔",
-        "roman": "Imam al-Tabari ke mutabiq parda aur tehzeeb roohani dhal hain."
+        "roman": "Imam al-Tabari ke mutabiq parda aur tehzeeb roohani dhal hain.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=32&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق رسول اللہ کے گھرانے کی پاکیزگی اس لیے ناگزیر تھی کہ وہی پوری انسانیت کے لیے اخلاقی مینارِ نور تھا۔",
-        "roman": "Maududi likhte hain ki yeh islami khandan ka aala tareen kirdar hai."
+        "roman": "Maududi likhte hain ki yeh islami khandan ka aala tareen kirdar hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.32"
       }
     }
   },
@@ -8803,7 +9879,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "مدینہ کی گلیوں میں جب اوباش اور منافقین خواتین کو چھیڑتے تو بہانہ بناتے کہ ہم سمجھے یہ لونڈیاں ہیں۔ اللہ تعالیٰ نے مومن عورتوں پر بڑی چادریں (جلباب) اوڑھنے اور پردے کا عمومی حکم نازل فرمایا تاکہ وہ باوقار پہچانی جائیں اور کوئی انہیں ایذا نہ پہنچائے۔",
       "roman": "Zul-Qadah 5 AH mein aam muslim khawateen ke liye Jilbab aur parde ka hukum nazil hua taaki ba-haya maashra tashkeel paaye.",
-      "reference": "Sahih Bukhari: Hadees #4790, Sahih Muslim: Hadees #1428"
+      "reference": "Sahih Bukhari: Hadees #4790, Sahih Muslim: Hadees #1428",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=53&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ",
@@ -8813,26 +9890,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Bukhari"
+      "gradingAuthority": "Sahih Bukhari",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4758",
+      "ref_url": "https://sunnah.com/bukhari:4758"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ جلباب وہ بڑی چادر ہے جو سر سے پاؤں تک پورے جسم کو ڈھانپ لے، تاکہ عورت کی عفت اور حیا کی حفاظت ہو۔",
-        "roman": "Ibn Kathir farmate hain ki parda aurat ki ghulami nahi balke uski izzat aur dhaal hai."
+        "roman": "Ibn Kathir farmate hain ki parda aurat ki ghulami nahi balke uski izzat aur dhaal hai.",
+        "ref_url": "https://quran.com/33:53/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری فرماتے ہیں کہ 'فلا یؤذین' کا مقصد یہ تھا کہ فاسق لوگ ان پر طعنہ زنی یا بد نگاہی کی جرات نہ کر سکیں۔",
-        "roman": "Imam al-Tabari ke mutabiq parda islami maashre ko be-hayaayi se paak karta hai."
+        "roman": "Imam al-Tabari ke mutabiq parda islami maashre ko be-hayaayi se paak karta hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=53&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق اسلام نے عورت کو تجارتی نمائش بننے سے بچا کر ایک محفوظ، باوقار اور قابلِ احترام معاشرتی مقام دیا۔",
-        "roman": "Maududi likhte hain ki parda maashrati fitno ka mukammal sadd-e-baab hai."
+        "roman": "Maududi likhte hain ki parda maashrati fitno ka mukammal sadd-e-baab hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.53"
       }
     }
   },
@@ -8860,7 +9943,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "قریش، غطفان، نجد اور بنو نضیر نے مل کر دس ہزار کا متحدہ لشکر (احزاب) تیار کر کے مدینہ کا محاصرہ کر لیا۔ حضرت سلمان فارسی کے مشورے پر خندق کھودی گئی۔ شدید سردی، فاقہ کشی اور خوف کے اس عالم میں منافقین نے بزدلی دکھائی جبکہ مومنین کے ایمان میں اضافہ ہوا۔",
       "roman": "10,000 mushrikeen aur qabail ne Madinah ka gherao kiya. Hazrat Salman Farsi ke mashware par khandaq khodi gayi. Shadeed bhook aur sardi mein imtihaan hua.",
-      "reference": "Sahih Bukhari: Hadees #4101, Sahih Muslim: Hadees #1803"
+      "reference": "Sahih Bukhari: Hadees #4101, Sahih Muslim: Hadees #1803",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=9&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا",
@@ -8870,26 +9954,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4101",
+      "ref_url": "https://sunnah.com/bukhari:4101"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6, Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ خندق کے محاصرے نے مومن کے توکل اور منافق کے کھوکھلے پن کو بالکل ننگا کر دیا۔",
-        "roman": "Ibn Kathir likhte hain ki 'Haza ma wa'adanallahu wa rasooluh' sachay sahaba ka naara tha."
+        "roman": "Ibn Kathir likhte hain ki 'Haza ma wa'adanallahu wa rasooluh' sachay sahaba ka naara tha.",
+        "ref_url": "https://quran.com/33:9/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری فرماتے ہیں کہ جب آنکھیں پتھرا گئیں اور سانسیں سینوں میں اٹک گئیں، تب بھی صحابہ کے پائے ثبات میں لغزش نہ آئی۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh tareekh-e-islam ka shadeed tareen imtihaan tha."
+        "roman": "Imam al-Tabari ke mutabiq yeh tareekh-e-islam ka shadeed tareen imtihaan tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=9&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق خندق کی آزمائش نے ثابت کر دیا کہ خدا پرستی کا دعویٰ زبانی جمع خرچ نہیں بلکہ جان و مال کی بازی لگانے کا نام ہے۔",
-        "roman": "Maududi likhte hain ki musalmano ne bhook aur sardi mein sabr ka koh-e-giran qaim kiya."
+        "roman": "Maududi likhte hain ki musalmano ne bhook aur sardi mein sabr ka koh-e-giran qaim kiya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.9"
       }
     }
   },
@@ -8917,7 +10007,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "تقریباً ایک ماہ کے محاصرے کے بعد اللہ تعالیٰ نے کفر کے لشکر پر برفیلے طوفان اور تند و تیز آندھی کا عذاب بھیجا جس نے ان کے خیمے اکھاڑ دیے، ہانڈیاں الٹ دیں اور گھوڑے بدحواس کر دیے۔ ابو سفیان اور تمام قبائل ذلیل و رسوا ہو کر بھاگ گئے۔",
       "roman": "Aik maah ke baad Allah ne azeem toofan aur farishto ke lashkar bheje. Dushman ke kheeme ukhad gaye aur woh zaleel hokar bhaag khade hue.",
-      "reference": "Sahih Bukhari: Hadees #4114, Sahih Muslim: Hadees #1788"
+      "reference": "Sahih Bukhari: Hadees #4114, Sahih Muslim: Hadees #1788",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=21&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا",
@@ -8927,26 +10018,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Sulaiman bin Surad (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Bukhari"
+      "gradingAuthority": "Sahih Bukhari",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4110",
+      "ref_url": "https://sunnah.com/bukhari:4110"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'وکفی اللہ المومنین القتال' اللہ نے مسلمانوں کو بغیر ہاتھ اٹھائے صرف اپنی ہوا اور فرشتوں سے فتح عطا فرما دی۔",
-        "roman": "Ibn Kathir farmate hain ki yeh Allah ki azeem qudrat ka muzahira tha."
+        "roman": "Ibn Kathir farmate hain ki yeh Allah ki azeem qudrat ka muzahira tha.",
+        "ref_url": "https://quran.com/33:21/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری فرماتے ہیں کہ ہوا اور فرشتوں نے مشرکین کے دلوں میں وہ ہیبت ڈالی کہ وہ سامان چھوڑ کر رات کے اندھیرے میں دم دبا کر بھاگے۔",
-        "roman": "Imam al-Tabari ke mutabiq Allah ki qudrat ke aage 10 hazaar ka lashkar tinka ban gaya."
+        "roman": "Imam al-Tabari ke mutabiq Allah ki qudrat ke aage 10 hazaar ka lashkar tinka ban gaya.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=21&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق غزوہ احزاب کے بعد دفاعی دور ختم ہو گیا اور اسلام کا جارحانہ اور فتوحات کا نیا عہد شروع ہوا۔",
-        "roman": "Maududi likhte hain ki Arab ke kuffar ki aakhiri mushtarka taaqat toot gayi."
+        "roman": "Maududi likhte hain ki Arab ke kuffar ki aakhiri mushtarka taaqat toot gayi.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.21"
       }
     }
   },
@@ -8974,7 +10071,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "4 ہجری میں نجد اور ہذیل کے قبائل نے دھوکے سے تبلیغ کے نام پر 70 قاری صحابہ کو بئرِ معونہ پر اور 10 صحابہ کو رجیع کے مقام پر گھیر کر بے دردی سے شہید کر دیا۔ رسول اللہ ﷺ کو اس پر شدید صدمہ ہوا اور آپ نے ایک ماہ تک نمازِ فجر میں قاتلوں پر قنوتِ نازلہ پڑھی۔",
       "roman": "Bi'r Ma'unah par 70 hafiz o qurra Sahaba ko dhoke se shaheed kiya gaya. Nabi ﷺ ne aik maah tak Qunoot-e-Nazila padhi.",
-      "reference": "Sahih Bukhari: Hadees #4088, Sahih Muslim: Hadees #677"
+      "reference": "Sahih Bukhari: Hadees #4088, Sahih Muslim: Hadees #677",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=3&tAyahNo=169&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
@@ -8984,26 +10082,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Anas bin Malik (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4088",
+      "ref_url": "https://sunnah.com/bukhari:4088"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 2",
         "urdu": "ابن کثیر فرماتے ہیں کہ شہداء کی روحیں سبز پرندوں کے پیٹوں میں جنت کی نہروں اور پھلوں کی سیر کرتی ہیں اور عرش کے نیچے قندیلوں میں رہتی ہیں۔",
-        "roman": "Ibn Kathir likhte hain ki Bi'r Ma'unah ke shuhada par aasmaan se wahi utri."
+        "roman": "Ibn Kathir likhte hain ki Bi'r Ma'unah ke shuhada par aasmaan se wahi utri.",
+        "ref_url": "https://quran.com/3:169/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 4",
         "urdu": "امام طبری فرماتے ہیں کہ 'فرحین بما آتاہم اللہ' شہداء کی ابدی اور غیر فانی مسرت کا بیان ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq shahadat maut nahi balke haqeeqi zindagi ka aaghaz hai."
+        "roman": "Imam al-Tabari ke mutabiq shahadat maut nahi balke haqeeqi zindagi ka aaghaz hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=3&tAyahNo=169&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق تبلیغِ حق کی راہ میں جانیں دینے والے ان معصوم معلمین کی قربانی نے اسلام کے پیغام کو دلوں میں اتارا۔",
-        "roman": "Maududi likhte hain ki quran ke huffaz ne apna khoon baha kar deen ki hifazat ki."
+        "roman": "Maududi likhte hain ki quran ke huffaz ne apna khoon baha kar deen ki hifazat ki.",
+        "ref_url": "https://quranx.com/tafsir/maududi/3.169"
       }
     }
   },
@@ -9031,7 +10135,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "خندق کے نازک ترین لمحے میں جب مسلمان محاصرے میں تھے، مدینہ کے آخری یہودی قبیلے بنو قریظہ نے معاہدہ توڑ کر پشت سے حملے کی سازش کی۔ خندق سے فارغ ہوتے ہی جبرائیل کے حکم پر ان کا 25 دن محاصرہ ہوا۔ حضرت سعد بن معاذ کے تورات کے مطابق فیصلے پر ان کے جنگجو قتل کیے گئے۔",
       "roman": "Banu Qurayzah ne khandaq ke dauran peeth mein khanjar ghompa tha. Hazrat Saad bin Muaz ne unhi ki Taurat ke mutabiq faisla farmaya.",
-      "reference": "Sahih Bukhari: Hadees #4121, Sahih Muslim: Hadees #1768"
+      "reference": "Sahih Bukhari: Hadees #4121, Sahih Muslim: Hadees #1768",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=26&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِّنْ أَهْلِ الْكِتَابِ مِن صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
@@ -9041,26 +10146,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Jihad",
       "narrator": "Rawi: Abu Sa'id al-Khudri (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "3043",
+      "ref_url": "https://sunnah.com/bukhari:3043"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ بنو قریظہ کا یہ انجام ان کی مسلسل غداری اور عین جنگ کے وقت مسلمانوں کی عورتوں اور بچوں پر حملے کے ارادے کا قدرتی بدلہ تھا۔",
-        "roman": "Ibn Kathir farmate hain ki Allah ne unki zameen aur baghaat momino ke hawaale kar diye."
+        "roman": "Ibn Kathir farmate hain ki Allah ne unki zameen aur baghaat momino ke hawaale kar diye.",
+        "ref_url": "https://quran.com/33:26/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 20",
         "urdu": "امام طبری فرماتے ہیں کہ حضرت سعد کا فیصلہ خود یہودیوں کی اپنی شریعت (کتاب استثناء) کے عین مطابق نافذ کیا گیا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh insaf ka taqaza tha."
+        "roman": "Imam al-Tabari ke mutabiq yeh insaf ka taqaza tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=26&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4",
         "urdu": "تفہیم القرآن کے مطابق اس فیصلے کے بعد مدینہ منورہ اندرونی سازشوں اور نقب زنوں سے مکمل طور پر پاک اور محفوظ ہو گیا۔",
-        "roman": "Maududi likhte hain ki Madinah ke andar ab kuffar ki koi asteen baaqi na rahi."
+        "roman": "Maududi likhte hain ki Madinah ke andar ab kuffar ki koi asteen baaqi na rahi.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.26"
       }
     }
   },
@@ -9087,7 +10198,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأحزاب (Al-Ahzab) نزولی ترتیب کے لحاظ سے #90 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahzab (الأحزاب) Nuzooli tartib ke mutabiq #90 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=28&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9097,26 +10209,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحزاب کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/33:28/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ahzab",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=28&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Ahzab",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.28"
       }
     },
     "id": 160
@@ -9144,7 +10262,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأحزاب (Al-Ahzab) نزولی ترتیب کے لحاظ سے #90 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahzab (الأحزاب) Nuzooli tartib ke mutabiq #90 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=35&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9154,26 +10273,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحزاب کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/33:35/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ahzab",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=35&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Ahzab",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.35"
       }
     },
     "id": 161
@@ -9201,7 +10326,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الأحزاب (Al-Ahzab) نزولی ترتیب کے لحاظ سے #90 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ahzab (الأحزاب) Nuzooli tartib ke mutabiq #90 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ahzab)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=33&tAyahNo=60&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9211,26 +10337,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ahzab",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الأحزاب کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ahzab ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/33:60/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ahzab",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=33&tAyahNo=60&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Ahzab",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/33.60"
       }
     },
     "id": 162
@@ -9259,7 +10391,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "یہودی قبیلہ بنو نضیر نے رسول اللہ ﷺ پر چھت سے چکی کا بھاری پاٹ گرا کر شہید کرنے کی ناپاک سازش رچی۔ جبرائیل نے آپ کو آگاہ کیا۔ نبی ﷺ نے محاصرہ کیا اور بالآخر انہیں ہتھیار ڈالنے پڑے اور وہ اونٹوں پر جتنا سامان لد سکتا تھا لے کر خیبر جلاوطن ہو گئے۔",
       "roman": "Banu Nadir ne Rasoolullah ﷺ ko shaheed karne ki sazish ki. Allah ne bacha liya aur unke qile fatah kar ke unhein Khaybar jila-watan kar diya gaya.",
-      "reference": "Sahih Bukhari: Hadees #4028, Sahih Muslim: Hadees #1757"
+      "reference": "Sahih Bukhari: Hadees #4028, Sahih Muslim: Hadees #1757",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=59&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا",
@@ -9269,26 +10402,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4028",
+      "ref_url": "https://sunnah.com/bukhari:4028"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Hashr",
         "urdu": "ابن کثیر فرماتے ہیں کہ بنو نضیر اپنے مضبوط قلعوں اور اونچی فصیلوں پر نازاں تھے مگر اللہ کا عذاب وہاں سے آیا جہاں سے انہوں نے گمان بھی نہ کیا تھا اور ان کے دلوں میں رعب ڈال دیا۔",
-        "roman": "Ibn Kathir likhte hain ki unhone apne ghar khud apne hatho se ujhad diye."
+        "roman": "Ibn Kathir likhte hain ki unhone apne ghar khud apne hatho se ujhad diye.",
+        "ref_url": "https://quran.com/59:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری فرماتے ہیں کہ 'وقذف فی قلوبہم الرعب' ظاہر کرتا ہے کہ جنگوں کا فیصلہ مادی قلعوں سے نہیں دلوں کے حوصلے سے ہوتا ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq Allah ne unke hathiyar be-kaar kar diye."
+        "roman": "Imam al-Tabari ke mutabiq Allah ne unke hathiyar be-kaar kar diye.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=59&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت اسلامی بین الاقوامی قانون اور غداری کے مرتکب گروہوں کے ساتھ ریاستی سلوک کی دستاویز ہے۔",
-        "roman": "Maududi likhte hain ki Banu Nadir ki jila-watni ne Madinah ke ird gird fiza ko saaf kar diya."
+        "roman": "Maududi likhte hain ki Banu Nadir ki jila-watni ne Madinah ke ird gird fiza ko saaf kar diya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/59.1"
       }
     }
   },
@@ -9315,7 +10454,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النساء (An-Nisa) نزولی ترتیب کے لحاظ سے #92 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nisa (النساء) Nuzooli tartib ke mutabiq #92 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=4&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9325,26 +10465,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nisa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النساء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/4:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nisa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=4&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nisa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/4.1"
       }
     },
     "id": 164
@@ -9373,7 +10519,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "عرب معاشرے میں شراب خون کی طرح رچی بسی تھی۔ اسلام نے تدریج کا حکیمانہ طریقہ اپنایا۔ پہلے فرمایا کہ اس میں گناہ نفع سے بڑا ہے۔ پھر جب نشے کی حالت میں نماز میں قرآن غلط پڑھا گیا تو حکم آیا کہ نشے کی حالت میں نماز کے قریب بھی نہ جاؤ۔",
       "roman": "Sharab ki tadreeji hurmat: Pehle Baqarah 219 mein nuqsaan ko ahem qarar diya gaya, phir Nisa 43 mein nashe ki halat mein namaz padhne ki sakht mumani'at aayi.",
-      "reference": "Sunan at-Tirmidhi: Hadees #3026, Sunan Abi Dawud: Hadees #3670"
+      "reference": "Sunan at-Tirmidhi: Hadees #3026, Sunan Abi Dawud: Hadees #3670",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=219&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ ۖ قُلْ فِيهِمَا إِثْمٌ كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا",
@@ -9383,26 +10530,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Umar bin al-Khattab (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Al-Albani"
+      "gradingAuthority": "Al-Albani",
+      "book": "Jami` at-Tirmidhi",
+      "hadithNumber": "3026",
+      "ref_url": "https://sunnah.com/tirmidhi:3026"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 1",
         "urdu": "ابن کثیر فرماتے ہیں کہ انسانوں کی دیرینہ عادات کو چھڑانے کے لیے اللہ تعالیٰ کا یہ تدریجی اسلوب قانون سازی کا عظیم ترین شاہکار ہے۔",
-        "roman": "Ibn Kathir likhte hain ki pehle dilon se sharab ki izzat nikali gayi phir amli pabandi lagi."
+        "roman": "Ibn Kathir likhte hain ki pehle dilon se sharab ki izzat nikali gayi phir amli pabandi lagi.",
+        "ref_url": "https://quran.com/2:219/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 2",
         "urdu": "امام طبری فرماتے ہیں کہ جب عقل پر نشے کا غلبہ ہو جائے تو انسان معبود کی بارگاہ میں کھڑے ہونے کا سلیقہ کھو بیٹھتا ہے، اس لیے نشے میں نماز حرام ہوئی۔",
-        "roman": "Imam al-Tabari ke mutabiq namaz ki hifazat ke liye sharab par pehli ahem pabandi lagi."
+        "roman": "Imam al-Tabari ke mutabiq namaz ki hifazat ke liye sharab par pehli ahem pabandi lagi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=219&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق یہ معاشرتی اصلاح کی وہ دانشمندانہ حکمتِ عملی ہے جس میں قانون نافذ کرنے سے پہلے اذہان کو قبولیت کے لیے تیار کیا گیا۔",
-        "roman": "Maududi likhte hain ki tadreej islami tareeqa-e-tarbiyat ka ahem sotoon hai."
+        "roman": "Maududi likhte hain ki tadreej islami tareeqa-e-tarbiyat ka ahem sotoon hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.219"
       }
     }
   },
@@ -9429,7 +10582,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النساء (An-Nisa) نزولی ترتیب کے لحاظ سے #92 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nisa (النساء) Nuzooli tartib ke mutabiq #92 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=4&tAyahNo=43&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9439,26 +10593,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nisa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النساء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/4:43/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nisa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=4&tAyahNo=43&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nisa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/4.43"
       }
     },
     "id": 166
@@ -9486,7 +10646,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=220&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9496,26 +10657,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:220/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=220&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.220"
       }
     },
     "id": 167
@@ -9543,7 +10710,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=254&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9553,26 +10721,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:254/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=254&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.254"
       }
     },
     "id": 168
@@ -9600,7 +10774,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=261&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9610,26 +10785,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:261/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=261&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.261"
       }
     },
     "id": 169
@@ -9657,7 +10838,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النساء (An-Nisa) نزولی ترتیب کے لحاظ سے #92 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nisa (النساء) Nuzooli tartib ke mutabiq #92 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=4&tAyahNo=44&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9667,26 +10849,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nisa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النساء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/4:44/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nisa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=4&tAyahNo=44&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nisa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/4.44"
       }
     },
     "id": 170
@@ -9714,7 +10902,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النساء (An-Nisa) نزولی ترتیب کے لحاظ سے #92 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nisa (النساء) Nuzooli tartib ke mutabiq #92 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nisa)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=4&tAyahNo=105&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9724,26 +10913,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nisa",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النساء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nisa ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/4:105/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nisa",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=4&tAyahNo=105&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah An-Nisa",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/4.105"
       }
     },
     "id": 171
@@ -9771,7 +10966,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الزلزلة (Az-Zalzalah) نزولی ترتیب کے لحاظ سے #93 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Az-Zalzalah (الزلزلة) Nuzooli tartib ke mutabiq #93 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zalzalah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Az-Zalzalah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=99&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9781,26 +10977,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Az-Zalzalah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الزلزلة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zalzalah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Az-Zalzalah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/99:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Az-Zalzalah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=99&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Az-Zalzalah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zalzalah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zalzalah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/99.1"
       }
     },
     "id": 172
@@ -9828,7 +11030,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحديد (Al-Hadid) نزولی ترتیب کے لحاظ سے #94 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hadid (الحديد) Nuzooli tartib ke mutabiq #94 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hadid)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hadid)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=57&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9838,26 +11041,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hadid",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحديد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hadid ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hadid ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/57:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hadid",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=57&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hadid",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hadid deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hadid deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/57.1"
       }
     },
     "id": 173
@@ -9885,7 +11094,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت محمد (Muhammad) نزولی ترتیب کے لحاظ سے #95 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Muhammad (محمد) Nuzooli tartib ke mutabiq #95 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Muhammad)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Muhammad)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=47&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9895,26 +11105,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Muhammad",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت محمد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Muhammad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Muhammad ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/47:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Muhammad",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=47&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Muhammad",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Muhammad deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Muhammad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/47.1"
       }
     },
     "id": 174
@@ -9942,7 +11158,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الرعد (Ar-Ra'd) نزولی ترتیب کے لحاظ سے #96 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ar-Ra'd (الرعد) Nuzooli tartib ke mutabiq #96 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Ra'd)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Ra'd)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=13&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -9952,26 +11169,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ar-Ra'd",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الرعد کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Ra'd ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Ra'd ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/13:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ar-Ra'd",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=13&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Ar-Ra'd",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Ra'd deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Ra'd deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/13.1"
       }
     },
     "id": 175
@@ -9999,7 +11222,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الرحمن (Ar-Rahman) نزولی ترتیب کے لحاظ سے #97 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Ar-Rahman (الرحمن) Nuzooli tartib ke mutabiq #97 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Rahman)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Ar-Rahman)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=55&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10009,26 +11233,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Ar-Rahman",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الرحمن کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Rahman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Ar-Rahman ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/55:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Ar-Rahman",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=55&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Ar-Rahman",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rahman deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rahman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/55.1"
       }
     },
     "id": 176
@@ -10056,7 +11286,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الانسان (Al-Insan) نزولی ترتیب کے لحاظ سے #98 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Insan (الانسان) Nuzooli tartib ke mutabiq #98 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Insan)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Insan)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=76&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10066,26 +11297,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Insan",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الانسان کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Insan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Insan ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/76:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Insan",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=76&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Insan",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Insan deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Insan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/76.1"
       }
     },
     "id": 177
@@ -10113,7 +11350,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الطلاق (At-Talaq) نزولی ترتیب کے لحاظ سے #99 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Talaq (الطلاق) Nuzooli tartib ke mutabiq #99 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Talaq)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Talaq)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=65&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10123,26 +11361,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Talaq",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الطلاق کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Talaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Talaq ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/65:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Talaq",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=65&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah At-Talaq",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Talaq deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Talaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/65.1"
       }
     },
     "id": 178
@@ -10170,7 +11414,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البينة (Al-Bayyinah) نزولی ترتیب کے لحاظ سے #100 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Bayyinah (البينة) Nuzooli tartib ke mutabiq #100 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Bayyinah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Bayyinah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=98&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10180,26 +11425,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Bayyinah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البينة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Bayyinah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Bayyinah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/98:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Bayyinah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=98&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5, Surah Al-Bayyinah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Bayyinah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Bayyinah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/98.1"
       }
     },
     "id": 179
@@ -10227,7 +11478,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحشر (Al-Hashr) نزولی ترتیب کے لحاظ سے #101 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hashr (الحشر) Nuzooli tartib ke mutabiq #101 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hashr)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hashr)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=59&tAyahNo=8&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10237,26 +11489,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hashr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحشر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hashr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hashr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/59:8/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hashr",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=59&tAyahNo=8&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hashr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/59.8"
       }
     },
     "id": 180
@@ -10285,7 +11543,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "بنو نضیر کی چھوڑی ہوئی املاک مالِ فئے تھیں جو بغیر جنگ کے حاصل ہوئیں۔ اللہ نے اس کے مصارف طے کیے تاکہ دولت صرف امیروں کے درمیان ہی نہ گھومتی رہے۔ ساتھ ہی عبداللہ بن ابی اور منافقین کے ان جھوٹے دلاسوں کا پردہ چاک کیا جو انہوں نے یہودیوں کو دیے تھے۔",
       "roman": "Maal-e-Fai ka qanoon nazil hua taaki daulat ameer logo mein hi na simat jaye. Abdullah bin Ubayy ke jhoote wado ki pol kholi gayi.",
-      "reference": "Sahih Bukhari: Hadees #4884, Sunan Abi Dawud"
+      "reference": "Sahih Bukhari: Hadees #4884, Sunan Abi Dawud",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=59&tAyahNo=11&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "مَّا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ",
@@ -10295,26 +11554,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Jihad",
       "narrator": "Rawi: Umar bin al-Khattab (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4884",
+      "ref_url": "https://sunnah.com/bukhari:4884"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'کی لا یکون دولۃ بین الاغنیاء' اسلامی معیشت کا وہ انقلابی سنہری اصول ہے جو ارتکازِ دولت کو روکتا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayat maashi adl ki choti hai."
+        "roman": "Ibn Kathir farmate hain ki yeh aayat maashi adl ki choti hai.",
+        "ref_url": "https://quran.com/59:11/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری فرماتے ہیں کہ منافقین یہودیوں سے کہتے تھے کہ اگر تم نکالے گئے تو ہم بھی تمہارے ساتھ نکلیں گے، مگر جب وقت آیا تو بزدلوں کی طرح چھپ گئے۔",
-        "roman": "Imam al-Tabari ke mutabiq munafiqeen hamesha dushman ko jhoota sahara dete hain."
+        "roman": "Imam al-Tabari ke mutabiq munafiqeen hamesha dushman ko jhoota sahara dete hain.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=59&tAyahNo=11&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق اسلام نہ سرمایہ داری کی طرح دولت کو چند ہاتھوں میں قید ہونے دیتا ہے اور نہ اشتراکیت کی طرح فرد کی ملکیت چھینتا ہے بلکہ عادلانہ توازن قائم کرتا ہے۔",
-        "roman": "Maududi likhte hain ki Islami maashiyat ka sab se ahem dastoor yahan bayan hua."
+        "roman": "Maududi likhte hain ki Islami maashiyat ka sab se ahem dastoor yahan bayan hua.",
+        "ref_url": "https://quranx.com/tafsir/maududi/59.11"
       }
     }
   },
@@ -10341,7 +11606,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحشر (Al-Hashr) نزولی ترتیب کے لحاظ سے #101 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hashr (الحشر) Nuzooli tartib ke mutabiq #101 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hashr)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hashr)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=59&tAyahNo=18&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10351,26 +11617,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hashr",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحشر کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hashr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hashr ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/59:18/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hashr",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=59&tAyahNo=18&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hashr",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/59.18"
       }
     },
     "id": 182
@@ -10398,7 +11670,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النور (An-Nur) نزولی ترتیب کے لحاظ سے #102 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nur (النور) Nuzooli tartib ke mutabiq #102 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=24&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10408,26 +11681,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النور کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/24:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nur",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=24&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah An-Nur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/24.1"
       }
     },
     "id": 183
@@ -10455,7 +11734,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النور (An-Nur) نزولی ترتیب کے لحاظ سے #102 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nur (النور) Nuzooli tartib ke mutabiq #102 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=24&tAyahNo=27&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10465,26 +11745,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النور کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/24:27/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nur",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=24&tAyahNo=27&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah An-Nur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/24.27"
       }
     },
     "id": 184
@@ -10512,7 +11798,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت النور (An-Nur) نزولی ترتیب کے لحاظ سے #102 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah An-Nur (النور) Nuzooli tartib ke mutabiq #102 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah An-Nur)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=24&tAyahNo=41&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10522,26 +11809,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah An-Nur",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت النور کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah An-Nur ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/24:41/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah An-Nur",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=24&tAyahNo=41&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah An-Nur",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/24.41"
       }
     },
     "id": 185
@@ -10570,7 +11863,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "غزوہ بنی مصطلق سے واپسی پر ایک کنویں پر پانی کے جھگڑے پر رئیس المنافقین عبداللہ بن ابی نے تعصب بھڑکایا اور کہا: 'اگر ہم مدینہ لوٹے تو عزت والا ذلیل کو نکال باہر کرے گا!'۔ اللہ نے سورۃ المنافقون نازل کر کے اس کے جھوٹ کو بے نقاب کیا اور فرمایا عزت صرف اللہ، رسول اور مومنین کے لیے ہے۔",
       "roman": "Banu Mustaliq ke safar mein Abdullah bin Ubayy ne fasad phailaya. Hazrat Zaid bin Arqam ne uski baatein batai to usne qasmein khayein. Allah ne Surah Al-Munafiqun nazil farma kar uski pol kholi.",
-      "reference": "Sahih Bukhari: Hadees #4900, Sahih Muslim: Hadees #2772"
+      "reference": "Sahih Bukhari: Hadees #4900, Sahih Muslim: Hadees #2772",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=63&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَسُولِ اللَّهِ حَتَّىٰ يَنفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
@@ -10580,26 +11874,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Zaid bin Arqam (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4900",
+      "ref_url": "https://sunnah.com/bukhari:4900"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah Al-Munafiqun",
         "urdu": "ابن کثیر فرماتے ہیں کہ منافقین اپنی قسموں کو ڈھال بناتے ہیں، ان کے چہرے خوبصورت اور گفتگو چرب ہوتی ہے مگر وہ لکڑی کے بے جان کندے ہیں۔",
-        "roman": "Ibn Kathir likhte hain ki 'Khashubum musannadah' munafiqeen ki roohani khokhla pan wazeh karta hai."
+        "roman": "Ibn Kathir likhte hain ki 'Khashubum musannadah' munafiqeen ki roohani khokhla pan wazeh karta hai.",
+        "ref_url": "https://quran.com/63:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 23",
         "urdu": "امام طبری فرماتے ہیں کہ عبداللہ بن ابی کے اپنے بیٹے عبداللہ (جو سچے صحابی تھے) نے مدینہ کے دروازے پر تلوار کھینچ کر باپ سے اعتراف کرایا کہ عزت رسول اللہ کی ہے اور ذلت تیری ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq sachay momin ne apne baap par bhi deen ko tarjeeh di."
+        "roman": "Imam al-Tabari ke mutabiq sachay momin ne apne baap par bhi deen ko tarjeeh di.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=63&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت منافقانہ ذہنیت کے نفسیاتی تجزیے کی لازوال ترین دستاویز ہے۔",
-        "roman": "Maududi farmate hain ki qoum parasti aur lisani tasubb ko yahan jadh se kaat diya gaya."
+        "roman": "Maududi farmate hain ki qoum parasti aur lisani tasubb ko yahan jadh se kaat diya gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/63.1"
       }
     }
   },
@@ -10627,7 +11927,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "بنی مصطلق سے واپسی پر حضرت عائشہ کا ہار گم ہو گیا اور قافلہ نکل گیا۔ حضرت صفوان بن معطل انہیں اپنی اونٹنی پر سوار کر کے مدینہ لائے۔ عبداللہ بن ابی نے ام المومنین پر گھناؤنا بہتان باندھا۔ رسول اللہ اور تمام مومنین شدید کرب میں رہے تاآنکہ اللہ نے آسمان سے ان کی طہارت کی 10 آیات نازل فرمائیں۔",
       "roman": "Waqi'ah-e-Ifk mein munafiqeen ne Ummul Momineen Hazrat Aisha par bohtan baandha. Allah ne Surah An-Nur ki 10 aayatein nazil farma kar unki paakdamani hamesha ke liye qayam kardi.",
-      "reference": "Sahih Bukhari: Hadees #4750 (Kitab al-Maghazi), Sahih Muslim: Hadees #2770"
+      "reference": "Sahih Bukhari: Hadees #4750 (Kitab al-Maghazi), Sahih Muslim: Hadees #2770",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=24&tAyahNo=11&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِّنكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَّكُم ۖ بَلْ هُوَ خَيْرٌ لَّكُمْ ۚ لِكُلِّ امْرِئٍ مِّنْهُم مَّا اكْتَسَبَ مِنَ الْإِثْمِ",
@@ -10637,26 +11938,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4750",
+      "ref_url": "https://sunnah.com/bukhari:4750"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6, Surah An-Nur",
         "urdu": "ابن کثیر فرماتے ہیں کہ جو شخص حضرت عائشہ کی برات کے ان قرآنی احکام کے بعد بھی ان پر تہمت لگائے وہ باجماعِ امت کافر اور دائرہ اسلام سے خارج ہے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayatein azmat-e-Aisha ki azeem tareen sanad hain."
+        "roman": "Ibn Kathir farmate hain ki yeh aayatein azmat-e-Aisha ki azeem tareen sanad hain.",
+        "ref_url": "https://quran.com/24:11/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 18",
         "urdu": "امام طبری فرماتے ہیں کہ 'لا تحسبوہ شرا لکم بل ہو خیر لکم' ثابت کرتا ہے کہ اس کٹھن آزمائش نے مومنین کے درجات بلند کیے اور منافقین کو رسوا کیا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh aayat har shar ke peechay khair ki ilahi hikmat ko bayan karti hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh aayat har shar ke peechay khair ki ilahi hikmat ko bayan karti hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=24&tAyahNo=11&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق یہ معاشرتی قانون سازی کا سنگِ میل تھا جس نے جھوٹی افواہیں پھیلانے والوں کے راستے ہمیشہ کے لیے بند کر دیے۔",
-        "roman": "Maududi likhte hain ki sharafat aur aurat ki aabru par keechad uchhalne walo par qanooni shikanja kasa gaya."
+        "roman": "Maududi likhte hain ki sharafat aur aurat ki aabru par keechad uchhalne walo par qanooni shikanja kasa gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/24.11"
       }
     }
   },
@@ -10684,7 +11991,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "واقعہ افک کے بعد پاکدامن عورتوں پر بے بنیاد الزام لگانے پر 80 کوڑوں کی سزا (حدِ قذف) مقرر ہوئی اور ان کی گواہی ہمیشہ کے لیے مسترد کر دی گئی۔ ساتھ ہی قاعدہ کلیہ بیان ہوا: ناپاک عورتیں ناپاک مردوں کے لیے ہیں اور پاکیزہ عورتیں پاکیزہ مردوں کے لیے۔",
       "roman": "Paak-daman aurto par ilzaam tarashi par 80 kodo ki saza tay hui aur usool bayan hua ki Habib-e-Khuda ke liye Allah ne sab se paak biwiyan chuni hain.",
-      "reference": "Sunan Abi Dawud: Hadees #4474, Sunan at-Tirmidhi"
+      "reference": "Sunan Abi Dawud: Hadees #4474, Sunan at-Tirmidhi",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=24&tAyahNo=21&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ",
@@ -10694,26 +12002,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Hudood",
       "narrator": "Rawi: Ummul Momineen Aisha (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Al-Albani"
+      "gradingAuthority": "Al-Albani",
+      "book": "Sunan Abi Dawud",
+      "hadithNumber": "4474",
+      "ref_url": "https://sunnah.com/abudawud:4474"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ اللہ تعالیٰ نے کائنات کے سب سے پاکیزہ ترین انسان رسول اللہ کے لیے دنیا کی سب سے طیب اور پاکیزہ عورت حضرت عائشہ صدیقہ کو چنا تھا۔",
-        "roman": "Ibn Kathir likhte hain ki 'Tayyiboon lit-tayyibaat' Rasool aur unki azwaj ki paakizgi ka ailaan hai."
+        "roman": "Ibn Kathir likhte hain ki 'Tayyiboon lit-tayyibaat' Rasool aur unki azwaj ki paakizgi ka ailaan hai.",
+        "ref_url": "https://quran.com/24:21/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 18",
         "urdu": "امام طبری فرماتے ہیں کہ اسلام میں کسی کی عزت اچھالنا اتنا سنگین جرم ہے کہ مجرم کی گواہی بھی تاحیات ناقابلِ قبول ٹھہرتی ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh qanoon insani karamat aur waqar ka muhafiz hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh qanoon insani karamat aur waqar ka muhafiz hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=24&tAyahNo=21&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق یہ قانون ایک باحیا اور محفوظ سوسائٹی کی ضمانت ہے جہاں کسی شریف انسان کی ساکھ کو بدنام نہ کیا جا سکے۔",
-        "roman": "Maududi likhte hain ki islaam ne bohtan tarashi ki jadh kaat di."
+        "roman": "Maududi likhte hain ki islaam ne bohtan tarashi ki jadh kaat di.",
+        "ref_url": "https://quranx.com/tafsir/maududi/24.21"
       }
     }
   },
@@ -10741,7 +12055,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "تدریج کے آخری مرحلے پر سورۃ المائدہ میں شراب، جوئے، بتوں کے تھانوں اور فال کے تیروں کو ناپاک اور شیطانی کام قرار دے کر قطعی طور پر حرام کر دیا گیا۔ جب پوچھا گیا 'فَہَلْ أَنْتُمْ مُنْتَهُونَ؟' (کیا تم باز آتے ہو؟) تو صحابہ پکار اٹھے: 'انتہینا یا رب! ہم باز آ گئے!'۔",
       "roman": "Surah Al-Ma'idah 90-92 mein sharab ko qat'i taur par 'Rijs' aur shaitani kaam qarar dekar hamesha ke liye haraam kar diya gaya. Madinah ki galiyon mein sharab baha di gayi.",
-      "reference": "Sahih Bukhari: Hadees #4616, Sahih Muslim: Hadees #1980"
+      "reference": "Sahih Bukhari: Hadees #4616, Sahih Muslim: Hadees #1980",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=5&tAyahNo=90&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
@@ -10751,26 +12066,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Anas bin Malik (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4616",
+      "ref_url": "https://sunnah.com/bukhari:4616"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 3, Surah Al-Ma'idah",
         "urdu": "ابن کثیر فرماتے ہیں کہ 'رجس من عمل الشیطان' نے شراب کی حرمت کو شرک اور بت پرستی کے ساتھ ملا کر اس کی سنگینی واضح کر دی۔",
-        "roman": "Ibn Kathir likhte hain ki Sahaba ki fauri ita'at tareekh-e-insaniyat ka anokha waqia thi."
+        "roman": "Ibn Kathir likhte hain ki Sahaba ki fauri ita'at tareekh-e-insaniyat ka anokha waqia thi.",
+        "ref_url": "https://quran.com/5:90/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 7",
         "urdu": "امام طبری فرماتے ہیں کہ شیطان شراب اور جوئے کے ذریعے تمہارے درمیان عداوت اور بغض ڈالنا اور نماز سے روکنا چاہتا ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq sharab tamam buraiyon ki maa (Umm-ul-Khaba'is) hai."
+        "roman": "Imam al-Tabari ke mutabiq sharab tamam buraiyon ki maa (Umm-ul-Khaba'is) hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=5&tAyahNo=90&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق دنیا کی کوئی حکومت پولیس اور فوج کے زور پر شراب بند نہ کرا سکی مگر وحی کے ایک جملے نے لمحوں میں پوری قوم کو پاک کر دیا۔",
-        "roman": "Maududi likhte hain ki yeh quran ki roohani quwwat ka saboot tha."
+        "roman": "Maududi likhte hain ki yeh quran ki roohani quwwat ka saboot tha.",
+        "ref_url": "https://quranx.com/tafsir/maududi/5.90"
       }
     }
   },
@@ -10797,7 +12118,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحج (Al-Hajj) نزولی ترتیب کے لحاظ سے #103 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hajj (الحج) Nuzooli tartib ke mutabiq #103 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hajj)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hajj)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=22&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10807,26 +12129,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hajj",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hajj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hajj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/22:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hajj",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=22&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Hajj",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/22.1"
       }
     },
     "id": 190
@@ -10854,7 +12182,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحج (Al-Hajj) نزولی ترتیب کے لحاظ سے #103 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hajj (الحج) Nuzooli tartib ke mutabiq #103 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hajj)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hajj)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=22&tAyahNo=41&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10864,26 +12193,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hajj",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحج کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hajj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hajj ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/22:41/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hajj",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=22&tAyahNo=41&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2, Surah Al-Hajj",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/22.41"
       }
     },
     "id": 191
@@ -10911,7 +12246,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المنافقون (Al-Munafiqun) نزولی ترتیب کے لحاظ سے #104 نمبر پر ہے۔ یہ دورِ Middle Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Munafiqun (المنافقون) Nuzooli tartib ke mutabiq #104 par nazil hui. Yeh Middle Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Munafiqun)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Munafiqun)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=63&tAyahNo=9&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -10921,26 +12257,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Munafiqun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المنافقون کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Munafiqun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Munafiqun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/63:9/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Munafiqun",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=63&tAyahNo=9&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Munafiqun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Munafiqun deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Munafiqun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/63.9"
       }
     },
     "id": 192
@@ -10969,7 +12311,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "1400 صحابہ کے ساتھ احرام باندھ کر عمرے کے لیے نکلے مگر مشرکین نے حدیبیہ کے مقام پر روک دیا۔ رسول اللہ ﷺ نے بظاہر کڑی شرائط پر 10 سالہ جنگ بندی کا معاہدہ کیا۔ واپسی پر اللہ نے سورۃ الفتح نازل فرما کر اعلان کیا: 'ہم نے آپ کو کھلم کھلا فتح عطا فرما دی!'۔",
       "roman": "Hudaybiyyah par 10 saala aman mu'ahidah hua. Sahaba ghamgeen the magar Allah ne is samjhote ko 'Fath-e-Mubeen' ka laqab diya kyunki is se dawat ke darwaze khul gaye.",
-      "reference": "Sahih Bukhari: Hadees #4833, Sahih Muslim: Hadees #1785"
+      "reference": "Sahih Bukhari: Hadees #4833, Sahih Muslim: Hadees #1785",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا ۝ لِّيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيمًا",
@@ -10979,26 +12322,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Umar bin al-Khattab (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4833",
+      "ref_url": "https://sunnah.com/bukhari:4833"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7, Surah Al-Fath",
         "urdu": "ابن کثیر فرماتے ہیں کہ زہری نے کہا کہ اسلام میں صلح حدیبیہ سے بڑی کوئی فتح نہیں ہوئی، جنگ بندی کے بعد لوگ گھل مل گئے اور صرف دو سال میں اتنے لوگ مسلمان ہوئے جتنے پچھلے 19 سال میں نہیں ہوئے تھے۔",
-        "roman": "Ibn Kathir likhte hain ki Hudaybiyyah ne Khalid bin Walid aur Amr bin al-Aas jaise azeem sipah-salaro ko islam ke daaman mein le aaya."
+        "roman": "Ibn Kathir likhte hain ki Hudaybiyyah ne Khalid bin Walid aur Amr bin al-Aas jaise azeem sipah-salaro ko islam ke daaman mein le aaya.",
+        "ref_url": "https://quran.com/48:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری فرماتے ہیں کہ قریش نے پہلی بار اسلامی ریاست کو برابر کی طاقت تسلیم کر کے تحریری دستخط کیے۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh Nabuwwat ki sab se ba-baseerat hikmat-e-amli thi."
+        "roman": "Imam al-Tabari ke mutabiq yeh Nabuwwat ki sab se ba-baseerat hikmat-e-amli thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=48&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ عسکری نہیں بلکہ عظیم سیاسی اور نظریاتی فتح تھی جس نے اسلام کی دعوت کے لیے پورے جزیرہ نمائے عرب کے دروازے کھول دیے۔",
-        "roman": "Maududi farmate hain ki Hudaybiyyah ne Fath-e-Makkah ki zameen tayyar ki."
+        "roman": "Maududi farmate hain ki Hudaybiyyah ne Fath-e-Makkah ki zameen tayyar ki.",
+        "ref_url": "https://quranx.com/tafsir/maududi/48.1"
       }
     }
   },
@@ -11026,7 +12375,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "حدیبیہ کے مقام پر جب افواہ اڑی کہ حضرت عثمان کو مکہ والوں نے شہید کر دیا ہے، تو رسول اللہ ﷺ نے کیکر کے درخت کے نیچے 1400 صحابہ سے موت اور نہ بھاگنے پر بیعت لی۔ آپ ﷺ نے اپنے ایک ہاتھ کو عثمان کا ہاتھ قرار دے کر بیعت فرمائی۔ اللہ نے ان تمام صحابہ پر ہمیشہ کی رضا نازل فرمائی۔",
       "roman": "Hazrat Usman ki shahadat ki jhooti khabar par 1400 Sahaba ne darakht ke neeche jaan ki baazi lagane ki bay'at ki. Allah ne un par apni 'Rizwan' (khushnoodi) ka aelaan farmaya.",
-      "reference": "Sahih Bukhari: Hadees #4169, Sahih Muslim: Hadees #1856"
+      "reference": "Sahih Bukhari: Hadees #4169, Sahih Muslim: Hadees #1856",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=18&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
@@ -11036,26 +12386,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Imarah",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "1856",
+      "ref_url": "https://sunnah.com/muslim:1856"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ یہ آیت اصحابِ شجرہ کے جنتی ہونے کی قطعی نص ہے، جو شخص ان صحابہ پر طعن کرے وہ دراصل اللہ کے اعلانِ رضا کی تکذیب کرتا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki Allah ne unke dilon ka ikhlaas dekh kar sakina utari."
+        "roman": "Ibn Kathir farmate hain ki Allah ne unke dilon ka ikhlaas dekh kar sakina utari.",
+        "ref_url": "https://quran.com/48:18/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری فرماتے ہیں کہ 'فعلم ما فی قلوبہم' نے واضح کیا کہ صحابہ کا اخلاص اللہ کے علم میں بے داغ تھا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh aayat Sahaba ke darjaat ki azeem tareen sanad hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh aayat Sahaba ke darjaat ki azeem tareen sanad hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=48&tAyahNo=18&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ جانثاری کا وہ عالم تھا جہاں ایک ایک شخص نے نبی کی حرمت کے لیے جان دینے کا حلف ہنسی خوشی اٹھایا۔",
-        "roman": "Maududi farmate hain ki yeh islaam ke sipaahiyon ka azeem tareen ehed tha."
+        "roman": "Maududi farmate hain ki yeh islaam ke sipaahiyon ka azeem tareen ehed tha.",
+        "ref_url": "https://quranx.com/tafsir/maududi/48.18"
       }
     }
   },
@@ -11082,7 +12438,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المجادلة (Al-Mujadila) نزولی ترتیب کے لحاظ سے #105 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mujadila (المجادلة) Nuzooli tartib ke mutabiq #105 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mujadila)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mujadila)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=58&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11092,26 +12449,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mujadila",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المجادلة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mujadila ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mujadila ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/58:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mujadila",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=58&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Mujadila",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mujadila deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mujadila deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/58.1"
       }
     },
     "id": 195
@@ -11140,7 +12503,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "حدیبیہ کے بعد محرم 7 ہجری میں خیبر کے مضبوط یہودی قلعوں کا محاصرہ ہوا۔ جب قلعہ قموس فتح نہ ہوا تو رسول اللہ نے فرمایا: 'کل میں علم ایسے شخص کو دوں گا جس کے ہاتھ پر اللہ فتح دے گا جو اللہ اور رسول سے محبت کرتا ہے اور اللہ اور رسول اس سے محبت کرتے ہیں'۔ اگلے دن حضرت علی نے مرحب کو قتل کر کے خیبر فتح کیا۔",
       "roman": "7 AH mein Khaybar ke azeem qile fatah hue. Hazrat Ali (R.A) ko alam diya gaya aur unhone Marhab ko qatal karke fatah hasil ki. Allah ne 'Maghanima Katheerah' ka wada poora farmaya.",
-      "reference": "Sahih Bukhari: Hadees #4209, Sahih Muslim: Hadees #2405"
+      "reference": "Sahih Bukhari: Hadees #4209, Sahih Muslim: Hadees #2405",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=19&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا ۝ وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ",
@@ -11150,26 +12514,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Sahl bin Sa'd as-Sa'idi (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4209",
+      "ref_url": "https://sunnah.com/bukhari:4209"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ خیبر کی فتح نے مدینہ کو معاشی طور پر خود کفیل کر دیا اور رسول اللہ کے الفاظ میں 'اب ہم پیٹ بھر کر کھجوریں کھا سکتے ہیں'۔",
-        "roman": "Ibn Kathir farmate hain ki yeh wahi fatah thi jiska wada Surah Al-Fath mein 'fathan qareeba' ke sath kiya gaya tha."
+        "roman": "Ibn Kathir farmate hain ki yeh wahi fatah thi jiska wada Surah Al-Fath mein 'fathan qareeba' ke sath kiya gaya tha.",
+        "ref_url": "https://quran.com/48:19/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری فرماتے ہیں کہ خیبر کے یہودیوں کو آدھی پیداوار پر زمینوں کی دیکھ بھال کی اجازت دے کر مزارعت کا اسلامی اصول قائم کیا گیا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh aala maashi baseerat ka muzahira tha."
+        "roman": "Imam al-Tabari ke mutabiq yeh aala maashi baseerat ka muzahira tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=48&tAyahNo=19&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق خیبر نے جزیرہ عرب میں یہود کی عسکری سازشوں کی کمر ہمیشہ کے لیے توڑ دی۔",
-        "roman": "Maududi likhte hain ki Madinah ke shimali sarhaden hamesha ke liye pur-aman ho gayin."
+        "roman": "Maududi likhte hain ki Madinah ke shimali sarhaden hamesha ke liye pur-aman ho gayin.",
+        "ref_url": "https://quranx.com/tafsir/maududi/48.19"
       }
     }
   },
@@ -11196,7 +12566,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=196&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11206,26 +12577,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:196/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=196&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.196"
       }
     },
     "id": 197
@@ -11253,7 +12630,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحجرات (Al-Hujurat) نزولی ترتیب کے لحاظ سے #106 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hujurat (الحجرات) Nuzooli tartib ke mutabiq #106 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hujurat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hujurat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=49&tAyahNo=6&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11263,26 +12641,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hujurat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحجرات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hujurat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hujurat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/49:6/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hujurat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=49&tAyahNo=6&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hujurat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/49.6"
       }
     },
     "id": 198
@@ -11310,7 +12694,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الحجرات (Al-Hujurat) نزولی ترتیب کے لحاظ سے #106 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Hujurat (الحجرات) Nuzooli tartib ke mutabiq #106 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hujurat)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Hujurat)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=49&tAyahNo=14&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11320,26 +12705,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Hujurat",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الحجرات کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hujurat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Hujurat ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/49:14/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Hujurat",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=49&tAyahNo=14&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Hujurat",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/49.14"
       }
     },
     "id": 199
@@ -11367,7 +12758,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التحريم (At-Tahrim) نزولی ترتیب کے لحاظ سے #107 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tahrim (التحريم) Nuzooli tartib ke mutabiq #107 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tahrim)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tahrim)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=66&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11377,26 +12769,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tahrim",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التحريم کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tahrim ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tahrim ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/66:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tahrim",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=66&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah At-Tahrim",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tahrim deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tahrim deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/66.1"
       }
     },
     "id": 200
@@ -11424,7 +12822,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التغابن (At-Taghabun) نزولی ترتیب کے لحاظ سے #108 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Taghabun (التغابن) Nuzooli tartib ke mutabiq #108 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Taghabun)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Taghabun)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=64&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11434,26 +12833,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Taghabun",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التغابن کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Taghabun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Taghabun ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/64:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Taghabun",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=64&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah At-Taghabun",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Taghabun deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Taghabun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/64.1"
       }
     },
     "id": 201
@@ -11481,7 +12886,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الصف (As-Saf) نزولی ترتیب کے لحاظ سے #109 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah As-Saf (الصف) Nuzooli tartib ke mutabiq #109 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Saf)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah As-Saf)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=61&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11491,26 +12897,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah As-Saf",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الصف کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Saf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah As-Saf ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/61:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah As-Saf",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=61&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah As-Saf",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saf deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/61.1"
       }
     },
     "id": 202
@@ -11539,7 +12951,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "اسلامی سفیر کے قتل کے قصاص میں تین ہزار کا لشکر شام بھیجا گیا جہاں روم اور عرب عیسائیوں کا ایک لاکھ سے زیادہ کا ٹڈی دل لشکر سامنے آیا۔ یکے بعد دیگرے حضرت زید بن حارثہ، جعفر طیار اور عبداللہ بن رواحہ شہید ہوئے۔ پھر حضرت خالد بن ولید نے کمان سنبھال کر لشکر کو بحفاظت نکال لیا اور 'سیف اللہ' کہلائے۔",
       "roman": "Mu'tah mein 3000 Sahaba ne 100,000+ Roomi fauj ka muqabla kiya. Teenon sipah-salar shaheed hue. Hazrat Khalid bin Walid ne lashkar ko bacha kar Saifullah ka laqab paya.",
-      "reference": "Sahih Bukhari: Hadees #4261 (Kitab al-Maghazi)"
+      "reference": "Sahih Bukhari: Hadees #4261 (Kitab al-Maghazi)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=26&tAyahNo=224&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ",
@@ -11549,26 +12962,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Anas bin Malik (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Bukhari"
+      "gradingAuthority": "Sahih Bukhari",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4261",
+      "ref_url": "https://sunnah.com/bukhari:4261"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 6",
         "urdu": "ابن کثیر فرماتے ہیں کہ موتہ کی جنگ نے بازنطینی سلطنت (روم) کی نیندیں اڑا دیں کہ عرب کے ریگستان سے اٹھنے والی یہ طاقت دنیا کی سپر پاور سے ٹکرانے کی ہمت رکھتی ہے۔",
-        "roman": "Ibn Kathir likhte hain ki Hazrat Khalid ne is jang mein 9 talwarein todi thin."
+        "roman": "Ibn Kathir likhte hain ki Hazrat Khalid ne is jang mein 9 talwarein todi thin.",
+        "ref_url": "https://quran.com/26:224/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 19",
         "urdu": "امام طبری فرماتے ہیں کہ شاعرِ رسول حضرت عبداللہ بن رواحہ کی شہادت نے ثابت کیا کہ مومن کا قلم اور تلوار دونوں اللہ کی راہ میں وقف ہوتے ہیں۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh azeem shahadat thi."
+        "roman": "Imam al-Tabari ke mutabiq yeh azeem shahadat thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=26&tAyahNo=224&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ تاریخ کا رخ بدلنے والا تھا جس نے مستقبل کی شامی فتوحات کی راہ ہموار کی۔",
-        "roman": "Maududi farmate hain ki yeh aalami takrao ka aaghaz tha."
+        "roman": "Maududi farmate hain ki yeh aalami takrao ka aaghaz tha.",
+        "ref_url": "https://quranx.com/tafsir/maududi/26.224"
       }
     }
   },
@@ -11595,7 +13014,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الجمعة (Al-Jumu'ah) نزولی ترتیب کے لحاظ سے #110 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Jumu'ah (الجمعة) Nuzooli tartib ke mutabiq #110 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jumu'ah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Jumu'ah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=62&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11605,26 +13025,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Jumu'ah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الجمعة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jumu'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Jumu'ah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/62:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Jumu'ah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=62&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Jumu'ah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/62.1"
       }
     },
     "id": 204
@@ -11652,7 +13078,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الممتحنة (Al-Mumtahanah) نزولی ترتیب کے لحاظ سے #91 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mumtahanah (الممتحنة) Nuzooli tartib ke mutabiq #91 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mumtahanah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mumtahanah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=60&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11662,26 +13089,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mumtahanah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الممتحنة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mumtahanah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mumtahanah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/60:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mumtahanah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=60&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mumtahanah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/60.1"
       }
     },
     "id": 205
@@ -11709,7 +13142,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الممتحنة (Al-Mumtahanah) نزولی ترتیب کے لحاظ سے #91 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Mumtahanah (الممتحنة) Nuzooli tartib ke mutabiq #91 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mumtahanah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Mumtahanah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=60&tAyahNo=13&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11719,26 +13153,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Mumtahanah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الممتحنة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mumtahanah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Mumtahanah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/60:13/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Mumtahanah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=60&tAyahNo=13&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 4, Surah Al-Mumtahanah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/60.13"
       }
     },
     "id": 206
@@ -11766,7 +13206,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفتح (Al-Fath) نزولی ترتیب کے لحاظ سے #111 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fath (الفتح) Nuzooli tartib ke mutabiq #111 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=11&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11776,26 +13217,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fath",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفتح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/48:11/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Fath",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=48&tAyahNo=11&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Fath",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/48.11"
       }
     },
     "id": 207
@@ -11823,7 +13270,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفتح (Al-Fath) نزولی ترتیب کے لحاظ سے #111 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fath (الفتح) Nuzooli tartib ke mutabiq #111 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=22&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11833,26 +13281,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fath",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفتح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/48:22/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Fath",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=48&tAyahNo=22&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Fath",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/48.22"
       }
     },
     "id": 208
@@ -11880,7 +13334,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الفتح (Al-Fath) نزولی ترتیب کے لحاظ سے #111 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Fath (الفتح) Nuzooli tartib ke mutabiq #111 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Fath)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=48&tAyahNo=27&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -11890,26 +13345,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Fath",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الفتح کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Fath ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/48:27/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Fath",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=48&tAyahNo=27&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3, Surah Al-Fath",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/48.27"
       }
     },
     "id": 209
@@ -11938,7 +13399,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "قریش نے حدیبیہ کا معاہدہ توڑ کر بنو خزاعہ پر حملہ کیا۔ 20 رمضان 8 ہجری کو رسول اللہ ﷺ 10 ہزار صحابہ کے ساتھ مکہ میں فاتح بن کر داخل ہوئے۔ آپ ﷺ کا سرِ مبارک اللہ کے حضور عاجزی سے جھکا ہوا اونٹ کے کجاوے کو چھو رہا تھا۔ خون کا ایک قطرہ بہائے بغیر مکہ فتح ہوا اور 'لا تثریب علیکم الیوم' کے تحت عام معافی دی گئی۔",
       "roman": "20 Ramadan 8 AH ko Rasoolullah ﷺ 10,000 Sahaba ke sath Makkah mein dakhil hue. Aam maafi ka aelaan hua aur Surah An-Nasr nazil hui.",
-      "reference": "Sahih Bukhari: Hadees #4288, Sahih Muslim: Hadees #1780"
+      "reference": "Sahih Bukhari: Hadees #4288, Sahih Muslim: Hadees #1780",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=110&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ۝ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ۝ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
@@ -11948,26 +13410,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab as-Siyar",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih Mursal / Hasan",
-      "gradingAuthority": "Ibn Hajar & Al-Albani"
+      "gradingAuthority": "Ibn Hajar & Al-Albani",
+      "book": "As-Sunan al-Kubra (Al-Bayhaqi)",
+      "hadithNumber": "18276",
+      "ref_url": "https://shamela.ws/book/6450"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 8, Surah An-Nasr",
         "urdu": "ابن کثیر فرماتے ہیں کہ ابن عباس نے حضرت عمر کے سامنے اس سورت کا مفہوم بیان کیا کہ یہ رسول اللہ ﷺ کی وفات اور اجل قریب آنے کی علامت تھی۔",
-        "roman": "Ibn Kathir farmate hain ki Fath-e-Makkah ne poore Arab ko foj dar foj dakhil hone par aamada kiya."
+        "roman": "Ibn Kathir farmate hain ki Fath-e-Makkah ne poore Arab ko foj dar foj dakhil hone par aamada kiya.",
+        "ref_url": "https://quran.com/110:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 24",
         "urdu": "امام طبری فرماتے ہیں کہ دنیا کے فاتحین شہروں کو جلاتے اور لوٹتے ہیں، مگر سرورِ کائنات نے عاجزی اور سجدہ شکر کے ساتھ شہر میں قدم رکھا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh tareekh ki be-misaal tareen pur-aman fatah thi."
+        "roman": "Imam al-Tabari ke mutabiq yeh tareekh ki be-misaal tareen pur-aman fatah thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=110&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 6",
         "urdu": "تفہیم القرآن کے مطابق فتحِ مکہ نے ثابت کیا کہ اسلام کا مقصد انسانوں کو ہلاک کرنا نہیں بلکہ ان کے دلوں کو جیتنا ہے۔",
-        "roman": "Maududi likhte hain ki 'Ja'al haqqu wa zahaqal baatil' haqeeqi tor par poora hua."
+        "roman": "Maududi likhte hain ki 'Ja'al haqqu wa zahaqal baatil' haqeeqi tor par poora hua.",
+        "ref_url": "https://quranx.com/tafsir/maududi/110.1"
       }
     }
   },
@@ -11994,7 +13462,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت الإسراء (Al-Isra) نزولی ترتیب کے لحاظ سے #50 نمبر پر ہے۔ یہ دورِ Middle Makki میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Isra (الإسراء) Nuzooli tartib ke mutabiq #50 par nazil hui. Yeh Middle Makki ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Isra)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=17&tAyahNo=81&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12004,26 +13473,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Isra",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت الإسراء کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Isra ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/17:81/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Isra",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=17&tAyahNo=81&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Isra",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/17.81"
       }
     },
     "id": 211
@@ -12052,7 +13527,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "فتح مکہ کے دن کعبۃ اللہ کے گرد 360 بت نصب تھے۔ رسول اللہ ﷺ کے دستِ مبارک میں کمان تھی، آپ جس بت کی طرف اشارہ کرتے ہوئے فرماتے 'جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا'، وہ بت منہ کے بل زمین پر گر کر پاش پاش ہو جاتا۔ خانہ کعبہ کو ہمیشہ کے لیے بتوں کی نجاست سے پاک کر دیا گیا۔",
       "roman": "Ka'aba ke 360 buton ko gira kar tod diya gaya. Rasoolullah ﷺ ne aayat padhi: 'Haq aa gaya aur baatil mit gaya'. Ka'aba hamesha ke liye Tauheed ka markaz ban gaya.",
-      "reference": "Sahih Bukhari: Hadees #4287, Sahih Muslim: Hadees #1781"
+      "reference": "Sahih Bukhari: Hadees #4287, Sahih Muslim: Hadees #1781",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=21&tAyahNo=18&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ",
@@ -12062,26 +13538,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Abdullah bin Mas'ud (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4287",
+      "ref_url": "https://sunnah.com/bukhari:4287"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 5, Surah Al-Anbiya",
         "urdu": "ابن کثیر فرماتے ہیں کہ بتوں کا ٹوٹنا دراصل شرک اور جاہلیت کے اس فکری بت کدے کا انہدام تھا جس نے صدیوں سے عرب کو جکڑ رکھا تھا۔",
-        "roman": "Ibn Kathir farmate hain ki Ka'aba Hazrat Ibrahim ke buniyaadi maqsad par laut aaya."
+        "roman": "Ibn Kathir farmate hain ki Ka'aba Hazrat Ibrahim ke buniyaadi maqsad par laut aaya.",
+        "ref_url": "https://quran.com/21:18/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 17",
         "urdu": "امام طبری فرماتے ہیں کہ 'فیدمغہ' کا مطلب ہے کہ حق نے باطل کا بھیجا نکال کر اسے مردہ اور بے جان کر دیا۔",
-        "roman": "Imam al-Tabari ke mutabiq Tauheed ki fatah kamil ho gayi."
+        "roman": "Imam al-Tabari ke mutabiq Tauheed ki fatah kamil ho gayi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=21&tAyahNo=18&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 3",
         "urdu": "تفہیم القرآن کے مطابق کعبہ کا پاک ہونا اس بات کا اعلان تھا کہ اب دنیا کی کوئی طاقت توحید کے اس چراغ کو نہیں بجھا سکتی۔",
-        "roman": "Maududi likhte hain ki but parasti ka markaz ab aalmi ibadatgah ban gaya."
+        "roman": "Maududi likhte hain ki but parasti ka markaz ab aalmi ibadatgah ban gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/21.18"
       }
     }
   },
@@ -12109,7 +13591,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "فتح مکہ کے فوراً بعد ہوازن اور ثقیف کے قبائل نے حنین کی وادی میں کمین گاہیں بنائیں۔ مسلمانوں کا بارہ ہزار کا لشکر پہلی بار تعداد کی کثرت پر نازاں ہوا۔ وادی میں داخل ہوتے ہی تیروں کی بارش ہوئی اور لشکر کے پاؤں اکھڑ گئے۔ رسول اللہ ﷺ تنِ تنہا ڈٹے رہے اور غیبی فرشتوں کی مدد سے شکست فتح میں بدلی۔",
       "roman": "Hunayn mein 12,000 ka lashkar kasrat par naaz karne laga to aazmaish aayi. Phir Nabi ﷺ ki dileri aur 'Ana Nabi la Kazib' ke naare par Sahaba palte aur fatah hui.",
-      "reference": "Sahih Bukhari: Hadees #4315, Sahih Muslim: Hadees #1775"
+      "reference": "Sahih Bukhari: Hadees #4315, Sahih Muslim: Hadees #1775",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=25&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ",
@@ -12119,26 +13602,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Al-Bara' bin 'Azib (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4315",
+      "ref_url": "https://sunnah.com/bukhari:4315"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4, Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ حنین نے مسلمانوں کو سکھایا کہ فتح بندوقوں اور فوجیوں کی کثرت سے نہیں بلکہ اللہ کے تقویٰ اور نصرت سے حاصل ہوتی ہے۔",
-        "roman": "Ibn Kathir likhte hain ki Allah ne sakina utari aur farishton ke lashkar bheje."
+        "roman": "Ibn Kathir likhte hain ki Allah ne sakina utari aur farishton ke lashkar bheje.",
+        "ref_url": "https://quran.com/9:25/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری فرماتے ہیں کہ جب زمین اپنی تمام وسعتوں کے باوجود تنگ ہو گئی، تب رسول اللہ کی ثابت قدمی نے بازی پلٹ دی۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh Nabuwwat ki aala shuja'at ka din tha."
+        "roman": "Imam al-Tabari ke mutabiq yeh Nabuwwat ki aala shuja'at ka din tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=25&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ کبر اور مادی گھمنڈ کا علاج تھا تاکہ امت کبھی اپنی افرادی قوت پر غرور نہ کرے۔",
-        "roman": "Maududi likhte hain ki ghalti ka ehtraaf aur fauri tauba momin ka shiaar hai."
+        "roman": "Maududi likhte hain ki ghalti ka ehtraaf aur fauri tauba momin ka shiaar hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.25"
       }
     }
   },
@@ -12166,7 +13655,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "حنین کے مفرور بنو ثقیف طائف کے قلعے میں بند ہو گئے۔ مسلمانوں نے 20 دن تک قلعے کا محاصرہ کیا اور تاریخ میں پہلی بار منجنیق اور دبابہ استعمال کیا۔ جب فتح میں تاخیر ہوئی تو رسول اللہ نے محاصرہ اٹھا لیا اور بددعا کے بجائے دعا فرمائی: 'اے اللہ! ثقیف کو ہدایت دے اور انہیں میرے پاس مسلمان بنا کر لے آ!'۔",
       "roman": "Taif ke qile ka mohasra hua. Nabi ﷺ ne baddua dene ke bajaye Taif walo ke liye hidayat ki dua farmayi jo baad mein poori hui aur poora Taif musalman hua.",
-      "reference": "Sunan at-Tirmidhi: Hadees #3942, Sahih Bukhari: Hadees #4325"
+      "reference": "Sunan at-Tirmidhi: Hadees #3942, Sahih Bukhari: Hadees #4325",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=28&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا",
@@ -12176,26 +13666,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Manaqib",
       "narrator": "Rawi: Abu Hurairah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Al-Albani"
+      "gradingAuthority": "Al-Albani",
+      "book": "Jami` at-Tirmidhi",
+      "hadithNumber": "3942",
+      "ref_url": "https://sunnah.com/tirmidhi:3942"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4",
         "urdu": "ابن کثیر فرماتے ہیں کہ نبی کریم ﷺ کا یہ اخلاق تھا کہ جس شہر نے آپ کو لہولہان کیا تھا، اسی کے لیے آپ نے دعا فرمائی اور وہ سب مسلمان ہوئے۔",
-        "roman": "Ibn Kathir farmate hain ki aayat 28 ne Mushrikeen ke dakhile par pabandi laga kar Ka'aba ko hamesha ke liye paak kar diya."
+        "roman": "Ibn Kathir farmate hain ki aayat 28 ne Mushrikeen ke dakhile par pabandi laga kar Ka'aba ko hamesha ke liye paak kar diya.",
+        "ref_url": "https://quran.com/9:28/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری فرماتے ہیں کہ شرک باطنی نجاست ہے اس لیے بیت اللہ کو مشرکین کی بدعات سے پاک کر دیا گیا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh hurmat-e-Haram ka daemi aelaan tha."
+        "roman": "Imam al-Tabari ke mutabiq yeh hurmat-e-Haram ka daemi aelaan tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=28&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق طائف نے ثابت کیا کہ اسلام میں جنگ آخری چارہ کار ہے، اصل مقصود انسانوں کی ہدایت اور دلوں کی تبدیلی ہے۔",
-        "roman": "Maududi farmate hain ki yeh Rahmatul-lil-Aalameen ka azeem tareen roop tha."
+        "roman": "Maududi farmate hain ki yeh Rahmatul-lil-Aalameen ka azeem tareen roop tha.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.28"
       }
     }
   },
@@ -12222,7 +13718,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المائدة (Al-Ma'idah) نزولی ترتیب کے لحاظ سے #112 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'idah (المائدة) Nuzooli tartib ke mutabiq #112 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=5&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12232,26 +13729,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'idah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المائدة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/5:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ma'idah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=5&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Ma'idah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/5.1"
       }
     },
     "id": 215
@@ -12279,7 +13782,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المائدة (Al-Ma'idah) نزولی ترتیب کے لحاظ سے #112 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'idah (المائدة) Nuzooli tartib ke mutabiq #112 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=5&tAyahNo=4&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12289,26 +13793,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'idah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المائدة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/5:4/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ma'idah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=5&tAyahNo=4&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Ma'idah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/5.4"
       }
     },
     "id": 216
@@ -12336,7 +13846,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت المائدة (Al-Ma'idah) نزولی ترتیب کے لحاظ سے #112 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Ma'idah (المائدة) Nuzooli tartib ke mutabiq #112 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Ma'idah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=5&tAyahNo=93&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12346,26 +13857,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Ma'idah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت المائدة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Ma'idah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/5:93/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Ma'idah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=5&tAyahNo=93&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Ma'idah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/5.93"
       }
     },
     "id": 217
@@ -12394,7 +13911,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "روم کے قیصر ہرقل کی طرف سے مدینہ پر حملے کی تیاریوں کی اطلاع پر شدید گرمی اور قحط سالی کے باوجود تیس ہزار کا لشکر تیار ہوا۔ حضرت عثمان نے اپنے مال کا ایک تہائی اور 300 اونٹ سامان سمیت پیش کیے۔ اللہ نے سست پڑنے والوں کو تنبیہ کی اور مجاہدین کے جذبے کو سراہا۔",
       "roman": "9 AH Rajab mein 30,000 Sahaba ka azeem lashkar Room ke muqable nikla. Hazrat Usman (R.A) ne azeem qurbani di. Tabook par dushman bina lade hi darr kar peechay hat gaya.",
-      "reference": "Sahih Bukhari: Hadees #4418, Sahih Muslim: Hadees #2769"
+      "reference": "Sahih Bukhari: Hadees #4418, Sahih Muslim: Hadees #2769",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=38&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ",
@@ -12404,26 +13922,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Manaqib",
       "narrator": "Rawi: Abdur Rahman bin Samurah (R.A)",
       "grade": "Hasan Sahih",
-      "gradingAuthority": "Al-Albani"
+      "gradingAuthority": "Al-Albani",
+      "book": "Jami` at-Tirmidhi",
+      "hadithNumber": "3701",
+      "ref_url": "https://sunnah.com/tirmidhi:3701"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4, Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ تبوک رسول اللہ ﷺ کی حیاتِ مبارکہ کا آخری غزوہ تھا جس نے مسلمانوں کے ایمان کی آخری اور کڑی جانچ کی۔",
-        "roman": "Ibn Kathir farmate hain ki 'Illa tanfiroo yu'azzibkum' ne har susti ko jhanjhoda."
+        "roman": "Ibn Kathir farmate hain ki 'Illa tanfiroo yu'azzibkum' ne har susti ko jhanjhoda.",
+        "ref_url": "https://quran.com/9:38/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری فرماتے ہیں کہ تبوک کے سفر میں بھوک اتنی تھی کہ صحابہ ایک کھجور کو باری باری چوستے اور اونٹ ذبح کر کے اس کی اوجھڑی کا پانی پیتے تھے۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh sabr aur azmat ki aakhiri manzil thi."
+        "roman": "Imam al-Tabari ke mutabiq yeh sabr aur azmat ki aakhiri manzil thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=38&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ ایک ایسی انقلابی تحریک کا فائنل ٹیسٹ تھا جس نے جزیرہ نمائے عرب سے نکل کر عالمی سپر پاورز کو چیلنج کیا۔",
-        "roman": "Maududi likhte hain ki Tabook ne sabit kiya ki islaam dunya ka nizam badalne aaya hai."
+        "roman": "Maududi likhte hain ki Tabook ne sabit kiya ki islaam dunya ka nizam badalne aaya hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.38"
       }
     }
   },
@@ -12450,7 +13974,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=43&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12460,26 +13985,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/9:43/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tawbah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=43&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.43"
       }
     },
     "id": 219
@@ -12508,7 +14039,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "منافقین نے گرمی کا بہانہ بنا کر مدینہ میں بیٹھنے کو ترجیح دی اور کہا: گرمی میں مت نکلو! اللہ نے فرمایا: 'کہہ دو جہنم کی آگ اس سے کہیں زیادہ گرم ہے!'۔ تبوک کے سفر میں سورۃ التوبہ (الفاضحہ یعنی رسوا کرنے والی) نے منافقین کے ایک ایک بہانے اور ان کے خفیہ منصوبوں کو بے نقاب کر دیا۔",
       "roman": "Munafiqeen ne garmi ka bahana banaya to Quran ne farmaya ki 'Jahannum ki aag is se zyada garm hai'. Surah At-Tawbah ne unke tamam heele be-naqab kardiye.",
-      "reference": "Sahih Bukhari: Hadees #4669, Sahih Muslim: Hadees #2779"
+      "reference": "Sahih Bukhari: Hadees #4669, Sahih Muslim: Hadees #2779",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=73&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَقَالُوا لَا تَنفِرُوا فِي الْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا يَفْقَهُونَ ۝ فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا جَزَاءً بِمَا كَانُوا يَكْسِبُونَ",
@@ -12518,26 +14050,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Fitan",
       "narrator": "Rawi: Huzaifa bin al-Yaman (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Bukhari"
+      "gradingAuthority": "Sahih Bukhari",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "7113",
+      "ref_url": "https://sunnah.com/bukhari:7113"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورۃ التوبہ کو 'المبعثرۃ' (کھول کر رکھ دینے والی) کہا جاتا ہے کیونکہ اس نے منافقین کا کوئی عیب چھپا نہ رہنے دیا۔",
-        "roman": "Ibn Kathir farmate hain ki Abdullah bin Ubayy ke janaze par namaz padhne ki mumani'at bhi yahin aayi."
+        "roman": "Ibn Kathir farmate hain ki Abdullah bin Ubayy ke janaze par namaz padhne ki mumani'at bhi yahin aayi.",
+        "ref_url": "https://quran.com/9:73/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری فرماتے ہیں کہ منافقین استہزاء کرتے ہوئے کہتے تھے کہ ہم تو بس دل لگی کر رہے تھے، اللہ نے فرمایا کیا اللہ اور اس کے رسول کا مذاق اڑاتے ہو؟",
-        "roman": "Imam al-Tabari ke mutabiq nifaq ka anjam abadi zillat hai."
+        "roman": "Imam al-Tabari ke mutabiq nifaq ka anjam abadi zillat hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=73&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت منافقین کے خلاف فردِ جرم ہے جس نے ریاستِ مدینہ کو اندرونی دیمک سے ہمیشہ کے لیے نجات دلائی۔",
-        "roman": "Maududi likhte hain ki nifaq ke tamam parde chaak ho gaye."
+        "roman": "Maududi likhte hain ki nifaq ke tamam parde chaak ho gaye.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.73"
       }
     }
   },
@@ -12564,7 +14102,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=90&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12574,26 +14113,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/9:90/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tawbah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=90&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.90"
       }
     },
     "id": 221
@@ -12622,7 +14167,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "منافقین نے مدینہ میں قباء کے قریب ایک عمارت تعمیر کی اور کہا کہ یہ کمزوروں اور بارش کے لیے مسجد ہے۔ اصل میں یہ ابو عامر راہب عیسائی کے ساتھ مل کر مسلمانوں میں تفریق پیدا کرنے اور روم کی سازشوں کا خفیہ اڈا تھی۔ تبوک سے واپسی پر رسول اللہ ﷺ نے اسے جلا کر زمین بوس کرنے کا حکم دیا۔",
       "roman": "Munafiqeen ne sazish ke teht 'Masjid-e-Zirar' banayi taaki dushman ko safe haven mile. Wahi ne aagah kiya aur Nabi ﷺ ke hukum par use gira kar raakh kar diya gaya.",
-      "reference": "Sahih Bukhari: Hadees #4560, Tafsir al-Tabari"
+      "reference": "Sahih Bukhari: Hadees #4560, Tafsir al-Tabari",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=107&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَالَّذِينَ اتَّخَذُوا مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًا بَيْنَ الْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ اللَّهَ وَرَسُولَهُ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَا إِلَّا الْحُسْنَىٰ ۖ وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ",
@@ -12632,26 +14178,31 @@ window.WAHI_EPISODES = [
       "chapter": "Ghazwa Tabook",
       "narrator": "Rawi: Ibn Ishaq",
       "grade": "Hasan Hasan li-ghairihi",
-      "gradingAuthority": "Ibn Kathir & Ibn Hajar"
+      "gradingAuthority": "Ibn Kathir & Ibn Hajar",
+      "book": "As-Seerah an-Nabawiyyah (Ibn Hisham)",
+      "ref_url": "https://shamela.ws/book/23833"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4, Surah At-Tawbah 107",
         "urdu": "ابن کثیر فرماتے ہیں کہ جو عمارت بظاہر مسجد ہو مگر اس کی بنیاد مسلمانوں میں تفرقہ ڈالنے اور فساد پھیلانے پر ہو، شریعت میں اس کی کوئی حرمت نہیں بلکہ اسے منہدم کرنا واجب ہے۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayat na-paak maqasid ke liye banayi gayi masajid ki tardeed hai."
+        "roman": "Ibn Kathir farmate hain ki yeh aayat na-paak maqasid ke liye banayi gayi masajid ki tardeed hai.",
+        "ref_url": "https://quran.com/9:107/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری فرماتے ہیں کہ اللہ تعالیٰ نے منافقین کے اس جھوٹے دعوے 'ان اردنا الا الحسنی' کو علانیہ جھوٹا قرار دیا۔",
-        "roman": "Imam al-Tabari ke mutabiq fitna-angezi ka adda deen nahi kafar hai."
+        "roman": "Imam al-Tabari ke mutabiq fitna-angezi ka adda deen nahi kafar hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=107&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ تاریخ کا پہلا عدالتی فیصلہ تھا کہ عبادت کے تقدس کی آڑ میں بھی ریاست کے خلاف غداری اور فتنہ انگیزی برداشت نہیں کی جا سکتی۔",
-        "roman": "Maududi farmate hain ki niyyat ki khot har ibadat ko barbad kar deti hai."
+        "roman": "Maududi farmate hain ki niyyat ki khot har ibadat ko barbad kar deti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.107"
       }
     }
   },
@@ -12678,7 +14229,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=111&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12688,26 +14240,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/9:111/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tawbah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=111&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.111"
       }
     },
     "id": 223
@@ -12736,7 +14294,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "تبوک میں منافقین نے جھوٹے بہانے بنا لیے، مگر تین سچے صحابہ (کعب بن مالک، مرارہ بن ربیع، ہلال بن امیہ) نے سچ بول دیا کہ کوئی عذر نہ تھا محض سستی تھی۔ رسول اللہ ﷺ نے پچاس دن تک ان سے بول چال بند کرا دی۔ پچاسویں دن جب زمین تنگ ہو چکی تھی، آسمان سے توبہ کی قبولیت کی آیات نازل ہوئیں۔",
       "roman": "Hazrat Ka'b bin Malik aur do digar sahaba ne sach bol kar aazmaish jheli. 50 din ke boycott ke baad Allah ne aasmaan se tauba qabool hone ki aayat utari.",
-      "reference": "Sahih Bukhari: Hadees #4418 (Kitab al-Maghazi), Sahih Muslim: Hadees #2769"
+      "reference": "Sahih Bukhari: Hadees #4418 (Kitab al-Maghazi), Sahih Muslim: Hadees #2769",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=117&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا",
@@ -12746,26 +14305,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Maghazi",
       "narrator": "Rawi: Ka'b bin Malik (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4418",
+      "ref_url": "https://sunnah.com/bukhari:4418"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 4",
         "urdu": "ابن کثیر فرماتے ہیں کہ سچائی ہی نے کعب اور ان کے ساتھیوں کو بچایا، اگر وہ منافقین کی طرح جھوٹ بول دیتے تو ہمیشہ کے لیے ہلاک ہو جاتے۔",
-        "roman": "Ibn Kathir farmate hain ki 'Koonu ma'as sadiqeen' ka hukum is azeem sachayi par khatm hua."
+        "roman": "Ibn Kathir farmate hain ki 'Koonu ma'as sadiqeen' ka hukum is azeem sachayi par khatm hua.",
+        "ref_url": "https://quran.com/9:117/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 14",
         "urdu": "امام طبری فرماتے ہیں کہ جب انسان اللہ کے سوا ہر سہارے سے مایوس ہو کر اسی کے سامنے جھک جاتا ہے تو اللہ کی رحمت کے دروازے کھل جاتے ہیں۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh sach aur tauba ki la-zawal dastan hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh sach aur tauba ki la-zawal dastan hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=117&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 2",
         "urdu": "تفہیم القرآن کے مطابق یہ اسلامی جماعت کے غیر معمولی ڈسپلن اور سچی توبہ کی وہ داستان ہے جس پر فرشتے بھی رشک کریں۔",
-        "roman": "Maududi likhte hain ki sach bolna momin ki azeem tareen dhal hai."
+        "roman": "Maududi likhte hain ki sach bolna momin ki azeem tareen dhal hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.117"
       }
     }
   },
@@ -12792,7 +14357,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12802,26 +14368,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/9:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tawbah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.1"
       }
     },
     "id": 225
@@ -12850,7 +14422,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "فتح مکہ اور تبوک کے بعد پورے جزیرہ عرب سے قبائل کے وفود جوق در جوق مدینہ آئے۔ بنو تمیم کے بدوؤں نے حجروں کے باہر سے رسول اللہ کو آواز دی: اے محمد باہر آئیے! اللہ تعالیٰ نے سخت تنبیہ فرمائی: اپنی آوازیں نبی کی آواز سے اونچی نہ کرو ورنہ اعمال برباد ہو جائیں گے اور تمہیں خبر بھی نہ ہوگی۔",
       "roman": "9-10 AH mein tamam Arab qabail Madinah aaye. Bargah-e-Risalat ke aadaab sikhaye gaye ki Nabi ﷺ ki aawaz se apni aawaz buland na karo.",
-      "reference": "Sahih Bukhari: Hadees #4845, Sahih Muslim"
+      "reference": "Sahih Bukhari: Hadees #4845, Sahih Muslim",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=49&tAyahNo=1&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَالُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
@@ -12860,26 +14433,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Anas bin Malik (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4846",
+      "ref_url": "https://sunnah.com/bukhari:4846"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7, Surah Al-Hujurat",
         "urdu": "ابن کثیر فرماتے ہیں کہ بارگاہِ رسالت کا ادب ایمان کی روح ہے، یہاں ادنیٰ سی بے ادبی بھی انسان کے زندگی بھر کے اعمال کو حبط کر دیتی ہے۔",
-        "roman": "Ibn Kathir likhte hain ki Sahaba is aayat ke baad Nabi ke samne itni dheemi aawaz mein baat karte jaise kaan mein sargoshi kar rahe hon."
+        "roman": "Ibn Kathir likhte hain ki Sahaba is aayat ke baad Nabi ke samne itni dheemi aawaz mein baat karte jaise kaan mein sargoshi kar rahe hon.",
+        "ref_url": "https://quran.com/49:1/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری فرماتے ہیں کہ نبی ﷺ کی تعظیم و تکریم امت پر فرضِ عین ہے اور قیامت تک آپ کی سنت و فرامین کا وہی ادب لازم ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh aayat islami tehzeeb ka aala me'yaar hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh aayat islami tehzeeb ka aala me'yaar hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=49&tAyahNo=1&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ مہذب اخلاق اور قیادت کے احترام کا وہ شاہکار درس تھا جس نے دیہاتی بدوؤں کو دنیا کی سب سے شائستہ قوم بنا دیا۔",
-        "roman": "Maududi likhte hain ki ta'zeem-e-Rasool har deeni amal ki qabooliyat ki shart hai."
+        "roman": "Maududi likhte hain ki ta'zeem-e-Rasool har deeni amal ki qabooliyat ki shart hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/49.1"
       }
     }
   },
@@ -12907,7 +14486,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "اسلام نے تمام قبائلی اور نسلی تفاخر کو جڑ سے اکھاڑ دیا۔ اعلان ہوا: تمام مومن آپس میں بھائی بھائی ہیں، اور اے لوگو! ہم نے تمہیں ایک مرد اور عورت سے پیدا کیا اور کنبے اور قبیلے صرف پہچان کے لیے بنائے، اللہ کے ہاں سب سے زیادہ عزت والا وہ ہے جو تم میں سب سے زیادہ متقی ہے۔",
       "roman": "Insaani barabari aur ukhuwwat ka dastoor nazil hua. Rang, nasal, qabeela sab be-bunyaad qarar paye; fazilat ka me'yaar sirf Taqwa hai.",
-      "reference": "Sahih Muslim: Hadees #2564, Musnad Ahmad: Hadees #22978"
+      "reference": "Sahih Muslim: Hadees #2564, Musnad Ahmad: Hadees #22978",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=49&tAyahNo=9&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
@@ -12917,26 +14497,32 @@ window.WAHI_EPISODES = [
       "chapter": "Musnad al-Ansar",
       "narrator": "Rawi: Sahabi min Ashab an-Nabi",
       "grade": "Sahih",
-      "gradingAuthority": "Al-Arna'ut"
+      "gradingAuthority": "Al-Arna'ut",
+      "book": "Musnad Ahmad bin Hanbal",
+      "hadithNumber": "22978",
+      "ref_url": "https://sunnah.com/ahmad:22978"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 7",
         "urdu": "ابن کثیر فرماتے ہیں کہ یہ آیت دنیا کی تاریخ کا سب سے عظیم اور کامل انسانی مساوات کا چارٹر ہے جس نے اونچ نیچ کے بتوں کو ہمیشہ کے لیے پاش پاش کر دیا۔",
-        "roman": "Ibn Kathir likhte hain ki Taqwa hi aakhirat aur dunya mein sharafat ki waahid daleel hai."
+        "roman": "Ibn Kathir likhte hain ki Taqwa hi aakhirat aur dunya mein sharafat ki waahid daleel hai.",
+        "ref_url": "https://quran.com/49:9/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 22",
         "urdu": "امام طبری فرماتے ہیں کہ قبیلوں پر فخر کرنا جاہلیت کی بدبو ہے، اسلام نے حبشی بلال، رومی صہیب اور فارسی سلمان کو قریش کے سرداروں سے بلند کر دیا۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh aala adl ki bunyad hai."
+        "roman": "Imam al-Tabari ke mutabiq yeh aala adl ki bunyad hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=49&tAyahNo=9&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 5",
         "urdu": "تفہیم القرآن کے مطابق یہ وہ آفاقی سچائی ہے جس نے نسل پرستی اور نوآبادیاتی تعصب کے خاتمے کا واحد پائیدار حل پیش کیا۔",
-        "roman": "Maududi likhte hain ki islami brotherhood dunya ka sab se mustahkam rishta hai."
+        "roman": "Maududi likhte hain ki islami brotherhood dunya ka sab se mustahkam rishta hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/49.9"
       }
     }
   },
@@ -12963,7 +14549,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=29&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -12973,26 +14560,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/9:29/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tawbah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=29&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.29"
       }
     },
     "id": 228
@@ -13021,7 +14614,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "رسول اللہ ﷺ کی حیاتِ طیبہ کے آخری ایام میں سود کے خلاف قرآن کا سخت ترین اور آخری فیصلہ نازل ہوا۔ فرمایا: سود خور شیطان کے چھوئے ہوئے پاگل کی طرح اٹھیں گے، اور اگر تم سود نہیں چھوڑتے تو اللہ اور اس کے رسول کی طرف سے کھلی جنگ کے لیے تیار ہو جاؤ!",
       "roman": "Sood ki qat'i hurmat par aakhiri aayatein nazil huin. Sood khoro ke khilaf Allah aur Rasool ka aelaan-e-jang hua. Sadqaat ko barhaane aur sood ko mitane ka hukum aaya.",
-      "reference": "Sahih Muslim: Hadees #1598, Sahih Bukhari: Hadees #2083"
+      "reference": "Sahih Muslim: Hadees #1598, Sahih Bukhari: Hadees #2083",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=275&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ ۝ فَإِن لَّمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ",
@@ -13031,26 +14625,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Musaqah",
       "narrator": "Rawi: Jabir bin Abdullah (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Muslim"
+      "gradingAuthority": "Sahih Muslim",
+      "book": "Sahih Muslim",
+      "hadithNumber": "1598",
+      "ref_url": "https://sunnah.com/muslim:1598"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 1, Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ قرآن مجید میں کسی گناہ پر ایسی ہولناک وعید اور اللہ و رسول کی طرف سے اعلانِ جنگ نہیں آیا جیسا کہ سود خوروں کے خلاف آیا ہے۔",
-        "roman": "Ibn Kathir farmate hain ki sood maashre ko nichod kar ghareeb ko tabah karta hai."
+        "roman": "Ibn Kathir farmate hain ki sood maashre ko nichod kar ghareeb ko tabah karta hai.",
+        "ref_url": "https://quran.com/2:275/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 3",
         "urdu": "امام طبری فرماتے ہیں کہ 'یمحق اللہ الربا ویربی الصدقات' اللہ سود کو مٹاتا ہے اور صدقات کو بڑھاتا ہے، یہ الٰہی اور معاشی سچائی ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq soodi nizam dunya mein be-barkati aur tabahi lata hai."
+        "roman": "Imam al-Tabari ke mutabiq soodi nizam dunya mein be-barkati aur tabahi lata hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=275&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق سود سرمایہ دارانہ استحصال کی وہ جڑ ہے جو امیر کو امیر تر اور غریب کو غلام بناتی ہے، اسلام نے اس کا قلع قمع کر دیا۔",
-        "roman": "Maududi likhte hain ki bina sood ke adl par mabni maashi nizam hi insaniyat ki falah hai."
+        "roman": "Maududi likhte hain ki bina sood ke adl par mabni maashi nizam hi insaniyat ki falah hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.275"
       }
     }
   },
@@ -13077,7 +14677,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت البقرة (Al-Baqarah) نزولی ترتیب کے لحاظ سے #87 نمبر پر ہے۔ یہ دورِ Early Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah Al-Baqarah (البقرة) Nuzooli tartib ke mutabiq #87 par nazil hui. Yeh Early Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah Al-Baqarah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=282&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -13087,26 +14688,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah Al-Baqarah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت البقرة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah Al-Baqarah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/2:282/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah Al-Baqarah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=282&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah Al-Baqarah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.282"
       }
     },
     "id": 230
@@ -13134,7 +14741,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "سورت التوبة (At-Tawbah) نزولی ترتیب کے لحاظ سے #113 نمبر پر ہے۔ یہ دورِ Late Madani میں نازل ہوئی جس میں توحید، تزکیہ اور ایمانی احکامات کو واضح کیا گیا ہے۔",
       "roman": "Surah At-Tawbah (التوبة) Nuzooli tartib ke mutabiq #113 par nazil hui. Yeh Late Madani ka ahem hissa hai jisme deen-e-Islam ki hidayat aur roohani rehnumai bayan ki gayi hai.",
-      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)"
+      "reference": "Tafseer Ibn Kathir & Asbab an-Nuzul (Surah At-Tawbah)",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=9&tAyahNo=120&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
@@ -13144,26 +14752,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Faza'il al-Quran (باب خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ)",
       "narrator": "Rawi: Hazrat Uthman bin Affan (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih (Bukhari)"
+      "gradingAuthority": "Muttafaq Alaih (Bukhari)",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "5027",
+      "ref_url": "https://sunnah.com/bukhari:5027"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir al-Quran al-Azim (Ibn Kathir), Surah At-Tawbah",
         "urdu": "ابن کثیر فرماتے ہیں کہ سورت التوبة کے مضامین ایمان باللہ، آخرت کے محاسبے اور اللہ کے احسانات کے گرد گھومتے ہیں جو انسان کو صحیح راستے کی رہنمائی فراہم کرتے ہیں۔",
-        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain."
+        "roman": "Hafiz Ibn Kathir farmate hain ki Surah At-Tawbah ke bunyadi mauzooat Tauheed, Aakhirat aur bandon par Allah ki behisaab nematon ka tazkira hain.",
+        "ref_url": "https://quran.com/9:120/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Jami' al-Bayan (Tafsir al-Tabari), Surah At-Tawbah",
         "urdu": "امام طبری کے نزدیک اس سورت میں نازل ہونے والے اوامر اور نواہی انسانی فلاح اور اخروی کامیابی کے لیے بنیاد کی حیثیت رکھتے ہیں۔",
-        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai."
+        "roman": "Imam al-Tabari farmate hain ki is Surah ke zariye insaan ko bhalayi aur hidayat ki dawat di gayi hai.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=9&tAyahNo=120&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1, Surah At-Tawbah",
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
-        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai."
+        "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/9.120"
       }
     },
     "id": 231
@@ -13192,7 +14806,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "9 ذوالحجہ 10 ہجری بروز جمعہ میدانِ عرفات میں سوا لاکھ صحابہ کے سامنے تاریخی خطبہ حجۃ الوداع کے بعد یہ آیت اتری: 'آج میں نے تمہارے لیے تمہارا دین مکمل کر دیا، اور اپنی نعمت تم پر تمام کر دی، اور تمہارے لیے اسلام کو بطورِ دین پسند کر لیا'۔",
       "roman": "9 Zul-Hijjah 10 AH ko Maidan-e-Arafat mein aayat utri jisme deen-e-islaam ke mukammal hone ka tareekhi aelaan farmaya gaya.",
-      "reference": "Sahih Bukhari: Hadees #45, Sahih Muslim: Hadees #3017"
+      "reference": "Sahih Bukhari: Hadees #45, Sahih Muslim: Hadees #3017",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=5&tAyahNo=3&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
@@ -13202,26 +14817,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab al-Iman",
       "narrator": "Rawi: Tariq bin Shihab / Umar (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Muttafaq Alaih"
+      "gradingAuthority": "Muttafaq Alaih",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "45",
+      "ref_url": "https://sunnah.com/bukhari:45"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 3, Surah Al-Ma'idah 3",
         "urdu": "ابن کثیر فرماتے ہیں کہ یہ امتِ محمدیہ پر اللہ کی سب سے بڑی نعمت ہے کہ دین کے تمام بنیادی عقائد، اخلاق اور حلال و حرام مکمل کر دیے گئے، اب کسی نئے نبی یا کتاب کی ضرورت نہیں۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayat Khatm-e-Nabuwwat ki sab se taaqatwar sanad hai."
+        "roman": "Ibn Kathir farmate hain ki yeh aayat Khatm-e-Nabuwwat ki sab se taaqatwar sanad hai.",
+        "ref_url": "https://quran.com/5:3/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 6",
         "urdu": "امام طبری فرماتے ہیں کہ حضرت ابوبکر اس آیت کو سن کر رو پڑے کیونکہ انہیں ادراک ہو گیا تھا کہ کمال کے بعد اب محبوبِ خدا کے دنیا سے رخصت ہونے کا وقت قریب ہے۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh wahi ka urooj aur kamal tha."
+        "roman": "Imam al-Tabari ke mutabiq yeh wahi ka urooj aur kamal tha.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=5&tAyahNo=3&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق اسلام اب ایک مکمل، مستقل اور غیر متبدل ضابطہ حیات بن چکا تھا جو قیامت تک پوری انسانیت کے مسائل کا حل پیش کرتا ہے۔",
-        "roman": "Maududi likhte hain ki yeh aayat tareekh-e-insaniyat ka noorani tareen nuqta hai."
+        "roman": "Maududi likhte hain ki yeh aayat tareekh-e-insaniyat ka noorani tareen nuqta hai.",
+        "ref_url": "https://quranx.com/tafsir/maududi/5.3"
       }
     }
   },
@@ -13249,7 +14870,8 @@ window.WAHI_EPISODES = [
     "context": {
       "urdu": "جمہور صحابہ بالخصوص حضرت ابن عباس کے مطابق رسول اللہ ﷺ پر نازل ہونے والی سب سے آخری قرآنی آیت یہ تھی: 'اور ڈرو اس دن سے جس میں تم سب اللہ کی طرف لوٹائے جاؤ گے، پھر ہر جان کو اس کی کمائی کا پورا بدلہ دیا جائے گا اور ان پر کوئی ظلم نہ ہوگا'۔ اس کے صرف چند دن بعد 12 ربیع الاول کو رسول اللہ اپنے رفیقِ اعلیٰ سے جا ملے۔",
       "roman": "Surah Al-Baqarah aayat 281 Quran ki aakhiri nazil shuda aayat hai. Is aayat ke nuzool ke 9 ya 21 din baad Rasoolullah ﷺ dunya se parda farma gaye.",
-      "reference": "Sahih Bukhari: Hadees #4605, Sunan an-Nasa'i: Hadees #11000"
+      "reference": "Sahih Bukhari: Hadees #4605, Sunan an-Nasa'i: Hadees #11000",
+      "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=2&tAyahNo=281&tDisplay=yes&LanguageId=2"
     },
     "hadith": {
       "arabic": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
@@ -13259,26 +14881,32 @@ window.WAHI_EPISODES = [
       "chapter": "Kitab Tafsir al-Quran",
       "narrator": "Rawi: Abdullah bin Abbas (R.A)",
       "grade": "Sahih",
-      "gradingAuthority": "Sahih Bukhari"
+      "gradingAuthority": "Sahih Bukhari",
+      "book": "Sahih al-Bukhari",
+      "hadithNumber": "4605",
+      "ref_url": "https://sunnah.com/bukhari:4605"
     },
     "tafseers": {
       "ibnKathir": {
         "author": "Hafiz Imaduddin Ibn Kathir (774H)",
         "reference": "Tafsir Ibn Kathir Vol 1, Surah Al-Baqarah 281",
         "urdu": "ابن کثیر فرماتے ہیں کہ سبحان اللہ! قرآن مجید کی وحی کا آغاز 'اقرأ' (پڑھو) سے ہوا اور اس کا اختتام 'واتقوا یوما ترجعون فیہ الی اللہ' (اس دن سے ڈرو جب اللہ کی طرف لوٹو گے) پر ہوا۔",
-        "roman": "Ibn Kathir farmate hain ki yeh aayat har insaan ko maut aur qayamat ki tayyari ki dawat deti hai."
+        "roman": "Ibn Kathir farmate hain ki yeh aayat har insaan ko maut aur qayamat ki tayyari ki dawat deti hai.",
+        "ref_url": "https://quran.com/2:281/tafsirs/en-tafisr-ibn-kathir"
       },
       "tabari": {
         "author": "Imam Abu Ja'far Muhammad bin Jarir al-Tabari (310H)",
         "reference": "Tafsir al-Tabari Vol 3",
         "urdu": "امام طبری فرماتے ہیں کہ جبرائیل علیہ السلام نے رسول اللہ کو حکم دیا کہ اس آیت کو سورۃ البقرہ کی آیت ربا (280) کے بعد درج فرمائیں۔",
-        "roman": "Imam al-Tabari ke mutabiq yeh wahi-e-ilaahi ki aakhiri khushbu thi."
+        "roman": "Imam al-Tabari ke mutabiq yeh wahi-e-ilaahi ki aakhiri khushbu thi.",
+        "ref_url": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=1&tSoraNo=2&tAyahNo=281&tDisplay=yes&LanguageId=1"
       },
       "maududi": {
         "author": "Syed Abul A'la Maududi (1979)",
         "reference": "Tafheem-ul-Quran Vol 1",
         "urdu": "تفہیم القرآن کے مطابق غارِ حرا سے شروع ہونے والا 23 سالہ سفرِ وحی اپنے نقطہِ کمال پر پہنچ کر بندوں کو ان کے خالق کی جوابدہی کے احساس پر قائم کر گیا۔",
-        "roman": "Maududi farmate hain ki Quran qayamat tak ke liye rehnuma ban kar mahfooz ho gaya."
+        "roman": "Maududi farmate hain ki Quran qayamat tak ke liye rehnuma ban kar mahfooz ho gaya.",
+        "ref_url": "https://quranx.com/tafsir/maududi/2.281"
       }
     }
   }

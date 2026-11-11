@@ -131,9 +131,19 @@
         <p id="context-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-amber-200/60 pb-2.5" dir="rtl"></p>
         <p id="context-roman" class="text-xs text-stone-600 leading-relaxed text-left"></p>
         
-        <div class="pt-2 border-t border-amber-200/70 text-[11px] text-amber-900 leading-normal">
-          <span class="font-bold">Hawala:</span>
-          <span id="context-ref" class="italic"></span>
+        <div class="pt-2 border-t border-amber-200/70 text-[11px] text-amber-900 leading-normal flex items-center justify-between gap-2">
+          <span class="font-bold shrink-0">Hawala:</span>
+          <a 
+            id="context-ref-link" 
+            href="#" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            class="inline-flex items-center gap-1.5 text-emerald-800 hover:text-emerald-950 hover:underline font-semibold bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded transition group shadow-2xs truncate"
+            title="Altafsir par Asal Asbab an-Nuzul (Al-Wahidi) dekhiye"
+          >
+            <span id="context-ref" class="italic truncate"></span>
+            <span class="text-[11px] font-bold text-emerald-600 group-hover:text-emerald-900 group-hover:translate-x-0.5 transition-transform shrink-0">↗</span>
+          </a>
         </div>
       </div>
 
@@ -204,9 +214,22 @@
         <p id="tafseer-roman" class="text-xs text-stone-600 leading-relaxed text-left"></p>
         
         <!-- Tafseer Reference Footnote -->
-        <div class="pt-2 border-t border-stone-200 flex items-center justify-between text-[11px] text-stone-500">
-          <div><span class="font-bold text-stone-700">Mufassir:</span> <span id="tafseer-author"></span></div>
-          <div><span class="font-bold text-stone-700">Kitab:</span> <span id="tafseer-ref"></span></div>
+        <div class="pt-2 border-t border-stone-200 flex items-center justify-between text-[11px] text-stone-600 gap-2">
+          <div class="truncate"><span class="font-bold text-stone-700">Mufassir:</span> <span id="tafseer-author"></span></div>
+          <div class="shrink-0 flex items-center gap-1">
+            <span class="font-bold text-stone-700">Kitab:</span> 
+            <a 
+              id="tafseer-ref-link" 
+              href="#" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="inline-flex items-center gap-1 text-emerald-800 hover:text-emerald-950 hover:underline font-semibold bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded transition group shadow-2xs"
+              title="Asal Tafseer Source naye tab me dekhiye"
+            >
+              <span id="tafseer-ref"></span>
+              <span class="text-[10px] text-emerald-600 group-hover:text-emerald-900 group-hover:translate-x-0.5 transition-transform">↗</span>
+            </a>
+          </div>
         </div>
       </div>
 
@@ -232,14 +255,24 @@
         <p id="hadith-urdu" class="font-urdu text-xs text-stone-800 text-right border-b border-emerald-200/50 pb-2" dir="rtl"></p>
         <p id="hadith-roman" class="text-xs text-stone-600 italic leading-relaxed text-left"></p>
 
-        <div class="pt-2 border-t border-emerald-200/60 space-y-1 text-xs text-emerald-900">
-          <div class="flex justify-between font-bold">
-            <span id="hadith-source"></span>
-            <span id="hadith-chapter"></span>
+        <div class="pt-2 border-t border-emerald-200/60 space-y-2 text-xs text-emerald-900">
+          <div class="flex items-center justify-between gap-2 flex-wrap">
+            <a 
+              id="hadith-source-link" 
+              href="#" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="inline-flex items-center gap-1.5 font-bold text-emerald-950 bg-emerald-200/70 hover:bg-emerald-300 border border-emerald-300 px-2.5 py-1 rounded shadow-2xs transition group cursor-pointer"
+              title="Sunnah.com / Shamela par Asal Hadees Kholiye"
+            >
+              <span id="hadith-source"></span>
+              <span class="text-[11px] font-bold text-emerald-800 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform">↗</span>
+            </a>
+            <span id="hadith-chapter" class="font-medium text-emerald-800 text-[11px] bg-emerald-100/70 px-2 py-0.5 rounded border border-emerald-200/60 truncate max-w-[200px]" title=""></span>
           </div>
-          <div class="flex justify-between text-[11px] text-emerald-800">
-            <span id="hadith-narrator"></span>
-            <span id="hadith-grading-authority"></span>
+          <div class="flex items-center justify-between text-[11px] text-emerald-800">
+            <span id="hadith-narrator" class="italic"></span>
+            <span id="hadith-grading-authority" class="font-semibold text-emerald-900 bg-emerald-100/60 px-1.5 py-0.5 rounded"></span>
           </div>
         </div>
       </div>
@@ -462,11 +495,22 @@
         document.getElementById('tafseer-roman').innerText = tf.roman || '';
         document.getElementById('tafseer-author').innerText = tf.author || '';
         document.getElementById('tafseer-ref').innerText = tf.reference || '';
+        const tafLink = document.getElementById('tafseer-ref-link');
+        if (tafLink) {
+          if (tf.ref_url) {
+            tafLink.href = tf.ref_url;
+            tafLink.style.display = 'inline-flex';
+          } else {
+            tafLink.removeAttribute('href');
+          }
+        }
       } else if (activeItem && activeItem.tafseer) {
         document.getElementById('tafseer-urdu').innerText = activeItem.tafseer;
         document.getElementById('tafseer-roman').innerText = activeItem.tafseer;
         document.getElementById('tafseer-author').innerText = 'Tafseer-ul-Quran';
         document.getElementById('tafseer-ref').innerText = `Surah ${activeItem.nameEn || activeItem.surahName}`;
+        const tafLink = document.getElementById('tafseer-ref-link');
+        if (tafLink) tafLink.removeAttribute('href');
       }
     }
 
@@ -487,10 +531,13 @@
       const ctxUrdu = (s.context && s.context.urdu) ? s.context.urdu : (typeof s.context === 'string' ? s.context : 'اس سورت کے تاریخی پس منظر کے تفصیلی کوائف۔');
       const ctxRoman = (s.context && s.context.roman) ? s.context.roman : (typeof s.context === 'string' ? s.context : 'Is Surah ka tareekhi pas-manzar aur asbab-e-nuzool.');
       const ctxRef = (s.context && s.context.reference) ? s.context.reference : `Asbab an-Nuzul (Surah ${s.nameEn})`;
+      const ctxUrl = (s.context && s.context.ref_url) ? s.context.ref_url : `https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=${s.surahNumber}&tAyahNo=1&tDisplay=yes&LanguageId=2`;
       
       document.getElementById('context-urdu').innerText = ctxUrdu;
       document.getElementById('context-roman').innerText = ctxRoman;
       document.getElementById('context-ref').innerText = ctxRef;
+      const ctxLink = document.getElementById('context-ref-link');
+      if (ctxLink) ctxLink.href = ctxUrl;
 
       // Tafseer Section
       switchTafseerTab(activeTafseerSource);
@@ -550,6 +597,9 @@
       document.getElementById('context-urdu').innerText = ep.context.urdu || '';
       document.getElementById('context-roman').innerText = ep.context.roman || '';
       document.getElementById('context-ref').innerText = ep.context.reference || `Asbab an-Nuzul (Episode #${ep.id})`;
+      const epCtxUrl = (ep.context && ep.context.ref_url) ? ep.context.ref_url : `https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=86&tSoraNo=${ep.surahNumber}&tAyahNo=${ep.fromAyah}&tDisplay=yes&LanguageId=2`;
+      const epCtxLink = document.getElementById('context-ref-link');
+      if (epCtxLink) epCtxLink.href = epCtxUrl;
 
       // Tafseer Section
       switchTafseerTab(activeTafseerSource);
@@ -564,24 +614,45 @@
 
     // Helper: Render Hadith Card
     function renderHadithCard(hadith) {
+      const sourceLink = document.getElementById('hadith-source-link');
+      const sourceSpan = document.getElementById('hadith-source');
+      const chapterSpan = document.getElementById('hadith-chapter');
+      const narratorSpan = document.getElementById('hadith-narrator');
+      const gradeSpan = document.getElementById('hadith-grade');
+      const authoritySpan = document.getElementById('hadith-grading-authority');
+
       if (hadith) {
         document.getElementById('hadith-arabic').innerText = hadith.arabic || '';
         document.getElementById('hadith-urdu').innerText = hadith.urdu || '';
         document.getElementById('hadith-roman').innerText = hadith.roman ? `"${hadith.roman}"` : '';
-        document.getElementById('hadith-source').innerText = hadith.source || '';
-        document.getElementById('hadith-chapter').innerText = hadith.chapter || '';
-        document.getElementById('hadith-narrator').innerText = hadith.narrator || '';
-        document.getElementById('hadith-grade').innerText = hadith.grade || 'Sahih';
-        document.getElementById('hadith-grading-authority').innerText = hadith.gradingAuthority || '';
+        sourceSpan.innerText = hadith.source || '';
+        
+        if (sourceLink) {
+          if (hadith.ref_url) {
+            sourceLink.href = hadith.ref_url;
+            sourceLink.style.display = 'inline-flex';
+            sourceLink.title = `Asal Source (${hadith.book || hadith.source}) naye tab me kholiye`;
+          } else {
+            sourceLink.removeAttribute('href');
+          }
+        }
+
+        chapterSpan.innerText = hadith.chapter || '';
+        chapterSpan.title = hadith.chapter || '';
+        narratorSpan.innerText = hadith.narrator || '';
+        gradeSpan.innerText = hadith.grade || 'Sahih';
+        authoritySpan.innerText = hadith.gradingAuthority || '';
       } else {
         document.getElementById('hadith-arabic').innerText = '';
         document.getElementById('hadith-urdu').innerText = 'اس مقام کی متعلقہ احادیثِ مبارکہ پر تحقیق جاری ہے۔';
         document.getElementById('hadith-roman').innerText = '';
-        document.getElementById('hadith-source').innerText = '';
-        document.getElementById('hadith-chapter').innerText = '';
-        document.getElementById('hadith-narrator').innerText = '';
-        document.getElementById('hadith-grade').innerText = 'Sahih';
-        document.getElementById('hadith-grading-authority').innerText = '';
+        sourceSpan.innerText = '';
+        if (sourceLink) sourceLink.style.display = 'none';
+        chapterSpan.innerText = '';
+        chapterSpan.title = '';
+        narratorSpan.innerText = '';
+        gradeSpan.innerText = 'Sahih';
+        authoritySpan.innerText = '';
       }
     }
 
