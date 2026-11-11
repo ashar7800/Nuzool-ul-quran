@@ -14,6 +14,7 @@
   <!-- Dual-loading: Bundled datasets (guarantees ZERO CORS error on file://) -->
   <script src="data/surahs.js"></script>
   <script src="data/wahi_episodes.js"></script>
+  <script src="app.js"></script>
 
   <style>
     body { font-family: 'Plus Jakarta Sans', sans-serif; }
@@ -302,11 +303,11 @@
               href="#" 
               target="_blank" 
               rel="noopener noreferrer" 
-              class="inline-flex items-center gap-1.5 font-bold text-emerald-950 bg-emerald-200/70 hover:bg-emerald-300 border border-emerald-300 px-2.5 py-1 rounded shadow-2xs transition group cursor-pointer"
-              title="Sunnah.com par Urdu Tarjuma ke sath Asal Hadees Kholiye"
+              class="inline-flex items-center gap-1.5 font-semibold text-emerald-900 hover:text-emerald-950 hover:underline bg-emerald-100/80 hover:bg-emerald-200/90 border border-emerald-300/80 px-2.5 py-1 rounded-md shadow-2xs transition group cursor-pointer text-xs"
+              title="Asal Hadees o Urdu Tarjuma naye tab mein dekhiye"
             >
               <span id="hadith-source"></span>
-              <span class="text-[11px] font-bold text-emerald-800 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform">↗</span>
+              <span class="text-[11px] font-bold text-emerald-700 group-hover:text-emerald-950 group-hover:translate-x-0.5 transition-transform shrink-0">↗</span>
             </a>
             <span id="hadith-chapter" class="font-medium text-emerald-800 text-[11px] bg-emerald-100/70 px-2 py-0.5 rounded border border-emerald-200/60 truncate max-w-[200px]" title=""></span>
           </div>
@@ -696,6 +697,46 @@
       renderVersesList(passageVerses, ep.surahNumber, showBismillah, scrollVerses);
     }
 
+    // Helper: Format Academic Hadith Citation
+    function formatAcademicCitation(hadith) {
+      if (!hadith) return '';
+      
+      const bookMap = {
+        'Sahih al-Bukhari': 'Sahih Bukhari',
+        'Sunan Abi Dawud': 'Sunan Abi Dawood',
+        'Jami` at-Tirmidhi': "Jami' at-Tirmidhi",
+        'Musnad Ahmad bin Hanbal': 'Musnad Ahmad',
+        'As-Seerah an-Nabawiyyah (Ibn Hisham)': 'Seerah Ibn Hisham',
+        'As-Sunan al-Kubra (Al-Bayhaqi)': 'Sunan al-Kubra (Al-Bayhaqi)',
+        "Al-Mustadrak 'ala al-Sahihayn (Al-Hakim)": 'Mustadrak al-Hakim',
+        "Dala'il an-Nubuwwah (Al-Bayhaqi)": 'Dalail an-Nubuwwah (Al-Bayhaqi)',
+        "Jami' al-Bayan fi Ta'wil al-Qur'an (At-Tabari)": 'Tafsir al-Tabari',
+        'Sahih Muslim': 'Sahih Muslim'
+      };
+      
+      let book = hadith.book || '';
+      if (!book && hadith.source) {
+        book = hadith.source.replace(/^Reference:\s*/i, '').split('(')[0].split(':')[0].trim();
+      }
+      book = bookMap[book] || book;
+
+      const details = [];
+      if (hadith.hadithNumber) {
+        details.push(`Hadees No: ${hadith.hadithNumber}`);
+      }
+      if (hadith.jild || hadith.volume) {
+        details.push(`Jild: ${hadith.jild || hadith.volume}`);
+      }
+      if (hadith.safha) {
+        details.push(`Safha: ${hadith.safha}`);
+      } else if (hadith.page || hadith.pageNo) {
+        details.push(`Page No: ${hadith.page || hadith.pageNo}`);
+      }
+
+      const detailsStr = details.length > 0 ? ` (${details.join(', ')})` : '';
+      return `Reference: ${book}${detailsStr}`;
+    }
+
     // Helper: Render Hadith Card
     function renderHadithCard(hadith) {
       const sourceLink = document.getElementById('hadith-source-link');
@@ -709,13 +750,15 @@
         document.getElementById('hadith-arabic').innerText = hadith.arabic || '';
         document.getElementById('hadith-urdu').innerText = hadith.urdu || '';
         document.getElementById('hadith-roman').innerText = hadith.roman ? `"${hadith.roman}"` : '';
-        sourceSpan.innerText = hadith.source || '';
+        
+        const citation = (typeof window.formatAcademicCitation === 'function' ? window.formatAcademicCitation(hadith) : formatAcademicCitation(hadith)) || hadith.source || '';
+        sourceSpan.innerText = citation;
         
         if (sourceLink) {
           if (hadith.ref_url) {
             sourceLink.href = hadith.ref_url;
             sourceLink.style.display = 'inline-flex';
-            sourceLink.title = `${hadith.book || hadith.source} ka asal Urdu tarjuma naye tab me dekhiye`;
+            sourceLink.title = `${citation} — Asal Urdu tarjuma naye tab mein dekhiye`;
           } else {
             sourceLink.removeAttribute('href');
           }
