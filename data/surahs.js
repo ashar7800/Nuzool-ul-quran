@@ -250,11 +250,12 @@ window.SURAH_DATA = [
         "title": "Human Embryo at 24–28 Days & Blastocyst Implantation vs. 'Alaqah Morphology",
         "description": "Authentic histological and micrographic full-colour comparison showing Carnegie Stage 11–12 human embryo implantation into uterine endometrium wall with trophoblastic villi, somites, and neural tube versus Freshwater Leech ('Alaqah) tripartite structure.",
         "type": "embryology",
-        "image_url": "assets/scientific_diagrams/embryo_implantation_alaq.svg",
-        "high_res_url": "assets/scientific_diagrams/embryo_implantation_alaq.svg",
+        "image_url": "./assets/scientific_diagrams/ep1_embryology_alaq.jpg",
+        "fallback_url": "./assets/scientific_diagrams/embryo_implantation_alaq.svg",
+        "high_res_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/2905_Implantation.jpg",
         "caption_ur": "۲۴ تا ۲۸ دن کے انسانی جنین (Carnegie Stage 11-12) کی رحمِ مادر میں امپلانٹیشن اور جونک نما ساخت (علقہ) کا مستند تقابلی و تشریحی نقشہ",
         "caption_en": "Authentic Full-Colour Micrographic Comparison: Human Embryo Implantation & Somite Morphology vs. Leech ('Alaqah)",
-        "scientific_source": "Prof. Keith L. Moore (The Developing Human, 8th Ed., Saunders) & Carnegie Institution of Washington"
+        "scientific_source": "Prof. Keith L. Moore (The Developing Human, 8th Ed., Saunders) & Carnegie Institution / OpenStax Anatomy"
       }
     },
     "cross_references": [
@@ -38916,11 +38917,12 @@ window.SURAH_DATA = [
         "title": "Somite Formation & Skeletal Differentiation",
         "description": "Chronological Carnegie stages matching the Quranic progression from Mudghah to Myogenesis.",
         "type": "morphogenesis",
-        "image_url": "assets/scientific_diagrams/embryonic_carnegie_stages.svg",
-        "high_res_url": "assets/scientific_diagrams/embryonic_carnegie_stages.svg",
-        "caption_ur": "انسانی جنین کے ۴ تسلسلی مراحل (نطفہ، علقہ، مضغہ، عظام و لحم) کا کارنیگی مائیکروگرافک چارٹ",
-        "caption_en": "Sequential Morphogenetic Carnegie Stages (Nutfah ➔ 'Alaqah ➔ Mudghah ➔ Osteogenesis & Myogenesis)",
-        "scientific_source": "Carnegie Institution of Washington (Embryology Series) • Prof. T.V.N. Persaud"
+        "image_url": "./assets/scientific_diagrams/ep1_embryo_week3.jpg",
+        "fallback_url": "./assets/scientific_diagrams/embryonic_carnegie_stages.svg",
+        "high_res_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2909_Embryo_Week_3-02.jpg",
+        "caption_ur": "انسانی جنین کے ۳ سے ۴ ہفتوں کے تسلسلی مراحل (سومائٹس و نیورل ٹیوب) کا مستند طبی تصویری چارٹ",
+        "caption_en": "Sequential Morphogenetic Carnegie Stages: Somites, Neural Groove & Morphological Progression",
+        "scientific_source": "Carnegie Institution of Washington • OpenStax Human Anatomy & Physiology"
       }
     },
     "cross_references": [

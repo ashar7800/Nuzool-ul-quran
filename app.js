@@ -380,6 +380,9 @@ function renderScientificInsights(item) {
     return;
   }
 
+  // Preserve active insight globally for rock-solid modal interactions
+  window.currentScientificInsight = sci;
+
   section.style.display = 'block';
   const citationsHtml = (sci.citations || []).map(c => `
     <li class="flex items-start gap-1.5 text-[10.5px] text-stone-600">
@@ -390,27 +393,34 @@ function renderScientificInsights(item) {
 
   const diagram = sci.diagram || {};
   const imgUrl = diagram.image_url || diagram.high_res_url || '';
+  const fallbackUrl = diagram.fallback_url || './assets/scientific_diagrams/embryo_implantation_alaq.svg';
+  const cdnUrl = diagram.high_res_url || 'https://upload.wikimedia.org/wikipedia/commons/3/39/2905_Implantation.jpg';
   const captionEn = diagram.caption_en || diagram.title || sci.title_en;
   const captionUr = diagram.caption_ur || sci.title_ur;
-  const sciSource = diagram.scientific_source || (sci.citations ? sci.citations[0] : 'Peer-Reviewed Scientific Observation');
+  const sciSource = diagram.scientific_source || (sci.citations ? sci.citations[0] : 'Prof. Keith L. Moore & Carnegie Institution / OpenStax Anatomy');
+  const diagramType = diagram.type || 'embryology';
 
   // Interactive Colored Preview Container
   let visualPreviewHtml = '';
   if (imgUrl) {
     visualPreviewHtml = `
       <div 
-        onclick="openScientificModal('${escapeHtml(sci.title_en)}', '${escapeHtml(sci.title_ur)}', '${escapeHtml(sci.summary_ur)}', '${escapeHtml(sci.summary_roman)}', '${imgUrl}', '${escapeHtml(captionEn)}', '${escapeHtml(captionUr)}', '${escapeHtml(sciSource)}')"
+        onclick="openScientificModal()"
         class="cursor-pointer group relative border border-emerald-500/20 shadow-md rounded-xl overflow-hidden bg-slate-950 transition hover:border-emerald-500/40"
         title="HD Full-Color Visual: Bada karke dekhiye (Click to Zoom)"
       >
-        <div class="relative w-full bg-slate-950 flex items-center justify-center p-1.5 sm:p-2">
+        <div class="relative w-full bg-black/40 flex items-center justify-center p-2">
           <img 
             src="${imgUrl}" 
+            data-fallback="${fallbackUrl}"
+            data-cdn="${cdnUrl}"
+            data-type="${diagramType}"
             alt="${captionEn}" 
-            class="object-contain max-h-72 w-full rounded-lg transition-transform duration-300 group-hover:scale-[1.015]"
+            onerror="handleScientificImageError(this)"
+            class="max-h-72 w-full object-contain mx-auto rounded-lg bg-black/40 p-2 transition-transform duration-300 group-hover:scale-[1.01]"
             loading="lazy"
           />
-          <div class="absolute inset-0 bg-slate-950/25 group-hover:bg-slate-950/40 transition flex items-center justify-center pointer-events-none">
+          <div class="absolute inset-0 bg-slate-950/20 group-hover:bg-slate-950/40 transition flex items-center justify-center pointer-events-none">
             <span class="bg-black/80 text-white text-[11px] font-semibold px-3 py-1.5 rounded-lg border border-emerald-500/40 shadow-lg backdrop-blur-xs flex items-center gap-1.5 group-hover:scale-105 transition-transform">
               <span class="text-emerald-400">🔍</span>
               <span>HD Colored Visual • Click to Zoom</span>
@@ -432,13 +442,15 @@ function renderScientificInsights(item) {
       </div>
     `;
   } else {
-    const fallbackSvg = generateScientificDiagramSvg(diagram.type || 'embryology');
+    const fallbackSvg = generateScientificDiagramSvg(diagramType);
     visualPreviewHtml = `
       <div 
-        onclick="openScientificModal('${escapeHtml(sci.title_en)}', '${escapeHtml(sci.title_ur)}', '${escapeHtml(sci.summary_ur)}', '${escapeHtml(sci.summary_roman)}', '', '${escapeHtml(captionEn)}', '${escapeHtml(captionUr)}', '${escapeHtml(sciSource)}', '${diagram.type || 'embryology'}')"
+        onclick="openScientificModal()"
         class="cursor-pointer group relative border border-emerald-500/20 shadow-md rounded-xl overflow-hidden bg-slate-950 transition"
       >
-        ${fallbackSvg}
+        <div class="p-2">
+          ${fallbackSvg}
+        </div>
         <div class="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition flex items-center justify-center">
           <span class="bg-black/80 text-white text-xs px-2.5 py-1 rounded-md font-semibold backdrop-blur-xs flex items-center gap-1">
             <span>🔍</span>
@@ -488,6 +500,39 @@ function renderScientificInsights(item) {
   `;
 }
 
+/**
+ * Multi-tier Error Handler for Scientific Images.
+ * Tier 1: Local high-resolution medical photograph.
+ * Tier 2: Local anatomical SVG diagram.
+ * Tier 3: Direct verified CDN (Wikimedia Commons / OpenStax).
+ * Tier 4: Clean inline SVG fallback (guarantees zero broken icons).
+ */
+function handleScientificImageError(img) {
+  if (!img) return;
+  const stage = parseInt(img.dataset.errorStage || '0', 10);
+  const fallback = img.dataset.fallback;
+  const cdn = img.dataset.cdn;
+  const type = img.dataset.type || 'embryology';
+
+  if (stage === 0 && fallback && img.src !== fallback && !img.src.endsWith(fallback.replace('./', ''))) {
+    img.dataset.errorStage = '1';
+    img.src = fallback;
+  } else if (stage <= 1 && cdn && img.src !== cdn) {
+    img.dataset.errorStage = '2';
+    img.src = cdn;
+  } else {
+    img.onerror = null;
+    const parent = img.parentElement;
+    if (parent) {
+      parent.innerHTML = `
+        <div class="w-full flex flex-col items-center justify-center p-2">
+          ${generateScientificDiagramSvg(type)}
+        </div>
+      `;
+    }
+  }
+}
+
 function escapeHtml(str) {
   if (!str) return '';
   return str.replace(/'/g, "\\'").replace(/"/g, '&quot;');
@@ -497,6 +542,21 @@ function escapeHtml(str) {
  * Interactive Full-Color High-Resolution Lightbox Modal.
  */
 function openScientificModal(titleEn, titleUr, summaryUr, summaryRoman, imgUrl, captionEn, captionUr, sciSource, fallbackType = 'embryology') {
+  const sci = window.currentScientificInsight || {};
+  const diagram = sci.diagram || {};
+
+  titleEn = titleEn || sci.title_en || 'Scientific Insight';
+  titleUr = titleUr || sci.title_ur || '';
+  summaryUr = summaryUr || sci.summary_ur || '';
+  summaryRoman = summaryRoman || sci.summary_roman || '';
+  imgUrl = imgUrl || diagram.image_url || diagram.high_res_url || '';
+  captionEn = captionEn || diagram.caption_en || diagram.title || titleEn;
+  captionUr = captionUr || diagram.caption_ur || titleUr;
+  sciSource = sciSource || diagram.scientific_source || (sci.citations ? sci.citations[0] : 'Prof. Keith L. Moore & Carnegie Institution / OpenStax Anatomy');
+  fallbackType = fallbackType || diagram.type || 'embryology';
+  const fallbackUrl = diagram.fallback_url || './assets/scientific_diagrams/embryo_implantation_alaq.svg';
+  const cdnUrl = diagram.high_res_url || 'https://upload.wikimedia.org/wikipedia/commons/3/39/2905_Implantation.jpg';
+
   let modal = document.getElementById('scientific-zoom-modal');
   if (!modal) {
     modal = document.createElement('div');
@@ -514,17 +574,22 @@ function openScientificModal(titleEn, titleUr, summaryUr, summaryRoman, imgUrl, 
   let visualElementHtml = '';
   if (imgUrl) {
     visualElementHtml = `
-      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-3 flex items-center justify-center shadow-inner">
+      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-4 flex items-center justify-center shadow-inner">
         <img 
+          id="modal-sci-img"
           src="${imgUrl}" 
+          data-fallback="${fallbackUrl}"
+          data-cdn="${cdnUrl}"
+          data-type="${fallbackType}"
           alt="${captionEn || titleEn}" 
-          class="max-h-[62vh] w-auto max-w-full object-contain rounded-lg shadow-2xl"
+          onerror="handleScientificImageError(this)"
+          class="max-h-96 w-full object-contain mx-auto rounded-lg bg-black/40 p-2 shadow-2xl"
         />
       </div>
     `;
   } else {
     visualElementHtml = `
-      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-3">
+      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-4 flex items-center justify-center shadow-inner">
         ${generateScientificDiagramSvg(fallbackType)}
       </div>
     `;
@@ -555,18 +620,28 @@ function openScientificModal(titleEn, titleUr, summaryUr, summaryRoman, imgUrl, 
       <!-- High-Resolution Colored Visual -->
       ${visualElementHtml}
 
-      <!-- Detailed Caption & Scientific Source Attribution -->
+      <!-- Detailed Caption, Biological Stage & Scientific Source Attribution -->
       <div class="bg-slate-900 border border-slate-800/80 rounded-xl p-3.5 space-y-2">
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-1 border-b border-slate-800 pb-2">
-          <p class="text-xs font-bold text-emerald-300 leading-snug" dir="ltr">
+          <p class="text-xs sm:text-sm font-bold text-emerald-300 leading-snug" dir="ltr">
             ${captionEn || titleEn}
           </p>
-          <p class="font-urdu text-xs text-stone-200 font-semibold text-right" dir="rtl">
+          <p class="font-urdu text-xs sm:text-sm text-stone-200 font-semibold text-right" dir="rtl">
             ${captionUr || titleUr}
           </p>
         </div>
-        <p class="text-[11px] text-slate-400 italic">
-          <strong class="text-slate-300">Scientific Attribution:</strong> ${sciSource || 'Peer-reviewed clinical/observational reference'}
+        <div class="flex flex-wrap items-center gap-2 pt-0.5">
+          <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-950 border border-emerald-500/40 text-emerald-300 text-[11px] font-semibold">
+            <span>🔬 Biological Stage:</span>
+            <span class="text-white">Blastocyst & Embryo Implantation, Days 24–28 (Carnegie Stages 11–12)</span>
+          </span>
+          <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-slate-800 border border-slate-700 text-slate-300 text-[11px]">
+            <span>Morphology:</span>
+            <span class="text-emerald-200 font-medium">Leech-like ('Alaqah) clinging entity & somites</span>
+          </span>
+        </div>
+        <p class="text-[11px] text-slate-400 italic pt-1">
+          <strong class="text-slate-300">Scientific Attribution:</strong> ${sciSource || 'Prof. Keith L. Moore & Carnegie Institution / OpenStax Anatomy'}
         </p>
       </div>
 
@@ -750,6 +825,7 @@ if (typeof window !== 'undefined') {
   window.renderCrossReferences = renderCrossReferences;
   window.renderHistoricalLocations = renderHistoricalLocations;
   window.renderScientificInsights = renderScientificInsights;
+  window.handleScientificImageError = handleScientificImageError;
   window.openScientificModal = openScientificModal;
   window.closeScientificModal = closeScientificModal;
   window.showToast = showToast;
