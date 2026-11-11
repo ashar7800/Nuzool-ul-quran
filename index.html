@@ -30,15 +30,18 @@
 
   <!-- Header, Reciter Selector & Search -->
   <header class="bg-emerald-900 text-white shadow-md sticky top-0 z-50">
-    <div class="max-w-7xl mx-auto px-4 py-3 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+    <div class="max-w-[1700px] mx-auto px-4 py-3 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
       <div>
-        <div class="flex items-center gap-2">
+        <div class="flex items-center gap-2 flex-wrap">
           <h1 class="text-xl font-bold tracking-tight">نُزُولُ القُرْآن — Nuzool-ul-Quran</h1>
           <span id="data-count-badge" class="text-[11px] bg-emerald-800/90 text-emerald-200 border border-emerald-700 px-2 py-0.5 rounded-full font-semibold">
             114 Surahs • 6,236 Verses
           </span>
+          <span class="text-[11px] bg-amber-500/20 text-amber-200 border border-amber-400/30 px-2.5 py-0.5 rounded-full font-medium hidden sm:inline-block">
+            ترجمہ: احسن البیان (مولانا محمد جوناگڑھی)
+          </span>
         </div>
-        <p class="text-xs text-emerald-200">
+        <p class="text-xs text-emerald-200 mt-0.5">
           The Chronological Revelation, Seerah Episodes & Tafseer Portal
         </p>
       </div>
@@ -70,10 +73,10 @@
   </header>
 
   <!-- Main Container -->
-  <main class="max-w-7xl mx-auto w-full px-4 py-6 grid grid-cols-1 lg:grid-cols-12 gap-6 flex-1">
+  <main class="max-w-[1700px] mx-auto w-full px-3 sm:px-4 py-5 flex flex-col lg:flex-row gap-4 lg:gap-5 flex-1 items-start">
     
-    <!-- LEFT COLUMN: View Switcher + Timeline Navigation + Tareekhi Pas-manzar Box (4 Columns) -->
-    <aside class="lg:col-span-4 space-y-4">
+    <!-- LEFT COLUMN: View Switcher + Timeline Navigation + Tareekhi Pas-manzar Box (~22%) -->
+    <aside class="w-full lg:w-[22%] shrink-0 space-y-4">
       
       <!-- View Mode Switcher [Surah View] vs [Wahi Passage View] -->
       <div class="bg-white p-2 rounded-xl shadow-sm border border-stone-200">
@@ -149,8 +152,8 @@
 
     </aside>
 
-    <!-- CENTER COLUMN: Reading Pane & Audio (4 Columns) -->
-    <section class="lg:col-span-4 bg-white p-5 rounded-xl shadow-sm border border-stone-200 flex flex-col">
+    <!-- CENTER COLUMN: Reading Pane & Audio (~49%) -->
+    <section class="w-full lg:flex-1 bg-white p-4 sm:p-5 rounded-xl shadow-sm border border-stone-200 flex flex-col min-w-0">
       <div class="border-b border-stone-100 pb-3 mb-4 flex justify-between items-center">
         <div>
           <h2 id="reading-pane-title" class="text-lg font-bold text-emerald-950">Surah Title</h2>
@@ -166,8 +169,8 @@
       </div>
     </section>
 
-    <!-- RIGHT COLUMN: Tafseer o Sharah (UPAR) + Mutalliqah Hadees (NICHE) (4 Columns) -->
-    <aside class="lg:col-span-4 space-y-4">
+    <!-- RIGHT COLUMN: Tafseer o Sharah + Khulasa & Lessons + Mutalliqah Hadees (~29%) -->
+    <aside class="w-full lg:w-[29%] shrink-0 space-y-4">
       
       <!-- 1. Multi-Tafseer Card (Ab Upar Hai) -->
       <div class="bg-white border border-stone-200 p-4 rounded-xl shadow-sm space-y-3">
@@ -184,26 +187,33 @@
           </button>
         </div>
 
-        <!-- Tafseer Selection Tabs -->
-        <div class="flex gap-1.5 border-b border-stone-200 pb-2">
+        <!-- Tafseer Selection Tabs: [ Ibn Kathir ] [ Ahsan-ul-Bayan ] [ Al-Tabari ] [ Tafheem ] -->
+        <div class="grid grid-cols-2 sm:flex sm:flex-wrap gap-1.5 border-b border-stone-200 pb-2">
           <button 
             id="tab-ibnkathir" 
             onclick="switchTafseerTab('ibnKathir')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white"
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white text-center"
           >
             Ibn Kathir
           </button>
           <button 
+            id="tab-ahsanbayan" 
+            onclick="switchTafseerTab('ahsanBayan')" 
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
+          >
+            Ahsan-ul-Bayan
+          </button>
+          <button 
             id="tab-tabari" 
             onclick="switchTafseerTab('tabari')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200"
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
           >
             Al-Tabari
           </button>
           <button 
             id="tab-maududi" 
             onclick="switchTafseerTab('maududi')" 
-            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200"
+            class="text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center"
           >
             Tafheem
           </button>
@@ -233,7 +243,37 @@
         </div>
       </div>
 
-      <!-- 2. Mutalliqah Hadees Card (Ab Niche Hai) -->
+      <!-- 2. Khulasa-e-Kalam & Actionable Lessons Card -->
+      <div class="bg-gradient-to-br from-white to-emerald-50/40 border border-emerald-200/80 p-4 rounded-xl shadow-sm space-y-3">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2">
+            <span class="text-lg">💡</span>
+            <h3 class="text-sm font-bold text-emerald-950">خلاصۂ کلام و عملی اسباق</h3>
+          </div>
+          <span class="text-[10px] bg-emerald-100 text-emerald-800 font-bold px-2 py-0.5 rounded border border-emerald-200">
+            Themes & Lessons
+          </span>
+        </div>
+
+        <!-- Theme / Markazi Mehwar -->
+        <div class="bg-emerald-50/90 border border-emerald-200/70 rounded-lg p-2.5 flex items-start gap-2">
+          <span class="text-xs font-bold text-emerald-800 shrink-0">موضوع:</span>
+          <span id="theme-badge" class="text-xs text-emerald-950 font-semibold leading-relaxed"></span>
+        </div>
+
+        <!-- Actionable Lessons List -->
+        <div class="space-y-2 pt-0.5">
+          <h4 class="text-[11px] font-bold text-stone-600 uppercase tracking-wide flex items-center gap-1.5">
+            <span>✨</span>
+            <span>اہم عملی ہدایات (Actionable Takeaways)</span>
+          </h4>
+          <div id="lessons-container" class="space-y-2">
+            <!-- Populated dynamically by renderLessonsCard() -->
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. Mutalliqah Hadees Card -->
       <div class="bg-emerald-50/70 border border-emerald-200 p-4 rounded-xl shadow-sm space-y-3">
         <div class="flex items-center justify-between">
           <div class="flex items-center gap-2">
@@ -283,7 +323,7 @@
 
   <!-- Classy Footer Credits -->
   <footer class="bg-emerald-950 text-stone-300 border-t border-emerald-900 mt-auto py-6">
-    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
+    <div class="max-w-[1700px] mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
       <div>
         <div class="flex items-center justify-center sm:justify-start gap-2">
           <span class="font-bold text-white tracking-wide text-sm">نُزُولُ القُرْآن — Nuzool-ul-Quran</span>
@@ -471,6 +511,7 @@
       
       const tabs = {
         ibnKathir: document.getElementById('tab-ibnkathir'),
+        ahsanBayan: document.getElementById('tab-ahsanbayan'),
         tabari: document.getElementById('tab-tabari'),
         maududi: document.getElementById('tab-maududi')
       };
@@ -478,9 +519,9 @@
       Object.keys(tabs).forEach(k => {
         if (tabs[k]) {
           if (k === tabKey) {
-            tabs[k].className = "text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white";
+            tabs[k].className = "text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-emerald-800 text-white text-center";
           } else {
-            tabs[k].className = "text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200";
+            tabs[k].className = "text-[11px] px-2.5 py-1 rounded-md font-semibold transition bg-stone-100 text-stone-600 hover:bg-stone-200 text-center";
           }
         }
       });
@@ -493,7 +534,9 @@
         const tf = activeItem.tafseers[tabKey];
         document.getElementById('tafseer-urdu').innerText = tf.urdu || '';
         document.getElementById('tafseer-roman').innerText = tf.roman || '';
-        document.getElementById('tafseer-author').innerText = tf.author || '';
+        document.getElementById('tafseer-author').innerText = (tabKey === 'ahsanBayan') 
+          ? 'شرح و حواشی: حافظ صلاح الدین یوسف | ترجمہ: مولانا محمد جوناگڑھی'
+          : (tf.author || '');
         document.getElementById('tafseer-ref').innerText = tf.reference || '';
         const tafLink = document.getElementById('tafseer-ref-link');
         if (tafLink) {
@@ -514,6 +557,41 @@
       }
     }
 
+    // Helper: Render Themes & Actionable Lessons Card (خلاصۂ کلام و عملی اسباق)
+    function renderLessonsCard(item) {
+      if (!item) return;
+      const themeBadge = document.getElementById('theme-badge');
+      const lessonsContainer = document.getElementById('lessons-container');
+      
+      const themeText = item.theme || (item.nameEn ? `${item.nameEn} — Dawat o Hidayat` : 'Dawat-e-Tawheed o Hidayat');
+      if (themeBadge) {
+        themeBadge.innerText = themeText;
+      }
+
+      if (lessonsContainer) {
+        const lessons = item.lessons || [];
+        if (lessons.length > 0) {
+          lessonsContainer.innerHTML = lessons.map((l, idx) => `
+            <div class="bg-white/95 p-2.5 rounded-lg border border-stone-200/80 shadow-2xs space-y-1">
+              <div class="flex items-start gap-2">
+                <span class="w-5 h-5 rounded-full bg-emerald-100 text-emerald-800 text-[11px] font-bold flex items-center justify-center shrink-0 mt-0.5">
+                  ${idx + 1}
+                </span>
+                <p class="font-urdu text-xs text-stone-800 leading-relaxed text-right w-full" dir="rtl">
+                  ${l.urdu}
+                </p>
+              </div>
+              <p class="text-[11px] text-stone-600 leading-normal pl-7 italic">
+                ${l.roman}
+              </p>
+            </div>
+          `).join('');
+        } else {
+          lessonsContainer.innerHTML = '<div class="text-xs text-stone-400 italic">اسباق دستیاب ہیں۔</div>';
+        }
+      }
+    }
+
     // Load Whole Surah (Surah View)
     function loadSurah(index, scrollVerses = true) {
       if (!surahs || surahs.length === 0 || index < 0 || index >= surahs.length) return;
@@ -524,7 +602,7 @@
       renderTimeline(surahs);
 
       document.getElementById('reading-pane-title').innerText = `${s.nameEn} (${s.nameAr})`;
-      document.getElementById('reading-pane-meta').innerText = `Nuzooli Tartib: #${s.revelationOrder} • Mus-haf Number: ${s.surahNumber} • Total Verses: ${s.verses ? s.verses.length : 0} • Tarjuma: Fateh Muhammad Jalandhari (Nastaliq) & Tafheem-ul-Quran (Roman Urdu)`;
+      document.getElementById('reading-pane-meta').innerText = `Nuzooli Tartib: #${s.revelationOrder} • Mus-haf Number: ${s.surahNumber} • Total Verses: ${s.verses ? s.verses.length : 0} • ترجمہ: احسن البیان (مولانا محمد جوناگڑھی)`;
       document.getElementById('period-badge').innerText = s.period;
       
       // Context Section
@@ -541,6 +619,9 @@
 
       // Tafseer Section
       switchTafseerTab(activeTafseerSource);
+
+      // Lessons & Themes Card
+      renderLessonsCard(s);
 
       // Hadith Section
       renderHadithCard(s.hadith);
@@ -590,7 +671,7 @@
       document.getElementById('reading-pane-title').innerText = ep.titleUrdu 
         ? `${ep.titleUrdu} (${ep.surahName})`
         : `Surah ${ep.surahName} (${ep.surahNameAr}) — ${rangeLabel}`;
-      document.getElementById('reading-pane-meta').innerText = `Episode #${ep.id} • ${ep.title} • ${ep.year} • ${rangeLabel} • Tarjuma: Fateh Muhammad Jalandhari (Nastaliq) & Tafheem-ul-Quran (Roman Urdu)`;
+      document.getElementById('reading-pane-meta').innerText = `Episode #${ep.id} • ${ep.title} • ${ep.year} • ${rangeLabel} • ترجمہ: احسن البیان (مولانا محمد جوناگڑھی)`;
       document.getElementById('period-badge').innerText = `${ep.period} • ${ep.seerahStage || 'Seerah Episode'}`;
 
       // Context Section
@@ -603,6 +684,9 @@
 
       // Tafseer Section
       switchTafseerTab(activeTafseerSource);
+
+      // Lessons & Themes Card
+      renderLessonsCard(ep);
 
       // Hadith Section
       renderHadithCard(ep.hadith);
@@ -709,23 +793,18 @@
                 ${v.ur}
               </p>
 
-              <!-- Roman Urdu Tarjuma Row -->
-              <div class="flex items-start gap-2.5 pl-2 sm:pl-8 pt-1">
+              <!-- Roman Urdu Tarjuma Row (Clean, no extra badge, compact circular audio button) -->
+              <div class="flex items-start gap-2 pl-2 sm:pl-6 pt-0.5">
                 <button 
                   onclick="speakText('${escapedRoman}', this)" 
-                  class="text-[11px] bg-emerald-50 hover:bg-emerald-100 text-emerald-800 px-2.5 py-0.5 rounded border border-emerald-200 font-semibold transition flex items-center gap-1 shrink-0 mt-0.5 shadow-xs"
-                  title="Roman Urdu Tarjuma Suniye"
+                  class="w-6 h-6 rounded-full bg-stone-100 hover:bg-emerald-100 text-stone-600 hover:text-emerald-800 border border-stone-200 hover:border-emerald-300 transition flex items-center justify-center shrink-0 mt-0.5 text-xs shadow-2xs"
+                  title="Suniye (Tarjuma)"
                 >
-                  🔊 Tarjuma
+                  🔊
                 </button>
-                <div class="flex flex-col sm:flex-row sm:items-baseline gap-1.5 flex-1">
-                  <span class="text-[10px] uppercase font-bold text-emerald-700 bg-emerald-50/80 px-1.5 py-0.5 rounded border border-emerald-200/50 shrink-0 w-fit">
-                    Roman Tarjuma
-                  </span>
-                  <p class="text-xs text-stone-700 text-left leading-relaxed font-medium">
-                    ${v.roman}
-                  </p>
-                </div>
+                <p class="text-xs text-stone-700 text-left leading-relaxed font-medium pt-0.5">
+                  ${v.roman}
+                </p>
               </div>
             </div>
           `;
@@ -798,7 +877,7 @@
       currentSpeakingBtn = btn;
       const originalText = btn.innerText;
       btn.dataset.original = originalText;
-      btn.innerText = '⏸ Sun rahe hain';
+      btn.innerText = (originalText.trim() === '🔊' || btn.classList.contains('rounded-full')) ? '⏸' : '⏸ Sun rahe hain';
       btn.classList.add('ring-2', 'ring-emerald-500', 'font-bold');
 
       const utterance = new SpeechSynthesisUtterance(text);
@@ -823,7 +902,7 @@
 
     function resetSpeechBtn() {
       if (currentSpeakingBtn) {
-        currentSpeakingBtn.innerText = currentSpeakingBtn.dataset.original || '🔊 Suniye';
+        currentSpeakingBtn.innerText = currentSpeakingBtn.dataset.original || (currentSpeakingBtn.classList.contains('rounded-full') ? '🔊' : '🔊 Suniye');
         currentSpeakingBtn.classList.remove('ring-2', 'ring-emerald-500', 'font-bold');
         currentSpeakingBtn = null;
       }

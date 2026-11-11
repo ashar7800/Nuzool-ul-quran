@@ -1,4 +1,4 @@
-// Complete 100% Chronological Quran Wahi Units Dataset (All 6,236 Verses) with Audited Exact Live Hyperlinks
+// Complete 100% Chronological Quran Wahi Units Dataset with Ahsan-ul-Bayan + Actionable Lessons
 window.WAHI_EPISODES = [
   {
     "id": 1,
@@ -61,8 +61,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق غارِ حرا کی یہ ساعت تاریخِ انسانی کا سب سے بڑا موڑ تھی جہاں سے علم و وحی کا آفتاب طلوع ہوا۔",
         "roman": "Maududi saheb likhte hain ki yahan se insaani tareekh ka naya daur shuru hota hai jisme wahi-e-ilaahi ko tamam rehnumayi ka marqaz banaya gaya.",
         "ref_url": "https://quran.com/ur/96:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wahi ki Shuruat, Ilm aur Qalam ki Ahmiyat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wahi ki Shuruat, Ilm aur Qalam ki Ahmiyat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/96:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "علم و آگہی اور قرآن فہمی کو اپنی زندگی کا اولین مقصد بنانا۔",
+        "roman": "Ilm o aagahi aur Quran fehmi ko apni zindagi ka awwaleen maqsad banana."
+      },
+      {
+        "urdu": "ہر نیک کام کا آغاز رب تعالیٰ کے بابرکت نام کے ساتھ اخلاص سے کرنا۔",
+        "roman": "Har naik kaam ka aaghaz Rab Ta'ala ke babarakat naam ke sath ikhlas se karna."
+      },
+      {
+        "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
+        "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
+      }
+    ]
   },
   {
     "id": 2,
@@ -125,8 +146,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ کفر کے منفی پروپیگنڈے کا اخلاقی جواب تھا کہ جس کی شرافت کی چالیس سال گواہی دی، اسے دیوانہ کہنا ان کی اخلاقی پستی ہے۔",
         "roman": "Maududi saheb farmate hain ki dushman ke jhoote ilzamat ka muqabla Quran ne daleel aur kirdar ki bulandi se kiya.",
         "ref_url": "https://quran.com/ur/68:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qalam ki Qasam aur Nabi ﷺ ke Ikhlaq ki Gawahi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qalam ki Qasam aur Nabi ﷺ ke Ikhlaq ki Gawahi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/68:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "علم و آگہی اور قرآن فہمی کو اپنی زندگی کا اولین مقصد بنانا۔",
+        "roman": "Ilm o aagahi aur Quran fehmi ko apni zindagi ka awwaleen maqsad banana."
+      },
+      {
+        "urdu": "ہر نیک کام کا آغاز رب تعالیٰ کے بابرکت نام کے ساتھ اخلاص سے کرنا۔",
+        "roman": "Har naik kaam ka aaghaz Rab Ta'ala ke babarakat naam ke sath ikhlas se karna."
+      },
+      {
+        "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
+        "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
+      }
+    ]
   },
   {
     "title": "Kuffar ki Takzeeb aur Ashab-ul-Jannah",
@@ -188,9 +230,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت ان معاندین کو للکارتی ہے جو نبوت کے ابتدائی دور میں رسول اللہ ﷺ کے خلاف منفی پروپیگنڈا چلا رہے تھے۔ ان کے اوچھے ہتھکنڈوں کے مقابلے میں اخلاق کی برتری دکھائی گئی۔",
         "roman": "Maududi saheb likhte hain ki is surah mein kuffar ke jhoote ilzamat ka muqabla daleel aur shandar kirdar se kiya gaya hai.",
         "ref_url": "https://quran.com/ur/68:8?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Tasalli aur Nabi ﷺ ke Ikhlaq ki Gawahi (Aayat 8–52) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Tasalli aur Nabi ﷺ ke Ikhlaq ki Gawahi (Aayat 8–52) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/68:8?translations=158"
       }
     },
-    "id": 3
+    "id": 3,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 4,
@@ -253,8 +316,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ تحریکِ اسلامی کے علمبرداروں کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا۔",
         "roman": "Maududi farmate hain ki raat ki ibadat momin ki roohani battery recharge karti hai.",
         "ref_url": "https://quran.com/ur/73:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Raat ki Ibadat, Tahajjud aur Tartil-e-Quran ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Raat ki Ibadat, Tahajjud aur Tartil-e-Quran hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/73:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "title": "Sabr aur Kuffar ki Dhamki",
@@ -316,9 +400,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ ایک مومن کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا تاکہ تحریک اسلامی کے علمبردار ہر قسم کی مخالفتوں کا خندہ پیشانی سے سامنا کر سکیں۔",
         "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai.",
         "ref_url": "https://quran.com/ur/73:9?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qiyam-ul-Layl aur Roohani Tarbiyat (Aayat 9–19) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qiyam-ul-Layl aur Roohani Tarbiyat (Aayat 9–19) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/73:9?translations=158"
       }
     },
-    "id": 5
+    "id": 5,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 6,
@@ -381,8 +486,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ آرام کی زندگی سے نکل کر جہدِ مسلسل کے میدان میں کود پڑنے کا الٰہی فرمان تھا۔",
         "roman": "Maududi farmate hain ki yahan se Rasoolullah ﷺ ki risalat ka amli inqilab shuru hota hai.",
         "ref_url": "https://quran.com/ur/74:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qum Fa-Andhir: Uthiye aur Khabardar Kijiye ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qum Fa-Andhir: Uthiye aur Khabardar Kijiye hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/74:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Fatihah: Umm-ul-Kitab aur Dua-e-Hidayat",
@@ -444,9 +570,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ دراصل ایک دعا ہے جو اللہ نے اپنے بندے کو سکھائی، اور باقی پورا قرآن اس دعا کا جواب ہے۔",
         "roman": "Maududi farmate hain ki Surah Fatihah bandey ki taraf se dua hai aur poora Quran-e-Pak us dua ka ilahi jawab hai.",
         "ref_url": "https://quran.com/ur/1:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Umm-ul-Kitab aur Dua-e-Hidayat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Umm-ul-Kitab aur Dua-e-Hidayat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/1:1?translations=158"
       }
     },
-    "id": 7
+    "id": 7,
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Masad: Kohan-e-Safa par Dawat aur Abu Lahab ka Anjam",
@@ -508,9 +655,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ ان دشمنانِ حق کے انجام کا ایک نمونہ تھا جو رشتہ داری اور سرداری کے گھمنڈ میں اللہ کے سچے دین کی مخالفت کرتے تھے۔",
         "roman": "Maududi saheb farmate hain ki jo bhi deen-e-haqq ke samne rukawat banega uska anjaam Abu Lahab jaisa hoga.",
         "ref_url": "https://quran.com/ur/111:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Kohan-e-Safa par Dawat aur Abu Lahab ka Anjam ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Kohan-e-Safa par Dawat aur Abu Lahab ka Anjam hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/111:1?translations=158"
       }
     },
-    "id": 8
+    "id": 8,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 9,
@@ -573,8 +741,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ ثابت کرتا ہے کہ باطل کی فرعونیت حق کے سامنے ریت کا ڈھیر ہے۔",
         "roman": "Maududi farmate hain ki is passage ne Nabi ﷺ ko yaqeen dilaya ki zaalimon ki dhamkiyon se ghabraye baghair apna safar jari rakhein.",
         "ref_url": "https://quran.com/ur/96:6?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Sarkash Insaan ka Ghamand, Zabaniyah ka Khauf aur Sajda ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Sarkash Insaan ka Ghamand, Zabaniyah ka Khauf aur Sajda hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/96:6?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Takwir: Dawat-e-Tauheed, Akhlaaq aur The Overthrowing ke Asbaaq",
@@ -636,9 +825,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takwir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/81:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Overthrowing ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Overthrowing ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/81:1?translations=158"
       }
     },
-    "id": 10
+    "id": 10,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-A'la: Dawat-e-Tauheed, Akhlaaq aur The Most High ke Asbaaq",
@@ -700,9 +910,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'la deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/87:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Most High ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Most High ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/87:1?translations=158"
       }
     },
-    "id": 11
+    "id": 11,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Walid bin Mughira ka Takabbur aur Saqar",
@@ -764,9 +995,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ آرام و سکون کی زندگی سے نکل کر جہدِ مسلسل اور تحریکِ اسلامی کے میدانِ عمل میں کود پڑنے کا الٰہی فرمان تھا۔",
         "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai.",
         "ref_url": "https://quran.com/ur/74:8?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-o-Inzaar ka Khula Aelaan (Aayat 8–31) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-o-Inzaar ka Khula Aelaan (Aayat 8–31) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/74:8?translations=158"
       }
     },
-    "id": 12
+    "id": 12,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Tazkirah o Aakhirat aur Ashab-ul-Yameen",
@@ -828,9 +1080,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ آرام و سکون کی زندگی سے نکل کر جہدِ مسلسل اور تحریکِ اسلامی کے میدانِ عمل میں کود پڑنے کا الٰہی فرمان تھا۔",
         "roman": "Maududi saheb likhte hain ki yahan se Rasoolullah ﷺ ki aelaani dawat ka tareekhi marhala shuru hota hai.",
         "ref_url": "https://quran.com/ur/74:32?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-o-Inzaar ka Khula Aelaan (Aayat 32–56) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-o-Inzaar ka Khula Aelaan (Aayat 32–56) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/74:32?translations=158"
       }
     },
-    "id": 13
+    "id": 13,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 14,
@@ -893,8 +1166,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ میڈیا وار کی وہ قدیم شکل تھی جس کے ذریعے دینی تحریک کے سنجیدہ پیغام کو گانوں اور خرافات میں دبانے کی کوشش کی گئی۔",
         "roman": "Maududi farmate hain ki har daur mein baatil ne lehw-o-la'ib ke zariye aawam ko sachayi se andha karne ki koshish ki.",
         "ref_url": "https://quran.com/ur/31:6?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Lahw-al-Hadees: Afsanon aur Gano ke Zariye Gumrahi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Lahw-al-Hadees: Afsanon aur Gano ke Zariye Gumrahi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/31:6?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Layl: Dawat-e-Tauheed, Akhlaaq aur The Night ke Asbaaq",
@@ -956,9 +1250,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Layl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/92:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Night ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Night ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/92:1?translations=158"
       }
     },
-    "id": 15
+    "id": 15,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Fajr: Dawat-e-Tauheed, Akhlaaq aur The Dawn ke Asbaaq",
@@ -1020,9 +1335,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fajr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/89:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Dawn ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Dawn ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/89:1?translations=158"
       }
     },
-    "id": 16
+    "id": 16,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 17,
@@ -1085,8 +1421,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ مکہ کے اس خونی دور کا منظر ہے جہاں ایک ایک کلمہ گو کو لوہے کی زرہیں پہنا کر دھوپ میں جلایا جاتا تھا۔",
         "roman": "Maududi farmate hain ki unhi ghareeb aur mazloom Sahaba ki qurbaniyon ne Islam ki azeem imarat ko qayam kiya.",
         "ref_url": "https://quran.com/ur/16:106?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Illa Man Ukriha wa Qalbuhu Mutma'inun bil-Iman ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Illa Man Ukriha wa Qalbuhu Mutma'inun bil-Iman hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/16:106?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ad-Duhaa: Dawat-e-Tauheed, Akhlaaq aur The Morning Hours ke Asbaaq",
@@ -1148,9 +1505,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Duhaa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/93:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Morning Hours ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Morning Hours ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/93:1?translations=158"
       }
     },
-    "id": 18
+    "id": 18,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ash-Sharh: Dawat-e-Tauheed, Akhlaaq aur The Relief ke Asbaaq",
@@ -1212,9 +1590,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Sharh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/94:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Relief ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Relief ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/94:1?translations=158"
       }
     },
-    "id": 19
+    "id": 19,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-'Asr: Dawat-e-Tauheed, Akhlaaq aur The Declining Day ke Asbaaq",
@@ -1276,9 +1675,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Asr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/103:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Declining Day ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Declining Day ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/103:1?translations=158"
       }
     },
-    "id": 20
+    "id": 20,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-'Adiyat: Dawat-e-Tauheed, Akhlaaq aur The Courser ke Asbaaq",
@@ -1340,9 +1760,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Adiyat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/100:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Courser ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Courser ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/100:1?translations=158"
       }
     },
-    "id": 21
+    "id": 21,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Kawthar: Dawat-e-Tauheed, Akhlaaq aur The Abundance ke Asbaaq",
@@ -1404,9 +1845,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kawthar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/108:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Abundance ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Abundance ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/108:1?translations=158"
       }
     },
-    "id": 22
+    "id": 22,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Takathur: Dawat-e-Tauheed, Akhlaaq aur The Rivalry in world increase ke Asbaaq",
@@ -1468,9 +1930,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Takathur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/102:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Rivalry in world increase ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Rivalry in world increase ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/102:1?translations=158"
       }
     },
-    "id": 23
+    "id": 23,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Ma'un: Dawat-e-Tauheed, Akhlaaq aur The Small kindnesses ke Asbaaq",
@@ -1532,9 +2015,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'un deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/107:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Small kindnesses ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Small kindnesses ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/107:1?translations=158"
       }
     },
-    "id": 24
+    "id": 24,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Kafirun: Dawat-e-Tauheed, Akhlaaq aur The Disbelievers ke Asbaaq",
@@ -1596,9 +2100,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kafirun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/109:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Disbelievers ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Disbelievers ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/109:1?translations=158"
       }
     },
-    "id": 25
+    "id": 25,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Fil: Dawat-e-Tauheed, Akhlaaq aur The Elephant ke Asbaaq",
@@ -1660,9 +2185,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fil deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/105:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Elephant ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Elephant ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/105:1?translations=158"
       }
     },
-    "id": 26
+    "id": 26,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Falaq: Dawat-e-Tauheed, Akhlaaq aur The Daybreak ke Asbaaq",
@@ -1724,9 +2270,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Falaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/113:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Daybreak ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Daybreak ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/113:1?translations=158"
       }
     },
-    "id": 27
+    "id": 27,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah An-Nas: Dawat-e-Tauheed, Akhlaaq aur Mankind ke Asbaaq",
@@ -1788,9 +2355,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/114:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Mankind ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Mankind ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/114:1?translations=158"
       }
     },
-    "id": 28
+    "id": 28,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Ikhlas: Dawat-e-Tauheed, Akhlaaq aur The Sincerity ke Asbaaq",
@@ -1852,9 +2440,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ikhlas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/112:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Sincerity ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Sincerity ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/112:1?translations=158"
       }
     },
-    "id": 29
+    "id": 29,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Laat, Manat, Uzza ki Tardeed aur Qudrat-e-Ilahi",
@@ -1916,9 +2525,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Najm deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/53:19?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Star ke Asbaaq (Aayat 19–58) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Star ke Asbaaq (Aayat 19–58) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/53:19?translations=158"
       }
     },
-    "id": 30
+    "id": 30,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 31,
@@ -1981,8 +2611,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ منظر کفر کی اس فکری شکست کی تصویر تھا جس میں وہ کلامِ پاک کے سامنے بے بس ہو کر جھک گئے۔",
         "roman": "Maududi farmate hain ki Quran ke samne dushmanon ki zabanain gung ho jati theen.",
         "ref_url": "https://quran.com/ur/53:59?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Fa-Usjudoo Lillahi Wa'budoo: Ka'aba mein Kuffar ka Girna ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Fa-Usjudoo Lillahi Wa'budoo: Ka'aba mein Kuffar ka Girna hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/53:59?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 32,
@@ -2045,8 +2696,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ رسول اللہ ﷺ کی صداقت کی سب سے بڑی دلیل ہے کہ اگر یہ قرآن آپ کا کلام ہوتا تو اپنی ایسی تنبیہ کبھی شامل نہ فرماتے۔",
         "roman": "Maududi farmate hain ki Quran ne aalmi satah par insaani barabari aur roohani qadron ka parcham buland kiya.",
         "ref_url": "https://quran.com/ur/80:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Abasa wa Tawalla: Talib-e-Haqq ki Qadar aur Ghuroor ki Nafi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Abasa wa Tawalla: Talib-e-Haqq ki Qadar aur Ghuroor ki Nafi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/80:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Insaan ki Takhleeq aur Youm-e-Hashr ki Haibat",
@@ -2108,9 +2780,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah 'Abasa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/80:17?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur He Frowned ke Asbaaq (Aayat 17–42) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur He Frowned ke Asbaaq (Aayat 17–42) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/80:17?translations=158"
       }
     },
-    "id": 33
+    "id": 33,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Qadr: Dawat-e-Tauheed, Akhlaaq aur The Power ke Asbaaq",
@@ -2172,9 +2865,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qadr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/97:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Power ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Power ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/97:1?translations=158"
       }
     },
-    "id": 34
+    "id": 34,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ash-Shams: Dawat-e-Tauheed, Akhlaaq aur The Sun ke Asbaaq",
@@ -2236,9 +2950,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shams deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/91:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Sun ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Sun ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/91:1?translations=158"
       }
     },
-    "id": 35
+    "id": 35,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 36,
@@ -2301,8 +3036,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ مکہ کے مسلمانوں کے لیے پیغام تھا کہ جو تحریکِ حق کا علم اٹھاتے ہیں انہیں تاریخ کے ہر دور میں آگ کے دریا سے گزرنا پڑتا ہے۔",
         "roman": "Maududi farmate hain ki qurbani ke baghair haq ka parcham kabhi sar-buland nahi hota.",
         "ref_url": "https://quran.com/ur/85:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qutila Ashab-ul-Ukhdood: Aag ki Khandaq aur Imaan ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qutila Ashab-ul-Ukhdood: Aag ki Khandaq aur Imaan hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/85:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Momineen ka Ajar aur Lawh-e-Mahfooz",
@@ -2364,9 +3120,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Buruj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/85:11?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Mansions of the Stars ke Asbaaq (Aayat 11–22) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Mansions of the Stars ke Asbaaq (Aayat 11–22) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/85:11?translations=158"
       }
     },
-    "id": 37
+    "id": 37,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ashab-e-Kahf ka Qissa: Hijrat-e-Habshah",
@@ -2428,9 +3205,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/18:9?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 9–26) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 9–26) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/18:9?translations=158"
       }
     },
-    "id": 38
+    "id": 38,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Tin: Dawat-e-Tauheed, Akhlaaq aur The Fig ke Asbaaq",
@@ -2492,9 +3290,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/95:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Fig ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Fig ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/95:1?translations=158"
       }
     },
-    "id": 39
+    "id": 39,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Quraysh: Dawat-e-Tauheed, Akhlaaq aur Quraysh ke Asbaaq",
@@ -2556,9 +3375,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Quraysh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/106:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Quraysh ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Quraysh ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/106:1?translations=158"
       }
     },
-    "id": 40
+    "id": 40,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Qari'ah: Dawat-e-Tauheed, Akhlaaq aur The Calamity ke Asbaaq",
@@ -2620,9 +3460,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qari'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/101:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Calamity ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Calamity ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/101:1?translations=158"
       }
     },
-    "id": 41
+    "id": 41,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Qiyamah: Dawat-e-Tauheed, Akhlaaq aur The Resurrection ke Asbaaq",
@@ -2684,9 +3545,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qiyamah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/75:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Resurrection ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Resurrection ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/75:1?translations=158"
       }
     },
-    "id": 42
+    "id": 42,
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Humazah: Dawat-e-Tauheed, Akhlaaq aur The Traducer ke Asbaaq",
@@ -2748,9 +3630,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Humazah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/104:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Traducer ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Traducer ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/104:1?translations=158"
       }
     },
-    "id": 43
+    "id": 43,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Mursalat: Dawat-e-Tauheed, Akhlaaq aur The Emissaries ke Asbaaq",
@@ -2812,9 +3715,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mursalat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/77:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Emissaries ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Emissaries ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/77:1?translations=158"
       }
     },
-    "id": 44
+    "id": 44,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Qaf: Dawat-e-Tauheed, Akhlaaq aur The Letter \"Qaf\" ke Asbaaq",
@@ -2876,9 +3800,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Qaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/50:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Letter \"Qaf\" ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Letter \"Qaf\" ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/50:1?translations=158"
       }
     },
-    "id": 45
+    "id": 45,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Balad: Dawat-e-Tauheed, Akhlaaq aur The City ke Asbaaq",
@@ -2940,9 +3885,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Balad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/90:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The City ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The City ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/90:1?translations=158"
       }
     },
-    "id": 46
+    "id": 46,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Tariq: Dawat-e-Tauheed, Akhlaaq aur The Nightcommer ke Asbaaq",
@@ -3004,9 +3970,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tariq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/86:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Nightcommer ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Nightcommer ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/86:1?translations=158"
       }
     },
-    "id": 47
+    "id": 47,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 48,
@@ -3069,8 +4056,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ کائنات کے نظام میں اس عظیم ہلچل کا نمونہ تھا جو قیامت کے دن برپا ہونے والی ہے۔",
         "roman": "Maududi farmate hain ki is moajaze ne dawat-e-qayamat ko aanhko ke samne la khada kiya.",
         "ref_url": "https://quran.com/ur/54:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Iqtarabat-is-Sa'atu wan-Shaqqal Qamar: Qayamat ki Qurbat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Iqtarabat-is-Sa'atu wan-Shaqqal Qamar: Qayamat ki Qurbat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/54:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Pichli Qaumon ki Takzeeb: Nuh, Aad, Samood, Lut",
@@ -3132,9 +4140,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qamar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/54:6?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Moon ke Asbaaq (Aayat 6–55) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Moon ke Asbaaq (Aayat 6–55) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/54:6?translations=158"
       }
     },
-    "id": 49
+    "id": 49,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Sad: Dawat-e-Tauheed, Akhlaaq aur The Letter \"Saad\" ke Asbaaq",
@@ -3196,9 +4225,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Sad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/38:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Letter \"Saad\" ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Letter \"Saad\" ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/38:1?translations=158"
       }
     },
-    "id": 50
+    "id": 50,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Adam o Iblees aur Ashab-ul-A'raf",
@@ -3260,9 +4310,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/7:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Heights ke Asbaaq (Aayat 1–58) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Heights ke Asbaaq (Aayat 1–58) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/7:1?translations=158"
       }
     },
-    "id": 51
+    "id": 51,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ambiya-e-Kiram: Nuh, Hud, Salih, Lut, Shu'aib aur Firaun",
@@ -3324,9 +4395,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/7:59?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Heights ke Asbaaq (Aayat 59–136) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Heights ke Asbaaq (Aayat 59–136) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/7:59?translations=158"
       }
     },
-    "id": 52
+    "id": 52,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Musa A.S. ka Koh-e-Toor, Samiri aur Misaq-e-Alast",
@@ -3388,9 +4480,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-A'raf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/7:137?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Heights ke Asbaaq (Aayat 137–206) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Heights ke Asbaaq (Aayat 137–206) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/7:137?translations=158"
       }
     },
-    "id": 53
+    "id": 53,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 54,
@@ -3453,8 +4566,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق طائف کے المناک واقعے کے بعد یہ غیبی فتح تھی جس نے ظاہر کیا کہ دعوتِ حق کو انسانوں کی مخالفت نہیں روک سکتی۔",
         "roman": "Maududi farmate hain ki jinnat ka iman lana is baat ka saboot tha ki Quran fitrat ki aawaz hai.",
         "ref_url": "https://quran.com/ur/72:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qul Oohiya Ilayya: Jinnat ka Emaan aur Tauheed ki Gawahi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qul Oohiya Ilayya: Jinnat ka Emaan aur Tauheed ki Gawahi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/72:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Istiqaamat aur Ilm-e-Ghayb ki Hifazat",
@@ -3516,9 +4650,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jinn deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/72:16?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Jinn ke Asbaaq (Aayat 16–28) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Jinn ke Asbaaq (Aayat 16–28) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/72:16?translations=158"
       }
     },
-    "id": 55
+    "id": 55,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 56,
@@ -3581,8 +4736,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق اس سے مکہ کے مشرکین پر طنز کیا گیا کہ جنات کلام سن کر مان گئے مگر تم اپنی عقل پر پردہ ڈالے بیٹھے ہو۔",
         "roman": "Maududi farmate hain ki agar insaan na manein to Allah ghayb ki makhlooq se apna kaam le leta hai.",
         "ref_url": "https://quran.com/ur/46:29?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Ya Qawmana Ajeeboo Da'iyallah: Jinno ki Muballighana Pukaar ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Ya Qawmana Ajeeboo Da'iyallah: Jinno ki Muballighana Pukaar hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/46:29?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Habib an-Najjar aur Ashab-ul-Qaryah",
@@ -3644,9 +4820,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/36:10?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Ya Sin ke Asbaaq (Aayat 10–32) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Ya Sin ke Asbaaq (Aayat 10–32) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/36:10?translations=158"
       }
     },
-    "id": 57
+    "id": 57,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Qudrat-e-Ilahi, Soor phoonka jana aur Kun Fayakoon",
@@ -3708,9 +4905,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ya-Sin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/36:33?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Ya Sin ke Asbaaq (Aayat 33–83) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Ya Sin ke Asbaaq (Aayat 33–83) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/36:33?translations=158"
       }
     },
-    "id": 58
+    "id": 58,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Furqan: Dawat-e-Tauheed, Akhlaaq aur The Criterion ke Asbaaq",
@@ -3772,9 +4990,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Furqan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/25:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Criterion ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Criterion ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/25:1?translations=158"
       }
     },
-    "id": 59
+    "id": 59,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Fatir: Dawat-e-Tauheed, Akhlaaq aur Originator ke Asbaaq",
@@ -3836,9 +5075,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Fatir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/35:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Originator ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Originator ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/35:1?translations=158"
       }
     },
-    "id": 60
+    "id": 60,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hazrat Zakariyya aur Yahya A.S.",
@@ -3900,9 +5160,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/19:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Mary ke Asbaaq (Aayat 1–15) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Mary ke Asbaaq (Aayat 1–15) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/19:1?translations=158"
       }
     },
-    "id": 61
+    "id": 61,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 62,
@@ -3965,8 +5246,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ اسلامی سفارت کاری کا شاہکار تھا جس میں حق کے بنیادی نظریات پر سمجھوتہ کیے بغیر عیسائی حکمران کی ہمدردی حاصل کی گئی۔",
         "roman": "Maududi farmate hain ki Quran ki aawaz ne ek ghair-muslim badshah ko musalmano ka safe-haven bana diya.",
         "ref_url": "https://quran.com/ur/19:16?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Hazrat Maryam aur Hazrat Isa A.S. ki Paakizgi aur Tauheed ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Hazrat Maryam aur Hazrat Isa A.S. ki Paakizgi aur Tauheed hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/19:16?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hazrat Ibrahim, Musa, Idrees A.S. aur Shafa'at",
@@ -4028,9 +5330,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Maryam deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/19:37?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Mary ke Asbaaq (Aayat 37–98) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Mary ke Asbaaq (Aayat 37–98) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/19:37?translations=158"
       }
     },
-    "id": 63
+    "id": 63,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 64,
@@ -4093,8 +5416,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ تاریخی لمحہ تھا جب تحریکِ اسلامی مدافعت سے نکل کر کھل کر میدان میں آ گئی۔",
         "roman": "Maududi saheb farmate hain ki is wahi ke zariye tareekh ka rukh hidayat ki taraf modh diya gaya.",
         "ref_url": "https://quran.com/ur/20:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Surah Taha: Quran Dil ki Rahat hai aur Moosa A.S. ki Nida ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Surah Taha: Quran Dil ki Rahat hai aur Moosa A.S. ki Nida hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/20:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Musa A.S., Firaun ke Jadoogar aur Samiri ka Bachhda",
@@ -4156,9 +5500,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/20:15?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Ta-Ha ke Asbaaq (Aayat 15–98) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Ta-Ha ke Asbaaq (Aayat 15–98) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/20:15?translations=158"
       }
     },
-    "id": 65
+    "id": 65,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Qayamat ki Haibat aur Adam o Iblees",
@@ -4220,9 +5585,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Taha deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/20:99?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Ta-Ha ke Asbaaq (Aayat 99–135) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Ta-Ha ke Asbaaq (Aayat 99–135) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/20:99?translations=158"
       }
     },
-    "id": 66
+    "id": 66,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 67,
@@ -4285,8 +5671,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ بتاتی ہے کہ اسلام ایک انسان کے اندر مکمل فکری اور اخلاقی کایا پلٹ کر کے اسے نئی بصیرت عطا کرتا ہے۔",
         "roman": "Maududi farmate hain ki Islam aane ke baad Umar (R.A) Farooq-e-Azam ban gaye.",
         "ref_url": "https://quran.com/ur/6:122?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Awa Man Kana Maytan Fa-Ahyaynahu: Jahalat se Noor ki Taraf ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Awa Man Kana Maytan Fa-Ahyaynahu: Jahalat se Noor ki Taraf hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/6:122?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Waqi'ah: Dawat-e-Tauheed, Akhlaaq aur The Inevitable ke Asbaaq",
@@ -4348,9 +5755,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Waqi'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/56:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Inevitable ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Inevitable ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/56:1?translations=158"
       }
     },
-    "id": 68
+    "id": 68,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Musa A.S. aur Firaun ke Lashkar ka Gharq hona",
@@ -4412,9 +5840,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/26:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Poets ke Asbaaq (Aayat 1–68) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Poets ke Asbaaq (Aayat 1–68) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/26:1?translations=158"
       }
     },
-    "id": 69
+    "id": 69,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ibrahim, Nuh, Hud, Salih, Lut, Shu'aib A.S.",
@@ -4476,9 +5925,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/26:69?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Poets ke Asbaaq (Aayat 69–191) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Poets ke Asbaaq (Aayat 69–191) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/26:69?translations=158"
       }
     },
-    "id": 70
+    "id": 70,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Tanzil-e-Quran aur Rooh-ul-Ameen",
@@ -4540,9 +6010,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shu'ara deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/26:192?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Poets ke Asbaaq (Aayat 192–223) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Poets ke Asbaaq (Aayat 192–223) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/26:192?translations=158"
       }
     },
-    "id": 71
+    "id": 71,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah An-Naml: Dawat-e-Tauheed, Akhlaaq aur The Ant ke Asbaaq",
@@ -4604,9 +6095,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naml deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/27:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Ant ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Ant ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/27:1?translations=158"
       }
     },
-    "id": 72
+    "id": 72,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Qasas: Dawat-e-Tauheed, Akhlaaq aur The Stories ke Asbaaq",
@@ -4668,9 +6180,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Qasas deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/28:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Stories ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Stories ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/28:1?translations=158"
       }
     },
-    "id": 73
+    "id": 73,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Bani Israel ki Tareekh aur 14 Akhlaqi Hikmaten",
@@ -4732,9 +6265,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/17:2?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 2–80) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 2–80) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/17:2?translations=158"
       }
     },
-    "id": 74
+    "id": 74,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Quran Shifa aur Rahmat hai",
@@ -4796,9 +6350,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/17:82?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 82–84) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 82–84) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/17:82?translations=158"
       }
     },
-    "id": 75
+    "id": 75,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Quran ki Misl lane ka Challenge aur Asma-ul-Husna",
@@ -4860,9 +6435,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/17:86?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 86–111) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 86–111) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/17:86?translations=158"
       }
     },
-    "id": 76
+    "id": 76,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Yunus: Dawat-e-Tauheed, Akhlaaq aur Jonah ke Asbaaq",
@@ -4924,9 +6520,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Yunus deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/10:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Jonah ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Jonah ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/10:1?translations=158"
       }
     },
-    "id": 77
+    "id": 77,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Hud: Dawat-e-Tauheed, Akhlaaq aur Hud ke Asbaaq",
@@ -4988,9 +6605,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Hud deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/11:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Hud ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Hud ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/11:1?translations=158"
       }
     },
-    "id": 78
+    "id": 78,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Yusuf: Dawat-e-Tauheed, Akhlaaq aur Joseph ke Asbaaq",
@@ -5052,9 +6690,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Yusuf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/12:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Joseph ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Joseph ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/12:1?translations=158"
       }
     },
-    "id": 79
+    "id": 79,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Hijr: Dawat-e-Tauheed, Akhlaaq aur The Rocky Tract ke Asbaaq",
@@ -5116,9 +6775,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hijr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/15:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Rocky Tract ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Rocky Tract ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/15:1?translations=158"
       }
     },
-    "id": 80
+    "id": 80,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Dawat-e-Tauheed aur Mushrikeen ke Shubhāt ka Radd",
@@ -5180,9 +6860,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/6:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cattle ke Asbaaq (Aayat 1–121) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cattle ke Asbaaq (Aayat 1–121) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/6:1?translations=158"
       }
     },
-    "id": 81
+    "id": 81,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Deen-e-Qayyim aur Muharramaat ka Bayan",
@@ -5244,9 +6945,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-An'am deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/6:123?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cattle ke Asbaaq (Aayat 123–165) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cattle ke Asbaaq (Aayat 123–165) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/6:123?translations=158"
       }
     },
-    "id": 82
+    "id": 82,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah As-Saffat: Dawat-e-Tauheed, Akhlaaq aur Those who set the Ranks ke Asbaaq",
@@ -5308,9 +7030,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saffat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/37:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Those who set the Ranks ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Those who set the Ranks ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/37:1?translations=158"
       }
     },
-    "id": 83
+    "id": 83,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Muhsineen ki Sifaat aur Hidayat",
@@ -5372,9 +7115,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/31:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Luqman ke Asbaaq (Aayat 1–5) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Luqman ke Asbaaq (Aayat 1–5) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/31:1?translations=158"
       }
     },
-    "id": 84
+    "id": 84,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hazrat Luqman ki Apne Bete ko Nasihaten",
@@ -5436,9 +7200,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Luqman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/31:8?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Luqman ke Asbaaq (Aayat 8–34) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Luqman ke Asbaaq (Aayat 8–34) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/31:8?translations=158"
       }
     },
-    "id": 85
+    "id": 85,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Saba: Dawat-e-Tauheed, Akhlaaq aur Sheba ke Asbaaq",
@@ -5500,9 +7285,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Saba deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/34:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Sheba ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Sheba ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/34:1?translations=158"
       }
     },
-    "id": 86
+    "id": 86,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Az-Zumar: Dawat-e-Tauheed, Akhlaaq aur The Troops ke Asbaaq",
@@ -5564,9 +7370,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zumar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/39:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Troops ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Troops ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/39:1?translations=158"
       }
     },
-    "id": 87
+    "id": 87,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ghafir: Dawat-e-Tauheed, Akhlaaq aur The Forgiver ke Asbaaq",
@@ -5628,9 +7455,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ghafir deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/40:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Forgiver ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Forgiver ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/40:1?translations=158"
       }
     },
-    "id": 88
+    "id": 88,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Fussilat: Dawat-e-Tauheed, Akhlaaq aur Explained in Detail ke Asbaaq",
@@ -5692,9 +7540,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Fussilat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/41:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Explained in Detail ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Explained in Detail ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/41:1?translations=158"
       }
     },
-    "id": 89
+    "id": 89,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ash-Shuraa: Dawat-e-Tauheed, Akhlaaq aur The Consultation ke Asbaaq",
@@ -5756,9 +7625,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ash-Shuraa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/42:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Consultation ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Consultation ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/42:1?translations=158"
       }
     },
-    "id": 90
+    "id": 90,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Az-Zukhruf: Dawat-e-Tauheed, Akhlaaq aur The Ornaments of Gold ke Asbaaq",
@@ -5820,9 +7710,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zukhruf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/43:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Ornaments of Gold ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Ornaments of Gold ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/43:1?translations=158"
       }
     },
-    "id": 91
+    "id": 91,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ad-Dukhan: Dawat-e-Tauheed, Akhlaaq aur The Smoke ke Asbaaq",
@@ -5884,9 +7795,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ad-Dukhan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/44:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Smoke ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Smoke ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/44:1?translations=158"
       }
     },
-    "id": 92
+    "id": 92,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Jathiyah: Dawat-e-Tauheed, Akhlaaq aur The Crouching ke Asbaaq",
@@ -5948,9 +7880,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jathiyah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/45:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Crouching ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Crouching ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/45:1?translations=158"
       }
     },
-    "id": 93
+    "id": 93,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Wadi-e-Ahqaf aur Qoum-e-Aad ka Anjam",
@@ -6012,9 +7965,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/46:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Wind-Curved Sandhills ke Asbaaq (Aayat 1–28) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Wind-Curved Sandhills ke Asbaaq (Aayat 1–28) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/46:1?translations=158"
       }
     },
-    "id": 94
+    "id": 94,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Sabr-e-Ulul Azm aur Qayamat ka Din",
@@ -6076,9 +8050,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahqaf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/46:33?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Wind-Curved Sandhills ke Asbaaq (Aayat 33–35) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Wind-Curved Sandhills ke Asbaaq (Aayat 33–35) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/46:33?translations=158"
       }
     },
-    "id": 95
+    "id": 95,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Adh-Dhariyat: Dawat-e-Tauheed, Akhlaaq aur The Winnowing Winds ke Asbaaq",
@@ -6140,9 +8135,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Adh-Dhariyat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/51:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Winnowing Winds ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Winnowing Winds ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/51:1?translations=158"
       }
     },
-    "id": 96
+    "id": 96,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Ghashiyah: Dawat-e-Tauheed, Akhlaaq aur The Overwhelming ke Asbaaq",
@@ -6204,9 +8220,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ghashiyah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/88:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Overwhelming ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Overwhelming ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/88:1?translations=158"
       }
     },
-    "id": 97
+    "id": 97,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hamd-e-Ilahi aur Inzaar-e-Qurani",
@@ -6268,9 +8305,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/18:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 1–8) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 1–8) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/18:1?translations=158"
       }
     },
-    "id": 98
+    "id": 98,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Do Baghon ka Malik aur Iblees ka Takabbur",
@@ -6332,9 +8390,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/18:27?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 27–59) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 27–59) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/18:27?translations=158"
       }
     },
-    "id": 99
+    "id": 99,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Musa A.S. aur Khidr A.S. ka Safar",
@@ -6396,9 +8475,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/18:60?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 60–82) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 60–82) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/18:60?translations=158"
       }
     },
-    "id": 100
+    "id": 100,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Aamaal ki Barbaadi aur Qul Law Kanal Bahru Midadan",
@@ -6460,9 +8560,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Kahf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/18:99?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 99–110) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cave ke Asbaaq (Aayat 99–110) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/18:99?translations=158"
       }
     },
-    "id": 101
+    "id": 101,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 102,
@@ -6525,8 +8646,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ دورِ نبوت کے نئے مرحلے کا آغاز تھا جہاں سے مکہ کی مظلومیت ختم ہو کر مدینہ کی اسلامی حکومت کی داغ بیل پڑنے والی تھی۔",
         "roman": "Maududi farmate hain ki Miraj musalmano ko fani dunya se nikal kar aalam-e-baala ke sath jodhne ka waqiya hai.",
         "ref_url": "https://quran.com/ur/17:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Subhanallazi Asra bi-Abdihi: Masjid-e-Haram se Aqsa aur Asman ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Subhanallazi Asra bi-Abdihi: Masjid-e-Haram se Aqsa aur Asman hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/17:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "title": "Nemat-e-Ilahi, Shehad ki Makhi aur Tauheed",
@@ -6588,9 +8730,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/16:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Bee ke Asbaaq (Aayat 1–105) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Bee ke Asbaaq (Aayat 1–105) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/16:1?translations=158"
       }
     },
-    "id": 103
+    "id": 103,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 104,
@@ -6653,8 +8816,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ بتاتی ہے کہ کائنات میں بے شمار حقائق ایسے ہیں جن کا ادراک عقلِ انسانی کے احاطے سے باہر ہے۔",
         "roman": "Maududi farmate hain ki insaani ghamand ko todne ke liye Rooh ka sawal kafi hai.",
         "ref_url": "https://quran.com/ur/17:85?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qulir-Roohu min Amri Rabbi: Insaani Ilm ki Be-misaal Hadood ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qulir-Roohu min Amri Rabbi: Insaani Ilm ki Be-misaal Hadood hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/17:85?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "علم و آگہی اور قرآن فہمی کو اپنی زندگی کا اولین مقصد بنانا۔",
+        "roman": "Ilm o aagahi aur Quran fehmi ko apni zindagi ka awwaleen maqsad banana."
+      },
+      {
+        "urdu": "ہر نیک کام کا آغاز رب تعالیٰ کے بابرکت نام کے ساتھ اخلاص سے کرنا۔",
+        "roman": "Har naik kaam ka aaghaz Rab Ta'ala ke babarakat naam ke sath ikhlas se karna."
+      },
+      {
+        "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
+        "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
+      }
+    ]
   },
   {
     "title": "Ud'u Ila Sabeeli Rabbika bil Hikmah",
@@ -6716,9 +8900,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nahl deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/16:111?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Bee ke Asbaaq (Aayat 111–128) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Bee ke Asbaaq (Aayat 111–128) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/16:111?translations=158"
       }
     },
-    "id": 105
+    "id": 105,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 106,
@@ -6780,8 +8985,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ ایک مثالی حکمران کا نمونہ پیش کرتا ہے جو طاقت کو اللہ کی امانت سمجھ کر مخلوق کی فلاح کے لیے استعمال کرتا ہے۔",
         "roman": "Maududi farmate hain ki Zulqarnain ka kirdar dunya ke fir'auni hukmarano ke muqable mein khuda-tars badshah ki misaal hai.",
         "ref_url": "https://quran.com/ur/18:83?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Yas'aloonaka 'an Zil-Qarnayn: Deewar-e-Ahan aur Ya'jooj Ma'jooj ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Yas'aloonaka 'an Zil-Qarnayn: Deewar-e-Ahan aur Ya'jooj Ma'jooj hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/18:83?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 107,
@@ -6844,8 +9070,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ وحی ان تمام شبہات کو ختم کر دیتی ہے کہ معراج کوئی خواب تھا، بلکہ یہ آنکھوں دیکھا بیداری کا تاریخی سچ تھا۔",
         "roman": "Maududi farmate hain ki Nabi ﷺ ne Nabuwwat ki aala tareen haqeeqaton ka khud mushahida farmaya.",
         "ref_url": "https://quran.com/ur/53:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Ma Zaghal Basaru wa Ma Tagha: Arsh-e-Moalla par Jalwa-e-Haqq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Ma Zaghal Basaru wa Ma Tagha: Arsh-e-Moalla par Jalwa-e-Haqq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/53:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Nuh: Dawat-e-Tauheed, Akhlaaq aur Noah ke Asbaaq",
@@ -6907,9 +9154,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Nuh deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/71:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Noah ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Noah ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/71:1?translations=158"
       }
     },
-    "id": 108
+    "id": 108,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ibrahim: Dawat-e-Tauheed, Akhlaaq aur Abraham ke Asbaaq",
@@ -6971,9 +9239,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ibrahim deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/14:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Abraham ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Abraham ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/14:1?translations=158"
       }
     },
-    "id": 109
+    "id": 109,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hisab ka Qareeb aana aur Ghaflat",
@@ -7035,9 +9324,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/21:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Prophets ke Asbaaq (Aayat 1–17) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Prophets ke Asbaaq (Aayat 1–17) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/21:1?translations=158"
       }
     },
-    "id": 110
+    "id": 110,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ambiya: Ibrahim, Ayyub, Yunus aur Rahmatul-lil-Aalameen",
@@ -7099,9 +9409,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anbya deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/21:19?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Prophets ke Asbaaq (Aayat 19–112) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Prophets ke Asbaaq (Aayat 19–112) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/21:19?translations=158"
       }
     },
-    "id": 111
+    "id": 111,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Mu'minun: Dawat-e-Tauheed, Akhlaaq aur The Believers ke Asbaaq",
@@ -7163,9 +9494,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mu'minun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/23:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Believers ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Believers ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/23:1?translations=158"
       }
     },
-    "id": 112
+    "id": 112,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah As-Sajdah: Dawat-e-Tauheed, Akhlaaq aur The Prostration ke Asbaaq",
@@ -7227,9 +9579,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Sajdah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/32:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Prostration ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Prostration ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/32:1?translations=158"
       }
     },
-    "id": 113
+    "id": 113,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Tur: Dawat-e-Tauheed, Akhlaaq aur The Mount ke Asbaaq",
@@ -7291,9 +9664,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/52:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Mount ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Mount ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/52:1?translations=158"
       }
     },
-    "id": 114
+    "id": 114,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Mulk: Dawat-e-Tauheed, Akhlaaq aur The Sovereignty ke Asbaaq",
@@ -7355,9 +9749,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mulk deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/67:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Sovereignty ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Sovereignty ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/67:1?translations=158"
       }
     },
-    "id": 115
+    "id": 115,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Haqqah: Dawat-e-Tauheed, Akhlaaq aur The Reality ke Asbaaq",
@@ -7419,9 +9834,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Haqqah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/69:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Reality ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Reality ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/69:1?translations=158"
       }
     },
-    "id": 116
+    "id": 116,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Ma'arij: Dawat-e-Tauheed, Akhlaaq aur The Ascending Stairways ke Asbaaq",
@@ -7483,9 +9919,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'arij deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/70:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Ascending Stairways ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Ascending Stairways ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/70:1?translations=158"
       }
     },
-    "id": 117
+    "id": 117,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah An-Naba: Dawat-e-Tauheed, Akhlaaq aur The Tidings ke Asbaaq",
@@ -7547,9 +10004,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Naba deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/78:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Tidings ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Tidings ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/78:1?translations=158"
       }
     },
-    "id": 118
+    "id": 118,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah An-Nazi'at: Dawat-e-Tauheed, Akhlaaq aur Those who drag forth ke Asbaaq",
@@ -7611,9 +10089,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nazi'at deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/79:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur Those who drag forth ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur Those who drag forth ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/79:1?translations=158"
       }
     },
-    "id": 119
+    "id": 119,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Infitar: Dawat-e-Tauheed, Akhlaaq aur The Cleaving ke Asbaaq",
@@ -7675,9 +10174,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Infitar deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/82:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Cleaving ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Cleaving ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/82:1?translations=158"
       }
     },
-    "id": 120
+    "id": 120,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Inshiqaq: Dawat-e-Tauheed, Akhlaaq aur The Sundering ke Asbaaq",
@@ -7739,9 +10259,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Inshiqaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/84:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Sundering ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Sundering ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/84:1?translations=158"
       }
     },
-    "id": 121
+    "id": 121,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ar-Rum: Dawat-e-Tauheed, Akhlaaq aur The Romans ke Asbaaq",
@@ -7803,9 +10344,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rum deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/30:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Romans ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Romans ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/30:1?translations=158"
       }
     },
-    "id": 122
+    "id": 122,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-'Ankabut: Dawat-e-Tauheed, Akhlaaq aur The Spider ke Asbaaq",
@@ -7867,9 +10429,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-'Ankabut deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/29:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Spider ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Spider ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/29:1?translations=158"
       }
     },
-    "id": 123
+    "id": 123,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Mutaffifin: Dawat-e-Tauheed, Akhlaaq aur The Defrauding ke Asbaaq",
@@ -7931,9 +10514,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mutaffifin deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/83:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Defrauding ke Asbaaq ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Defrauding ke Asbaaq hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/83:1?translations=158"
       }
     },
-    "id": 124
+    "id": 124,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 125,
@@ -7996,8 +10600,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ اسلام کی پہلی سیاسی اور سماجی تنظیم کا قیام تھا جس نے مکہ کی تاریکیوں سے نکال کر مدینہ کی ریاستی بنیاد رکھی۔",
         "roman": "Maududi farmate hain ki Bay'at-e-Aqabah Nabuwwat ki sab se kamyab tareen hikmat-e-amli thi.",
         "ref_url": "https://quran.com/ur/60:12?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Bay'at-e-Nisa o Rijal: Shirk, Chori, aur Zina se Pakizgi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Bay'at-e-Nisa o Rijal: Shirk, Chori, aur Zina se Pakizgi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/60:12?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Qiyam-ul-Layl mein Takhfeef aur Jihad o Sadqaat",
@@ -8059,9 +10684,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ ایک مومن کی کردار سازی اور روحانی چارجنگ کا پروگرام تھا تاکہ تحریک اسلامی کے علمبردار ہر قسم کی مخالفتوں کا خندہ پیشانی سے سامنا کر سکیں۔",
         "roman": "Maududi saheb ke mutabiq raat ki tanhayi me Quran par ghor-o-fikr karna dawat ke raste me aane wale toofanon ke samne pahad ban kar khade hone ka rasta sikhata hai.",
         "ref_url": "https://quran.com/ur/73:20?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qiyam-ul-Layl aur Roohani Tarbiyat (Aayat 20) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qiyam-ul-Layl aur Roohani Tarbiyat (Aayat 20) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/73:20?translations=158"
       }
     },
-    "id": 126
+    "id": 126,
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "id": 127,
@@ -8124,8 +10770,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ کفر کی خفیہ تدبیر کے مقابلے میں اللہ کی تدبیر کا وہ غلبہ تھا جس نے باطل کی عقلیں ماؤف کر دیں۔",
         "roman": "Maududi farmate hain ki Shabb-e-Hijrat ne Hazrat Ali ki be-khauf wafa ko hamesha ke liye amar kar diya.",
         "ref_url": "https://quran.com/ur/36:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Fa-Aghshaynahum Fahum La Yubsiroon: Kuffar ki Aankhon par Parda ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Fa-Aghshaynahum Fahum La Yubsiroon: Kuffar ki Aankhon par Parda hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/36:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 128,
@@ -8188,8 +10855,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق تاریخ گواہ ہے کہ وہی رسول جنہیں قتل کرنے کا منصوبہ بنایا گیا تھا، چند سال بعد فاتح بن کر مکہ میں داخل ہوئے۔",
         "roman": "Maududi farmate hain ki insaani tadbeerein taqdeer-e-ilaahi ke aage be-bas hoti hain.",
         "ref_url": "https://quran.com/ur/8:30?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Yamkuroona wa Yamkurullah: Zaalimon ki Tadbeeron ka Khatma ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Yamkuroona wa Yamkurullah: Zaalimon ki Tadbeeron ka Khatma hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/8:30?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Namaz-e-Jumu'ah ki Farziyat aur Aadaab",
@@ -8251,9 +10939,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/62:9?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Congregation, Friday ke Qawaneen (Aayat 9–11) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Congregation, Friday ke Qawaneen (Aayat 9–11) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/62:9?translations=158"
       }
     },
-    "id": 129
+    "id": 129,
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "id": 130,
@@ -8316,8 +11025,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ ایک ایسی سچی سوشلسٹ اور روحانی اخوت تھی جس نے ایک بے گھر قوم کو چند ہفتوں میں مستحکم ریاست بنا دیا۔",
         "roman": "Maududi farmate hain ki yeh islaam ke azeem maashrati nizam ka amli namoona tha.",
         "ref_url": "https://quran.com/ur/8:72?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Inna Allazeena Aamanu wa Hajaru: Islami Ukhuwwat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Inna Allazeena Aamanu wa Hajaru: Islami Ukhuwwat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/8:72?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 131,
@@ -8380,8 +11110,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق اسلام میں تلوار جارحیت کے لیے نہیں بلکہ ظلم کی زنجیریں کاٹنے اور مذہبی آزادی کے تحفظ کے لیے اٹھائی جاتی ہے۔",
         "roman": "Maududi farmate hain ki qital ka maqsad fitna aur zulm ka khatma hai.",
         "ref_url": "https://quran.com/ur/22:39?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Uzina Lillazeena Yuqataloona bi Annahum Zulimu ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Uzina Lillazeena Yuqataloona bi Annahum Zulimu hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/22:39?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "title": "Bani Israel ko Dawat aur Misaq-e-Madinah",
@@ -8443,9 +11194,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:40?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 40–86) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 40–86) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:40?translations=158"
       }
     },
-    "id": 132
+    "id": 132,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Mutaqqeen, Munafiqeen aur Khilafat-e-Adam",
@@ -8507,9 +11279,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 1–39) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 1–39) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:1?translations=158"
       }
     },
-    "id": 133
+    "id": 133,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Bani Israel ki Ahd-shikani & Millat-e-Ibrahimi",
@@ -8571,9 +11364,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:87?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 87–141) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 87–141) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:87?translations=158"
       }
     },
-    "id": 134
+    "id": 134,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Tahweel-e-Qibla: Ka'aba ki Taraf Rukh",
@@ -8635,9 +11449,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:142?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 142–152) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 142–152) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:142?translations=158"
       }
     },
-    "id": 135
+    "id": 135,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Sabr, Safa-Marwah, Halal-Haram, Qisas, Wasiyyat",
@@ -8699,9 +11534,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:153?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 153–182) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 153–182) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:153?translations=158"
       }
     },
-    "id": 136
+    "id": 136,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 137,
@@ -8764,8 +11620,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق ایک پورے مہینے کی یہ اجتماعی کیمپ ٹریننگ امت کو اللہ کے احکام کی اطاعت کے لیے سال بھر تیار رکھتی ہے۔",
         "roman": "Maududi farmate hain ki roza fard aur maashre dono ko pakeeza banata hai.",
         "ref_url": "https://quran.com/ur/2:183?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Kutiba Alaykumus Siyam Kama Kutiba Alallazeena Min Qablikum ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Kutiba Alaykumus Siyam Kama Kutiba Alallazeena Min Qablikum hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:183?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Qital fi Sabilillah ke Akhlaqi Qawaneen",
@@ -8827,9 +11704,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:188?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 188–195) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 188–195) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:188?translations=158"
       }
     },
-    "id": 138
+    "id": 138,
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "title": "Infaq aur Jihad ki Ahmiyat",
@@ -8891,9 +11789,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:215?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 215–218) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 215–218) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:215?translations=158"
       }
     },
-    "id": 139
+    "id": 139,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ghazwa-e-Badr: Youm-ul-Furqan & Farishto ki Nusrat",
@@ -8955,9 +11874,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/8:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Spoils of War ke Qawaneen (Aayat 1–29) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Spoils of War ke Qawaneen (Aayat 1–29) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/8:1?translations=158"
       }
     },
-    "id": 140
+    "id": 140,
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "title": "Haq o Baatil ka Faisla aur Tawakkul",
@@ -9019,9 +11959,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/8:31?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Spoils of War ke Qawaneen (Aayat 31–40) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Spoils of War ke Qawaneen (Aayat 31–40) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/8:31?translations=158"
       }
     },
-    "id": 141
+    "id": 141,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Badr ki Fatah & Maal-e-Ghaneemat ka Khumus",
@@ -9083,9 +12044,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Anfal deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/8:41?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Spoils of War ke Qawaneen (Aayat 41–66) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Spoils of War ke Qawaneen (Aayat 41–66) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/8:41?translations=158"
       }
     },
-    "id": 142
+    "id": 142,
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "id": 143,
@@ -9148,8 +12130,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق نبی ﷺ نے دشمن کے قیدیوں کے ساتھ حسن سلوک کی ایسی مثال قائم کی کہ صحابہ خود بھوکے رہ کر قیدیوں کو روٹی کھلاتے تھے۔",
         "roman": "Maududi likhte hain ki qaidiyo ke sath azeem tareen ikhlaq pesh kiya gaya.",
         "ref_url": "https://quran.com/ur/8:67?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Ma Kana Li Nabiyyin An Yakoona Lahu Asra: Asiran-e-Badr ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Ma Kana Li Nabiyyin An Yakoona Lahu Asra: Asiran-e-Badr hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/8:67?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "title": "Talut o Jalut aur Dawood A.S. ka Jihaad",
@@ -9211,9 +12214,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:243?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 243–253) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 243–253) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:243?translations=158"
       }
     },
-    "id": 144
+    "id": 144,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 145,
@@ -9276,8 +12300,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ مدینہ کے اندرونی امن کو مستحکم کرنے کا ناگزیر اقدام تھا تاکہ آستین کے سانپ کچلے جا سکیں۔",
         "roman": "Maududi likhte hain ki riasat ke dastoor ki khilaf-warzi par yeh pehla qanooni action tha.",
         "ref_url": "https://quran.com/ur/3:12?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Qul Lillazeena Kafaru Satughlaboona: Banu Qaynuqa ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Qul Lillazeena Kafaru Satughlaboona: Banu Qaynuqa hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:12?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Muhkam o Mutashabih aur Wafd Najran",
@@ -9339,9 +12384,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/3:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 1–11) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 1–11) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:1?translations=158"
       }
     },
-    "id": 146
+    "id": 146,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Aal-e-Imran, Maryam, Isa A.S. & Ahl-e-Kitab se Khitaab",
@@ -9403,9 +12469,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/3:14?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 14–120) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 14–120) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:14?translations=158"
       }
     },
-    "id": 147
+    "id": 147,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 148,
@@ -9468,8 +12555,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ عسکری نظم و ضبط اور امیر کی غیر مشروط اطاعت کا وہ سبق تھا جس نے آئندہ اسلامی فتوحات کی ضمانت دی۔",
         "roman": "Maududi likhte hain ki shariat ke qawaneen se sar-mow inhiraf bhi nuqsaan deh hota hai.",
         "ref_url": "https://quran.com/ur/3:121?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Idh Ghadawta Min Ahlika: Uhud ki Paharion par Imtehan ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Idh Ghadawta Min Ahlika: Uhud ki Paharion par Imtehan hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:121?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "title": "Sood ki Mumani'at aur Sabr",
@@ -9531,9 +12639,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/3:130?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 130–139) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 130–139) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:130?translations=158"
       }
     },
-    "id": 149
+    "id": 149,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Shohada-e-Uhud aur Hazrat Hamza ki Shahadat",
@@ -9595,9 +12724,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/3:140?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 140–168) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 140–168) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:140?translations=158"
       }
     },
-    "id": 150
+    "id": 150,
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "id": 151,
@@ -9660,8 +12810,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ تاریخی مظاہرہ تھا کہ ایک سچا مومن جسمانی زخموں کے باوجود کبھی بھی ہتھیار نہیں ڈالتا۔",
         "roman": "Maududi likhte hain ki is qadam ne Madinah par dushman ke hamle ki himmat hamesha ke liye khatm kar di.",
         "ref_url": "https://quran.com/ur/3:172?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Allazeena Istajabu Lillahi War Rasooli Min Ba'di Ma Asabahumul Qarh ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Allazeena Istajabu Lillahi War Rasooli Min Ba'di Ma Asabahumul Qarh hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:172?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Sabr, Istiqamat aur Shohada ka Ajar",
@@ -9723,9 +12894,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ali 'Imran deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/3:176?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 176–200) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur Family of Imran ke Qawaneen (Aayat 176–200) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:176?translations=158"
       }
     },
-    "id": 152
+    "id": 152,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Nabuwwat ki Ita'at aur Munafiqeen ki Sazishen",
@@ -9787,9 +12979,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/33:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 1–8) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 1–8) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:1?translations=158"
       }
     },
-    "id": 153
+    "id": 153,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 154,
@@ -9852,8 +13065,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق رسول اللہ کے گھرانے کی پاکیزگی اس لیے ناگزیر تھی کہ وہی پوری انسانیت کے لیے اخلاقی مینارِ نور تھا۔",
         "roman": "Maududi likhte hain ki yeh islami khandan ka aala tareen kirdar hai.",
         "ref_url": "https://quran.com/ur/33:32?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Ya Nisa'an Nabiyyi Lastunna Ka Ahadin Minan Nisa'i ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Ya Nisa'an Nabiyyi Lastunna Ka Ahadin Minan Nisa'i hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:32?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 155,
@@ -9916,8 +13150,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق اسلام نے عورت کو تجارتی نمائش بننے سے بچا کر ایک محفوظ، باوقار اور قابلِ احترام معاشرتی مقام دیا۔",
         "roman": "Maududi likhte hain ki parda maashrati fitno ka mukammal sadd-e-baab hai.",
         "ref_url": "https://quran.com/ur/33:53?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Yudneena Alayhinna Min Jalabibihinna: Parda aur Izzat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Yudneena Alayhinna Min Jalabibihinna: Parda aur Izzat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:53?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 156,
@@ -9980,8 +13235,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق خندق کی آزمائش نے ثابت کر دیا کہ خدا پرستی کا دعویٰ زبانی جمع خرچ نہیں بلکہ جان و مال کی بازی لگانے کا نام ہے۔",
         "roman": "Maududi likhte hain ki musalmano ne bhook aur sardi mein sabr ka koh-e-giran qaim kiya.",
         "ref_url": "https://quran.com/ur/33:9?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Idh Ja'ookum Min Fawqikum: Khandaq ki Aazmaish ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Idh Ja'ookum Min Fawqikum: Khandaq ki Aazmaish hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:9?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "دینِ حق کی نصرت اور مظلوموں کی حمایت میں اپنا تن، من اور دھن قربان کرنے کا جذبہ رکھنا۔",
+        "roman": "Deen-e-haq ki nusrat aur mazloomon ki himayat mein apna sab kuch qurban karne ka jazba rakhna."
+      },
+      {
+        "urdu": "ظاہری اسباب اختیار کرنے کے بعد حقیقی فتح و نصرت کا بھروسہ صرف اللہ پر رکھنا (وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ)۔",
+        "roman": "Zahiri asbaab ke baad haqeeqi fatah o nusrat ka bharosa sirf Allah par rakhna."
+      },
+      {
+        "urdu": "امیر کی اطاعت، باہمی اتحاد اور آزمائش کے لمحات میں ثابت قدمی اختیار کرنا۔",
+        "roman": "Ameer ki ita'at, bahami ittehad aur aazmaish ke lamhat mein saabit qadmi ikhtiyar karna."
+      }
+    ]
   },
   {
     "id": 157,
@@ -10044,8 +13320,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق غزوہ احزاب کے بعد دفاعی دور ختم ہو گیا اور اسلام کا جارحانہ اور فتوحات کا نیا عہد شروع ہوا۔",
         "roman": "Maududi likhte hain ki Arab ke kuffar ki aakhiri mushtarka taaqat toot gayi.",
         "ref_url": "https://quran.com/ur/33:21?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Fa Arsalna Alayhim Reehan wa Junoodan: Raddallahu Allazeena Kafaru ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Fa Arsalna Alayhim Reehan wa Junoodan: Raddallahu Allazeena Kafaru hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:21?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 158,
@@ -10108,8 +13405,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق تبلیغِ حق کی راہ میں جانیں دینے والے ان معصوم معلمین کی قربانی نے اسلام کے پیغام کو دلوں میں اتارا۔",
         "roman": "Maududi likhte hain ki quran ke huffaz ne apna khoon baha kar deen ki hifazat ki.",
         "ref_url": "https://quran.com/ur/3:169?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wala Tahsabannallazeena Qutilu fi Sabilillahi Amwata: Bi'r Ma'unah ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wala Tahsabannallazeena Qutilu fi Sabilillahi Amwata: Bi'r Ma'unah hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/3:169?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 159,
@@ -10172,8 +13490,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق اس فیصلے کے بعد مدینہ منورہ اندرونی سازشوں اور نقب زنوں سے مکمل طور پر پاک اور محفوظ ہو گیا۔",
         "roman": "Maududi likhte hain ki Madinah ke andar ab kuffar ki koi asteen baaqi na rahi.",
         "ref_url": "https://quran.com/ur/33:26?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Anzalallazeena Zaharoohum Min Ahli Kitab: Banu Qurayzah ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Anzalallazeena Zaharoohum Min Ahli Kitab: Banu Qurayzah hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:26?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Azwaj-e-Mutahharat ka Imtehan",
@@ -10235,9 +13574,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/33:28?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 28–31) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 28–31) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:28?translations=158"
       }
     },
-    "id": 160
+    "id": 160,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Muslim Mard o Aurat, Zaid o Zainab R.A. & Khatm-e-Nabuwwat",
@@ -10299,9 +13659,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/33:35?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 35–52) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 35–52) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:35?translations=158"
       }
     },
-    "id": 161
+    "id": 161,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Munafiqeen ki Sazishen aur Amanat-e-Ilahi",
@@ -10363,9 +13744,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ahzab deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/33:60?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 60–73) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Combined Forces ke Qawaneen (Aayat 60–73) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/33:60?translations=158"
       }
     },
-    "id": 162
+    "id": 162,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 163,
@@ -10428,8 +13830,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت اسلامی بین الاقوامی قانون اور غداری کے مرتکب گروہوں کے ساتھ ریاستی سلوک کی دستاویز ہے۔",
         "roman": "Maududi likhte hain ki Banu Nadir ki jila-watni ne Madinah ke ird gird fiza ko saaf kar diya.",
         "ref_url": "https://quran.com/ur/59:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Huwallazi Akhrajallazeena Kafaru Min Ahli Kitab: Hasr-e-Awwal ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Huwallazi Akhrajallazeena Kafaru Min Ahli Kitab: Hasr-e-Awwal hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/59:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Yateem, Wirasat, Nikah, Muharramaat aur Maashra",
@@ -10491,9 +13914,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/4:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 1–42) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 1–42) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/4:1?translations=158"
       }
     },
-    "id": 164
+    "id": 164,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 165,
@@ -10556,8 +14000,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ معاشرتی اصلاح کی وہ دانشمندانہ حکمتِ عملی ہے جس میں قانون نافذ کرنے سے پہلے اذہان کو قبولیت کے لیے تیار کیا گیا۔",
         "roman": "Maududi likhte hain ki tadreej islami tareeqa-e-tarbiyat ka ahem sotoon hai.",
         "ref_url": "https://quran.com/ur/2:219?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Yas'aloonaka Anis Khamri wal Maysir: Pehli Pabandi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Yas'aloonaka Anis Khamri wal Maysir: Pehli Pabandi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:219?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Sharab ki Doosri Pabandi: Nashe mein Namaz Mana",
@@ -10619,9 +14084,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/4:43?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 43) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 43) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/4:43?translations=158"
       }
     },
-    "id": 166
+    "id": 166,
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "title": "Yateem, Nikah, Talaq, Riza'at, Iddat",
@@ -10683,9 +14169,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:220?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 220–242) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 220–242) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:220?translations=158"
       }
     },
-    "id": 167
+    "id": 167,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ayat-ul-Kursi & Ibrahim o Namrood",
@@ -10747,9 +14254,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:254?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 254–260) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 254–260) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:254?translations=158"
       }
     },
-    "id": 168
+    "id": 168,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Infaq fi Sabilillah & Sadqaat ke Faza'il",
@@ -10811,9 +14339,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:261?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 261–274) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 261–274) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:261?translations=158"
       }
     },
-    "id": 169
+    "id": 169,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ahl-e-Kitab, Qital, Munafiqeen aur Namaz-e-Khauf",
@@ -10875,9 +14424,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/4:44?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 44–104) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 44–104) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/4:44?translations=158"
       }
     },
-    "id": 170
+    "id": 170,
+    "lessons": [
+      {
+        "urdu": "نماز اور قیام اللیل کو خشوع و خضوع کے ساتھ اپنی روحانی غذا بنانا۔",
+        "roman": "Namaz aur Qiyam-ul-Layl ko khushu o khuzu ke sath apni roohani ghiza banana."
+      },
+      {
+        "urdu": "ہر قسم کی حاجت میں صرف اور صرف اللہ تعالیٰ کے سامنے دستِ سوال دراز کرنا (إِيَّاكَ نَسْتَعِينُ)۔",
+        "roman": "Har qism ki haajat mein sirf aur sirf Allah Ta'ala ke samne dast-e-sawal daraz karna."
+      },
+      {
+        "urdu": "صراطِ مستقیم پر استقامت اور گمراہی کے فتنوں سے روزانہ پناہ مانگنا۔",
+        "roman": "Siraat-e-mustaqeem par istiqamat aur gumraahi ke fitnon se rozana panah mangna."
+      }
+    ]
   },
   {
     "title": "Adl, Shirk ki Na-bakhshish aur Isa A.S. ki Wafat ka Radd",
@@ -10939,9 +14509,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nisa deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/4:105?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 105–176) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Women ke Qawaneen (Aayat 105–176) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/4:105?translations=158"
       }
     },
-    "id": 171
+    "id": 171,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Az-Zalzalah: Islami Mu'ashra ke Ahkaam, Falah aur The Earthquake ke Qawaneen",
@@ -11003,9 +14594,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Az-Zalzalah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/99:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Earthquake ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Earthquake ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/99:1?translations=158"
       }
     },
-    "id": 172
+    "id": 172,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Hadid: Islami Mu'ashra ke Ahkaam, Falah aur The Iron ke Qawaneen",
@@ -11067,9 +14679,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hadid deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/57:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Iron ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Iron ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/57:1?translations=158"
       }
     },
-    "id": 173
+    "id": 173,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Muhammad: Islami Mu'ashra ke Ahkaam, Falah aur Muhammad ke Qawaneen",
@@ -11131,9 +14764,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Muhammad deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/47:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur Muhammad ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur Muhammad ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/47:1?translations=158"
       }
     },
-    "id": 174
+    "id": 174,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ar-Ra'd: Islami Mu'ashra ke Ahkaam, Falah aur The Thunder ke Qawaneen",
@@ -11195,9 +14849,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Ra'd deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/13:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Thunder ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Thunder ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/13:1?translations=158"
       }
     },
-    "id": 175
+    "id": 175,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Ar-Rahman: Islami Mu'ashra ke Ahkaam, Falah aur The Beneficent ke Qawaneen",
@@ -11259,9 +14934,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Ar-Rahman deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/55:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Beneficent ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Beneficent ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/55:1?translations=158"
       }
     },
-    "id": 176
+    "id": 176,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Insan: Islami Mu'ashra ke Ahkaam, Falah aur The Man ke Qawaneen",
@@ -11323,9 +15019,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Insan deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/76:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Man ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Man ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/76:1?translations=158"
       }
     },
-    "id": 177
+    "id": 177,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Talaq: Islami Mu'ashra ke Ahkaam, Falah aur The Divorce ke Qawaneen",
@@ -11387,9 +15104,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Talaq deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/65:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Divorce ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Divorce ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/65:1?translations=158"
       }
     },
-    "id": 178
+    "id": 178,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Bayyinah: Islami Mu'ashra ke Ahkaam, Falah aur The Clear Proof ke Qawaneen",
@@ -11451,9 +15189,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Bayyinah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/98:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Clear Proof ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Clear Proof ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/98:1?translations=158"
       }
     },
-    "id": 179
+    "id": 179,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Muhajireen o Ansar ki Azeem Sifat",
@@ -11515,9 +15274,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/59:8?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Exile ke Qawaneen (Aayat 8–10) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Exile ke Qawaneen (Aayat 8–10) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/59:8?translations=158"
       }
     },
-    "id": 180
+    "id": 180,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 181,
@@ -11580,8 +15360,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق اسلام نہ سرمایہ داری کی طرح دولت کو چند ہاتھوں میں قید ہونے دیتا ہے اور نہ اشتراکیت کی طرح فرد کی ملکیت چھینتا ہے بلکہ عادلانہ توازن قائم کرتا ہے۔",
         "roman": "Maududi likhte hain ki Islami maashiyat ka sab se ahem dastoor yahan bayan hua.",
         "ref_url": "https://quran.com/ur/59:11?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Kayla Yakoona Doolatan Baynal Aghniya'i Minkum: Fai ka Nizam ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Kayla Yakoona Doolatan Baynal Aghniya'i Minkum: Fai ka Nizam hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/59:11?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Law Anzalna Hazal Quran aur Asma-e-Husna",
@@ -11643,9 +15444,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hashr deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/59:18?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Exile ke Qawaneen (Aayat 18–24) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Exile ke Qawaneen (Aayat 18–24) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/59:18?translations=158"
       }
     },
-    "id": 182
+    "id": 182,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hadd-e-Zina aur Li'an ke Ahkaam",
@@ -11707,9 +15529,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/24:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Light ke Qawaneen (Aayat 1–10) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Light ke Qawaneen (Aayat 1–10) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/24:1?translations=158"
       }
     },
-    "id": 183
+    "id": 183,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Gharon ke Aadaab aur Ayat-un-Noor",
@@ -11771,9 +15614,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/24:27?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Light ke Qawaneen (Aayat 27–40) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Light ke Qawaneen (Aayat 27–40) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/24:27?translations=158"
       }
     },
-    "id": 184
+    "id": 184,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Qudrat-e-Ilahi, Ita'at aur Samajik Haya",
@@ -11835,9 +15699,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah An-Nur deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/24:41?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Light ke Qawaneen (Aayat 41–64) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Light ke Qawaneen (Aayat 41–64) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/24:41?translations=158"
       }
     },
-    "id": 185
+    "id": 185,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 186,
@@ -11900,8 +15785,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت منافقانہ ذہنیت کے نفسیاتی تجزیے کی لازوال ترین دستاویز ہے۔",
         "roman": "Maududi farmate hain ki qoum parasti aur lisani tasubb ko yahan jadh se kaat diya gaya.",
         "ref_url": "https://quran.com/ur/63:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Idha Ja'akal Munafiqoon: Abdullah bin Ubayy ki Ruswayi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Idha Ja'akal Munafiqoon: Abdullah bin Ubayy ki Ruswayi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/63:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 187,
@@ -11964,8 +15870,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ معاشرتی قانون سازی کا سنگِ میل تھا جس نے جھوٹی افواہیں پھیلانے والوں کے راستے ہمیشہ کے لیے بند کر دیے۔",
         "roman": "Maududi likhte hain ki sharafat aur aurat ki aabru par keechad uchhalne walo par qanooni shikanja kasa gaya.",
         "ref_url": "https://quran.com/ur/24:11?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Inna Allazeena Ja'oo bil Ifki Usbatum Minkum: Bara'at-e-Aisha ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Inna Allazeena Ja'oo bil Ifki Usbatum Minkum: Bara'at-e-Aisha hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/24:11?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 188,
@@ -12028,8 +15955,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ قانون ایک باحیا اور محفوظ سوسائٹی کی ضمانت ہے جہاں کسی شریف انسان کی ساکھ کو بدنام نہ کیا جا سکے۔",
         "roman": "Maududi likhte hain ki islaam ne bohtan tarashi ki jadh kaat di.",
         "ref_url": "https://quran.com/ur/24:21?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Al-Khabeesatu lil Khabeeseena: Pakdamani aur Izzat ki Hifazat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Al-Khabeesatu lil Khabeeseena: Pakdamani aur Izzat ki Hifazat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/24:21?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 189,
@@ -12092,8 +16040,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق دنیا کی کوئی حکومت پولیس اور فوج کے زور پر شراب بند نہ کرا سکی مگر وحی کے ایک جملے نے لمحوں میں پوری قوم کو پاک کر دیا۔",
         "roman": "Maududi likhte hain ki yeh quran ki roohani quwwat ka saboot tha.",
         "ref_url": "https://quran.com/ur/5:90?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Innamal Khamru wal Maysiru... Rijsun Min Amalis Shaytan: Intahaw ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Innamal Khamru wal Maysiru... Rijsun Min Amalis Shaytan: Intahaw hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/5:90?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Zalzala-e-Qayamat aur Manaasik-e-Hajj",
@@ -12155,9 +16124,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/22:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Pilgrimage ke Qawaneen (Aayat 1–38) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Pilgrimage ke Qawaneen (Aayat 1–38) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/22:1?translations=158"
       }
     },
-    "id": 190
+    "id": 190,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Amr bil Ma'roof, Jihaad aur Millat-e-Ibrahim",
@@ -12219,9 +16209,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hajj deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/22:41?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Pilgrimage ke Qawaneen (Aayat 41–78) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Pilgrimage ke Qawaneen (Aayat 41–78) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/22:41?translations=158"
       }
     },
-    "id": 191
+    "id": 191,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Infaq fi Sabilillah aur Maut se Pehle Sadqah",
@@ -12283,9 +16294,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Munafiqun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/63:9?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Hypocrites ke Qawaneen (Aayat 9–11) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Hypocrites ke Qawaneen (Aayat 9–11) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/63:9?translations=158"
       }
     },
-    "id": 192
+    "id": 192,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 193,
@@ -12348,8 +16380,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ عسکری نہیں بلکہ عظیم سیاسی اور نظریاتی فتح تھی جس نے اسلام کی دعوت کے لیے پورے جزیرہ نمائے عرب کے دروازے کھول دیے۔",
         "roman": "Maududi farmate hain ki Hudaybiyyah ne Fath-e-Makkah ki zameen tayyar ki.",
         "ref_url": "https://quran.com/ur/48:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Inna Fatahna Laka Fathan Mubeena: Hudaybiyyah ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Inna Fatahna Laka Fathan Mubeena: Hudaybiyyah hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/48:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 194,
@@ -12412,8 +16465,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ جانثاری کا وہ عالم تھا جہاں ایک ایک شخص نے نبی کی حرمت کے لیے جان دینے کا حلف ہنسی خوشی اٹھایا۔",
         "roman": "Maududi farmate hain ki yeh islaam ke sipaahiyon ka azeem tareen ehed tha.",
         "ref_url": "https://quran.com/ur/48:18?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Laqad Radhiyallahu Anil Mo'mineena Idh Yubayi'oonaka Tahtash Shajarah ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Laqad Radhiyallahu Anil Mo'mineena Idh Yubayi'oonaka Tahtash Shajarah hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/48:18?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah Al-Mujadila: Islami Mu'ashra ke Ahkaam, Falah aur The Pleading Woman ke Qawaneen",
@@ -12475,9 +16549,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mujadila deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/58:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Pleading Woman ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Pleading Woman ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/58:1?translations=158"
       }
     },
-    "id": 195
+    "id": 195,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 196,
@@ -12540,8 +16635,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق خیبر نے جزیرہ عرب میں یہود کی عسکری سازشوں کی کمر ہمیشہ کے لیے توڑ دی۔",
         "roman": "Maududi likhte hain ki Madinah ke shimali sarhaden hamesha ke liye pur-aman ho gayin.",
         "ref_url": "https://quran.com/ur/48:19?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Maghanima Katheeratan Ya'khuzoonaha: Khaybar ki Fatah ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Maghanima Katheeratan Ya'khuzoonaha: Khaybar ki Fatah hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/48:19?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hajj o Umrah ke Ahkaam aur Imtehanat",
@@ -12603,9 +16719,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:196?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 196–214) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 196–214) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:196?translations=158"
       }
     },
-    "id": 197
+    "id": 197,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Fasiq ki Khabar ki Tehqeeq",
@@ -12667,9 +16804,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/49:6?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Rooms ke Qawaneen (Aayat 6–8) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Rooms ke Qawaneen (Aayat 6–8) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/49:6?translations=158"
       }
     },
-    "id": 198
+    "id": 198,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Islam aur Iman ka Farq",
@@ -12731,9 +16889,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Hujurat deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/49:14?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Rooms ke Qawaneen (Aayat 14–18) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Rooms ke Qawaneen (Aayat 14–18) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/49:14?translations=158"
       }
     },
-    "id": 199
+    "id": 199,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Tahrim: Islami Mu'ashra ke Ahkaam, Falah aur The Prohibition ke Qawaneen",
@@ -12795,9 +16974,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tahrim deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/66:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Prohibition ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Prohibition ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/66:1?translations=158"
       }
     },
-    "id": 200
+    "id": 200,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah At-Taghabun: Islami Mu'ashra ke Ahkaam, Falah aur The Mutual Disillusion ke Qawaneen",
@@ -12859,9 +17059,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Taghabun deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/64:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Mutual Disillusion ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Mutual Disillusion ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/64:1?translations=158"
       }
     },
-    "id": 201
+    "id": 201,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Surah As-Saf: Islami Mu'ashra ke Ahkaam, Falah aur The Ranks ke Qawaneen",
@@ -12923,9 +17144,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah As-Saf deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/61:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Ranks ke Qawaneen ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Ranks ke Qawaneen hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/61:1?translations=158"
       }
     },
-    "id": 202
+    "id": 202,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 203,
@@ -12988,8 +17230,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ واقعہ تاریخ کا رخ بدلنے والا تھا جس نے مستقبل کی شامی فتوحات کی راہ ہموار کی۔",
         "roman": "Maududi farmate hain ki yeh aalami takrao ka aaghaz tha.",
         "ref_url": "https://quran.com/ur/26:224?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Illa Allazeena Aamanu wa Amilus Salihat: Mu'tah ke Shohada ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Illa Allazeena Aamanu wa Amilus Salihat: Mu'tah ke Shohada hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/26:224?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Bi'that-e-Nabawi aur Yahood ki Misaal",
@@ -13051,9 +17314,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Jumu'ah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/62:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Congregation, Friday ke Qawaneen (Aayat 1–8) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Congregation, Friday ke Qawaneen (Aayat 1–8) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/62:1?translations=158"
       }
     },
-    "id": 204
+    "id": 204,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Hatib bin Abi Balta'ah aur Kuffar se Dosti ka Radd",
@@ -13115,9 +17399,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/60:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur She that is to be examined ke Qawaneen (Aayat 1–11) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur She that is to be examined ke Qawaneen (Aayat 1–11) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/60:1?translations=158"
       }
     },
-    "id": 205
+    "id": 205,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Kuffar se Be-zaari ka Aakhiri Hukam",
@@ -13179,9 +17484,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Mumtahanah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/60:13?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur She that is to be examined ke Qawaneen (Aayat 13) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur She that is to be examined ke Qawaneen (Aayat 13) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/60:13?translations=158"
       }
     },
-    "id": 206
+    "id": 206,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Peechay rehne wale Baddoo aur Unka Anjam",
@@ -13243,9 +17569,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/48:11?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Victory ke Qawaneen (Aayat 11–17) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Victory ke Qawaneen (Aayat 11–17) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/48:11?translations=158"
       }
     },
-    "id": 207
+    "id": 207,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ka'aba se Rokay Jana aur Sakina",
@@ -13307,9 +17654,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/48:22?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Victory ke Qawaneen (Aayat 22–26) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Victory ke Qawaneen (Aayat 22–26) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/48:22?translations=158"
       }
     },
-    "id": 208
+    "id": 208,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ru'ya-e-Sadiqah aur Muhammadur Rasoolullah ki Jama'at",
@@ -13371,9 +17739,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Fath deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/48:27?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Victory ke Qawaneen (Aayat 27–29) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Victory ke Qawaneen (Aayat 27–29) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/48:27?translations=158"
       }
     },
-    "id": 209
+    "id": 209,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 210,
@@ -13436,8 +17825,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق فتحِ مکہ نے ثابت کیا کہ اسلام کا مقصد انسانوں کو ہلاک کرنا نہیں بلکہ ان کے دلوں کو جیتنا ہے۔",
         "roman": "Maududi likhte hain ki 'Ja'al haqqu wa zahaqal baatil' haqeeqi tor par poora hua.",
         "ref_url": "https://quran.com/ur/110:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Idha Ja'a Nasrullahi wal Fath: Fath-e-Makkah ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Idha Ja'a Nasrullahi wal Fath: Fath-e-Makkah hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/110:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Ja'al Haqqu wa Zahaqal Baatil",
@@ -13499,9 +17909,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Isra deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/17:81?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 81) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Dawat-e-Tauheed, Akhlaaq aur The Night Journey ke Asbaaq (Aayat 81) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/17:81?translations=158"
       }
     },
-    "id": 211
+    "id": 211,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 212,
@@ -13564,8 +17995,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق کعبہ کا پاک ہونا اس بات کا اعلان تھا کہ اب دنیا کی کوئی طاقت توحید کے اس چراغ کو نہیں بجھا سکتی۔",
         "roman": "Maududi likhte hain ki but parasti ka markaz ab aalmi ibadatgah ban gaya.",
         "ref_url": "https://quran.com/ur/21:18?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Bal Naqdhifu bil Haqqi Alal Baatil: Buton ki Shikast ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Bal Naqdhifu bil Haqqi Alal Baatil: Buton ki Shikast hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/21:18?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 213,
@@ -13628,8 +18080,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ کبر اور مادی گھمنڈ کا علاج تھا تاکہ امت کبھی اپنی افرادی قوت پر غرور نہ کرے۔",
         "roman": "Maududi likhte hain ki ghalti ka ehtraaf aur fauri tauba momin ka shiaar hai.",
         "ref_url": "https://quran.com/ur/9:25?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Youma Hunaynin Idh A'jabatkum Kasratukum: Sakina ka Nuzool ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Youma Hunaynin Idh A'jabatkum Kasratukum: Sakina ka Nuzool hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:25?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 214,
@@ -13692,8 +18165,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق طائف نے ثابت کیا کہ اسلام میں جنگ آخری چارہ کار ہے، اصل مقصود انسانوں کی ہدایت اور دلوں کی تبدیلی ہے۔",
         "roman": "Maududi farmate hain ki yeh Rahmatul-lil-Aalameen ka azeem tareen roop tha.",
         "ref_url": "https://quran.com/ur/9:28?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Innamal Mushrikoona Najasun: Haram ki Hifazat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Innamal Mushrikoona Najasun: Haram ki Hifazat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:28?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Uqood ki Pabandi aur Sha'a'ir-ullah",
@@ -13755,9 +18249,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/5:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Table Spread ke Qawaneen (Aayat 1–2) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Table Spread ke Qawaneen (Aayat 1–2) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/5:1?translations=158"
       }
     },
-    "id": 215
+    "id": 215,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Halal o Haram, Wuzu, Adl, Qabeel o Habeel, Isa A.S.",
@@ -13819,9 +18334,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/5:4?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Table Spread ke Qawaneen (Aayat 4–89) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Table Spread ke Qawaneen (Aayat 4–89) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/5:4?translations=158"
       }
     },
-    "id": 216
+    "id": 216,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Kaffarat-e-Yameen, Sayd-ul-Haram aur Maidah ka Waqiya",
@@ -13883,9 +18419,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Ma'idah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/5:93?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Table Spread ke Qawaneen (Aayat 93–120) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Table Spread ke Qawaneen (Aayat 93–120) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/5:93?translations=158"
       }
     },
-    "id": 217
+    "id": 217,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 218,
@@ -13948,8 +18505,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ ایک ایسی انقلابی تحریک کا فائنل ٹیسٹ تھا جس نے جزیرہ نمائے عرب سے نکل کر عالمی سپر پاورز کو چیلنج کیا۔",
         "roman": "Maududi likhte hain ki Tabook ne sabit kiya ki islaam dunya ka nizam badalne aaya hai.",
         "ref_url": "https://quran.com/ur/9:38?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Ya Ayyuhallazeena Aamanu Ma Lakum Idhadh Qeela Lakumunfiru: Tabook ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Ya Ayyuhallazeena Aamanu Ma Lakum Idhadh Qeela Lakumunfiru: Tabook hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:38?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Munafiqeen ke Heele aur Sadqaat ke 8 Masarif",
@@ -14011,9 +18589,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/9:43?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 43–72) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 43–72) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:43?translations=158"
       }
     },
-    "id": 219
+    "id": 219,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 220,
@@ -14076,8 +18675,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت منافقین کے خلاف فردِ جرم ہے جس نے ریاستِ مدینہ کو اندرونی دیمک سے ہمیشہ کے لیے نجات دلائی۔",
         "roman": "Maududi likhte hain ki nifaq ke tamam parde chaak ho gaye.",
         "ref_url": "https://quran.com/ur/9:73?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Qalu La Tanfiru fil Harri Qul Naaru Jahannama Ashaddu Harra ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Qalu La Tanfiru fil Harri Qul Naaru Jahannama Ashaddu Harra hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:73?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "A'raab ke Uzr aur Bakhshish",
@@ -14139,9 +18759,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/9:90?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 90–106) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 90–106) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:90?translations=158"
       }
     },
-    "id": 221
+    "id": 221,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 222,
@@ -14203,8 +18844,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ تاریخ کا پہلا عدالتی فیصلہ تھا کہ عبادت کے تقدس کی آڑ میں بھی ریاست کے خلاف غداری اور فتنہ انگیزی برداشت نہیں کی جا سکتی۔",
         "roman": "Maududi farmate hain ki niyyat ki khot har ibadat ko barbad kar deti hai.",
         "ref_url": "https://quran.com/ur/9:107?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wallazeena Ittakhazu Masjidan Diraran wa Kufran wa Tafreeqan ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wallazeena Ittakhazu Masjidan Diraran wa Kufran wa Tafreeqan hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:107?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Inna Allahashtara Minal Mo'mineena Anfusahum",
@@ -14266,9 +18928,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/9:111?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 111–116) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 111–116) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:111?translations=158"
       }
     },
-    "id": 223
+    "id": 223,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 224,
@@ -14331,8 +19014,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ اسلامی جماعت کے غیر معمولی ڈسپلن اور سچی توبہ کی وہ داستان ہے جس پر فرشتے بھی رشک کریں۔",
         "roman": "Maududi likhte hain ki sach bolna momin ki azeem tareen dhal hai.",
         "ref_url": "https://quran.com/ur/9:117?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wa Alath Thalathatillazeena Khullifu: Ka'b bin Malik ki Tauba ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wa Alath Thalathatillazeena Khullifu: Ka'b bin Malik ki Tauba hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:117?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Bara'at-e-Mushrikeen aur Hajj-e-Akbar",
@@ -14394,9 +19098,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/9:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 1–24) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 1–24) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:1?translations=158"
       }
     },
-    "id": 225
+    "id": 225,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 226,
@@ -14459,8 +19184,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ مہذب اخلاق اور قیادت کے احترام کا وہ شاہکار درس تھا جس نے دیہاتی بدوؤں کو دنیا کی سب سے شائستہ قوم بنا دیا۔",
         "roman": "Maududi likhte hain ki ta'zeem-e-Rasool har deeni amal ki qabooliyat ki shart hai.",
         "ref_url": "https://quran.com/ur/49:1?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Ya Ayyuhallazeena Aamanu La Tarfa'oo Aswatakum: Aadaab-e-Nabi ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Ya Ayyuhallazeena Aamanu La Tarfa'oo Aswatakum: Aadaab-e-Nabi hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/49:1?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 227,
@@ -14523,8 +19269,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ وہ آفاقی سچائی ہے جس نے نسل پرستی اور نوآبادیاتی تعصب کے خاتمے کا واحد پائیدار حل پیش کیا۔",
         "roman": "Maududi likhte hain ki islami brotherhood dunya ka sab se mustahkam rishta hai.",
         "ref_url": "https://quran.com/ur/49:9?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Innamal Mo'minoona Ikhwatun... Inna Akramakum Indallahi Atqakum ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Innamal Mo'minoona Ikhwatun... Inna Akramakum Indallahi Atqakum hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/49:9?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Jizya, Yahood o Nasara aur Ashhur-ul-Hurum",
@@ -14586,9 +19353,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/9:29?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 29–37) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 29–37) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:29?translations=158"
       }
     },
-    "id": 228
+    "id": 228,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 229,
@@ -14651,8 +19439,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق سود سرمایہ دارانہ استحصال کی وہ جڑ ہے جو امیر کو امیر تر اور غریب کو غلام بناتی ہے، اسلام نے اس کا قلع قمع کر دیا۔",
         "roman": "Maududi likhte hain ki bina sood ke adl par mabni maashi nizam hi insaniyat ki falah hai.",
         "ref_url": "https://quran.com/ur/2:275?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Fa'zanu bi Harbin Minallahi wa Rasoolih: Riba ki Hurmat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Fa'zanu bi Harbin Minallahi wa Rasoolih: Riba ki Hurmat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:275?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Aayat-e-Mudayanah aur Amanar-Rasool",
@@ -14714,9 +19523,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah Al-Baqarah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/2:282?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 282–286) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Cow ke Qawaneen (Aayat 282–286) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:282?translations=158"
       }
     },
-    "id": 230
+    "id": 230,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "title": "Tafaqquh fid-Deen aur Laqad Ja'akum Rasool",
@@ -14778,9 +19608,30 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق یہ سورت مخاطبین کے دلوں کو بیدار کرتی ہے اور اسلامی تحریک کے فکری و اخلاقی مقاصد کو اجاگر کرتی ہے۔",
         "roman": "Tafheem-ul-Quran ke mutabiq Surah At-Tawbah deeni shaoor aur imaan ki pukaar ko buland karti hai.",
         "ref_url": "https://quran.com/ur/9:120?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 120–129) ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Islami Mu'ashra ke Ahkaam, Falah aur The Repentance ke Qawaneen (Aayat 120–129) hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/9:120?translations=158"
       }
     },
-    "id": 231
+    "id": 231,
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 232,
@@ -14843,8 +19694,29 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق اسلام اب ایک مکمل، مستقل اور غیر متبدل ضابطہ حیات بن چکا تھا جو قیامت تک پوری انسانیت کے مسائل کا حل پیش کرتا ہے۔",
         "roman": "Maududi likhte hain ki yeh aayat tareekh-e-insaniyat ka noorani tareen nuqta hai.",
         "ref_url": "https://quran.com/ur/5:3?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Al-Youma Akmaltu Lakum Deenakum: Takmeel-e-Nemat ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Al-Youma Akmaltu Lakum Deenakum: Takmeel-e-Nemat hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/5:3?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "رسول اللہ ﷺ کے اسوۂ حسنہ کو اپنے اخلاق، گفتگو اور روزمرہ کے معاملات کا معیار بنانا۔",
+        "roman": "Rasoolullah ﷺ ke uswah-e-hasanah ko apne akhlaq aur ma'amlaat ka mi'yar banana."
+      },
+      {
+        "urdu": "تکالیف اور مخالفین کی سختیوں پر صبرِ جمیل اور حکمت کے ساتھ حق کی دعوت دینا۔",
+        "roman": "Takaleef aur sakhtiyon par sabr-e-jameel aur hikmat ke sath haq ki dawat dena."
+      },
+      {
+        "urdu": "آخرت کی جوابدہی کو ہر لمحہ پیشِ نظر رکھ کر تکبر اور دنیا پرستی سے بچنا۔",
+        "roman": "Aakhirat ki jawabdehi ko har lamha pesh-e-nazar rakh kar takabbur se bachna."
+      }
+    ]
   },
   {
     "id": 233,
@@ -14907,7 +19779,28 @@ window.WAHI_EPISODES = [
         "urdu": "تفہیم القرآن کے مطابق غارِ حرا سے شروع ہونے والا 23 سالہ سفرِ وحی اپنے نقطہِ کمال پر پہنچ کر بندوں کو ان کے خالق کی جوابدہی کے احساس پر قائم کر گیا۔",
         "roman": "Maududi farmate hain ki Quran qayamat tak ke liye rehnuma ban kar mahfooz ho gaya.",
         "ref_url": "https://quran.com/ur/2:281?translations=97"
+      },
+      "ahsanBayan": {
+        "author": "حافظ صلاح الدین یوسف (Hafiz Salahuddin Yusuf)",
+        "reference": "تفسیر احسن البیان (دارالسلام)",
+        "urdu": "تفسیر احسن البیان میں حافظ صلاح الدین یوسف رحمہ اللہ فرماتے ہیں کہ اس مقام کا بنیادی محور Wattaqu Youman Turja'oona Feehi Ilallah: Wahi ka Ikhtitam ہے۔ مکی دور کی یہ آیاتِ بینات توحیدِ خالص، اتباعِ سنت، اور شرک و بدعت کی تمام صورتوں سے بیزاری کا درس دیتی ہیں۔ مومن کے لیے لازم ہے کہ وہ کتاب و سنت کی روشنی میں احکاماتِ الٰہی پر اخلاص کے ساتھ عمل پیرا ہو اور باطل کے مقابلے میں استقامت اختیار کرے۔",
+        "roman": "Tafseer Ahsan-ul-Bayan mein Hafiz Salahuddin Yusuf farmate hain ki is maqam ka markazi mehwar Wattaqu Youman Turja'oona Feehi Ilallah: Wahi ka Ikhtitam hai. Yeh ayaat tauheed-e-khalis, ittiba-e-sunnah aur shirk o bid'at se mukammal bezaari ka dars deti hain. Momin ko chahiye ki woh ikhlas ke sath ahkaam-e-ilahi par amal kare aur haq par saabit qadam rahe.",
+        "ref_url": "https://quran.com/ur/2:281?translations=158"
       }
-    }
+    },
+    "lessons": [
+      {
+        "urdu": "علم و آگہی اور قرآن فہمی کو اپنی زندگی کا اولین مقصد بنانا۔",
+        "roman": "Ilm o aagahi aur Quran fehmi ko apni zindagi ka awwaleen maqsad banana."
+      },
+      {
+        "urdu": "ہر نیک کام کا آغاز رب تعالیٰ کے بابرکت نام کے ساتھ اخلاص سے کرنا۔",
+        "roman": "Har naik kaam ka aaghaz Rab Ta'ala ke babarakat naam ke sath ikhlas se karna."
+      },
+      {
+        "urdu": "قلم اور فکری صلاحیتوں کو حق کی نشر و اشاعت اور خیر کے فروغ میں استعمال کرنا۔",
+        "roman": "Qalam aur fikri salahiyaton ko haq ki nashr o isha'at aur khair ke farogh mein istemal karna."
+      }
+    ]
   }
 ];
