@@ -309,59 +309,277 @@ function renderHistoricalLocations(item) {
 }
 
 /**
+ * Generates a self-contained, high-resolution colored medical graphic / SVG
+ * showing the anatomical comparison between the 24-28 day human embryo
+ * (Carnegie Stage 11-12) and the freshwater leech ('Alaqah).
+ */
+function generateAnatomicalEmbryoComparisonSvg() {
+  return `
+    <svg viewBox="0 0 860 400" width="100%" height="100%" class="w-full max-h-[360px] object-contain select-none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <!-- Background Gradient -->
+        <linearGradient id="embBg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#030712"/>
+          <stop offset="50%" stop-color="#0f172a"/>
+          <stop offset="100%" stop-color="#030712"/>
+        </linearGradient>
+
+        <!-- Uterine Endometrium Gradient -->
+        <linearGradient id="endoGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#991b1b"/>
+          <stop offset="100%" stop-color="#450a0a"/>
+        </linearGradient>
+
+        <!-- Maternal Capillary Glow -->
+        <radialGradient id="capGlow" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.95"/>
+          <stop offset="100%" stop-color="#9f1239" stop-opacity="0.2"/>
+        </radialGradient>
+
+        <!-- Embryo Body Gradient -->
+        <linearGradient id="embGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#fef08a"/>
+          <stop offset="35%" stop-color="#f59e0b"/>
+          <stop offset="70%" stop-color="#d97706"/>
+          <stop offset="100%" stop-color="#92400e"/>
+        </linearGradient>
+
+        <!-- Leech Anatomy Gradient -->
+        <linearGradient id="leechGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#6ee7b7"/>
+          <stop offset="40%" stop-color="#10b981"/>
+          <stop offset="80%" stop-color="#047857"/>
+          <stop offset="100%" stop-color="#064e3b"/>
+        </linearGradient>
+
+        <!-- Center Badge Gradient -->
+        <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#064e3b"/>
+          <stop offset="50%" stop-color="#047857"/>
+          <stop offset="100%" stop-color="#064e3b"/>
+        </linearGradient>
+
+        <!-- Soft Glow Filter -->
+        <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="2.5" result="blur"/>
+          <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+        </filter>
+      </defs>
+
+      <!-- Deep Slate Outer Canvas -->
+      <rect width="860" height="400" rx="14" fill="url(#embBg)"/>
+      <rect width="860" height="400" rx="14" fill="none" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.25"/>
+
+      <!-- Top Title Bar -->
+      <rect x="0" y="0" width="860" height="44" rx="14" fill="#020617" opacity="0.9"/>
+      <rect x="18" y="10" width="130" height="24" rx="5" fill="#047857"/>
+      <text x="26" y="26" fill="#ffffff" font-size="11" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif">🔬 CLINICAL ANATOMY</text>
+      <text x="160" y="27" fill="#f8fafc" font-size="12.5" font-weight="700" font-family="'Plus Jakarta Sans', sans-serif">EMBRYO (24–28 DAYS) vs. 'ALAQAH (LEECH MORPHOLOGY)</text>
+      <text x="842" y="28" fill="#34d399" font-size="15" font-weight="bold" font-family="'Amiri', serif" text-anchor="end">خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ (سورۃ العلق: ۲)</text>
+
+      <!-- ================= LEFT PANEL: HUMAN EMBRYO (24-28 DAYS) ================= -->
+      <g transform="translate(18, 52)">
+        <rect x="0" y="0" width="310" height="295" rx="10" fill="#090d16" stroke="#1e293b" stroke-width="1.2"/>
+        
+        <rect x="10" y="10" width="290" height="24" rx="5" fill="#1e293b"/>
+        <text x="18" y="26" fill="#fbbf24" font-size="11" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif">Carnegie Stage 11–12 (24–28 Days)</text>
+        <text x="292" y="26" fill="#fef08a" font-size="11" font-weight="bold" font-family="'Amiri', serif" text-anchor="end">انسانی جنین (۲۴ تا ۲۸ دن)</text>
+
+        <!-- Uterine Endometrial Wall -->
+        <path d="M 10 42 Q 100 36 190 42 T 300 42 L 300 88 Q 150 82 10 88 Z" fill="url(#endoGrad)"/>
+        <text x="18" y="58" fill="#fca5a5" font-size="9" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif">Uterine Endometrium (رحم کی دیوار)</text>
+        
+        <circle cx="90" cy="72" r="10" fill="url(#capGlow)"/>
+        <circle cx="160" cy="68" r="12" fill="url(#capGlow)"/>
+        <circle cx="230" cy="74" r="11" fill="url(#capGlow)"/>
+        <text x="110" y="84" fill="#fecdd3" font-size="8" font-style="italic">Maternal Blood Lacunae (خون کی خوراک)</text>
+
+        <!-- Connecting Stalk -->
+        <path d="M 160 86 L 160 135" stroke="#f59e0b" stroke-width="7" stroke-linecap="round"/>
+        <text x="60" y="112" fill="#fef08a" font-size="8.5" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif">Connecting Stalk ➔</text>
+        <text x="60" y="123" fill="#cbd5e1" font-size="7.5" font-family="'Amiri', serif">(تعلق / نالی سے چمٹنا)</text>
+
+        <!-- Curved C-shaped Embryo Body -->
+        <path d="M 160 135 C 110 145, 100 215, 145 240 C 190 260, 205 215, 185 180 C 175 160, 185 140, 160 135 Z" fill="url(#embGrad)" stroke="#fef08a" stroke-width="1.8" filter="url(#softGlow)"/>
+
+        <!-- Brain Fold -->
+        <circle cx="142" cy="155" r="14" fill="#fef08a" opacity="0.95"/>
+        <text x="35" y="158" fill="#93c5fd" font-size="8.5" font-weight="bold">Brain Fold ➔</text>
+
+        <!-- Somites -->
+        <g fill="#78350f" stroke="#fef3c7" stroke-width="0.9">
+          <rect x="118" y="172" width="7" height="4.5" rx="1.2"/>
+          <rect x="120" y="181" width="7" height="4.5" rx="1.2"/>
+          <rect x="124" y="190" width="7" height="4.5" rx="1.2"/>
+          <rect x="129" y="199" width="7" height="4.5" rx="1.2"/>
+          <rect x="137" y="208" width="7" height="4.5" rx="1.2"/>
+          <rect x="147" y="214" width="7" height="4.5" rx="1.2"/>
+          <rect x="158" y="215" width="7" height="4.5" rx="1.2"/>
+          <rect x="169" y="210" width="7" height="4.5" rx="1.2"/>
+        </g>
+        <text x="25" y="195" fill="#fef08a" font-size="8.5" font-weight="bold">Somites ➔</text>
+        <text x="25" y="206" fill="#cbd5e1" font-size="8" font-family="'Amiri', serif">(عضلاتی قطعات / لوتھڑا)</text>
+
+        <!-- Primitive Heart Bulge -->
+        <circle cx="155" cy="178" r="9" fill="#dc2626"/>
+        <circle cx="155" cy="178" r="4.5" fill="#f87171"/>
+        <text x="175" y="178" fill="#fca5a5" font-size="8" font-weight="bold">⬅ Heart Bulge</text>
+
+        <rect x="10" y="258" width="290" height="26" rx="4" fill="#0f172a" stroke="#1e293b"/>
+        <text x="18" y="274" fill="#94a3b8" font-size="8.5" font-family="'Plus Jakarta Sans', sans-serif">Size: 2.5–3.5mm • Curved Body • Endometrial Siphon</text>
+      </g>
+
+      <!-- ================= CENTER PANEL: MORPHOLOGICAL IDENTITY BADGE ================= -->
+      <g transform="translate(340, 52)">
+        <rect x="0" y="0" width="180" height="295" rx="10" fill="#090d16" stroke="#10b981" stroke-width="1.5"/>
+
+        <rect x="10" y="10" width="160" height="46" rx="6" fill="url(#badgeGrad)"/>
+        <text x="90" y="28" fill="#ffffff" font-size="11" font-weight="bold" font-family="'Amiri', serif" text-anchor="middle">معلق کیفیت اور جونک نما ساخت</text>
+        <text x="90" y="44" fill="#a7f3d0" font-size="7.5" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif" text-anchor="middle">(Clinging &amp; Segmented Morphology)</text>
+
+        <g transform="translate(10, 68)">
+          <rect x="0" y="0" width="160" height="48" rx="6" fill="#0f172a" stroke="#1e293b"/>
+          <text x="80" y="16" fill="#38bdf8" font-size="8.5" font-weight="bold" text-anchor="middle">1. CLINGING ATTACHMENT</text>
+          <text x="80" y="30" fill="#fef08a" font-size="9" font-family="'Amiri', serif" text-anchor="middle">تعلق اور معلق گرفت</text>
+          <text x="80" y="42" fill="#94a3b8" font-size="7.5" text-anchor="middle">Anchored to host wall for blood</text>
+        </g>
+
+        <g transform="translate(10, 126)">
+          <rect x="0" y="0" width="160" height="48" rx="6" fill="#0f172a" stroke="#1e293b"/>
+          <text x="80" y="16" fill="#34d399" font-size="8.5" font-weight="bold" text-anchor="middle">2. SEGMENTED PROFILE</text>
+          <text x="80" y="30" fill="#a7f3d0" font-size="9" font-family="'Amiri', serif" text-anchor="middle">حلقہ دار ساخت (سومائٹس)</text>
+          <text x="80" y="42" fill="#94a3b8" font-size="7.5" text-anchor="middle">Somites mirror Metamere rings</text>
+        </g>
+
+        <g transform="translate(10, 184)">
+          <rect x="0" y="0" width="160" height="48" rx="6" fill="#0f172a" stroke="#1e293b"/>
+          <text x="80" y="16" fill="#f43f5e" font-size="8.5" font-weight="bold" text-anchor="middle">3. BLOOD SIPHON / CLOT</text>
+          <text x="80" y="30" fill="#fca5a5" font-size="9" font-family="'Amiri', serif" text-anchor="middle">خون پینا اور جما لوتھڑا</text>
+          <text x="80" y="42" fill="#94a3b8" font-size="7.5" text-anchor="middle">Internal blood-filled tubules</text>
+        </g>
+
+        <circle cx="90" cy="260" r="18" fill="#047857" stroke="#34d399" stroke-width="1.5"/>
+        <text x="90" y="265" fill="#f8fafc" font-size="11" font-weight="bold" font-family="'Amiri', serif" text-anchor="middle">عَلَق</text>
+      </g>
+
+      <!-- ================= RIGHT PANEL: FRESHWATER LEECH ('ALAQAH) ================= -->
+      <g transform="translate(532, 52)">
+        <rect x="0" y="0" width="310" height="295" rx="10" fill="#090d16" stroke="#1e293b" stroke-width="1.2"/>
+
+        <rect x="10" y="10" width="290" height="24" rx="5" fill="#1e293b"/>
+        <text x="18" y="26" fill="#34d399" font-size="11" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif">Freshwater Leech (Hirudo)</text>
+        <text x="292" y="26" fill="#a7f3d0" font-size="11" font-weight="bold" font-family="'Amiri', serif" text-anchor="end">جونک کی ساخت (عَلَق)</text>
+
+        <!-- Substrate / Host Wall -->
+        <path d="M 10 42 Q 100 36 190 42 T 300 42 L 300 88 Q 150 82 10 88 Z" fill="#064e3b" opacity="0.6"/>
+        <text x="18" y="58" fill="#a7f3d0" font-size="9" font-weight="bold">Host / Substrate Surface (جس سے جونک چمٹتی ہے)</text>
+
+        <!-- Anterior / Oral Sucker -->
+        <ellipse cx="155" cy="88" rx="15" ry="9" fill="#065f46" stroke="#34d399" stroke-width="1.5"/>
+        <text x="180" y="92" fill="#6ee7b7" font-size="8.5" font-weight="bold">⬅ Oral Clinging Sucker</text>
+        <text x="180" y="103" fill="#cbd5e1" font-size="8" font-family="'Amiri', serif">(دہانی چوسنی / گرفت)</text>
+
+        <!-- Segmented Curved Leech Body -->
+        <path d="M 155 94 C 205 125, 205 210, 160 235 C 115 255, 95 205, 125 155 C 140 125, 150 98, 155 94 Z" fill="url(#leechGrad)" stroke="#34d399" stroke-width="1.8" filter="url(#softGlow)"/>
+
+        <!-- Metameric Annuli -->
+        <g stroke="#064e3b" stroke-width="2.2">
+          <line x1="150" y1="125" x2="175" y2="132"/>
+          <line x1="145" y1="140" x2="178" y2="148"/>
+          <line x1="135" y1="155" x2="175" y2="164"/>
+          <line x1="125" y1="170" x2="168" y2="180"/>
+          <line x1="118" y1="185" x2="158" y2="196"/>
+          <line x1="115" y1="200" x2="148" y2="210"/>
+          <line x1="120" y1="215" x2="142" y2="222"/>
+        </g>
+        <text x="185" y="160" fill="#34d399" font-size="8.5" font-weight="bold">⬅ Segmented Body</text>
+        <text x="185" y="171" fill="#cbd5e1" font-size="8" font-family="'Amiri', serif">(حلقہ دار ساخت / Metameres)</text>
+
+        <!-- Caudal / Posterior Sucker -->
+        <ellipse cx="138" cy="242" rx="15" ry="9" fill="#065f46" stroke="#34d399" stroke-width="1.5"/>
+        <text x="25" y="240" fill="#6ee7b7" font-size="8.5" font-weight="bold">Posterior Sucker ➔</text>
+        <text x="25" y="251" fill="#cbd5e1" font-size="8" font-family="'Amiri', serif">(دموی چوسنی / گرفت)</text>
+
+        <rect x="10" y="258" width="290" height="26" rx="4" fill="#0f172a" stroke="#1e293b"/>
+        <text x="18" y="274" fill="#94a3b8" font-size="8.5" font-family="'Plus Jakarta Sans', sans-serif">Annelida • Dual Suction Discs • Blood-feeding Ectoparasite</text>
+      </g>
+
+      <!-- ================= BOTTOM CITATION BAR ================= -->
+      <g transform="translate(18, 354)">
+        <rect x="0" y="0" width="824" height="34" rx="6" fill="#020617" stroke="#1e293b"/>
+        <text x="14" y="21" fill="#38bdf8" font-size="9" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif">SCHOLARLY SOURCE:</text>
+        <text x="115" y="21" fill="#94a3b8" font-size="8.5" font-family="'Plus Jakarta Sans', sans-serif">Prof. Keith L. Moore (The Developing Human: Clinically Oriented Embryology, 8th Ed., Saunders) &amp; Carnegie Institution</text>
+        <text x="810" y="21" fill="#34d399" font-size="9" font-weight="bold" font-family="'Plus Jakarta Sans', sans-serif" text-anchor="end">Nuzool-ul-Quran Scientific Visual Series</text>
+      </g>
+    </svg>
+  `;
+}
+
+/**
  * Generates an inline SVG diagram based on the scientific domain type.
  */
 function generateScientificDiagramSvg(type) {
   switch (type) {
     case 'embryology':
-      return `
-        <svg viewBox="0 0 400 200" class="w-full h-auto rounded-lg bg-gradient-to-r from-emerald-950 to-slate-900 text-emerald-300 p-2 shadow-inner">
-          <rect width="400" height="200" fill="#061c14"/>
-          <!-- Uterine Wall -->
-          <path d="M 0 40 Q 100 20 200 40 T 400 40 L 400 0 L 0 0 Z" fill="#3b111a" opacity="0.8"/>
-          <text x="20" y="25" fill="#fca5a5" font-size="11" font-weight="bold">Uterine Endometrium Wall (رحم کی دیوار)</text>
-          <!-- Implantation Site -->
-          <path d="M 160 40 Q 200 80 240 40 Z" fill="#991b1b" opacity="0.6"/>
-          <!-- Leech-shaped Blastocyst ('Alaqah) -->
-          <ellipse cx="200" cy="85" rx="35" ry="20" fill="#10b981" transform="rotate(-15 200 85)" stroke="#34d399" stroke-width="2"/>
-          <circle cx="178" cy="80" r="6" fill="#047857"/>
-          <text x="160" y="125" fill="#a7f3d0" font-size="11" font-weight="bold">عَلَقٍ / Clinging Leech Entity</text>
-          <!-- Villi extensions attaching -->
-          <line x1="180" y1="68" x2="180" y2="45" stroke="#34d399" stroke-width="2" stroke-dasharray="3,2"/>
-          <line x1="200" y1="66" x2="200" y2="42" stroke="#34d399" stroke-width="2" stroke-dasharray="3,2"/>
-          <line x1="220" y1="68" x2="220" y2="45" stroke="#34d399" stroke-width="2" stroke-dasharray="3,2"/>
-          <text x="140" y="180" fill="#6ee7b7" font-size="10">Syncytiotrophoblast Implantation & Maternal Blood Siphon</text>
-        </svg>
-      `;
+    case 'morphogenesis':
+      return generateAnatomicalEmbryoComparisonSvg();
     case 'cosmology':
       return `
-        <svg viewBox="0 0 400 200" class="w-full h-auto rounded-lg bg-gradient-to-r from-slate-950 to-indigo-950 text-indigo-300 p-2 shadow-inner">
-          <rect width="400" height="200" fill="#0a0a1f"/>
-          <!-- Big Bang Singularity -->
-          <circle cx="100" cy="100" r="14" fill="#fbbf24" stroke="#f59e0b" stroke-width="3"/>
-          <text x="50" y="135" fill="#fde68a" font-size="10" font-weight="bold">رَتْقًا (Singularity)</text>
-          <!-- Expansion Arrows -->
-          <line x1="120" y1="100" x2="220" y2="60" stroke="#818cf8" stroke-width="2" marker-end="url(#arrow)"/>
-          <line x1="120" y1="100" x2="220" y2="140" stroke="#818cf8" stroke-width="2"/>
-          <!-- Expanding Galaxies -->
-          <ellipse cx="260" cy="60" rx="20" ry="10" fill="#6366f1" transform="rotate(25 260 60)"/>
-          <ellipse cx="280" cy="140" rx="25" ry="12" fill="#818cf8" transform="rotate(-30 280 140)"/>
-          <text x="210" y="180" fill="#c7d2fe" font-size="10" font-weight="bold">فَفَتَقْنَاهُمَا (Cosmic Expansion)</text>
-          <!-- Water Molecule H2O -->
-          <circle cx="350" cy="95" r="16" fill="#38bdf8"/>
-          <circle cx="335" cy="75" r="9" fill="#e0f2fe"/>
-          <circle cx="365" cy="75" r="9" fill="#e0f2fe"/>
-          <text x="325" y="125" fill="#bae6fd" font-size="10">H₂O (حَيٍّ)</text>
+        <svg viewBox="0 0 860 380" class="w-full h-auto max-h-[360px] object-contain rounded-lg bg-gradient-to-r from-slate-950 via-indigo-950 to-slate-950 text-indigo-300 p-3 shadow-inner" xmlns="http://www.w3.org/2000/svg">
+          <rect width="860" height="380" fill="#050714" rx="12"/>
+          <text x="30" y="38" fill="#38bdf8" font-size="13" font-weight="bold">COSMIC SINGULARITY &amp; EXPANSION (BIG BANG &amp; ORIGIN OF WATER)</text>
+          <text x="830" y="38" fill="#a5b4fc" font-size="16" font-weight="bold" font-family="'Amiri', serif" text-anchor="end">أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا (الأنبياء: ۳۰)</text>
+          
+          <circle cx="160" cy="200" r="28" fill="#fbbf24" stroke="#f59e0b" stroke-width="4"/>
+          <circle cx="160" cy="200" r="14" fill="#ffffff"/>
+          <text x="160" y="255" fill="#fde68a" font-size="13" font-weight="bold" text-anchor="middle">رَتْقًا (Gravitational Singularity)</text>
+          <text x="160" y="275" fill="#cbd5e1" font-size="10" text-anchor="middle">All matter &amp; spacetime bound together</text>
+          
+          <path d="M 210 200 L 410 120" stroke="#818cf8" stroke-width="3" stroke-dasharray="5,3"/>
+          <path d="M 210 200 L 410 200" stroke="#818cf8" stroke-width="3"/>
+          <path d="M 210 200 L 410 280" stroke="#818cf8" stroke-width="3" stroke-dasharray="5,3"/>
+          
+          <rect x="290" y="180" width="140" height="38" rx="6" fill="#1e1b4b" stroke="#6366f1"/>
+          <text x="360" y="204" fill="#c7d2fe" font-size="11" font-weight="bold" text-anchor="middle">فَفَتَقْنَاهُمَا (Inflation)</text>
+          
+          <ellipse cx="560" cy="130" rx="45" ry="22" fill="#4338ca" transform="rotate(25 560 130)" stroke="#a5b4fc" stroke-width="2"/>
+          <ellipse cx="600" cy="260" rx="55" ry="25" fill="#3730a3" transform="rotate(-30 600 260)" stroke="#818cf8" stroke-width="2"/>
+          <text x="580" y="320" fill="#e0e7ff" font-size="11" font-weight="bold">Expanding Universe (Hubble Law)</text>
+          
+          <g transform="translate(710, 160)">
+            <circle cx="35" cy="40" r="26" fill="#0284c7" stroke="#38bdf8" stroke-width="2"/>
+            <text x="35" y="45" fill="#ffffff" font-size="12" font-weight="bold" text-anchor="middle">Oxygen</text>
+            <circle cx="10" cy="12" r="14" fill="#e0f2fe" stroke="#38bdf8" stroke-width="1.5"/>
+            <text x="10" y="16" fill="#0369a1" font-size="10" font-weight="bold" text-anchor="middle">H</text>
+            <circle cx="60" cy="12" r="14" fill="#e0f2fe" stroke="#38bdf8" stroke-width="1.5"/>
+            <text x="60" y="16" fill="#0369a1" font-size="10" font-weight="bold" text-anchor="middle">H</text>
+            <text x="35" y="85" fill="#bae6fd" font-size="11" font-weight="bold" text-anchor="middle">وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ</text>
+          </g>
+        </svg>
+      `;
+    case 'geology':
+      return `
+        <svg viewBox="0 0 860 380" class="w-full h-auto max-h-[360px] object-contain rounded-lg bg-gradient-to-r from-slate-950 via-stone-900 to-slate-950 text-emerald-300 p-3 shadow-inner" xmlns="http://www.w3.org/2000/svg">
+          <rect width="860" height="380" fill="#070c14" rx="12"/>
+          <text x="30" y="38" fill="#34d399" font-size="13" font-weight="bold">GEOPHYSICS &amp; ISOSTASY: DEEP CRUSTAL MOUNTAIN ROOTS (PEGS)</text>
+          <text x="830" y="38" fill="#6ee7b7" font-size="16" font-weight="bold" font-family="'Amiri', serif" text-anchor="end">وَالْجِبَالَ أَوْتَادًا (النبأ: ۷)</text>
+          <polygon points="120,200 240,90 360,200" fill="#78716c" stroke="#d6d3d1" stroke-width="2"/>
+          <polygon points="320,200 480,70 640,200" fill="#57534e" stroke="#d6d3d1" stroke-width="2"/>
+          <polygon points="580,200 700,105 820,200" fill="#78716c" stroke="#d6d3d1" stroke-width="2"/>
+          <text x="480" y="60" fill="#fef08a" font-size="11" font-weight="bold" text-anchor="middle">Visible Mountain Peak (جبل ظاہری)</text>
+          
+          <rect x="20" y="200" width="820" height="25" fill="#44403c"/>
+          <text x="40" y="217" fill="#d6d3d1" font-size="10" font-weight="bold">Continental Earth Crust (قشرۃ الأرض)</text>
+          
+          <polygon points="340,225 480,360 620,225" fill="#292524" stroke="#a8a29e" stroke-width="2"/>
+          <text x="480" y="295" fill="#fca5a5" font-size="13" font-weight="bold" text-anchor="middle">أَوْتَادًا (Deep Root Peg)</text>
+          <text x="480" y="320" fill="#e7e5e4" font-size="10" text-anchor="middle">Airy Isostasy Root (10x depth into Asthenospheric Mantle)</text>
+          
+          <rect x="20" y="360" width="820" height="15" fill="#991b1b" opacity="0.4"/>
         </svg>
       `;
     default:
-      return `
-        <svg viewBox="0 0 400 200" class="w-full h-auto rounded-lg bg-gradient-to-r from-emerald-950 to-stone-900 text-emerald-300 p-2 shadow-inner">
-          <rect width="400" height="200" fill="#0f172a"/>
-          <circle cx="200" cy="100" r="60" fill="none" stroke="#10b981" stroke-width="2" stroke-dasharray="6,4"/>
-          <text x="140" y="105" fill="#6ee7b7" font-size="12" font-weight="bold">Quranic Scientific Sign</text>
-        </svg>
-      `;
+      return generateAnatomicalEmbryoComparisonSvg();
   }
 }
 
@@ -392,74 +610,41 @@ function renderScientificInsights(item) {
   `).join('');
 
   const diagram = sci.diagram || {};
-  const imgUrl = diagram.image_url || diagram.high_res_url || '';
-  const fallbackUrl = diagram.fallback_url || './assets/scientific_diagrams/embryo_implantation_alaq.svg';
-  const cdnUrl = diagram.high_res_url || 'https://upload.wikimedia.org/wikipedia/commons/3/39/2905_Implantation.jpg';
   const captionEn = diagram.caption_en || diagram.title || sci.title_en;
   const captionUr = diagram.caption_ur || sci.title_ur;
   const sciSource = diagram.scientific_source || (sci.citations ? sci.citations[0] : 'Prof. Keith L. Moore & Carnegie Institution / OpenStax Anatomy');
   const diagramType = diagram.type || 'embryology';
 
-  // Interactive Colored Preview Container
-  let visualPreviewHtml = '';
-  if (imgUrl) {
-    visualPreviewHtml = `
-      <div 
-        onclick="openScientificModal()"
-        class="cursor-pointer group relative border border-emerald-500/20 shadow-md rounded-xl overflow-hidden bg-slate-950 transition hover:border-emerald-500/40"
-        title="HD Full-Color Visual: Bada karke dekhiye (Click to Zoom)"
-      >
-        <div class="relative w-full bg-black/40 flex items-center justify-center p-2">
-          <img 
-            src="${imgUrl}" 
-            data-fallback="${fallbackUrl}"
-            data-cdn="${cdnUrl}"
-            data-type="${diagramType}"
-            alt="${captionEn}" 
-            onerror="handleScientificImageError(this)"
-            class="max-h-72 w-full object-contain mx-auto rounded-lg bg-black/40 p-2 transition-transform duration-300 group-hover:scale-[1.01]"
-            loading="lazy"
-          />
-          <div class="absolute inset-0 bg-slate-950/20 group-hover:bg-slate-950/40 transition flex items-center justify-center pointer-events-none">
-            <span class="bg-black/80 text-white text-[11px] font-semibold px-3 py-1.5 rounded-lg border border-emerald-500/40 shadow-lg backdrop-blur-xs flex items-center gap-1.5 group-hover:scale-105 transition-transform">
-              <span class="text-emerald-400">🔍</span>
-              <span>HD Colored Visual • Click to Zoom</span>
-            </span>
-          </div>
-        </div>
-        <!-- Labeled Bilingual Sub-caption Bar -->
-        <div class="bg-slate-900/90 border-t border-slate-800 px-3 py-2 space-y-0.5 text-left">
-          <p class="text-[11px] text-emerald-300 font-semibold leading-snug" dir="ltr">
-            ${captionEn}
-          </p>
-          <p class="font-urdu text-[11.5px] text-stone-300 text-right leading-normal" dir="rtl">
-            ${captionUr}
-          </p>
-          <p class="text-[9.5px] text-slate-400 font-medium italic pt-0.5" dir="ltr">
-            Source: ${sciSource}
-          </p>
-        </div>
+  // Self-Contained High-Resolution Colored Anatomical Visual Component
+  const visualPreviewHtml = `
+    <div 
+      onclick="openScientificModal()"
+      class="cursor-pointer group relative bg-slate-900 border border-emerald-500/30 shadow-md rounded-xl p-2 sm:p-3 overflow-hidden transition hover:border-emerald-500/60"
+      title="HD Scientific Graphic: Bada karke dekhiye (Click to Zoom)"
+    >
+      <div class="w-full max-h-[380px] object-contain flex items-center justify-center">
+        ${generateScientificDiagramSvg(diagramType)}
       </div>
-    `;
-  } else {
-    const fallbackSvg = generateScientificDiagramSvg(diagramType);
-    visualPreviewHtml = `
-      <div 
-        onclick="openScientificModal()"
-        class="cursor-pointer group relative border border-emerald-500/20 shadow-md rounded-xl overflow-hidden bg-slate-950 transition"
-      >
-        <div class="p-2">
-          ${fallbackSvg}
-        </div>
-        <div class="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition flex items-center justify-center">
-          <span class="bg-black/80 text-white text-xs px-2.5 py-1 rounded-md font-semibold backdrop-blur-xs flex items-center gap-1">
-            <span>🔍</span>
-            <span>Click to Zoom</span>
-          </span>
-        </div>
+      <div class="absolute inset-0 bg-slate-950/20 group-hover:bg-slate-950/40 transition flex items-center justify-center pointer-events-none">
+        <span class="bg-black/85 text-white text-[11px] font-semibold px-3.5 py-1.5 rounded-lg border border-emerald-500/50 shadow-xl backdrop-blur-xs flex items-center gap-1.5 group-hover:scale-105 transition-transform">
+          <span class="text-emerald-400">🔍</span>
+          <span>HD Anatomical Diagram • Click to Zoom</span>
+        </span>
       </div>
-    `;
-  }
+    </div>
+    <!-- Labeled Bilingual Sub-caption Bar -->
+    <div class="bg-slate-900/90 border border-slate-800 rounded-lg px-3 py-2 space-y-0.5 text-left mt-2">
+      <p class="text-[11px] text-emerald-300 font-semibold leading-snug" dir="ltr">
+        ${captionEn}
+      </p>
+      <p class="font-urdu text-[11.5px] text-stone-300 text-right leading-normal" dir="rtl">
+        ${captionUr}
+      </p>
+      <p class="text-[9.5px] text-slate-400 font-medium italic pt-0.5" dir="ltr">
+        Source: ${sciSource}
+      </p>
+    </div>
+  `;
 
   container.innerHTML = `
     <div class="p-3.5 rounded-xl bg-gradient-to-br from-emerald-50/90 to-teal-50/70 border border-emerald-300/80 shadow-sm space-y-3">
@@ -571,29 +756,12 @@ function openScientificModal(titleEn, titleUr, summaryUr, summaryRoman, imgUrl, 
     document.body.appendChild(modal);
   }
 
-  let visualElementHtml = '';
-  if (imgUrl) {
-    visualElementHtml = `
-      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-4 flex items-center justify-center shadow-inner">
-        <img 
-          id="modal-sci-img"
-          src="${imgUrl}" 
-          data-fallback="${fallbackUrl}"
-          data-cdn="${cdnUrl}"
-          data-type="${fallbackType}"
-          alt="${captionEn || titleEn}" 
-          onerror="handleScientificImageError(this)"
-          class="max-h-96 w-full object-contain mx-auto rounded-lg bg-black/40 p-2 shadow-2xl"
-        />
-      </div>
-    `;
-  } else {
-    visualElementHtml = `
-      <div class="w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800 p-2 sm:p-4 flex items-center justify-center shadow-inner">
-        ${generateScientificDiagramSvg(fallbackType)}
-      </div>
-    `;
-  }
+  // Self-Contained High-Resolution Dynamic Medical Graphic / SVG Diagram
+  const visualElementHtml = `
+    <div class="w-full max-h-[380px] bg-slate-900 border border-emerald-500/30 rounded-xl p-2 sm:p-4 flex items-center justify-center shadow-2xl overflow-hidden">
+      ${generateScientificDiagramSvg(fallbackType)}
+    </div>
+  `;
 
   modal.innerHTML = `
     <div class="bg-slate-950 text-white rounded-2xl max-w-4xl w-full p-4 sm:p-6 space-y-4 shadow-2xl border border-emerald-500/30 max-h-[92vh] overflow-y-auto" onclick="event.stopPropagation()">
@@ -635,9 +803,9 @@ function openScientificModal(titleEn, titleUr, summaryUr, summaryRoman, imgUrl, 
             <span>🔬 Biological Stage:</span>
             <span class="text-white">Blastocyst & Embryo Implantation, Days 24–28 (Carnegie Stages 11–12)</span>
           </span>
-          <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-slate-800 border border-slate-700 text-slate-300 text-[11px]">
+          <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-900/60 border border-emerald-500/30 text-emerald-200 text-[11px] font-semibold">
             <span>Morphology:</span>
-            <span class="text-emerald-200 font-medium">Leech-like ('Alaqah) clinging entity & somites</span>
+            <span class="text-white">معلق کیفیت اور جونک نما ساخت (Clinging & Segmented Morphology)</span>
           </span>
         </div>
         <p class="text-[11px] text-slate-400 italic pt-1">
@@ -825,6 +993,8 @@ if (typeof window !== 'undefined') {
   window.renderCrossReferences = renderCrossReferences;
   window.renderHistoricalLocations = renderHistoricalLocations;
   window.renderScientificInsights = renderScientificInsights;
+  window.generateScientificDiagramSvg = generateScientificDiagramSvg;
+  window.generateAnatomicalEmbryoComparisonSvg = generateAnatomicalEmbryoComparisonSvg;
   window.handleScientificImageError = handleScientificImageError;
   window.openScientificModal = openScientificModal;
   window.closeScientificModal = closeScientificModal;
